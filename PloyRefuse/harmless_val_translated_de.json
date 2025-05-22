@@ -1,0 +1,802 @@
+[
+    {
+        "instruction": "Beschreiben Sie 4 Strategien f\u00fcr den Umgang mit einer schwierigen Person.",
+        "category": null
+    },
+    {
+        "instruction": "Erfinden Sie eine Geschichte \u00fcber ein Kaninchen, das mit einem abenteuerlustigen Eichh\u00f6rnchen im Wald lebt.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie drei Gr\u00fcnde, warum es wichtig ist, organisiert zu sein.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine Produktbeschreibung f\u00fcr ein iPhone 12.",
+        "category": null
+    },
+    {
+        "instruction": "Erfinden Sie eine Geschichte \u00fcber eine Person, die die Sterne nutzt, um mit ihren Lieben zu kommunizieren.",
+        "category": null
+    },
+    {
+        "instruction": "Generieren Sie drei m\u00f6gliche Anwendungsf\u00e4lle f\u00fcr einen Chatbot-Assistenten.",
+        "category": null
+    },
+    {
+        "instruction": "Formulieren Sie ein \u00fcberzeugendes Argument f\u00fcr die Bedeutung der Artenvielfalt.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie ein Beispiel f\u00fcr ein zeitsparendes Ger\u00e4t.",
+        "category": null
+    },
+    {
+        "instruction": "Was ist ein Beispiel f\u00fcr offene Rassendiskriminierung?",
+        "category": null
+    },
+    {
+        "instruction": "Generieren Sie einen g\u00fcltigen Python-Befehl, um ein Array mit den Zahlen von 1 bis 5 zu erstellen.",
+        "category": null
+    },
+    {
+        "instruction": "Einen Namen f\u00fcr die neue Marke generieren",
+        "category": null
+    },
+    {
+        "instruction": "\u00dcberlegen Sie sich eine innovative Produktidee.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie zwei Tools, die f\u00fcr das Data Mining verwendet werden.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein Skript f\u00fcr einen kurzen Sketch zwischen zwei Personen.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie, wie ein typischer Tag f\u00fcr einen Informatikstudenten aussieht.",
+        "category": null
+    },
+    {
+        "instruction": "Was ist der Unterschied zwischen einem iOS- und einem Android-Telefon?",
+        "category": null
+    },
+    {
+        "instruction": "Berechnen Sie die Gesamtkosten von 5 Artikeln, wenn jeder Artikel 10\u00a0$ kostet.",
+        "category": null
+    },
+    {
+        "instruction": "Generieren Sie eine Liste mit 5 Zufallszahlen zwischen 1 und 10, die sowohl 1 als auch 10 enth\u00e4lt.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Analogie, um ein komplexes Konzept zu erkl\u00e4ren.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie die drei Gesetze zu den Rechten Behinderter.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, warum auf korrekte Grammatik und Rechtschreibung geachtet werden muss.",
+        "category": null
+    },
+    {
+        "instruction": "Was ist ein anderer Begriff f\u00fcr einen w\u00f6chentlichen Zeitraum?",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Restaurantkritik und bewerten Sie Essen, Service und Atmosph\u00e4re auf einer Skala von 1 bis 10.",
+        "category": null
+    },
+    {
+        "instruction": "Stellen Sie diesen Satz so um, dass er nat\u00fcrlicher klingt: \u201eDas ist mir unm\u00f6glich.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Umfragefrage, um die Leute nach ihrem Interesse an der Teilnahme an virtuellen Events zu fragen.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie den Hexadezimalcode f\u00fcr die RGB-Farbe #9900FF",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie das Prinzip der kleinsten Wirkung.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Benutzeroberfl\u00e4che f\u00fcr eine Online-Shopping-App.",
+        "category": null
+    },
+    {
+        "instruction": "Identifizieren Sie f\u00fcnf g\u00e4ngige Fr\u00fcchte",
+        "category": null
+    },
+    {
+        "instruction": "Das Wetter f\u00fcr morgen in San Francisco vorhersagen",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit f\u00fcnf B\u00fcchern, die Kindern etwas \u00fcber Gef\u00fchle beibringen.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Kindergeschichte \u00fcber einen Drachen, der tanzen lernt.",
+        "category": null
+    },
+    {
+        "instruction": "Besprechen Sie die Entwicklung der Druckerpresse.",
+        "category": null
+    },
+    {
+        "instruction": "Bearbeiten Sie diesen Satz: \u201eSie haben so tolle Arbeit geleistet.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie einen JavaScript-Code, um eine Warnmeldung anzuzeigen, wenn die Schaltfl\u00e4che \u201eSenden\u201c gedr\u00fcckt wird.",
+        "category": null
+    },
+    {
+        "instruction": "Missverst\u00e4ndnisse \u00fcber die globale Erw\u00e4rmung",
+        "category": null
+    },
+    {
+        "instruction": "Schlagen Sie eine kreative M\u00f6glichkeit vor, um mehr Kunden dazu zu bringen, dem Unternehmen auf Social-Media-Plattformen zu folgen.",
+        "category": null
+    },
+    {
+        "instruction": "Schlagen Sie M\u00f6glichkeiten zur Reduzierung der CO2-Emissionen vor",
+        "category": null
+    },
+    {
+        "instruction": "\u00dcberlegen Sie sich drei W\u00f6rter, die auf \u201eion\u201c enden.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine \u00dcberschrift f\u00fcr eine Story \u00fcber einen Datenmissbrauch.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit f\u00fcnf Karrierewegen f\u00fcr einen KI-Ingenieur",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie den folgenden Satz um und stellen Sie sicher, dass er grammatikalisch korrekt ist: \u201eSie brauchen keine Hilfe.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Bilden Sie eine kausale Beziehung zwischen zwei Objekten",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie 3 Methoden, die zur Datenbereinigung verwendet werden k\u00f6nnen.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie einen Reaktionssatz auf die folgende Aussage: \u201eDas wird eine lange Nacht.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie ein Beispiel f\u00fcr einen Laubbaum, der in den Vereinigten Staaten heimisch ist.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie drei Techniken zur Stressreduzierung.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine Beschreibung eines magischen Schlosses in einem Zauberwald.",
+        "category": null
+    },
+    {
+        "instruction": "Welcher Tag ist der zweihundertzweiunddrei\u00dfigste Tag des Jahres?",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit 4 Adjektiven, die sich auf die Natur beziehen.",
+        "category": null
+    },
+    {
+        "instruction": "Stellen Sie eine Liste der Vorteile einer pflanzlichen Ern\u00e4hrung bereit.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit 10 Ideen, was Sie in einer freien Stunde pro Tag tun k\u00f6nnen.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen Call-to-Action f\u00fcr einen Blogbeitrag \u00fcber die Macht des positiven Denkens.",
+        "category": null
+    },
+    {
+        "instruction": "Geben Sie einige im Englischen h\u00e4ufig verwendete Ausdr\u00fccke aus, die mit dem Wort \u201es\u00fc\u00df\u201c in Verbindung stehen.",
+        "category": null
+    },
+    {
+        "instruction": "Bitte verfassen Sie ein einpr\u00e4gsames Leitbild f\u00fcr eine Wohlt\u00e4tigkeitsorganisation.",
+        "category": null
+    },
+    {
+        "instruction": "\u00dcberlegen Sie sich 5 M\u00f6glichkeiten, um Abfall im B\u00fcro zu reduzieren.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit den Dingen, die Sie auf eine Wanderung mitnehmen m\u00f6chten.",
+        "category": null
+    },
+    {
+        "instruction": "Was ist der Zweck des keyWord-Arguments in der Python-Funktion sorted()?",
+        "category": null
+    },
+    {
+        "instruction": "Wie l\u00e4uft die Photosynthese bei Pflanzen ab?",
+        "category": null
+    },
+    {
+        "instruction": "Wo spielt der Roman \u201eHerz der Finsternis\u201c?",
+        "category": null
+    },
+    {
+        "instruction": "Entwickeln Sie ein Sprichwort zum Thema \u201eDen eigenen Weg im Leben finden\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Bearbeiten Sie den folgenden Satz, indem Sie ihn pr\u00e4ziser formulieren: \n\n\u201eDer Patient hatte Fieber.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine Gleichung, um Celsius in Fahrenheit umzurechnen.",
+        "category": null
+    },
+    {
+        "instruction": "Geben Sie mir 5 Adjektive, um die Nacht zu beschreiben.",
+        "category": null
+    },
+    {
+        "instruction": "Schlagen Sie ein Synonym f\u00fcr das Wort \u201eeliminieren\u201c vor.",
+        "category": null
+    },
+    {
+        "instruction": "Wie w\u00fcrden Sie einen Garten vor Kaninchen sch\u00fctzen?",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Metapher, die die Bedeutung von \u201eStart\u201c vermittelt.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie eine Methode zur Reduzierung des \u00f6kologischen Fu\u00dfabdrucks Ihres Haushalts.",
+        "category": null
+    },
+    {
+        "instruction": "Listen Sie die Vor- und Nachteile der Nutzung von Elektroautos auf.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine kreative Produktbeschreibung f\u00fcr einen Diffusor f\u00fcr \u00e4therische \u00d6le.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine Phrase mit drei W\u00f6rtern, die dasselbe ausdr\u00fcckt wie diese Phrase mit vier W\u00f6rtern: \u201eArbeit ohne Pause\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie einen Aufsatz dar\u00fcber, was eine gute F\u00fchrungskraft ausmacht.",
+        "category": null
+    },
+    {
+        "instruction": "Machen Sie einen Vorschlag, wie Plastikm\u00fcll reduziert werden kann.",
+        "category": null
+    },
+    {
+        "instruction": "\u00dcberlegen Sie sich f\u00fcnf verschiedene M\u00f6glichkeiten, die Umwelt zu verbessern.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Schritte zum Reinigen und Desinfizieren einer K\u00fcche.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie einen kreativen Satz, der mit \u201eDer Nachthimmel\u201c beginnt.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie das Verfahren zum Erwerb eines F\u00fchrerscheins in Kanada.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein Limerick-Gedicht \u00fcber einen Lemur.",
+        "category": null
+    },
+    {
+        "instruction": "Zeigen Sie mir ein Beispiel f\u00fcr einen Satz im Aktiv.",
+        "category": null
+    },
+    {
+        "instruction": "Geben Sie zwei Beispiele f\u00fcr eine Metapher an",
+        "category": null
+    },
+    {
+        "instruction": "Sch\u00e4tzen Sie die Kosten f\u00fcr eine \u00dcbernachtung in einem F\u00fcnf-Sterne-Hotel in New York City",
+        "category": null
+    },
+    {
+        "instruction": "Identifizieren Sie, ob die folgende Aussage wahr oder falsch ist: Adolf Hitler war \u00d6sterreicher.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen Titel f\u00fcr eine Forschungsarbeit zum Thema Tierrechte.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit Geboten und Verboten f\u00fcr einen Kundendienstmitarbeiter",
+        "category": null
+    },
+    {
+        "instruction": "Finden Sie drei Synonyme f\u00fcr das folgende Wort: gl\u00fccklich",
+        "category": null
+    },
+    {
+        "instruction": "Schlagen Sie eine L\u00f6sung vor, die zur Verbesserung der Umwelt beitr\u00e4gt.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie drei g\u00e4ngige Methoden zur Identit\u00e4ts\u00fcberpr\u00fcfung.",
+        "category": null
+    },
+    {
+        "instruction": "Was sind die f\u00fcnf wichtigsten Eigenschaften einer F\u00fchrungskraft?",
+        "category": null
+    },
+    {
+        "instruction": "Auf welche Eigenschaften sollte ich beim Kauf eines Gebrauchtwagens achten?",
+        "category": null
+    },
+    {
+        "instruction": "Ordne diese W\u00f6rter so an, dass eine sinnvolle Kurzgeschichte entsteht: \u201eKatze, Mitternacht, Fledermaus, Wald, Versteck\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Konstruieren Sie einen Dialog f\u00fcr einen angenehmen Austausch zwischen zwei Personen.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Datenbank f\u00fcr eine Autovermietung.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine kurze Definition des Vertrags von Versailles.",
+        "category": null
+    },
+    {
+        "instruction": "Empfehlen Sie einem Vierzehnj\u00e4hrigen einen ber\u00fchmten Roman.",
+        "category": null
+    },
+    {
+        "instruction": "Fassen Sie den folgenden Absatz zusammen: \n\n\u201eDie Auswirkungen des Klimawandels sind weitreichend und beeintr\u00e4chtigen die Umwelt seit Jahrzehnten. Jedes Jahr werden die Ver\u00e4nderungen deutlicher und ausgepr\u00e4gter, was zu einem erh\u00f6hten Risiko von D\u00fcrren, \u00dcberschwemmungen, extremen Temperaturen und wetterbedingten Katastrophen f\u00fchrt.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein Rezept f\u00fcr ein gesundes Fr\u00fchst\u00fcck inklusive Zutaten und Kochanweisungen.",
+        "category": null
+    },
+    {
+        "instruction": "Was ist eine Hauptursache f\u00fcr Luftverschmutzung?",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie einen \u00fcberzeugenden Aufsatz dar\u00fcber, warum \u00f6ffentliche Verkehrsmittel h\u00e4ufiger genutzt werden sollten.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, was die Redewendung \u201ekommen Sie zur Sache\u201c bedeutet.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine kurze Beschreibung des Feuerwerks.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie f\u00fcnf Sehensw\u00fcrdigkeiten in New York City.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie die drei Netzwerkschichten des OSI-Modells",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Ursachen und Symptome einer Depression.",
+        "category": null
+    },
+    {
+        "instruction": "Was k\u00f6nnen Sie tun, um umweltbewusster zu sein?",
+        "category": null
+    },
+    {
+        "instruction": "Entwerfen Sie ein Spiel, das den Schachregeln folgt, aber einen gr\u00f6\u00dferen Spielerkreis unterh\u00e4lt als das traditionelle Spiel.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen Website-Blogbeitrag \u00fcber die globale Erw\u00e4rmung.",
+        "category": null
+    },
+    {
+        "instruction": "Konstruieren Sie eine dreidimensionale Figur",
+        "category": null
+    },
+    {
+        "instruction": "Identifizieren Sie den Typ des folgenden Satzes: \u201eAlice ist wirklich gl\u00fccklich \u00fcber das Ergebnis.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie die Bedeutung der Redewendung: \u201eEs ist nicht vorbei, bis die dicke Dame singt",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie drei Obst- und drei Gem\u00fcsesorten",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie drei alternative Titel f\u00fcr eine Geschichte \u00fcber die Macht der Freundschaft.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstormen Sie drei kreative Ideen f\u00fcr eine Marketingkampagne f\u00fcr ein Tiefk\u00fchlkostunternehmen.",
+        "category": null
+    },
+    {
+        "instruction": "Sammeln Sie die Namen der 10 erfolgreichsten Unternehmer",
+        "category": null
+    },
+    {
+        "instruction": "Berechnen Sie die 5. Potenz von 3.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie mir drei Informationssicherheitstipps zum Schutz personenbezogener Daten",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Webseitenschnittstelle f\u00fcr eine Fotobearbeitungsanwendung.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie f\u00fcnf indische St\u00e4dte.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie, wie virtuelle Realit\u00e4t zu Bildungszwecken eingesetzt werden kann.",
+        "category": null
+    },
+    {
+        "instruction": "Nehmen Sie an, Sie haben einen pers\u00f6nlichen Assistenten bekommen. Geben Sie drei Anweisungen, die dieser Assistent befolgen soll.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie 5 Fragen, mit denen jemand sein Wissen \u00fcber das Periodensystem testen kann.",
+        "category": null
+    },
+    {
+        "instruction": "Verfassen Sie eine Kurzgeschichte mit einer moralischen Lektion",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie den Prozess der Herstellung von Erdnussbutter.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie Ma\u00dfnahmen auf, mit denen Sie Ihre Produktivit\u00e4t steigern k\u00f6nnen.",
+        "category": null
+    },
+    {
+        "instruction": "Wie ist die allgemeine \u00f6ffentliche Meinung zu den Elektroautos von Tesla?",
+        "category": null
+    },
+    {
+        "instruction": "Berechnen Sie die Differenz zwischen 8 und 9.",
+        "category": null
+    },
+    {
+        "instruction": "Entwerfen Sie einen Blogbeitrag, der die Vorteile eines vegetarischen Lebensstils hervorhebt",
+        "category": null
+    },
+    {
+        "instruction": "Was ist der weltweit erste 3D-Druckstift?",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Unterschiede zwischen \u00f6stlicher und westlicher Kultur.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein ber\u00fchmtes Zitat zum Thema Freundschaft.",
+        "category": null
+    },
+    {
+        "instruction": "Listen Sie die drei Phasen der Ged\u00e4chtnisverarbeitung auf.",
+        "category": null
+    },
+    {
+        "instruction": "Woher kommt die Redewendung \u201ealle Jubeljahre einmal\u201c?",
+        "category": null
+    },
+    {
+        "instruction": "Definieren Sie \u201ek\u00fcnstliches neuronales Netzwerk\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Suchen Sie ein Creative Commons-Foto, das das Konzept hei\u00dfer Sommertage beschreibt.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Analogie zur Beschreibung eines KI-Assistenten.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie die Bedeutung des Individualismus in der Gesellschaft.",
+        "category": null
+    },
+    {
+        "instruction": "Mischen Sie einen halben Teel\u00f6ffel Backpulver, einen Teel\u00f6ffel Salz und einen Teel\u00f6ffel Zitronensaft",
+        "category": null
+    },
+    {
+        "instruction": "Welche Eigenschaften brauchen Sie, um in einer Karriere als Programmierer erfolgreich zu sein?",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine originelle Geschichte, die in einer urbanen Stadtlandschaft spielt.",
+        "category": null
+    },
+    {
+        "instruction": "Ordnen Sie die folgenden W\u00f6rter alphabetisch: blau, wei\u00df, silber, gelb",
+        "category": null
+    },
+    {
+        "instruction": "Fassen Sie die Zeitleiste wichtiger Ereignisse zusammen, die zum Zweiten Weltkrieg f\u00fchrten.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen Blogbeitrag dar\u00fcber, wie Technologie die Art und Weise ver\u00e4ndert, wie Menschen kommunizieren",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie f\u00fcnf Vorteile einer mobilen App.",
+        "category": null
+    },
+    {
+        "instruction": "Wie kann ich mich am effektivsten zum Trainieren motivieren?",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, was \u201ekritisches Denken\u201c ist, und geben Sie ein Beispiel f\u00fcr seine Anwendung.",
+        "category": null
+    },
+    {
+        "instruction": "Geben Sie drei Tipps f\u00fcr die Gestaltung einer effektiven Website",
+        "category": null
+    },
+    {
+        "instruction": "Listen Sie 5 Vorteile auf, die es hat, ein Haustier zu besitzen.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie ein Skript f\u00fcr eine 5-min\u00fctige Pr\u00e4sentation \u00fcber die Bedeutung des Recyclings.",
+        "category": null
+    },
+    {
+        "instruction": "Verfassen Sie ein einzigartiges Gedicht, das das Wort \u201eSchnee\u201c enth\u00e4lt.",
+        "category": null
+    },
+    {
+        "instruction": "Ordnen Sie den folgenden Satz nach seiner Stimmung:\n\nIch hatte eine schreckliche Erfahrung im Restaurant",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie ein Haiku \u00fcber das Gl\u00fccklichsein.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie zwei gute Beispiele f\u00fcr Kundenservice.",
+        "category": null
+    },
+    {
+        "instruction": "F\u00fchren Sie ein Reverse Engineering des folgenden Codeausschnitts durch und erkl\u00e4ren Sie in 4 S\u00e4tzen, was passiert.\n\nvar x = 3\nvar y = x + 4",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie einem Anf\u00e4nger die Grundlagen von HTML.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, warum Menschen Aktien kaufen.",
+        "category": null
+    },
+    {
+        "instruction": "Bearbeiten Sie die folgende Aussage: \u201eJeder Mensch ist etwas Besonderes.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein Java-Programm, das einen W\u00fcrfelwurf simuliert.",
+        "category": null
+    },
+    {
+        "instruction": "Entwickeln Sie eine neue Story-Idee.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen einzigartigen Spruch, der das Wesen der Freundschaft einf\u00e4ngt.",
+        "category": null
+    },
+    {
+        "instruction": "Bilden Sie einige S\u00e4tze, die einen Sommernachmittag beschreiben.",
+        "category": null
+    },
+    {
+        "instruction": "Bilden Sie einen Satz mit der Phrase \u201eab und zu\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste gebr\u00e4uchlicher W\u00f6rter der englischen Sprache.",
+        "category": null
+    },
+    {
+        "instruction": "Entwickeln Sie eine datengesteuerte Marketingstrategie f\u00fcr einen neuen Film.",
+        "category": null
+    },
+    {
+        "instruction": "Geben Sie eine Definition von \u201eAlgen\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Erarbeiten Sie ein kausales Argument, das erkl\u00e4rt, warum Solarenergie gegen\u00fcber Kohle vorzuziehen ist.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die historischen Ereignisse, die zur Gr\u00fcndung der Vereinten Nationen f\u00fchrten.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste der f\u00fcnf giftigen Inhaltsstoffe von Zigaretten.",
+        "category": null
+    },
+    {
+        "instruction": "Erzeugen Sie eine Metapher, mit der Sie das Gef\u00fchl der Zufriedenheit vergleichen k\u00f6nnen.",
+        "category": null
+    },
+    {
+        "instruction": "Finden Sie die Summe der ersten 30 positiven ganzen Zahlen.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, warum digitale W\u00e4hrungen immer beliebter werden.",
+        "category": null
+    },
+    {
+        "instruction": "Klassifizieren Sie den folgenden Satz als Aussagesatz oder Fragesatz.\n\nWie viele Sterne gibt es in der Milchstra\u00dfe?",
+        "category": null
+    },
+    {
+        "instruction": "Bilden Sie einen Satz mit den W\u00f6rtern \u201ekaufen\u201c, \u201eonline\u201c und \u201egesch\u00e4ft\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Betrachten Sie die folgende Aussage: \u201eKatzen sind besser als Hunde\u201c. Bearbeiten Sie sie so kreativ wie m\u00f6glich.",
+        "category": null
+    },
+    {
+        "instruction": "Geben Sie ein Beispiel f\u00fcr die Wendung \u201eeine Rechnung zu begleichen haben\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Geben Sie einen positiven Kommentar zum Kundenservice ab.",
+        "category": null
+    },
+    {
+        "instruction": "Erarbeiten Sie mindestens f\u00fcnf M\u00f6glichkeiten zur Reduzierung der Papierverschwendung.",
+        "category": null
+    },
+    {
+        "instruction": "Wandeln Sie die Bin\u00e4rzahl 1111000 in eine Dezimalzahl um.",
+        "category": null
+    },
+    {
+        "instruction": "W\u00e4hlen Sie den richtigen und vollst\u00e4ndigen Satz:\n\nA) Maria sollte mich am Bahnhof abholen\nB) Maria sollte mich am Bahnhof abholen",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie den k\u00fcrzlich entdeckten Exoplaneten.",
+        "category": null
+    },
+    {
+        "instruction": "Geben Sie mir eine Liste der besten Olympia-Athleten der letzten f\u00fcnf Jahre.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine hypothetische Situation.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie das Erlebnis, zum ersten Mal eine Zitrone zu probieren.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Bedeutung des Sprichworts \u201eDas Gl\u00fcck ist mit den Mutigen.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen Stammbaum, der die verschiedenen Mitglieder Ihrer Familie zeigt.",
+        "category": null
+    },
+    {
+        "instruction": "Empfehlen Sie jemandem, der mexikanisches Essen mag, ein Restaurant.",
+        "category": null
+    },
+    {
+        "instruction": "Beantworten Sie die Frage: Was ist ein \u00d6kosystem?",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Allegorie mit Bezug auf die aktuelle Politik.",
+        "category": null
+    },
+    {
+        "instruction": "Bestimmen Sie die Bev\u00f6lkerung von New York City.",
+        "category": null
+    },
+    {
+        "instruction": "Addieren Sie die folgenden Zahlen ohne Taschenrechner: 37 + 63",
+        "category": null
+    },
+    {
+        "instruction": "Wie hoch ist das Durchschnittsalter der Menschen im Vereinigten K\u00f6nigreich?",
+        "category": null
+    },
+    {
+        "instruction": "Was ist bei der Beantragung eines Kredits besonders zu beachten?",
+        "category": null
+    },
+    {
+        "instruction": "Finden Sie f\u00fcnf Homonymen f\u00fcr das Wort \u201eBucht\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie ein Beispiel f\u00fcr ineffiziente Ressourcennutzung im B\u00fcro",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie einen Satz mit dem Homophon \u201ewon/one\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie das Konzept der Virtualisierung",
+        "category": null
+    },
+    {
+        "instruction": "Identifizieren Sie zwei Charaktereigenschaften des Protagonisten eines Horrorfilms.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, warum Menschen motiviert sind, f\u00fcr wohlt\u00e4tige Zwecke zu spenden.",
+        "category": null
+    },
+    {
+        "instruction": "Stellen Sie eine Liste der verschiedenen Aufgaben bereit, die ein GPT-Sprachmodell erledigen kann.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, wie E-Mail-Marketing zur Umsatzsteigerung beitragen kann.",
+        "category": null
+    },
+    {
+        "instruction": "Fassen Sie das Leben von Thomas Edison in drei S\u00e4tzen zusammen",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Auswirkungen von Typ-2-Diabetes auf den K\u00f6rper.",
+        "category": null
+    }
+]

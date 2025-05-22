@@ -1,0 +1,802 @@
+[
+    {
+        "instruction": "\u1e62e apejuwe aw\u1ecdn ilana 4 fun \u1e63i\u1e63e p\u1eb9lu eniyan ti o nira.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da itan kan nipa ehoro kan ti n gbe p\u1eb9lu \u1ecdk\u1eb9rin alarinrin ninu igbo.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e akoj\u1ecd aw\u1ecdn idi m\u1eb9ta ti o \u1e63e pataki lati \u1e63eto.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd apejuwe \u1ecdja fun iPhone 12 kan.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 itan kan nipa eniyan ti o lo aw\u1ecdn iraw\u1ecd lati ba aw\u1ecdn ololuf\u1eb9 w\u1ecdn s\u1ecdr\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 aw\u1ecdn \u1ecdran lilo agbara m\u1eb9ta fun oluranl\u1ecdw\u1ecd iwiregbebot.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 ariyanjiyan idaniloju fun pataki ti ipinsiyeleyele.",
+        "category": null
+    },
+    {
+        "instruction": "Fun ap\u1eb9\u1eb9r\u1eb9 ti \u1eb9r\u1ecd fifipam\u1ecd akoko kan.",
+        "category": null
+    },
+    {
+        "instruction": "Kini ap\u1eb9\u1eb9r\u1eb9 ti iyasoto \u1eb9l\u1eb9yam\u1eb9ya?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 a\u1e63\u1eb9 Python ti o wulo lati \u1e63\u1eb9da akoj\u1ecdp\u1ecd ti o mu aw\u1ecdn n\u1ecdmba lati 1 si 5.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da oruk\u1ecd fun ami iyas\u1ecdt\u1ecd tuntun",
+        "category": null
+    },
+    {
+        "instruction": "Wa p\u1eb9lu im\u1ecdran \u1ecdja tuntun kan.",
+        "category": null
+    },
+    {
+        "instruction": "Daruk\u1ecd aw\u1ecdn irin\u1e63\u1eb9 meji ti a lo fun iwakusa data.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da iwe af\u1ecdw\u1ecdk\u1ecd fun skit kukuru laarin eniyan meji.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apejuwe bi \u1ecdj\u1ecd a\u1e63oju \u1e63e dabi fun \u1ecdm\u1ecd ile-iwe ti o nk\u1ecd im\u1ecd-\u1eb9r\u1ecd k\u1ecdnputa.",
+        "category": null
+    },
+    {
+        "instruction": "Kini iyato laarin \u1eb9ya iOS ati Android foonu?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e i\u1e63iro iye owo ti aw\u1ecdn nkan 5 lapap\u1ecd ti ohun kan ba j\u1eb9 $10.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e atok\u1ecd ti aw\u1ecdn n\u1ecdmba laileto 5 laarin 1 ati 10, p\u1eb9lu mejeeji 1 ati 10.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apere kan lati \u1e63e alaye im\u1ecdran eka kan.",
+        "category": null
+    },
+    {
+        "instruction": "Daruk\u1ecd Ofin Aw\u1ecdn \u1eb8t\u1ecd A\u1e63ebiak\u1ecd m\u1eb9ta.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e alaye idi ti o \u1e63e pataki lati lo girama to dara ati ak\u1ecdt\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "Kini \u1ecdr\u1ecd miiran fun akoko akoko \u1ecds\u1eb9 kan?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da igbelew\u1ecdn atuny\u1eb9wo ounj\u1eb9 ounj\u1eb9, i\u1e63\u1eb9, ati oju-aye lori iw\u1ecdn 1-10.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e atunto gbolohun yii lati j\u1eb9 ki o dun di\u1eb9 sii adayeba: \u201cKo \u1e63ee \u1e63e fun mi lati \u1e63e eyi\u201d",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da ibeere iwadii kan lati beere l\u1ecdw\u1ecd eniyan nipa if\u1eb9 w\u1ecdn si wiwa si aw\u1ecdn i\u1e63\u1eb9l\u1eb9 foju.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd koodu hexadecimal fun aw\u1ecd RGB #9900FF",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e alaye ilana ti i\u1e63e ti o kere jul\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da wiwo olumulo kan fun ohun elo rira ori ayelujara.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e idanim\u1ecd aw\u1ecdn eso ti o w\u1ecdp\u1ecd marun",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e as\u1ecdt\u1eb9l\u1eb9 oju ojo fun \u1ecdla ni San Francisco",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da atok\u1ecd ti aw\u1ecdn iwe 5 ti o k\u1ecd aw\u1ecdn \u1ecdm\u1ecdde nipa aw\u1ecdn \u1eb9dun.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da itan aw\u1ecdn \u1ecdm\u1ecdde nipa dragoni kan ti o k\u1ecd \u1eb9k\u1ecd lati jo.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ijiroro lori idagbasoke ti \u1eb9r\u1ecd tit\u1eb9.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62atunk\u1ecd gbolohun yii: \"O ti \u1e63e iru i\u1e63\u1eb9 nla b\u1eb9.\"",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd koodu JavaScript kan lati \u1e63afihan ifiran\u1e63\u1eb9 itaniji nigbati b\u1ecdtini 'Firan\u1e63\u1eb9' ti t\u1eb9.",
+        "category": null
+    },
+    {
+        "instruction": "Aw\u1ecdn ai\u1e63edeede nipa imorusi agbaye",
+        "category": null
+    },
+    {
+        "instruction": "Daba \u1ecdna \u1eb9da lati gba aw\u1ecdn alabara di\u1eb9 sii lati t\u1eb9le ile-i\u1e63\u1eb9 lori aw\u1ecdn iru \u1eb9r\u1ecd media awuj\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "Daba aw\u1ecdn \u1ecdna lati dinku itujade erogba",
+        "category": null
+    },
+    {
+        "instruction": "Wa p\u1eb9lu aw\u1ecdn \u1ecdr\u1ecd m\u1eb9ta ti o pari ni 'ion'.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd ak\u1ecdle kan fun itan ti o kan irufin data kan.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da atok\u1ecd ti aw\u1ecdn ipa \u1ecdna i\u1e63\u1eb9 marun fun \u1eb9l\u1eb9r\u1ecd AI kan",
+        "category": null
+    },
+    {
+        "instruction": "Tun gbolohun w\u1ecdnyi k\u1ecd ni idaniloju pe o j\u1eb9 deede ni girama: \"W\u1ecdn ko nilo iranl\u1ecdw\u1ecd.\"",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ibatan idi kan laarin aw\u1ecdn nkan meji",
+        "category": null
+    },
+    {
+        "instruction": "Daruk\u1ecd aw\u1ecdn \u1ecdna 3 ti o le \u1e63ee lo fun mim\u1ecd data.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd gbolohun ifapada si alaye at\u1eb9le yii: \u201cEyi yoo j\u1eb9 al\u1eb9 pip\u1eb9.\u201d",
+        "category": null
+    },
+    {
+        "instruction": "Pese ap\u1eb9\u1eb9r\u1eb9 ti igi deciduous abinibi si Am\u1eb9rika.",
+        "category": null
+    },
+    {
+        "instruction": "Daruk\u1ecd aw\u1ecdn ilana m\u1eb9ta fun idinku wahala.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd apejuwe kan ti idan kasulu ni ohun enchanted igbo.",
+        "category": null
+    },
+    {
+        "instruction": "\u1eccj\u1ecd wo ni igba mejilel\u1ecdgb\u1ecdn \u1ecdj\u1ecd keji ti \u1ecddun?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 atok\u1ecd ti aw\u1ecdn adjectives 4 ti o ni ibatan si ita.",
+        "category": null
+    },
+    {
+        "instruction": "Pese atok\u1ecd ti aw\u1ecdn anfani ti ounj\u1eb9 ti o da lori \u1ecdgbin.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 atok\u1ecd ti aw\u1ecdn im\u1ecdran 10 ti kini lati \u1e63e p\u1eb9lu wakati \u1ecdf\u1eb9 lojoojum\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ipil\u1eb9\u1e63\u1eb9 ipe si i\u1e63e fun ifiweran\u1e63\u1eb9 bul\u1ecd\u1ecdgi kan nipa agbara ti ironu rere.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62ejade di\u1eb9 ninu aw\u1ecdn gbolohun \u1ecdr\u1ecd ti o w\u1ecdp\u1ecd ni G\u1eb9\u1eb9si eyiti o ni nkan \u1e63e p\u1eb9lu \u1ecdr\u1ecd \u201cdun\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "J\u1ecdw\u1ecd \u1e63\u1eb9da alaye i\u1e63\u1eb9 apinfunni ti o \u1e63e iranti fun aj\u1ecd alanu kan.",
+        "category": null
+    },
+    {
+        "instruction": "Aw\u1ecdn \u1ecdna 5 \u1ecdp\u1ecdl\u1ecd lati dinku egbin ni \u1ecdfiisi.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e akoj\u1ecdp\u1ecd aw\u1ecdn ohun kan lati mu lori irin-ajo irin-ajo kan.",
+        "category": null
+    },
+    {
+        "instruction": "Kini idi ti ariyanjiyan koko ni i\u1e63\u1eb9 Python l\u1eb9s\u1eb9s\u1eb9 ()?",
+        "category": null
+    },
+    {
+        "instruction": "Bawo ni photosynthesis \u1e63e waye ninu aw\u1ecdn eweko?",
+        "category": null
+    },
+    {
+        "instruction": "Kini eto ti aramada Okan ti \u00f2kunkun?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e owe kan nipa wiwa ipa-\u1ecdna eniyan ni igbesi aye.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62atunk\u1ecd gbolohun \u1ecdr\u1ecd yii nipa sis\u1ecd ni kong\u1eb9 di\u1eb9 sii: \n\n\"Alaisan naa ni iba.\"",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd idogba lati yi Celsius pada si Fahrenheit.",
+        "category": null
+    },
+    {
+        "instruction": "Fun mi ni aw\u1ecdn adjectives 5 lati \u1e63e apejuwe oru.",
+        "category": null
+    },
+    {
+        "instruction": "Dabaa itum\u1ecd-\u1ecdr\u1ecd kan fun \u1ecdr\u1ecd naa \"imukuro\".",
+        "category": null
+    },
+    {
+        "instruction": "Bawo ni iw\u1ecd yoo \u1e63e daabobo \u1ecdgba kan lati aw\u1ecdn ehoro?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 ap\u1eb9r\u1eb9 kan ti o \u1e63e afihan itum\u1ecd ti 'b\u1eb9r\u1eb9'.",
+        "category": null
+    },
+    {
+        "instruction": "S\u1ecd \u1ecdna kan lati dinku if\u1eb9s\u1eb9t\u1eb9 ayika ti idile r\u1eb9.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e atok\u1ecd aw\u1ecdn anfani ati aw\u1ecdn alailanfani ti lilo aw\u1ecdn \u1ecdk\u1ecd ay\u1ecdk\u1eb9l\u1eb9 ina.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ina apejuwe \u1ecdja ti o \u1e63\u1eb9da fun olut\u1ecdpa epo pataki.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd gbolohun \u1ecdr\u1ecd-m\u1eb9ta kan ti o \u1e63e afihan ohun kanna g\u1eb9g\u1eb9bi gbolohun \u1ecdr\u1ecd m\u1eb9rin yii: \"\u1e63i\u1e63\u1eb9 laisi isinmi\".",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd ohun esee nipa ohun ti o \u1e63e kan ti o dara olori.",
+        "category": null
+    },
+    {
+        "instruction": "Pese im\u1ecdran bi o \u1e63e le dinku egbin \u1e63i\u1e63u.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e \u1ecdp\u1ecdl\u1ecd aw\u1ecdn \u1ecdna ori\u1e63iri\u1e63i marun lati mu agbegbe dara si.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e at\u1ecdka aw\u1ecdn igbes\u1eb9 fun mim\u1ecd ati mim\u1ecd ibi idana ounj\u1eb9 kan.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd gbolohun \u1eb9da ti o b\u1eb9r\u1eb9 p\u1eb9lu \"\u1eccrun al\u1eb9\".",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apejuwe ilana fun gbigba iwe-a\u1e63\u1eb9 awak\u1ecd ni Ilu Kanada.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ina ewi limerick kan nipa lemur.",
+        "category": null
+    },
+    {
+        "instruction": "Fi ap\u1eb9\u1eb9r\u1eb9 gbolohun ohun ti n\u1e63i\u1e63e l\u1ecdw\u1ecd han mi.",
+        "category": null
+    },
+    {
+        "instruction": "Pese ap\u1eb9\u1eb9r\u1eb9 meji fun ap\u1eb9r\u1eb9",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e i\u1e63iro iye owo ibugbe fun al\u1eb9 kan ni hot\u1eb9\u1eb9li iraw\u1ecd marun-un ni Ilu New York",
+        "category": null
+    },
+    {
+        "instruction": "Idanim\u1ecd ti \u1ecdr\u1ecd at\u1eb9le ba j\u1eb9 otit\u1ecd tabi eke: Adolf Hitler j\u1eb9 \u1ecdm\u1ecd ilu Austrian.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da ak\u1ecdle fun iwe iwadi nipa aw\u1ecdn \u1eb9t\u1ecd \u1eb9ranko.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e akop\u1ecd atok\u1ecd ti aw\u1ecdn i\u1e63e ati aw\u1ecdn kii \u1e63e fun a\u1e63oju i\u1e63\u1eb9 alabara kan",
+        "category": null
+    },
+    {
+        "instruction": "Wa meta synonyms fun aw\u1ecdn w\u1ecdnyi \u1ecdr\u1ecd: dun",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e im\u1ecdran ojutu kan ti yoo \u1e63e iranl\u1ecdw\u1ecd il\u1ecdsiwaju agbegbe.",
+        "category": null
+    },
+    {
+        "instruction": "Daruk\u1ecd aw\u1ecdn \u1ecdna ti o w\u1ecdp\u1ecd m\u1eb9ta ti ij\u1eb9risi idanim\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "K\u00ed ni \u00e0w\u1ecdn \u00e0n\u00edm\u1ecd\u0301 m\u00e1r\u00f9n-\u00fan t\u00f3 \u1e63e p\u00e0t\u00e0k\u00ec j\u00f9 l\u1ecd ti a\u1e63\u00e1\u00e1j\u00fa?",
+        "category": null
+    },
+    {
+        "instruction": "Aw\u1ecdn agbara wo ni MO y\u1eb9 ki n gbero nigbati o ra \u1ecdk\u1ecd ay\u1ecdk\u1eb9l\u1eb9 ti a lo?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62eto aw\u1ecdn \u1ecdr\u1ecd w\u1ecdnyi lati \u1e63e itan kukuru ti o nilari: \u201cologbo, \u1ecdganj\u1ecd al\u1eb9, adan, igbo, t\u1ecdju\u201d",
+        "category": null
+    },
+    {
+        "instruction": "\u00d2r\u00f9ka ibara\u1eb9nis\u1ecdr\u1ecd fun eniyan meji nini kan d\u00edd\u00f9n pa\u1e63ipaar\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ipil\u1eb9 data kan fun i\u1e63owo yiyalo \u1ecdk\u1ecd ay\u1ecdk\u1eb9l\u1eb9 kan.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd kukuru itum\u1ecd ti Adehun ti Versailles.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62eduro aramada olokiki fun \u1ecdm\u1ecd \u1ecddun m\u1eb9rinla kan.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e akop\u1ecd \u00ecp\u00ednr\u1ecd w\u1ecdnyi: \n\n\"Aw\u1ecdn ipa ti iyipada oju-\u1ecdj\u1ecd j\u1eb9 ti o p\u1ecdju ati pe o ti ni ipa lori ayika fun aw\u1ecdn ewadun. Ni gbogbo \u1ecddun, aw\u1ecdn iyipada di di\u1eb9 sii ti o \u1e63e akiyesi ati siwaju sii, ti o fa ewu ti o p\u1ecdju ti aw\u1ecdn ogbele, aw\u1ecdn i\u1e63an omi, aw\u1ecdn iw\u1ecdn otutu ti o p\u1ecdju ati aw\u1ecdn ajalu oju ojo.\"",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da ohunelo fun ounj\u1eb9 aar\u1ecd ti ilera p\u1eb9lu aw\u1ecdn eroja ati aw\u1ecdn it\u1ecdnis\u1ecdna sise.",
+        "category": null
+    },
+    {
+        "instruction": "Kini idi pataki ti idoti af\u1eb9f\u1eb9?",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd aroko ti o ni idaniloju lori idi ti o y\u1eb9 ki o lo irin-ajo gbogbo eniyan di\u1eb9 sii.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e alaye kini idiom \u201cge si ilepa\u201d tum\u1ecd si.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd kan finifini apejuwe ti ise ina.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd aw\u1ecdn ami-il\u1eb9 marun ti o wa ni Ilu New York.",
+        "category": null
+    },
+    {
+        "instruction": "Loruk\u1ecd aw\u1ecdn ipele n\u1eb9tiw\u1ecdki m\u1eb9ta ti awo\u1e63e OSI",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apejuwe aw\u1ecdn okunfa ati aw\u1ecdn aami ai\u1e63an ti ibanuj\u1eb9.",
+        "category": null
+    },
+    {
+        "instruction": "Kini o le \u1e63e lati j\u1eb9 mim\u1ecd di\u1eb9 sii ni ayika?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ap\u1eb9r\u1eb9 ere kan ti o t\u1eb9le aw\u1ecdn ofin ti chess \u1e63ugb\u1ecdn \u1e63e ere \u1ecdp\u1ecdl\u1ecdp\u1ecd aw\u1ecdn o\u1e63ere pup\u1ecd ju ere ibile l\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da bul\u1ecd\u1ecdgi aaye ayelujara kan nipa imorusi agbaye.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e eeya onis\u1eb9po m\u1eb9ta",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e idanim\u1ecd iru gbolohun at\u1eb9le naa: \"Alice dun gaan nipa abajade.\"",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u00e0l\u00e0y\u00e9 \u00ectum\u1ecd\u0300 \u1ecd\u0300r\u1ecd\u0300 \u00e0k\u00e0nl\u00f2 \u00e8d\u00e8 n\u00e1\u00e0, \u201cK\u00f2 ti p\u1eb9\u0301 t\u00edt\u00ed t\u00ed ob\u00ecnrin sanra y\u00f3\u00f2 fi k\u1ecdrin",
+        "category": null
+    },
+    {
+        "instruction": "Daruk\u1ecd aw\u1ecdn eso m\u1eb9ta ati \u1eb9f\u1ecd m\u1eb9ta",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 aw\u1ecdn ak\u1ecdle omiiran m\u1eb9ta fun itan kan nipa agbara \u1ecdr\u1eb9.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm m\u1eb9ta Creative tita ipolongo ero fun a tutunini ounje ile-.",
+        "category": null
+    },
+    {
+        "instruction": "Gba aw\u1ecdn oruk\u1ecd ti aw\u1ecdn alakoso i\u1e63owo a\u1e63ey\u1ecdri 10 jul\u1ecd",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e i\u1e63iro agbara 5th ti 3.",
+        "category": null
+    },
+    {
+        "instruction": "S\u1ecd fun mi aw\u1ecdn im\u1ecdran aabo alaye m\u1eb9ta lati daabobo data ti ara \u1eb9ni",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da wiwo oju-iwe w\u1eb9\u1eb9bu kan fun ohun elo \u1e63i\u1e63atunk\u1ecd f\u1ecdto.",
+        "category": null
+    },
+    {
+        "instruction": "Daruk\u1ecd aw\u1ecdn ilu India marun.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apejuwe bi o \u1e63e le lo otit\u1ecd fojuhan fun idi \u1eb9k\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "Ro pe o ti fun \u1ecd ni oluranl\u1ecdw\u1ecd ti ara \u1eb9ni. Pese aw\u1ecdn ilana 3 oluranl\u1ecdw\u1ecd y\u1eb9 ki o t\u1eb9le.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ipil\u1eb9\u1e63\u1eb9 aw\u1ecdn ibeere 5 ti yoo \u1e63ee lo lati \u1e63e idanwo im\u1ecd \u1eb9nikan ti tabili igbak\u1ecd\u1ecdkan.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd itan kukuru kan p\u1eb9lu \u1eb9k\u1ecd iwa",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apejuwe ilana \u1e63i\u1e63e bota epa.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd aw\u1ecdn i\u1e63e ti o le \u1e63e lati mu i\u1e63el\u1ecdp\u1ecd r\u1eb9 p\u1ecd si.",
+        "category": null
+    },
+    {
+        "instruction": "Kini ero gbogbogbo ti aw\u1ecdn \u1ecdk\u1ecd ay\u1ecdk\u1eb9l\u1eb9 ina m\u1ecdnam\u1ecdna Tesla?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e i\u1e63iro iyat\u1ecd laarin 8 ati 9.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ap\u1eb9r\u1eb9 ifiweran\u1e63\u1eb9 bul\u1ecd\u1ecdgi kan ti o \u1e63e agbega aw\u1ecdn anfani ti igbesi aye ajewewe",
+        "category": null
+    },
+    {
+        "instruction": "Kini ik\u1ecdwe tit\u1eb9 3D ak\u1ecdk\u1ecd ni agbaye?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apejuwe aw\u1ecdn iyat\u1ecd laarin aw\u1ecdn a\u1e63a Ila-oorun ati Iw\u1ecd-oorun.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da agbas\u1ecd olokiki ti o ni ibatan si \u1ecdr\u1eb9.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e atok\u1ecd aw\u1ecdn ipele m\u1eb9ta ti sis\u1eb9 iranti.",
+        "category": null
+    },
+    {
+        "instruction": "Nibo ni gbolohun naa \"ni \u1eb9\u1eb9kan ni o\u1e63upa buluu\" ti wa?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62etumo 'n\u1eb9tiw\u1ecd\u1ecdki nkankikan artificial'.",
+        "category": null
+    },
+    {
+        "instruction": "Wa F\u1ecdto Creative Commons kan ti o \u1e63e apejuwe im\u1ecdran ti aw\u1ecdn \u1ecdj\u1ecd ooru gbigbona.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da afiwe lati \u1e63e apejuwe oluranl\u1ecdw\u1ecd AI kan.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e alaye pataki ti \u1eb9ni-k\u1ecd\u1ecdkan ni awuj\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "Illa papo idaji teaspoon ti omi onisuga, teaspoon iy\u1ecd kan ati teaspoon kan ti oje l\u1eb9m\u1ecd\u1ecdn",
+        "category": null
+    },
+    {
+        "instruction": "Aw\u1ecdn agbara wo ni o nilo lati \u1e63a\u1e63ey\u1ecdri ninu i\u1e63\u1eb9 ni siseto?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ipil\u1eb9\u1e63\u1eb9 itan atil\u1eb9ba ti a \u1e63eto ni oju ilu ilu kan.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62eto aw\u1ecdn \u1ecdr\u1ecd w\u1ecdnyi ni adibi: bulu, funfun, fadaka, ofeefee",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e akop\u1ecd akoko ti aw\u1ecdn i\u1e63\u1eb9l\u1eb9 pataki ti o yori si Ogun Agbaye II.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 ifiweran\u1e63\u1eb9 bul\u1ecd\u1ecdgi kan nipa bii im\u1ecd-\u1eb9r\u1ecd \u1e63e n yi \u1ecdna ti eniyan s\u1ecdr\u1ecd",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e atok\u1ecd aw\u1ecdn anfani marun ti nini ohun elo alagbeka kan.",
+        "category": null
+    },
+    {
+        "instruction": "Kini \u1ecdna ti o munadoko jul\u1ecd lati \u1e63e iwuri fun ara mi lati \u1e63e ada\u1e63e?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e alaye kini 'ero ti o \u1e63e pataki' j\u1eb9 ki o pese ap\u1eb9\u1eb9r\u1eb9 ti bii o \u1e63e le lo.",
+        "category": null
+    },
+    {
+        "instruction": "Fun aw\u1ecdn im\u1ecdran m\u1eb9ta fun ap\u1eb9r\u1eb9 oju opo w\u1eb9\u1eb9bu ti o munadoko",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e atok\u1ecd aw\u1ecdn anfani 5 ti nini ohun \u1ecdsin kan.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd iwe af\u1ecdw\u1ecdk\u1ecd fun igbejade i\u1e63\u1eb9ju marun lori pataki ti atunlo.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd ewi alail\u1eb9gb\u1eb9 kan ti o ni \u1ecdr\u1ecd \u201cyinyin\u201d ninu.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e iyas\u1ecdt\u1ecd gbolohun \u1ecdr\u1ecd at\u1eb9le g\u1eb9g\u1eb9bi itara r\u1eb9:\n\nMo ni iriri \u1eb9ru ni ile ounj\u1eb9 naa",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd haiku nipa idunnu.",
+        "category": null
+    },
+    {
+        "instruction": "Fun meji ti o dara apeere ti onibara i\u1e63\u1eb9.",
+        "category": null
+    },
+    {
+        "instruction": "Yi \u1eb9l\u1eb9r\u1ecd pada snippet koodu at\u1eb9le ki o \u1e63e alaye ohun ti n \u1e63\u1eb9l\u1eb9 ni aw\u1ecdn gbolohun \u1ecdr\u1ecd 4.\n\nvar x = 3\nvar y = x + 4",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e alaye aw\u1ecdn ipil\u1eb9 HTML si olubere kan.",
+        "category": null
+    },
+    {
+        "instruction": "Se alaye idi ti awon eniyan ra i\u1e63ura.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62atunk\u1ecd alaye w\u1ecdnyi: 'Gbogbo eniyan j\u1eb9 pataki'.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da a Java eto ti o simulates a \u1e63\u1eb9 eerun.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 im\u1ecdran itan aramada kan.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da a oto gbolohun ti o ya aw\u1ecdn lodi ti ore.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ina di\u1eb9 ninu aw\u1ecdn gbolohun \u1ecdr\u1ecd ti n \u1e63apejuwe \u1ecdsan igba ooru kan.",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd gbolohun kan nipa lilo gbolohun naa \"l\u1eb9\u1eb9kan ni igba di\u1eb9\"",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbejade atok\u1ecd ti aw\u1ecdn \u1ecdr\u1ecd ti o w\u1ecdp\u1ecd ni ede G\u1eb9\u1eb9si.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 ilana titaja ti o dari data fun fiimu tuntun kan.",
+        "category": null
+    },
+    {
+        "instruction": "Fun itumo ti \"ewe\".",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 ariyanjiyan idi kan ti o \u1e63alaye idi ti agbara oorun j\u1eb9 ayanf\u1eb9 ju edu.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apejuwe aw\u1ecdn i\u1e63\u1eb9l\u1eb9 itan ti o yori si idasile ti United Nations.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e atok\u1ecd ti aw\u1ecdn eroja majele marun ti a rii ninu siga.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e agbekal\u1eb9 kan lati \u1e63e afiwe rilara ti itelorun si.",
+        "category": null
+    },
+    {
+        "instruction": "Wa apao ti ak\u1ecdk\u1ecd 30 odidi rere.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e alaye idi ti aw\u1ecdn owo oni-n\u1ecdmba n gba olokiki.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e iyas\u1ecdt\u1ecd gbolohun \u1ecdr\u1ecd at\u1eb9le bi boya gbolohun as\u1ecdye tabi gbolohun \u1ecdr\u1ecd if\u1ecdr\u1ecdwanil\u1eb9nuwo.\n\nAw\u1ecdn iraw\u1ecd melo ni o wa ni \u1ecdna Milky?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ina gbolohun kan nipa lilo aw\u1ecdn \u1ecdr\u1ecd \"ra\", \"online\", ati \"itaja\".",
+        "category": null
+    },
+    {
+        "instruction": "Wo alaye w\u1ecdnyi: \"Aw\u1ecdn ologbo dara ju aw\u1ecdn aja l\u1ecd\". \u1e62atunk\u1ecd r\u1eb9 ni \u1ecdna ti o \u1e63\u1eb9da jul\u1ecd ti o \u1e63ee\u1e63e.",
+        "category": null
+    },
+    {
+        "instruction": "Pese ap\u1eb9\u1eb9r\u1eb9 ti gbolohun naa \"lati ni ake lati l\u1ecd\".",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da as\u1ecdye rere ti o ni ibatan si i\u1e63\u1eb9 alabara.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ina o kere ju aw\u1ecdn \u1ecdna 5 lati dinku egbin iwe.",
+        "category": null
+    },
+    {
+        "instruction": "Yipada alakomeji 1111000 si eleemewa.",
+        "category": null
+    },
+    {
+        "instruction": "Yan gbolohun to pe ati pipe:\n\nA) Maria y\u1eb9 ki o pade mi ni ibudo naa\nB) Maria y\u1eb9 ki o pade mi ni ibudo naa",
+        "category": null
+    },
+    {
+        "instruction": "Daruk\u1ecd exoplanet ti a \u1e63e awari laipe.",
+        "category": null
+    },
+    {
+        "instruction": "Fun mi ni atok\u1ecd ti aw\u1ecdn elere idaraya Olympic ti o dara jul\u1ecd lati \u1ecddun marun to k\u1ecdja.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da a hypothetical ipo.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apejuwe iriri ti ipanu l\u1eb9m\u1ecd\u1ecdn fun igba ak\u1ecdk\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apejuwe itum\u1ecd owe naa \"Fortune Favors the Bold\".",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da igi \u1eb9bi kan ti n \u1e63afihan aw\u1ecdn \u1ecdm\u1ecd \u1eb9gb\u1eb9 ori\u1e63iri\u1e63i ti \u1eb9bi r\u1eb9.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62eduro ile ounj\u1eb9 kan fun \u1eb9nikan ti o f\u1eb9ran ounj\u1eb9 Mexico.",
+        "category": null
+    },
+    {
+        "instruction": "Dahun ibeere naa: Kini ilolupo eda abemi?",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62\u1eb9da apejuwe ti n t\u1ecdka iselu l\u1ecdw\u1ecdl\u1ecdw\u1ecd.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e ipinnu iye olugbe Ilu New York.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62afikun aw\u1ecdn n\u1ecdmba w\u1ecdnyi laisi lilo \u1eb9r\u1ecd i\u1e63iro: 37 + 63",
+        "category": null
+    },
+    {
+        "instruction": "Kini aropin \u1ecdj\u1ecd ori ti aw\u1ecdn eniyan ti ngbe ni United Kingdom?",
+        "category": null
+    },
+    {
+        "instruction": "Kini yoo j\u1eb9 ohun pataki jul\u1ecd lati ronu nigbati o ba nbere fun awin kan?",
+        "category": null
+    },
+    {
+        "instruction": "Wa aw\u1ecdn homonyms marun fun \u1ecdr\u1ecd 'bay'.",
+        "category": null
+    },
+    {
+        "instruction": "Fun ap\u1eb9\u1eb9r\u1eb9 ti aisekokari lilo aw\u1ecdn orisun ni \u1ecdfiisi",
+        "category": null
+    },
+    {
+        "instruction": "K\u1ecd gbolohun kan nipa lilo homophone \"won/\u1ecdkan.\"",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e alaye im\u1ecdran ti agbara-ara",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e idanim\u1ecd aw\u1ecdn abuda ihuwasi meji ti protagonist ti fiimu ibanil\u1eb9ru kan.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e alaye idi ti aw\u1ecdn eniyan fi ni iwuri lati \u1e63et\u1ecdr\u1eb9 si aw\u1ecdn alaanu.",
+        "category": null
+    },
+    {
+        "instruction": "Pese atok\u1ecd ti aw\u1ecdn i\u1e63\u1eb9 \u1e63i\u1e63e ori\u1e63iri\u1e63i awo\u1e63e ede GPT le pari.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e alaye bi titaja imeeli \u1e63e le \u1e63e iranl\u1ecdw\u1ecd lati mu aw\u1ecdn tita p\u1ecd si.",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e akop\u1ecd igbesi aye Thomas Edison ni aw\u1ecdn gbolohun \u1ecdr\u1ecd m\u1eb9ta",
+        "category": null
+    },
+    {
+        "instruction": "\u1e62e apejuwe aw\u1ecdn ipa ti \u00e0t\u1ecdgb\u1eb9 iru 2 lori ara.",
+        "category": null
+    }
+]

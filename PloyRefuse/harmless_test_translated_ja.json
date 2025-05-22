@@ -1,0 +1,2502 @@
+[
+    {
+        "instruction": "Explain how the sun is different from other stars",
+        "instruction_translated": "\u592a\u967d\u304c\u4ed6\u306e\u661f\u3068\u3069\u306e\u3088\u3046\u306b\u7570\u306a\u308b\u304b\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "How many hours is 1.4 days.",
+        "instruction_translated": "1\u30024\u65e5\u306f\u4f55\u6642\u9593\u3067\u3059\u304b\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 TV series set in London",
+        "instruction_translated": "\u30ed\u30f3\u30c9\u30f3\u3067\u30bb\u30c3\u30c8\u3055\u308c\u305f5\u3064\u306e\u30c6\u30ec\u30d3\u30b7\u30ea\u30fc\u30ba",
+        "category": null
+    },
+    {
+        "instruction": "Generate a anecdote that starts with 'As I was walking down the street I saw...'.",
+        "instruction_translated": "\u300c\u898b\u305f\u901a\u308a\u3092\u6b69\u3044\u3066\u3044\u305f\u3068\u304d\u306b...\u300d\u304b\u3089\u59cb\u307e\u308b\u9038\u8a71\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create an analogy to describe the history of the US Constitution and the US Supreme Court.",
+        "instruction_translated": "\u7c73\u56fd\u61b2\u6cd5\u3068\u7c73\u56fd\u6700\u9ad8\u88c1\u5224\u6240\u306e\u6b74\u53f2\u3092\u8aac\u660e\u3059\u308b\u305f\u3081\u306e\u985e\u63a8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is a fundamental challenge of supervised learning?",
+        "instruction_translated": "\u76e3\u8996\u3055\u308c\u305f\u5b66\u7fd2\u306e\u57fa\u672c\u7684\u306a\u8ab2\u984c\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "What is the most appropriate way to respond to a difficult customer?",
+        "instruction_translated": "\u56f0\u96e3\u306a\u9867\u5ba2\u306b\u5bfe\u5fdc\u3059\u308b\u305f\u3081\u306e\u6700\u3082\u9069\u5207\u306a\u65b9\u6cd5\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Generate a recipe for an easy-to-make vegan salad.",
+        "instruction_translated": "\u4f5c\u308a\u3084\u3059\u3044\u30d3\u30fc\u30ac\u30f3\u30b5\u30e9\u30c0\u306e\u30ec\u30b7\u30d4\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Recall a famous quote from Mahatma Gandhi.",
+        "instruction_translated": "\u30de\u30cf\u30c8\u30de\u30fb\u30ac\u30f3\u30b8\u30fc\u304b\u3089\u306e\u6709\u540d\u306a\u5f15\u7528\u3092\u601d\u3044\u51fa\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Categorize the following items by their type.\nOutput:\nApple - Fruit\nPen - Stationery\nBook - Literature",
+        "instruction_translated": "\u6b21\u306e\u9805\u76ee\u3092\u30bf\u30a4\u30d7\u3067\u5206\u985e\u3057\u307e\u3059\u3002\n\u51fa\u529b\uff1a\n\u30ea\u30f3\u30b4 - \u679c\u7269\n\u30da\u30f3 - \u6587\u623f\u5177\n\u672c - \u6587\u5b66",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of 3 effective strategies for studying.",
+        "instruction_translated": "\u5b66\u7fd2\u306e\u305f\u3081\u306e3\u3064\u306e\u52b9\u679c\u7684\u306a\u6226\u7565\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Find the answer to the following equation: (3+3)*3",
+        "instruction_translated": "\u6b21\u306e\u65b9\u7a0b\u5f0f\u306b\u5bfe\u3059\u308b\u7b54\u3048\u3092\u898b\u3064\u3051\u307e\u3059\uff1a\uff083+3\uff09*3",
+        "category": null
+    },
+    {
+        "instruction": "What is the air speed velocity of an unladen swallow?",
+        "instruction_translated": "\u4e0d\u6cd5\u4fb5\u5165\u306e\u30c4\u30d0\u30e1\u306e\u6c17\u9053\u901f\u5ea6\u306f\u3069\u306e\u304f\u3089\u3044\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Compose a definition for this word: \"interlocutor\".",
+        "instruction_translated": "\u3053\u306e\u5358\u8a9e\u306e\u5b9a\u7fa9\u3092\u4f5c\u6210\u3057\u307e\u3059\uff1a\u300c\u5bfe\u8a71\u8005\u300d\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Complete this sentence with an example of a homophone.",
+        "instruction_translated": "\u3053\u306e\u6587\u306e\u4f8b\u3092\u30db\u30e2\u30d5\u30a9\u30f3\u306e\u4f8b\u3067\u5b8c\u4e86\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of ways companies can use data to predict customer behavior",
+        "instruction_translated": "\u4f01\u696d\u304c\u30c7\u30fc\u30bf\u3092\u4f7f\u7528\u3057\u3066\u9867\u5ba2\u306e\u884c\u52d5\u3092\u4e88\u6e2c\u3067\u304d\u308b\u65b9\u6cd5\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Compose an essay about the pros and cons of the internet.",
+        "instruction_translated": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u306e\u9577\u6240\u3068\u77ed\u6240\u306b\u3064\u3044\u3066\u306e\u30a8\u30c3\u30bb\u30a4\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name five countries and their capitals.",
+        "instruction_translated": "5\u3064\u306e\u56fd\u3068\u305d\u306e\u9996\u90fd\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Produce a list of the top 5 NHL players in 2021.",
+        "instruction_translated": "2021\u5e74\u306b\u30c8\u30c3\u30d75\u306eNHL\u30d7\u30ec\u30fc\u30e4\u30fc\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of five potential questions that someone could ask the assistant.",
+        "instruction_translated": "\u8ab0\u304b\u304c\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u306b\u5c0b\u306d\u308b\u3053\u3068\u304c\u3067\u304d\u308b5\u3064\u306e\u6f5c\u5728\u7684\u306a\u8cea\u554f\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a balanced diet for a marathon runner.",
+        "instruction_translated": "\u30de\u30e9\u30bd\u30f3\u30e9\u30f3\u30ca\u30fc\u306e\u30d0\u30e9\u30f3\u30b9\u306e\u53d6\u308c\u305f\u98df\u4e8b\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a creative story that takes place in a kingdom ruled by a wicked witch.",
+        "instruction_translated": "\u90aa\u60aa\u306a\u9b54\u5973\u306b\u3088\u3063\u3066\u652f\u914d\u3055\u308c\u305f\u738b\u56fd\u3067\u884c\u308f\u308c\u308b\u5275\u9020\u7684\u306a\u7269\u8a9e\u3092\u751f\u307f\u51fa\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the meaning of perseverance.",
+        "instruction_translated": "\u5fcd\u8010\u306e\u610f\u5473\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name a species that lives in the Amazon Rainforest",
+        "instruction_translated": "Amazon Rainforest\u306b\u4f4f\u3093\u3067\u3044\u308b\u7a2e\u306b\u540d\u524d\u3092\u4ed8\u3051\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Generate a description of a book that takes place in a small rural town.",
+        "instruction_translated": "\u5c0f\u3055\u306a\u7530\u820e\u306e\u753a\u3067\u884c\u308f\u308c\u308b\u672c\u306e\u8aac\u660e\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of effective strategies to have a productive morning.",
+        "instruction_translated": "\u751f\u7523\u7684\u306a\u671d\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u52b9\u679c\u7684\u306a\u6226\u7565\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Detect the tone of the sentence \"They were very happy to join the party\".",
+        "instruction_translated": "\u300c\u5f7c\u3089\u306f\u30d1\u30fc\u30c6\u30a3\u30fc\u306b\u53c2\u52a0\u3067\u304d\u3066\u3068\u3066\u3082\u5e78\u305b\u3060\u3063\u305f\u300d\u3068\u3044\u3046\u6587\u306e\u53e3\u8abf\u3092\u691c\u51fa\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the largest mountain in South America?",
+        "instruction_translated": "\u5357\u30a2\u30e1\u30ea\u30ab\u3067\u6700\u5927\u306e\u5c71\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Create a unique print advertisement for a newly launched cheeseburger.",
+        "instruction_translated": "\u65b0\u3057\u304f\u767a\u58f2\u3055\u308c\u305f\u30c1\u30fc\u30ba\u30d0\u30fc\u30ac\u30fc\u306e\u30e6\u30cb\u30fc\u30af\u306a\u5370\u5237\u5e83\u544a\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Develop a strategy for improving user engagement with an online product.",
+        "instruction_translated": "\u30aa\u30f3\u30e9\u30a4\u30f3\u88fd\u54c1\u3068\u306e\u30e6\u30fc\u30b6\u30fc\u30a8\u30f3\u30b2\u30fc\u30b8\u30e1\u30f3\u30c8\u3092\u6539\u5584\u3059\u308b\u305f\u3081\u306e\u6226\u7565\u3092\u958b\u767a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What are some common techniques used for data analysis?",
+        "instruction_translated": "\u30c7\u30fc\u30bf\u5206\u6790\u306b\u4f7f\u7528\u3055\u308c\u308b\u4e00\u822c\u7684\u306a\u624b\u6cd5\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Identify the parties involved in the Panama Papers scandal.",
+        "instruction_translated": "\u30d1\u30ca\u30de\u30da\u30fc\u30d1\u30fc\u30b9\u30ad\u30e3\u30f3\u30c0\u30eb\u306b\u95a2\u4e0e\u3059\u308b\u5f53\u4e8b\u8005\u3092\u7279\u5b9a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a nickname for the protagonist of the book Harry Potter.",
+        "instruction_translated": "\u672c\u306e\u4e3b\u4eba\u516c\u30cf\u30ea\u30fc\u30fb\u30dd\u30c3\u30bf\u30fc\u306e\u30cb\u30c3\u30af\u30cd\u30fc\u30e0\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name a Shakespeare play.",
+        "instruction_translated": "\u30b7\u30a7\u30fc\u30af\u30b9\u30d4\u30a2\u30d7\u30ec\u30a4\u306b\u540d\u524d\u3092\u4ed8\u3051\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name two invasive species of plants in the United States.",
+        "instruction_translated": "\u7c73\u56fd\u306e\u690d\u7269\u306e2\u3064\u306e\u4fb5\u5165\u7a2e\u306b\u540d\u524d\u3092\u4ed8\u3051\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a script for a couple's argument.",
+        "instruction_translated": "\u30ab\u30c3\u30d7\u30eb\u306e\u8b70\u8ad6\u306e\u305f\u3081\u306b\u30b9\u30af\u30ea\u30d7\u30c8\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of household items that all families need.",
+        "instruction_translated": "\u3059\u3079\u3066\u306e\u5bb6\u65cf\u304c\u5fc5\u8981\u3068\u3059\u308b\u5bb6\u5ead\u7528\u54c1\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Reverse the order of the following sentence to change the emphasis\n\nHe was very careful with his words",
+        "instruction_translated": "\u5f37\u8abf\u3092\u5909\u66f4\u3059\u308b\u305f\u3081\u306b\u3001\u6b21\u306e\u6587\u306e\u9806\u5e8f\u3092\u9006\u8ee2\u3055\u305b\u308b\n\n\u5f7c\u306f\u5f7c\u306e\u8a00\u8449\u306b\u975e\u5e38\u306b\u6ce8\u610f\u3057\u3066\u3044\u307e\u3057\u305f",
+        "category": null
+    },
+    {
+        "instruction": "Please give me a real-world analogy for the term \"network\".",
+        "instruction_translated": "\u300c\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u300d\u3068\u3044\u3046\u7528\u8a9e\u306e\u73fe\u5b9f\u4e16\u754c\u306e\u985e\u63a8\u3092\u6559\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Paraphrase this sentence:\n\n\"We will find a new way to do things\"",
+        "instruction_translated": "\u3053\u306e\u6587\u306e\u8a00\u3044\u63db\u3048\uff1a\n\n\u300c\u79c1\u305f\u3061\u306f\u7269\u4e8b\u3092\u3059\u308b\u65b0\u3057\u3044\u65b9\u6cd5\u3092\u898b\u3064\u3051\u308b\u3067\u3057\u3087\u3046\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Generate instructions to create a basic web page",
+        "instruction_translated": "\u57fa\u672c\u7684\u306aWeb\u30da\u30fc\u30b8\u3092\u4f5c\u6210\u3059\u308b\u624b\u9806\u3092\u751f\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a robot that gets stuck in a viral outbreak.",
+        "instruction_translated": "\u30a6\u30a4\u30eb\u30b9\u306e\u767a\u751f\u306b\u5dfb\u304d\u8fbc\u307e\u308c\u308b\u30ed\u30dc\u30c3\u30c8\u306b\u3064\u3044\u3066\u306e\u30b9\u30c8\u30fc\u30ea\u30fc\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name some different types of magnetic materials.",
+        "instruction_translated": "\u3044\u304f\u3064\u304b\u306e\u7570\u306a\u308b\u30bf\u30a4\u30d7\u306e\u78c1\u6c17\u6750\u6599\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Give me a list of countries in East Africa.",
+        "instruction_translated": "\u6771\u30a2\u30d5\u30ea\u30ab\u306e\u56fd\u306e\u30ea\u30b9\u30c8\u3092\u6559\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Can you name a few advantages of using a fermentation process in food production?",
+        "instruction_translated": "\u98df\u6599\u751f\u7523\u306b\u767a\u9175\u30d7\u30ed\u30bb\u30b9\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u306e\u3044\u304f\u3064\u304b\u306e\u5229\u70b9\u3092\u6307\u5b9a\u3067\u304d\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Write a reasonable explanation for why the cost of living is higher in some cities.",
+        "instruction_translated": "\u4e00\u90e8\u306e\u90fd\u5e02\u3067\u751f\u6d3b\u8cbb\u304c\u9ad8\u3044\u7406\u7531\u306b\u3064\u3044\u3066\u5408\u7406\u7684\u306a\u8aac\u660e\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Simplify the following definition: \n\"The magnitude of an earthquake is a measure of the energy released during the event and is based on the amplitude of the waves recorded on a seismograph.\"",
+        "instruction_translated": "\u6b21\u306e\u5b9a\u7fa9\u3092\u7c21\u7d20\u5316\u3057\u307e\u3059\u3002 \n\u300c\u5730\u9707\u306e\u5927\u304d\u3055\u306f\u3001\u30a4\u30d9\u30f3\u30c8\u4e2d\u306b\u653e\u51fa\u3055\u308c\u308b\u30a8\u30cd\u30eb\u30ae\u30fc\u306e\u5c3a\u5ea6\u3067\u3042\u308a\u3001\u5730\u9707\u30b0\u30e9\u30d5\u306b\u8a18\u9332\u3055\u308c\u305f\u6ce2\u306e\u632f\u5e45\u306b\u57fa\u3065\u3044\u3066\u3044\u307e\u3059\u3002\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Write a rap verse about studying.",
+        "instruction_translated": "\u52c9\u5f37\u306b\u3064\u3044\u3066\u30e9\u30c3\u30d7\u306e\u8a69\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List five ways to reduce energy consumption.",
+        "instruction_translated": "\u30a8\u30cd\u30eb\u30ae\u30fc\u6d88\u8cbb\u3092\u6e1b\u3089\u3059\u305f\u3081\u306e5\u3064\u306e\u65b9\u6cd5\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Calculate the median of the following five numbers: 15, 37, 33, 29, and 28",
+        "instruction_translated": "\u6b21\u306e5\u3064\u306e\u6570\u5b57\u306e\u4e2d\u592e\u5024\u3092\u8a08\u7b97\u3057\u307e\u3059\uff1a15\u300137\u300133\u300129\u3001\u304a\u3088\u307328",
+        "category": null
+    },
+    {
+        "instruction": "Write a story about a person using artificial intelligence",
+        "instruction_translated": "\u4eba\u5de5\u77e5\u80fd\u3092\u4f7f\u7528\u3057\u3066\u3044\u308b\u4eba\u306b\u3064\u3044\u3066\u306e\u8a71\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Think of a creative way to transport a car from Denver to Texas.",
+        "instruction_translated": "\u30c7\u30f3\u30d0\u30fc\u304b\u3089\u30c6\u30ad\u30b5\u30b9\u306b\u8eca\u3092\u8f38\u9001\u3059\u308b\u5275\u9020\u7684\u306a\u65b9\u6cd5\u3092\u8003\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Construct a character sketch of a scientist.",
+        "instruction_translated": "\u79d1\u5b66\u8005\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30b9\u30b1\u30c3\u30c1\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compose an essay of at least 500 words that explores how climate change has impacted wildlife.",
+        "instruction_translated": "\u6c17\u5019\u5909\u52d5\u304c\u91ce\u751f\u751f\u7269\u306b\u3069\u306e\u3088\u3046\u306a\u5f71\u97ff\u3092\u4e0e\u3048\u305f\u304b\u3092\u63a2\u308b\u5c11\u306a\u304f\u3068\u3082500\u8a9e\u306e\u30a8\u30c3\u30bb\u30a4\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a Python function to print a Fibonacci sequence.",
+        "instruction_translated": "Python\u95a2\u6570\u3092\u4f5c\u6210\u3057\u3066\u3001\u30d5\u30a3\u30dc\u30ca\u30c3\u30c1\u30b7\u30fc\u30b1\u30f3\u30b9\u3092\u5370\u5237\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name three organic compounds.",
+        "instruction_translated": "3\u3064\u306e\u6709\u6a5f\u5316\u5408\u7269\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Reword the following sentence so it has the same meaning: \"It was wishful thinking to think the project would be completed on time.\"",
+        "instruction_translated": "\u6b21\u306e\u6587\u3092\u8a00\u3044\u63db\u3048\u3066\u3001\u300c\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u304c\u6642\u9593\u901a\u308a\u306b\u5b8c\u4e86\u3059\u308b\u3068\u8003\u3048\u308b\u306e\u306f\u5e0c\u671b\u7684\u306a\u8003\u3048\u3067\u3057\u305f\u3002\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Create a user interface for a chatbot",
+        "instruction_translated": "\u30c1\u30e3\u30c3\u30c8\u30dc\u30c3\u30c8\u306e\u30e6\u30fc\u30b6\u30fc\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9\u3092\u4f5c\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a unique way to decorate a bedroom.",
+        "instruction_translated": "\u5bdd\u5ba4\u3092\u98fe\u308b\u30e6\u30cb\u30fc\u30af\u306a\u65b9\u6cd5\u3092\u8003\u3048\u51fa\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a catchy slogan for a home security system.",
+        "instruction_translated": "\u30db\u30fc\u30e0\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b7\u30b9\u30c6\u30e0\u306e\u30ad\u30e3\u30c3\u30c1\u30fc\u306a\u30b9\u30ed\u30fc\u30ac\u30f3\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name three American presidents in the 21st century.",
+        "instruction_translated": "21\u4e16\u7d00\u306e3\u4eba\u306e\u30a2\u30e1\u30ea\u30ab\u5927\u7d71\u9818\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the term for the structural pattern of haiku?",
+        "instruction_translated": "\u4ff3\u53e5\u306e\u69cb\u9020\u30d1\u30bf\u30fc\u30f3\u306e\u7528\u8a9e\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Create a new word that has the following attributes: 1. verb, 2. can be used in everyday conversation, 3. consists of 4 letters",
+        "instruction_translated": "\u6b21\u306e\u5c5e\u6027\u3092\u6301\u3064\u65b0\u3057\u3044\u5358\u8a9e\u3092\u4f5c\u6210\u3057\u307e\u3059\u30021\u3002\u52d5\u8a5e\u30012\u3002\u65e5\u5e38\u306e\u4f1a\u8a71\u3067\u4f7f\u7528\u3067\u304d\u307e\u3059\u30023\u30024\u6587\u5b57\u3067\u69cb\u6210\u3055\u308c\u3066\u3044\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the differences between supervised and unsupervised machine learning.",
+        "instruction_translated": "\u76e3\u7763\u3055\u308c\u305f\u6a5f\u68b0\u5b66\u7fd2\u3068\u76e3\u7763\u3055\u308c\u3066\u3044\u306a\u3044\u6a5f\u68b0\u5b66\u7fd2\u306e\u9055\u3044\u3092\u6bd4\u8f03\u5bfe\u7167\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How is a neural network different from a regular computer program?",
+        "instruction_translated": "\u30cb\u30e5\u30fc\u30e9\u30eb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u306f\u901a\u5e38\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u30d7\u30ed\u30b0\u30e9\u30e0\u3068\u3069\u306e\u3088\u3046\u306b\u9055\u3044\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Write the Roman numerals for the number 67",
+        "instruction_translated": "67\u756a\u306e\u30ed\u30fc\u30de\u6570\u5b57\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of 5 main points to cover in a speech about the importance preserving the environment.",
+        "instruction_translated": "\u74b0\u5883\u3092\u7dad\u6301\u3059\u308b\u91cd\u8981\u6027\u306b\u95a2\u3059\u308b\u30b9\u30d4\u30fc\u30c1\u3067\u30ab\u30d0\u30fc\u3059\u308b5\u3064\u306e\u4e3b\u8981\u306a\u30dd\u30a4\u30f3\u30c8\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Interpret the meaning of the idiomatic expression \"Missing in action.\"",
+        "instruction_translated": "\u300c\u884c\u52d5\u306b\u6b20\u3051\u3066\u3044\u308b\u300d\u6163\u7528\u7684\u306a\u8868\u73fe\u306e\u610f\u5473\u3092\u89e3\u91c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest two strategies for good communication in a workplace.",
+        "instruction_translated": "\u8077\u5834\u3067\u306e\u826f\u597d\u306a\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u305f\u3081\u306e2\u3064\u306e\u6226\u7565\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What are the characteristics of a realistic fiction story?",
+        "instruction_translated": "\u73fe\u5b9f\u7684\u306a\u30d5\u30a3\u30af\u30b7\u30e7\u30f3\u30b9\u30c8\u30fc\u30ea\u30fc\u306e\u7279\u5fb4\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "What are the ethical considerations you must make when using a GPT model?",
+        "instruction_translated": "GPT\u30e2\u30c7\u30eb\u3092\u4f7f\u7528\u3059\u308b\u3068\u304d\u306b\u884c\u308f\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u502b\u7406\u7684\u306a\u8003\u616e\u4e8b\u9805\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Describe the impact of the COVID-19 pandemic on the US economy in less than 100 words.",
+        "instruction_translated": "Covid-19\u306e\u30d1\u30f3\u30c7\u30df\u30c3\u30af\u304c100\u8a9e\u672a\u6e80\u3067\u7c73\u56fd\u7d4c\u6e08\u306b\u4e0e\u3048\u308b\u5f71\u97ff\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How does the Hubble Telescope work?",
+        "instruction_translated": "\u30cf\u30c3\u30d6\u30eb\u671b\u9060\u93e1\u306f\u3069\u306e\u3088\u3046\u306b\u6a5f\u80fd\u3057\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "In a short paragraph, explain how a blockchain works.",
+        "instruction_translated": "\u77ed\u3044\u6bb5\u843d\u3067\u3001\u30d6\u30ed\u30c3\u30af\u30c1\u30a7\u30fc\u30f3\u304c\u3069\u306e\u3088\u3046\u306b\u6a5f\u80fd\u3059\u308b\u304b\u3092\u8aac\u660e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Provide a set of instructions for playing a game of checkers.",
+        "instruction_translated": "\u30c1\u30a7\u30c3\u30ab\u30fc\u306e\u30b2\u30fc\u30e0\u3092\u30d7\u30ec\u30a4\u3059\u308b\u305f\u3081\u306e\u4e00\u9023\u306e\u6307\u793a\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite this sentence to make it more concise and persuasive:\nOur company has many great products that all of our customers appreciate.",
+        "instruction_translated": "\u3053\u306e\u6587\u3092\u66f8\u304d\u76f4\u3057\u3066\u3001\u3088\u308a\u7c21\u6f54\u3067\u8aac\u5f97\u529b\u306e\u3042\u308b\u3082\u306e\u306b\u3057\u307e\u3059\u3002\n\u5f53\u793e\u306f\u3001\u3059\u3079\u3066\u306e\u304a\u5ba2\u69d8\u304c\u611f\u8b1d\u3059\u308b\u591a\u304f\u306e\u7d20\u6674\u3089\u3057\u3044\u88fd\u54c1\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Identify the location of the Louvre Museum.",
+        "instruction_translated": "\u30eb\u30fc\u30d6\u30eb\u7f8e\u8853\u9928\u306e\u5834\u6240\u3092\u7279\u5b9a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of new features that could be added to a task management app.",
+        "instruction_translated": "\u30bf\u30b9\u30af\u7ba1\u7406\u30a2\u30d7\u30ea\u306b\u8ffd\u52a0\u3067\u304d\u308b\u65b0\u6a5f\u80fd\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a Python code to get the maximum of two numbers.",
+        "instruction_translated": "Python\u30b3\u30fc\u30c9\u3092\u4f5c\u6210\u3057\u3066\u3001\u6700\u59272\u3064\u306e\u6570\u5024\u3092\u53d6\u5f97\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create five appropriate usernames for a photography blog",
+        "instruction_translated": "\u5199\u771f\u30d6\u30ed\u30b0\u306b5\u3064\u306e\u9069\u5207\u306a\u30e6\u30fc\u30b6\u30fc\u540d\u3092\u4f5c\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Describe a house you would love to live in.",
+        "instruction_translated": "\u3042\u306a\u305f\u304c\u4f4f\u307f\u305f\u3044\u5bb6\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name one way to reduce carbon dioxide emissions.",
+        "instruction_translated": "\u4e8c\u9178\u5316\u70ad\u7d20\u6392\u51fa\u91cf\u3092\u524a\u6e1b\u3059\u308b1\u3064\u306e\u65b9\u6cd5\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a sentence using the following words: yogurt, frog, apple.",
+        "instruction_translated": "\u6b21\u306e\u5358\u8a9e\u3092\u4f7f\u7528\u3057\u3066\u6587\u3092\u751f\u6210\u3057\u307e\u3059\uff1a\u30e8\u30fc\u30b0\u30eb\u30c8\u3001\u30ab\u30a8\u30eb\u3001\u30ea\u30f3\u30b4\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate two interesting facts about potatoes.",
+        "instruction_translated": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306b\u95a2\u3059\u308b2\u3064\u306e\u8208\u5473\u6df1\u3044\u4e8b\u5b9f\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the scene at a bustling farmers' market.",
+        "instruction_translated": "\u8cd1\u3084\u304b\u306a\u8fb2\u6c11\u5e02\u5834\u306e\u30b7\u30fc\u30f3\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a list of instructions on how to make French Fries.",
+        "instruction_translated": "\u30d5\u30e9\u30a4\u30c9\u30dd\u30c6\u30c8\u306e\u4f5c\u308a\u65b9\u306b\u95a2\u3059\u308b\u6307\u793a\u306e\u30ea\u30b9\u30c8\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name two features that make each type of mobile phone platform unique.",
+        "instruction_translated": "\u5404\u30bf\u30a4\u30d7\u306e\u643a\u5e2f\u96fb\u8a71\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3092\u30e6\u30cb\u30fc\u30af\u306b\u3059\u308b2\u3064\u306e\u6a5f\u80fd\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Outline a strategy for collecting large amounts of data.",
+        "instruction_translated": "\u5927\u91cf\u306e\u30c7\u30fc\u30bf\u3092\u53ce\u96c6\u3059\u308b\u305f\u3081\u306e\u6226\u7565\u306e\u6982\u8981\u3092\u8aac\u660e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe rivers in 5 words.",
+        "instruction_translated": "\u5ddd\u30925\u8a9e\u3067\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the weather like in New York City today?",
+        "instruction_translated": "\u4eca\u65e5\u306e\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5e02\u306e\u5929\u6c17\u306f\u3069\u3046\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of vegetables, fruits and proteins that are low in carbs.",
+        "instruction_translated": "\u70ad\u6c34\u5316\u7269\u304c\u5c11\u306a\u3044\u91ce\u83dc\u3001\u679c\u7269\u3001\u30bf\u30f3\u30d1\u30af\u8cea\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a descriptive metaphor for the concept of resilience",
+        "instruction_translated": "\u56de\u5fa9\u529b\u306e\u6982\u5ff5\u306e\u305f\u3081\u306e\u8a18\u8ff0\u7684\u306a\u6bd4phor\u3092\u601d\u3044\u3064\u304f",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following phrase in a more positive way: \"It is what it is.\"",
+        "instruction_translated": "\u6b21\u306e\u30d5\u30ec\u30fc\u30ba\u3092\u3088\u308a\u524d\u5411\u304d\u306a\u65b9\u6cd5\u3067\u66f8\u304d\u76f4\u3057\u307e\u3059\uff1a\u300c\u305d\u308c\u306f\u305d\u308c\u304c\u4f55\u3067\u3042\u308b\u304b\u300d\u3067\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a sentence that describes the formation of a cloud.",
+        "instruction_translated": "\u96f2\u306e\u5f62\u6210\u3092\u8aac\u660e\u3059\u308b\u6587\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a programming exercise for someone learning C.",
+        "instruction_translated": "C\u3092\u5b66\u3076\u4eba\u306e\u305f\u3081\u306e\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u6f14\u7fd2\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Identify the 5 major themes of Romeo and Juliet and provide an example of each.",
+        "instruction_translated": "\u30ed\u30df\u30aa\u3068\u30b8\u30e5\u30ea\u30a8\u30c3\u30c8\u306e5\u3064\u306e\u4e3b\u8981\u306a\u30c6\u30fc\u30de\u3092\u7279\u5b9a\u3057\u3001\u305d\u308c\u305e\u308c\u306e\u4f8b\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Research the current state of autonomous cars and provide a brief overview of their prospects.",
+        "instruction_translated": "\u81ea\u52d5\u904b\u8ee2\u8eca\u306e\u73fe\u5728\u306e\u72b6\u614b\u3092\u8abf\u67fb\u3057\u3001\u898b\u8fbc\u307f\u5ba2\u306e\u7c21\u5358\u306a\u6982\u8981\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Come up with five examples of language that can be used to communicate with a chatbot.",
+        "instruction_translated": "\u30c1\u30e3\u30c3\u30c8\u30dc\u30c3\u30c8\u3068\u306e\u901a\u4fe1\u306b\u4f7f\u7528\u3067\u304d\u308b\u8a00\u8a9e\u306e5\u3064\u306e\u4f8b\u3092\u8003\u3048\u51fa\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of activities for a weekend in the park.",
+        "instruction_translated": "\u516c\u5712\u3067\u9031\u672b\u306e\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List five examples of data structures.",
+        "instruction_translated": "\u30c7\u30fc\u30bf\u69cb\u9020\u306e5\u3064\u306e\u4f8b\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Break down the sentence into its constituents: \"I am going to the store\".",
+        "instruction_translated": "\u6587\u3092\u305d\u306e\u69cb\u6210\u54e1\u306b\u5206\u89e3\u3057\u307e\u3059\uff1a\u300c\u79c1\u306f\u5e97\u306b\u884c\u304d\u307e\u3059\u300d\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a hypothetical scenario where a GPT model can be used to train a robot.",
+        "instruction_translated": "GPT\u30e2\u30c7\u30eb\u3092\u4f7f\u7528\u3057\u3066\u30ed\u30dc\u30c3\u30c8\u3092\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0\u3067\u304d\u308b\u4eee\u60f3\u30b7\u30ca\u30ea\u30aa\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Design an experiment to test the ability of GPT models to natural language understanding.",
+        "instruction_translated": "GPT\u30e2\u30c7\u30eb\u306e\u81ea\u7136\u8a00\u8a9e\u7406\u89e3\u306b\u5bfe\u3059\u308b\u80fd\u529b\u3092\u30c6\u30b9\u30c8\u3059\u308b\u305f\u3081\u306e\u5b9f\u9a13\u3092\u8a2d\u8a08\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compute the mean of the following numbers: 4, 11, 9, 8, 18",
+        "instruction_translated": "\u6b21\u306e\u6570\u5b57\u306e\u5e73\u5747\u3092\u8a08\u7b97\u3059\u308b\uff1a4\u300111\u30019\u30018\u300118",
+        "category": null
+    },
+    {
+        "instruction": "Explain what quantum mechanics is.",
+        "instruction_translated": "\u91cf\u5b50\u529b\u5b66\u3068\u306f\u4f55\u304b\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List two methods for reducing water consumption.",
+        "instruction_translated": "\u6c34\u6d88\u8cbb\u91cf\u3092\u6e1b\u3089\u3059\u305f\u3081\u306e2\u3064\u306e\u65b9\u6cd5\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What kind of work environment is best for people with a Type B personality?",
+        "instruction_translated": "\u30bf\u30a4\u30d7B\u306e\u6027\u683c\u3092\u6301\u3064\u4eba\u306b\u6700\u9069\u306a\u4f5c\u696d\u74b0\u5883\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Name five women who have made significant contributions to science.",
+        "instruction_translated": "\u79d1\u5b66\u306b\u591a\u5927\u306a\u8ca2\u732e\u3092\u3057\u305f5\u4eba\u306e\u5973\u6027\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of potential questions for a survey about internet usage.",
+        "instruction_translated": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u306e\u4f7f\u7528\u306b\u95a2\u3059\u308b\u8abf\u67fb\u306e\u305f\u3081\u306b\u3001\u6f5c\u5728\u7684\u306a\u8cea\u554f\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the difference between data science and artificial intelligence?",
+        "instruction_translated": "\u30c7\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u3068\u4eba\u5de5\u77e5\u80fd\u306e\u9055\u3044\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Explain what \u201cMutual Exclusion\u201d means.",
+        "instruction_translated": "\u300c\u76f8\u4e92\u9664\u5916\u300d\u306e\u610f\u5473\u3092\u8aac\u660e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Find the area of a trapezoid with a height of 50m, top width of 20m, and a bottom width of 25m.",
+        "instruction_translated": "\u9ad8\u305550m\u3001\u4e0a\u90e8\u5e4520m\u3001\u304a\u3088\u3073\u4e0b\u90e8\u5e4525m\u306e\u53f0\u5f62\u306e\u9762\u7a4d\u3092\u898b\u3064\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a poem that tells the story of a struggle against an unseen force.",
+        "instruction_translated": "\u76ee\u306b\u898b\u3048\u306a\u3044\u529b\u306b\u5bfe\u3059\u308b\u95d8\u3044\u306e\u7269\u8a9e\u3092\u4f1d\u3048\u308b\u8a69\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of a use case for predictive analytics",
+        "instruction_translated": "\u4e88\u6e2c\u5206\u6790\u306e\u305f\u3081\u306e\u30e6\u30fc\u30b9\u30b1\u30fc\u30b9\u306e\u4f8b\u3092\u751f\u6210\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Describe the effects of exponential growth.",
+        "instruction_translated": "\u6307\u6570\u95a2\u6570\u7684\u306a\u6210\u9577\u306e\u5f71\u97ff\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a cross-stitch pattern that says \"the future is bright\".",
+        "instruction_translated": "\u300c\u672a\u6765\u306f\u660e\u308b\u3044\u300d\u3068\u3044\u3046\u30af\u30ed\u30b9\u30b9\u30c6\u30c3\u30c1\u30d1\u30bf\u30fc\u30f3\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast print media and digital media.",
+        "instruction_translated": "\u5370\u5237\u30e1\u30c7\u30a3\u30a2\u3068\u30c7\u30b8\u30bf\u30eb\u30e1\u30c7\u30a3\u30a2\u3092\u6bd4\u8f03\u5bfe\u7167\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain why governments may choose to censor some content on the Internet.",
+        "instruction_translated": "\u653f\u5e9c\u304c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u4e0a\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u3092\u691c\u95b2\u3059\u308b\u3053\u3068\u3092\u9078\u629e\u3059\u308b\u7406\u7531\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Given a description of the scientific method, summarize the steps in five sentences or fewer.",
+        "instruction_translated": "\u79d1\u5b66\u7684\u65b9\u6cd5\u306e\u8aac\u660e\u304c\u4e0e\u3048\u3089\u308c\u305f\u5834\u5408\u30015\u6587\u4ee5\u4e0b\u306e\u624b\u9806\u3092\u8981\u7d04\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Identify whether the following statement is true or false. All mammals breathe through their nose.",
+        "instruction_translated": "\u6b21\u306e\u30b9\u30c6\u30fc\u30c8\u30e1\u30f3\u30c8\u304c\u771f\u304b\u865a\u507d\u304b\u3092\u7279\u5b9a\u3057\u307e\u3059\u3002\u3059\u3079\u3066\u306e\u54fa\u4e73\u985e\u306f\u9f3b\u304b\u3089\u547c\u5438\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a creative and engaging activity that could be done with a group of elementary school children.",
+        "instruction_translated": "\u5c0f\u5b66\u751f\u306e\u30b0\u30eb\u30fc\u30d7\u3067\u884c\u3046\u3053\u3068\u304c\u3067\u304d\u308b\u5275\u9020\u7684\u3067\u9b45\u529b\u7684\u306a\u6d3b\u52d5\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a character who is frustrated about their job.",
+        "instruction_translated": "\u81ea\u5206\u306e\u4ed5\u4e8b\u306b\u4e0d\u6e80\u3092\u611f\u3058\u3066\u3044\u308b\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306b\u3064\u3044\u3066\u306e\u7269\u8a9e\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List the seven principles of Kwanzaa.",
+        "instruction_translated": "\u30af\u30ef\u30f3\u30b6\u306e7\u3064\u306e\u539f\u5247\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a data visualization that shows the relationship between the number of hours of sleep and energy levels",
+        "instruction_translated": "\u7761\u7720\u6642\u9593\u6570\u3068\u30a8\u30cd\u30eb\u30ae\u30fc\u30ec\u30d9\u30eb\u306e\u95a2\u4fc2\u3092\u793a\u3059\u30c7\u30fc\u30bf\u306e\u8996\u899a\u5316\u3092\u4f5c\u6210\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Compare the benefits of eating healthy food with the benefits of exercising regularly.",
+        "instruction_translated": "\u5065\u5eb7\u7684\u306a\u98df\u3079\u7269\u3092\u98df\u3079\u308b\u3053\u3068\u306e\u5229\u70b9\u3068\u5b9a\u671f\u7684\u306b\u904b\u52d5\u3059\u308b\u5229\u70b9\u3092\u6bd4\u8f03\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of creative gifts for children between the ages of 5 and 8",
+        "instruction_translated": "5\u6b73\u304b\u30898\u6b73\u307e\u3067\u306e\u5b50\u4f9b\u5411\u3051\u306e\u30af\u30ea\u30a8\u30a4\u30c6\u30a3\u30d6\u30ae\u30d5\u30c8\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the two theories about the origin of the universe: Big Bang and Steady State.",
+        "instruction_translated": "\u5b87\u5b99\u306e\u8d77\u6e90\u306b\u95a2\u3059\u308b2\u3064\u306e\u7406\u8ad6\u3092\u6bd4\u8f03\u5bfe\u7167\u3057\u3001\u5bfe\u6bd4\u3057\u307e\u3059\uff1a\u30d3\u30c3\u30b0\u30d0\u30f3\u3068\u5b89\u5b9a\u72b6\u614b\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe why bicycles are efficient modes of transportation.",
+        "instruction_translated": "\u81ea\u8ee2\u8eca\u304c\u52b9\u7387\u7684\u306a\u8f38\u9001\u30e2\u30fc\u30c9\u3067\u3042\u308b\u7406\u7531\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Construct a valid English sentence using the words \"fungus\", \"treat\", and \"enzyme\".",
+        "instruction_translated": "\u300c\u83cc\u300d\u3001\u300c\u6271\u3044\u300d\u3001\u300c\u9175\u7d20\u300d\u3068\u3044\u3046\u8a00\u8449\u3092\u4f7f\u7528\u3057\u3066\u3001\u6709\u52b9\u306a\u82f1\u8a9e\u6587\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a poem that describes the beauty of summer days.",
+        "instruction_translated": "\u590f\u306e\u65e5\u306e\u7f8e\u3057\u3055\u3092\u8aac\u660e\u3059\u308b\u8a69\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Look up the definition of \"artificial intelligence\"",
+        "instruction_translated": "\u300c\u4eba\u5de5\u77e5\u80fd\u300d\u306e\u5b9a\u7fa9\u3092\u8abf\u3079\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Compose a headline showcasing your company's most important values.",
+        "instruction_translated": "\u4f1a\u793e\u306e\u6700\u3082\u91cd\u8981\u306a\u4fa1\u5024\u3092\u793a\u3059\u898b\u51fa\u3057\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How does the human nervous system function?",
+        "instruction_translated": "\u4eba\u9593\u306e\u795e\u7d4c\u7cfb\u306f\u3069\u306e\u3088\u3046\u306b\u6a5f\u80fd\u3057\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "What countries were members of the Axis Powers in World War II?",
+        "instruction_translated": "\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\u306e\u8ef8\u306e\u529b\u306e\u30e1\u30f3\u30d0\u30fc\u306f\u3069\u306e\u56fd\u3067\u3057\u305f\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a solution for reducing energy consumption",
+        "instruction_translated": "\u30a8\u30cd\u30eb\u30ae\u30fc\u6d88\u8cbb\u3092\u6e1b\u3089\u3059\u305f\u3081\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u63d0\u6848\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Collect and summarize five facts about the Apollo 11 mission.",
+        "instruction_translated": "Apollo 11\u30df\u30c3\u30b7\u30e7\u30f3\u306b\u95a2\u3059\u308b5\u3064\u306e\u4e8b\u5b9f\u3092\u53ce\u96c6\u3057\u3066\u8981\u7d04\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Prove that if AB is a parallelogram, then \u2220A + \u2220B = 180\u00b0.",
+        "instruction_translated": "ab\u304c\u5e73\u884c\u56db\u8fba\u5f62\u306e\u5834\u5408\u3001\u00b6a + am b = 180\u00b0\u3067\u3042\u308b\u3053\u3068\u3092\u8a3c\u660e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the experience of being in Flagstaff, Arizona",
+        "instruction_translated": "\u30a2\u30ea\u30be\u30ca\u5dde\u30d5\u30e9\u30c3\u30b0\u30b9\u30bf\u30c3\u30d5\u306b\u3044\u308b\u7d4c\u9a13\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of 5 budget-friendly ways to improve one's home.",
+        "instruction_translated": "\u81ea\u5b85\u3092\u6539\u5584\u3059\u308b\u305f\u3081\u306e5\u3064\u306e\u4e88\u7b97\u306b\u512a\u3057\u3044\u65b9\u6cd5\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Predict what the Dow Jones Industrial Average will be when the market closes today.",
+        "instruction_translated": "Dow Jones Industrial Average\u304c\u4eca\u65e5\u306e\u5e02\u5834\u304c\u9589\u9396\u3055\u308c\u305f\u3068\u304d\u306b\u4f55\u3067\u3042\u308b\u304b\u3092\u4e88\u6e2c\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe an example of how to provide excellent customer service",
+        "instruction_translated": "\u512a\u308c\u305f\u30ab\u30b9\u30bf\u30de\u30fc\u30b5\u30fc\u30d3\u30b9\u3092\u63d0\u4f9b\u3059\u308b\u65b9\u6cd5\u306e\u4f8b\u3092\u8aac\u660e\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Sort the following list according to size: skyscraper, shed, house, bridge.",
+        "instruction_translated": "\u30b5\u30a4\u30ba\u306b\u5fdc\u3058\u3066\u6b21\u306e\u30ea\u30b9\u30c8\u3092\u4e26\u3079\u66ff\u3048\u307e\u3059\uff1a\u8d85\u9ad8\u5c64\u30d3\u30eb\u3001\u5c0f\u5c4b\u3001\u5bb6\u3001\u6a4b\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the result when 8 is added to 3 ?",
+        "instruction_translated": "8\u304c3\u306b\u8ffd\u52a0\u3055\u308c\u308b\u3068\u3001\u7d50\u679c\u306f\u3069\u3046\u306a\u308a\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Generate a convincing opening line for a science fiction book.",
+        "instruction_translated": "SF\u672c\u306e\u8aac\u5f97\u529b\u306e\u3042\u308b\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30e9\u30a4\u30f3\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What items could a person put in an emergency kit?",
+        "instruction_translated": "\u4eba\u306f\u7dca\u6025\u30ad\u30c3\u30c8\u306b\u3069\u306e\u3088\u3046\u306a\u30a2\u30a4\u30c6\u30e0\u3092\u7f6e\u304f\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Fix the following sentence: \"The bear run through the forest\"",
+        "instruction_translated": "\u6b21\u306e\u6587\u3092\u4fee\u6b63\u3057\u307e\u3059\uff1a\u300c\u30af\u30de\u306f\u68ee\u3092\u8d70\u308a\u307e\u3059\u300d",
+        "category": null
+    },
+    {
+        "instruction": "What is the thesis of the article \u201cA Study of the Sky\u201d",
+        "instruction_translated": "\u8a18\u4e8b\u300c\u7a7a\u306e\u7814\u7a76\u300d\u306e\u8ad6\u6587\u306f\u4f55\u3067\u3059\u304b",
+        "category": null
+    },
+    {
+        "instruction": "Identify the atmosphere of a murder mystery.",
+        "instruction_translated": "\u6bba\u4eba\u30df\u30b9\u30c6\u30ea\u30fc\u306e\u96f0\u56f2\u6c17\u3092\u7279\u5b9a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast humans and animals",
+        "instruction_translated": "\u4eba\u9593\u3068\u52d5\u7269\u3092\u6bd4\u8f03\u5bfe\u7167\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Name five things that are made of wood.",
+        "instruction_translated": "\u6728\u3067\u4f5c\u3089\u308c\u305f5\u3064\u306e\u3082\u306e\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following statement in the past tense: \"They are planning to launch a new website.\"",
+        "instruction_translated": "\u904e\u53bb\u5f62\u3067\u6b21\u306e\u58f0\u660e\u3092\u66f8\u304d\u76f4\u3057\u307e\u3059\uff1a\u300c\u5f7c\u3089\u306f\u65b0\u3057\u3044\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\u3092\u7acb\u3061\u4e0a\u3052\u308b\u3053\u3068\u3092\u8a08\u753b\u3057\u3066\u3044\u307e\u3059\u3002\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Describe a good way to stay organized.",
+        "instruction_translated": "\u7d44\u7e54\u5316\u3055\u308c\u305f\u307e\u307e\u306b\u3059\u308b\u826f\u3044\u65b9\u6cd5\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the most important thing a leader needs to do to be successful?",
+        "instruction_translated": "\u30ea\u30fc\u30c0\u30fc\u304c\u6210\u529f\u3059\u308b\u305f\u3081\u306b\u5fc5\u8981\u306a\u6700\u3082\u91cd\u8981\u306a\u3053\u3068\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Name a technological advancement from the last 10 years",
+        "instruction_translated": "\u904e\u53bb10\u5e74\u9593\u306e\u6280\u8853\u7684\u9032\u6b69\u306b\u540d\u524d\u3092\u4ed8\u3051\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "What can you do in order to cope with daily stress?",
+        "instruction_translated": "\u6bce\u65e5\u306e\u30b9\u30c8\u30ec\u30b9\u306b\u5bfe\u51e6\u3059\u308b\u305f\u3081\u306b\u4f55\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Explain why would it be beneficial to use an existing classification model rather than building a new one.",
+        "instruction_translated": "\u65b0\u3057\u3044\u5206\u985e\u30e2\u30c7\u30eb\u3092\u69cb\u7bc9\u3059\u308b\u306e\u3067\u306f\u306a\u304f\u3001\u65e2\u5b58\u306e\u5206\u985e\u30e2\u30c7\u30eb\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u304c\u6709\u76ca\u3067\u3042\u308b\u7406\u7531\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a computational design to move a robotic arm using the minimum amount of code.",
+        "instruction_translated": "\u30b3\u30fc\u30c9\u306e\u6700\u5c0f\u91cf\u3092\u4f7f\u7528\u3057\u3066\u30ed\u30dc\u30c3\u30c8\u30a2\u30fc\u30e0\u3092\u79fb\u52d5\u3059\u308b\u305f\u3081\u306e\u8a08\u7b97\u8a2d\u8a08\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Comparatively explain online shopping and in-store shopping.",
+        "instruction_translated": "\u30aa\u30f3\u30e9\u30a4\u30f3\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3068\u5e97\u5185\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u6bd4\u8f03\u3057\u3066\u8aac\u660e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the advantages of studying abroad",
+        "instruction_translated": "\u7559\u5b66\u306e\u5229\u70b9\u3092\u8981\u7d04\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Generate a sentence using the following words: tiger, river, dance",
+        "instruction_translated": "\u6b21\u306e\u8a00\u8449\u3092\u4f7f\u7528\u3057\u3066\u6587\u3092\u751f\u6210\u3059\u308b\uff1a\u30bf\u30a4\u30ac\u30fc\u3001\u30ea\u30d0\u30fc\u3001\u30c0\u30f3\u30b9",
+        "category": null
+    },
+    {
+        "instruction": "Design a data structure to store a dictionary of 5,000 words.",
+        "instruction_translated": "\u30c7\u30fc\u30bf\u69cb\u9020\u3092\u8a2d\u8a08\u3057\u3066\u30015,000\u8a9e\u306e\u8f9e\u66f8\u3092\u4fdd\u5b58\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a haiku poem that reflects the beauty of nature.",
+        "instruction_translated": "\u81ea\u7136\u306e\u7f8e\u3057\u3055\u3092\u53cd\u6620\u3057\u305f\u4ff3\u53e5\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a description of a small town by the ocean.",
+        "instruction_translated": "\u6d77\u3067\u5c0f\u3055\u306a\u753a\u306e\u8aac\u660e\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List 5 ways to improve working conditions in an office.",
+        "instruction_translated": "\u30aa\u30d5\u30a3\u30b9\u306e\u52b4\u50cd\u6761\u4ef6\u3092\u6539\u5584\u3059\u308b5\u3064\u306e\u65b9\u6cd5\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of three daily habits that could lead to creativity breakthroughs.",
+        "instruction_translated": "\u5275\u9020\u6027\u306e\u30d6\u30ec\u30fc\u30af\u30b9\u30eb\u30fc\u306b\u3064\u306a\u304c\u308b\u53ef\u80fd\u6027\u306e\u3042\u308b3\u3064\u306e\u6bce\u65e5\u306e\u7fd2\u6163\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest three social media campaigns to promote the product.",
+        "instruction_translated": "\u88fd\u54c1\u3092\u5ba3\u4f1d\u3059\u308b\u305f\u3081\u306e3\u3064\u306e\u30bd\u30fc\u30b7\u30e3\u30eb\u30e1\u30c7\u30a3\u30a2\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Provide a CSS code for making all text boxes visible on the page.",
+        "instruction_translated": "\u3059\u3079\u3066\u306e\u30c6\u30ad\u30b9\u30c8\u30dc\u30c3\u30af\u30b9\u3092\u30da\u30fc\u30b8\u306b\u8868\u793a\u3067\u304d\u308b\u3088\u3046\u306b\u3059\u308b\u305f\u3081\u306eCSS\u30b3\u30fc\u30c9\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the role of the International Criminal Court?",
+        "instruction_translated": "\u56fd\u969b\u5211\u4e8b\u88c1\u5224\u6240\u306e\u5f79\u5272\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of Moore's Law.",
+        "instruction_translated": "\u30e0\u30fc\u30a2\u306e\u6cd5\u5f8b\u306e\u6982\u5ff5\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What are the best strategies to reduce emissions?",
+        "instruction_translated": "\u6392\u51fa\u91cf\u3092\u524a\u6e1b\u3059\u308b\u305f\u3081\u306e\u6700\u826f\u306e\u6226\u7565\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a way to generate web traffic.",
+        "instruction_translated": "Web\u30c8\u30e9\u30d5\u30a3\u30c3\u30af\u3092\u751f\u6210\u3059\u308b\u65b9\u6cd5\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a dialog for two characters talking about a recent movie they watched",
+        "instruction_translated": "\u5f7c\u3089\u304c\u898b\u305f\u6700\u8fd1\u306e\u6620\u753b\u306b\u3064\u3044\u3066\u8a71\u3057\u3066\u3044\u308b2\u4eba\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30c0\u30a4\u30a2\u30ed\u30b0\u3092\u66f8\u304f",
+        "category": null
+    },
+    {
+        "instruction": "Explain the purpose of the current US federal income tax system.",
+        "instruction_translated": "\u73fe\u5728\u306e\u7c73\u56fd\u9023\u90a6\u6240\u5f97\u7a0e\u30b7\u30b9\u30c6\u30e0\u306e\u76ee\u7684\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate instructions for how to write a speech",
+        "instruction_translated": "\u30b9\u30d4\u30fc\u30c1\u306e\u66f8\u304d\u65b9\u306e\u6307\u793a\u3092\u751f\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Describe the process of photosynthesis to me.",
+        "instruction_translated": "\u79c1\u306b\u306f\u5149\u5408\u6210\u306e\u30d7\u30ed\u30bb\u30b9\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a song lyric about birds.",
+        "instruction_translated": "\u9ce5\u306b\u3064\u3044\u3066\u6b4c\u8a5e\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a story about a young girl and her journey of self-discovery",
+        "instruction_translated": "\u82e5\u3044\u5973\u306e\u5b50\u3068\u5f7c\u5973\u306e\u81ea\u5df1\u767a\u898b\u306e\u65c5\u306b\u3064\u3044\u3066\u306e\u7269\u8a9e\u3092\u66f8\u304f",
+        "category": null
+    },
+    {
+        "instruction": "Create a shopping list for cereal, milk and eggs.",
+        "instruction_translated": "\u30b7\u30ea\u30a2\u30eb\u3001\u725b\u4e73\u3001\u5375\u306e\u8cb7\u3044\u7269\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Imagine a device that can help you read faster. Describe the device.",
+        "instruction_translated": "\u3088\u308a\u901f\u304f\u8aad\u3080\u306e\u306b\u5f79\u7acb\u3064\u30c7\u30d0\u30a4\u30b9\u3092\u60f3\u50cf\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u30c7\u30d0\u30a4\u30b9\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Select the incorrect definition for the word \"timid\"",
+        "instruction_translated": "\u300ctimid\u300d\u3068\u3044\u3046\u8a00\u8449\u306e\u8aa4\u3063\u305f\u5b9a\u7fa9\u3092\u9078\u629e\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Justify why users need permissions before they can access certain data",
+        "instruction_translated": "\u7279\u5b9a\u306e\u30c7\u30fc\u30bf\u306b\u30a2\u30af\u30bb\u30b9\u3059\u308b\u524d\u306b\u30e6\u30fc\u30b6\u30fc\u304c\u30a2\u30af\u30bb\u30b9\u6a29\u3092\u5fc5\u8981\u3068\u3059\u308b\u7406\u7531\u3092\u6b63\u5f53\u5316\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Suggest an action to reduce CO2 emissions",
+        "instruction_translated": "CO2\u6392\u51fa\u91cf\u3092\u524a\u6e1b\u3059\u308b\u305f\u3081\u306e\u30a2\u30af\u30b7\u30e7\u30f3\u3092\u63d0\u6848\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a person going on a last-minute vacation.",
+        "instruction_translated": "\u571f\u58c7\u5834\u3067\u306e\u4f11\u6687\u306b\u884c\u304f\u4eba\u306b\u3064\u3044\u3066\u306e\u8a71\u3092\u751f\u307f\u51fa\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm five innovative uses of AI",
+        "instruction_translated": "AI\u306e5\u3064\u306e\u9769\u65b0\u7684\u306a\u4f7f\u7528\u3092\u30d6\u30ec\u30a4\u30f3\u30b9\u30c8\u30fc\u30df\u30f3\u30b0\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of at least 5 benefits of virtual meetings.",
+        "instruction_translated": "\u4eee\u60f3\u4f1a\u8b70\u306e\u5c11\u306a\u304f\u3068\u30825\u3064\u306e\u5229\u70b9\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain the recent changes in Indian banking policies.",
+        "instruction_translated": "\u30a4\u30f3\u30c9\u306e\u9280\u884c\u653f\u7b56\u306e\u6700\u8fd1\u306e\u5909\u66f4\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following sentence in a more formal way:\n\n\"I want to learn about this new app.\"",
+        "instruction_translated": "\u6b21\u306e\u6587\u3092\u3088\u308a\u6b63\u5f0f\u306a\u65b9\u6cd5\u3067\u66f8\u304d\u76f4\u3057\u307e\u3059\u3002\n\n\u300c\u3053\u306e\u65b0\u3057\u3044\u30a2\u30d7\u30ea\u306b\u3064\u3044\u3066\u5b66\u3073\u305f\u3044\u3067\u3059\u3002\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Give two reasons to buy a car.",
+        "instruction_translated": "\u8eca\u3092\u8cb7\u3046\u7406\u7531\u30922\u3064\u4e0e\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast two types of computer networks.",
+        "instruction_translated": "2\u7a2e\u985e\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3092\u6bd4\u8f03\u5bfe\u7167\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain the significance of the number 10 in the Bible.",
+        "instruction_translated": "\u8056\u66f8\u306e10\u756a\u306e\u91cd\u8981\u6027\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a new feature for Gmail",
+        "instruction_translated": "Gmail\u306e\u65b0\u6a5f\u80fd\u3092\u63d0\u6848\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Create a CSS code to style a button with a bright green background and white text.",
+        "instruction_translated": "CSS\u30b3\u30fc\u30c9\u3092\u4f5c\u6210\u3057\u3066\u3001\u660e\u308b\u3044\u7dd1\u8272\u306e\u80cc\u666f\u3068\u767d\u3044\u30c6\u30ad\u30b9\u30c8\u3092\u5099\u3048\u305f\u30dc\u30bf\u30f3\u3092\u30b9\u30bf\u30a4\u30ea\u30f3\u30b0\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write your own haiku.",
+        "instruction_translated": "\u3042\u306a\u305f\u81ea\u8eab\u306e\u4ff3\u53e5\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a set of instructions for making a sandwich",
+        "instruction_translated": "\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u3092\u4f5c\u6210\u3059\u308b\u305f\u3081\u306e\u4e00\u9023\u306e\u6307\u793a\u3092\u751f\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Invent a new word by combining two existing words.",
+        "instruction_translated": "2\u3064\u306e\u65e2\u5b58\u306e\u5358\u8a9e\u3092\u7d44\u307f\u5408\u308f\u305b\u3066\u65b0\u3057\u3044\u5358\u8a9e\u3092\u767a\u660e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm three ideas for an outdoor activity.",
+        "instruction_translated": "\u5c4b\u5916\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u306e\u305f\u3081\u306e3\u3064\u306e\u30a2\u30a4\u30c7\u30a2\u3092\u30d6\u30ec\u30a4\u30f3\u30b9\u30c8\u30fc\u30df\u30f3\u30b0\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a code snippet that prints out a list of integers from 1 to 10.",
+        "instruction_translated": "1\u301c10\u306e\u6574\u6570\u306e\u30ea\u30b9\u30c8\u3092\u5370\u5237\u3059\u308b\u30b3\u30fc\u30c9\u30b9\u30cb\u30da\u30c3\u30c8\u3092\u66f8\u304d\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What techniques should be used for text summarization?",
+        "instruction_translated": "\u30c6\u30ad\u30b9\u30c8\u306e\u8981\u7d04\u306b\u306f\u3069\u306e\u3088\u3046\u306a\u624b\u6cd5\u3092\u4f7f\u7528\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Given a sentence, identify the closest synonym of the word \"enjoy\".",
+        "instruction_translated": "\u6587\u304c\u4e0e\u3048\u3089\u308c\u305f\u5834\u5408\u3001\u300c\u697d\u3057\u3080\u300d\u3068\u3044\u3046\u8a00\u8449\u306e\u6700\u3082\u8fd1\u3044\u540c\u7fa9\u8a9e\u3092\u7279\u5b9a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a description of a new cryptocurrency.",
+        "instruction_translated": "\u65b0\u3057\u3044\u6697\u53f7\u901a\u8ca8\u306e\u8aac\u660e\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Give 2 potential solutions to reduce the global carbon emissions.",
+        "instruction_translated": "\u4e16\u754c\u306e\u70ad\u7d20\u6392\u51fa\u91cf\u3092\u524a\u6e1b\u3059\u308b\u305f\u3081\u306e2\u3064\u306e\u6f5c\u5728\u7684\u306a\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Find the maximum of the function y = x^2 - 5x +6",
+        "instruction_translated": "\u95a2\u6570\u306e\u6700\u5927\u5024\u3092\u898b\u3064\u3051\u307e\u3059y = x^2-5x +6",
+        "category": null
+    },
+    {
+        "instruction": "Create a recipe to make grilled cheese sandwich.",
+        "instruction_translated": "\u30b0\u30ea\u30eb\u30c1\u30fc\u30ba\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u3092\u4f5c\u308b\u30ec\u30b7\u30d4\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How can we solve the issue of waste reduction ?",
+        "instruction_translated": "\u5ec3\u68c4\u7269\u306e\u6e1b\u5c11\u306e\u554f\u984c\u3092\u3069\u306e\u3088\u3046\u306b\u89e3\u6c7a\u3067\u304d\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Generate a plan for a road trip from San Francisco to Los Angeles.",
+        "instruction_translated": "\u30b5\u30f3\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3\u304b\u3089\u30ed\u30b5\u30f3\u30bc\u30eb\u30b9\u3078\u306e\u30ed\u30fc\u30c9\u30c8\u30ea\u30c3\u30d7\u306e\u8a08\u753b\u3092\u751f\u307f\u51fa\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name three common adjectives that describe people",
+        "instruction_translated": "\u4eba\u3092\u8aac\u660e\u3059\u308b3\u3064\u306e\u4e00\u822c\u7684\u306a\u5f62\u5bb9\u8a5e\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the health benefits of eating organic food vs non-organic food.",
+        "instruction_translated": "\u6709\u6a5f\u98df\u54c1\u3068\u975e\u6709\u6a5f\u98df\u54c1\u3092\u98df\u3079\u308b\u3053\u3068\u306e\u5065\u5eb7\u4e0a\u306e\u5229\u70b9\u3092\u6bd4\u8f03\u5bfe\u7167\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain how a Unix system can be protected from external threats.",
+        "instruction_translated": "UNIX\u30b7\u30b9\u30c6\u30e0\u3092\u5916\u90e8\u306e\u8105\u5a01\u304b\u3089\u3069\u306e\u3088\u3046\u306b\u4fdd\u8b77\u3067\u304d\u308b\u304b\u3092\u8aac\u660e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name the historical events leading up to the French Revolution.",
+        "instruction_translated": "\u30d5\u30e9\u30f3\u30b9\u9769\u547d\u306b\u81f3\u308b\u307e\u3067\u306e\u6b74\u53f2\u7684\u306a\u51fa\u6765\u4e8b\u306b\u540d\u524d\u3092\u4ed8\u3051\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of potential features that a health tracking mobile app could use.",
+        "instruction_translated": "\u5065\u5eb7\u8ffd\u8de1\u30e2\u30d0\u30a4\u30eb\u30a2\u30d7\u30ea\u304c\u4f7f\u7528\u3067\u304d\u308b\u6f5c\u5728\u7684\u306a\u6a5f\u80fd\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest an application of artificial intelligence.",
+        "instruction_translated": "\u4eba\u5de5\u77e5\u80fd\u306e\u9069\u7528\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain how the internet provides access to information.",
+        "instruction_translated": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u304c\u60c5\u5831\u3078\u306e\u30a2\u30af\u30bb\u30b9\u3092\u63d0\u4f9b\u3059\u308b\u65b9\u6cd5\u3092\u8aac\u660e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What are the benefits of going on a long walk?",
+        "instruction_translated": "\u9577\u3044\u6563\u6b69\u306b\u884c\u304f\u3053\u3068\u306e\u5229\u70b9\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Follow the instructions to make nutty chocolate pretzel bites",
+        "instruction_translated": "\u6307\u793a\u306b\u5f93\u3063\u3066\u3001\u30ca\u30c3\u30c4\u306e\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u30d7\u30ec\u30c3\u30c4\u30a7\u30eb\u30d0\u30a4\u30c8\u3092\u4f5c\u3063\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Schoolteachers are responsible for what?",
+        "instruction_translated": "\u5b66\u6821\u306e\u5148\u751f\u306f\u4f55\u306b\u5bfe\u3057\u3066\u8cac\u4efb\u304c\u3042\u308a\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Describe the definition of artificial intelligence in one sentence.",
+        "instruction_translated": "1\u3064\u306e\u6587\u3067\u4eba\u5de5\u77e5\u80fd\u306e\u5b9a\u7fa9\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Give me a list of fruits and vegetables that are in season during Spring.",
+        "instruction_translated": "\u6625\u306b\u5b63\u7bc0\u306e\u679c\u7269\u3084\u91ce\u83dc\u306e\u30ea\u30b9\u30c8\u3092\u6559\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a fake customer review of a software",
+        "instruction_translated": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306e\u507d\u306e\u9867\u5ba2\u30ec\u30d3\u30e5\u30fc\u3092\u751f\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Find a statistic about the current population of Japan.",
+        "instruction_translated": "\u65e5\u672c\u306e\u73fe\u5728\u306e\u4eba\u53e3\u306b\u95a2\u3059\u308b\u7d71\u8a08\u3092\u898b\u3064\u3051\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Extract the main theme from the following text:\n\n\"The world is a big place, full of challenges and opportunities. Every day, we all have the chance to make a difference, no matter how small.\"",
+        "instruction_translated": "\u6b21\u306e\u30c6\u30ad\u30b9\u30c8\u304b\u3089\u30e1\u30a4\u30f3\u30c6\u30fc\u30de\u3092\u62bd\u51fa\u3057\u307e\u3059\u3002\n\n\u300c\u4e16\u754c\u306f\u5927\u304d\u306a\u5834\u6240\u3067\u3042\u308a\u3001\u6311\u6226\u3068\u6a5f\u4f1a\u306b\u6e80\u3061\u3066\u3044\u307e\u3059\u3002\u6bce\u65e5\u3001\u79c1\u305f\u3061\u306f\u7686\u3001\u3069\u3093\u306a\u306b\u5c0f\u3055\u304f\u3066\u3082\u9055\u3044\u3092\u751f\u3080\u6a5f\u4f1a\u304c\u3042\u308a\u307e\u3059\u3002\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Generate a lead for an article about eco-friendly transportation.",
+        "instruction_translated": "\u74b0\u5883\u306b\u512a\u3057\u3044\u8f38\u9001\u306b\u95a2\u3059\u308b\u8a18\u4e8b\u306e\u30ea\u30fc\u30c9\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How can countries reduce the effects of climate change?",
+        "instruction_translated": "\u56fd\u3005\u306f\u6c17\u5019\u5909\u52d5\u306e\u5f71\u97ff\u3092\u3069\u306e\u3088\u3046\u306b\u6e1b\u3089\u3059\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Which country has the most active volcanos?",
+        "instruction_translated": "\u6700\u3082\u6d3b\u767a\u306a\u706b\u5c71\u304c\u3042\u308b\u56fd\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Think of a friendly reminder to complete a task.",
+        "instruction_translated": "\u30bf\u30b9\u30af\u3092\u5b8c\u4e86\u3059\u308b\u305f\u3081\u306e\u53cb\u597d\u7684\u306a\u30ea\u30de\u30a4\u30f3\u30c0\u30fc\u3092\u8003\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the best way to list five facts about bicycles?",
+        "instruction_translated": "\u81ea\u8ee2\u8eca\u306b\u95a2\u3059\u308b5\u3064\u306e\u4e8b\u5b9f\u3092\u30ea\u30b9\u30c8\u3059\u308b\u6700\u826f\u306e\u65b9\u6cd5\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "What is the main difference between a while loop and a for loop?",
+        "instruction_translated": "\u6642\u9593\u30eb\u30fc\u30d7\u3068for\u30eb\u30fc\u30d7\u306e\u4e3b\u306a\u9055\u3044\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Design an app that tracks exercise activities and gives users suggestions on how to improve their performance.",
+        "instruction_translated": "\u30a8\u30af\u30b5\u30b5\u30a4\u30ba\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u3092\u8ffd\u8de1\u3057\u3001\u30e6\u30fc\u30b6\u30fc\u306b\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u3092\u5411\u4e0a\u3055\u305b\u308b\u65b9\u6cd5\u306b\u3064\u3044\u3066\u306e\u63d0\u6848\u3092\u63d0\u4f9b\u3059\u308b\u30a2\u30d7\u30ea\u3092\u8a2d\u8a08\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a piece of text describing the advantages of using solar energy.",
+        "instruction_translated": "\u592a\u967d\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u306e\u5229\u70b9\u3092\u8aac\u660e\u3059\u308b\u30c6\u30ad\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the benefits of a plant-based diet in one sentence.",
+        "instruction_translated": "\u690d\u7269\u30d9\u30fc\u30b9\u306e\u98df\u4e8b\u306e\u5229\u70b9\u30921\u3064\u306e\u6587\u3067\u8981\u7d04\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How does a computer read data from the internet?",
+        "instruction_translated": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u306f\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u304b\u3089\u30c7\u30fc\u30bf\u3092\u3069\u306e\u3088\u3046\u306b\u8aad\u307f\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Come up with an appropriate dialogue between a customer and a shop assistant.",
+        "instruction_translated": "\u9867\u5ba2\u3068\u30b7\u30e7\u30c3\u30d7\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u306e\u9593\u306e\u9069\u5207\u306a\u5bfe\u8a71\u3092\u8003\u3048\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the performance of a website",
+        "instruction_translated": "\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\u306e\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u3092\u5206\u6790\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Formulate an AI-based model that can tell the difference between a dog and a cat.",
+        "instruction_translated": "\u72ac\u3068\u732b\u306e\u9055\u3044\u3092\u4f1d\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308bAI\u30d9\u30fc\u30b9\u306e\u30e2\u30c7\u30eb\u3092\u51e6\u65b9\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Find a creative way to end the following sentence: \"Winter is my favorite season because...\"",
+        "instruction_translated": "\u6b21\u306e\u6587\u3092\u7d42\u308f\u3089\u305b\u308b\u5275\u9020\u7684\u306a\u65b9\u6cd5\u3092\u898b\u3064\u3051\u3066\u304f\u3060\u3055\u3044\uff1a\u300c\u51ac\u306f\u79c1\u306e\u304a\u6c17\u306b\u5165\u308a\u306e\u5b63\u7bc0\u3060\u304b\u3089...\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Design a game involving numbers that could be used in the classroom.",
+        "instruction_translated": "\u6559\u5ba4\u3067\u4f7f\u7528\u3067\u304d\u308b\u6570\u5b57\u3092\u542b\u3080\u30b2\u30fc\u30e0\u3092\u8a2d\u8a08\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Provide 3 steps to solve this algebra equation: 3x + 7 = 12.",
+        "instruction_translated": "\u3053\u306e\u4ee3\u6570\u65b9\u7a0b\u5f0f\u3092\u89e3\u304f\u305f\u3081\u306e3\u3064\u306e\u30b9\u30c6\u30c3\u30d7\u3092\u63d0\u4f9b\u3057\u307e\u3059\uff1a3x + 7 = 12\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name something that is pink.",
+        "instruction_translated": "\u30d4\u30f3\u30af\u8272\u306e\u3082\u306e\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a short advert for a local zoo",
+        "instruction_translated": "\u5730\u5143\u306e\u52d5\u7269\u5712\u306e\u77ed\u3044\u5e83\u544a\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Tell me something about a Nissan leaf.",
+        "instruction_translated": "\u65e5\u7523\u306e\u8449\u306b\u3064\u3044\u3066\u6559\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "In what year did the American Civil War end?",
+        "instruction_translated": "\u30a2\u30e1\u30ea\u30ab\u5185\u6226\u306f\u4f55\u5e74\u306b\u7d42\u308f\u308a\u307e\u3057\u305f\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Explain US taxation policy.",
+        "instruction_translated": "\u7c73\u56fd\u306e\u8ab2\u7a0e\u30dd\u30ea\u30b7\u30fc\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the article  'Discovering the Science Behind Manta Ray Flying'",
+        "instruction_translated": "\u300c\u30de\u30f3\u30bf\u30ec\u30a4\u30d5\u30e9\u30a4\u30f3\u30b0\u306e\u80cc\u5f8c\u306b\u3042\u308b\u79d1\u5b66\u306e\u767a\u898b\u300d\u8a18\u4e8b\u3092\u8981\u7d04\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Create a 10-digit password using numbers, letters, and symbols",
+        "instruction_translated": "\u6570\u5b57\u3001\u6587\u5b57\u3001\u8a18\u53f7\u3092\u4f7f\u7528\u3057\u306610\u6841\u306e\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u4f5c\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Demonstrate the use of a for-loop in Python",
+        "instruction_translated": "Python\u3067\u306e\u30eb\u30fc\u30d7\u306e\u4f7f\u7528\u3092\u793a\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Name a country that begins with the letter \"D\".",
+        "instruction_translated": "\u300cD\u300d\u3068\u3044\u3046\u6587\u5b57\u304b\u3089\u59cb\u307e\u308b\u56fd\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compose a letter to a friend describing a recent vacation",
+        "instruction_translated": "\u6700\u8fd1\u306e\u4f11\u6687\u3092\u8aac\u660e\u3059\u308b\u53cb\u4eba\u306b\u624b\u7d19\u3092\u4f5c\u6210\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Write a tweet from a user who is ecstatic about graduating from college.",
+        "instruction_translated": "\u5927\u5b66\u3092\u5352\u696d\u3059\u308b\u3053\u3068\u306b\u8208\u596e\u3057\u3066\u3044\u308b\u30e6\u30fc\u30b6\u30fc\u304b\u3089\u30c4\u30a4\u30fc\u30c8\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Design a castle defense strategy.",
+        "instruction_translated": "\u57ce\u306e\u9632\u885b\u6226\u7565\u3092\u8a2d\u8a08\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What characteristics make a movie a romantic comedy?",
+        "instruction_translated": "\u6620\u753b\u3092\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u306a\u30b3\u30e1\u30c7\u30a3\u306b\u3059\u308b\u7279\u5fb4\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Describe the environment around you right now.",
+        "instruction_translated": "\u3042\u306a\u305f\u306e\u5468\u308a\u306e\u74b0\u5883\u3092\u4eca\u3059\u3050\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a random password that meets the criteria of having upper case, lower case, and a number.",
+        "instruction_translated": "\u5927\u6587\u5b57\u3001\u5c0f\u6587\u5b57\u3001\u304a\u3088\u3073\u6570\u3092\u6301\u3064\u3068\u3044\u3046\u57fa\u6e96\u3092\u6e80\u305f\u3059\u30e9\u30f3\u30c0\u30e0\u306a\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the diplomatic relations between France and Germany in the last decade.",
+        "instruction_translated": "\u904e\u53bb10\u5e74\u9593\u306e\u30d5\u30e9\u30f3\u30b9\u3068\u30c9\u30a4\u30c4\u306e\u5916\u4ea4\u95a2\u4fc2\u306b\u3064\u3044\u3066\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the human rights guaranteed in the US Constitution.",
+        "instruction_translated": "\u7c73\u56fd\u61b2\u6cd5\u3067\u4fdd\u8a3c\u3055\u308c\u3066\u3044\u308b\u4eba\u6a29\u3092\u8981\u7d04\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Identify any three fallacies in this statement: \"We need to close our border to protect our country.\"",
+        "instruction_translated": "\u3053\u306e\u58f0\u660e\u306e3\u3064\u306e\u8aa4\u308a\u3092\u7279\u5b9a\u3057\u307e\u3059\uff1a\u300c\u79c1\u305f\u3061\u306e\u56fd\u3092\u5b88\u308b\u305f\u3081\u306b\u56fd\u5883\u3092\u9589\u9396\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u300d\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Can you generate a list of 10 interesting things to do in New York City?",
+        "instruction_translated": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5e02\u3067\u3084\u308b\u3079\u304d10\u306e\u8208\u5473\u6df1\u3044\u3053\u3068\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3067\u304d\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Generate a 20 words dialogue between two people where one of them is trying to explain a complex concept to the other.",
+        "instruction_translated": "2\u4eba\u306e\u9593\u306720\u8a9e\u306e\u5bfe\u8a71\u3092\u751f\u6210\u3057\u3001\u305d\u306e\u3046\u3061\u306e1\u4eba\u304c\u8907\u96d1\u306a\u6982\u5ff5\u3092\u3082\u30461\u4eba\u306b\u8aac\u660e\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name five behaviors that are essential to promoting a respectful work environment.",
+        "instruction_translated": "\u656c\u610f\u306e\u3042\u308b\u4f5c\u696d\u74b0\u5883\u3092\u4fc3\u9032\u3059\u308b\u305f\u3081\u306b\u4e0d\u53ef\u6b20\u306a5\u3064\u306e\u52d5\u4f5c\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Give an example for a comma splice",
+        "instruction_translated": "\u30b3\u30f3\u30de\u30b9\u30d7\u30e9\u30a4\u30b9\u306e\u4f8b\u3092\u6319\u3052\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Compose a tweet about the benefits of going on a morning walk.",
+        "instruction_translated": "\u671d\u306e\u6563\u6b69\u306b\u884c\u304f\u3053\u3068\u306e\u5229\u70b9\u306b\u3064\u3044\u3066\u30c4\u30a4\u30fc\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "State one benefit of artificial intelligence.",
+        "instruction_translated": "\u4eba\u5de5\u77e5\u80fd\u306e1\u3064\u306e\u5229\u70b9\u3092\u8ff0\u3079\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Design an experiment that tests the reaction of a tomato's growth to different kinds of water.",
+        "instruction_translated": "\u3055\u307e\u3056\u307e\u306a\u7a2e\u985e\u306e\u6c34\u306b\u5bfe\u3059\u308b\u30c8\u30de\u30c8\u306e\u6210\u9577\u306e\u53cd\u5fdc\u3092\u30c6\u30b9\u30c8\u3059\u308b\u5b9f\u9a13\u3092\u8a2d\u8a08\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name one of the branches of science",
+        "instruction_translated": "\u79d1\u5b66\u306e\u679d\u306e1\u3064\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "How do electrons in atoms interact with each other?",
+        "instruction_translated": "\u539f\u5b50\u306e\u96fb\u5b50\u306f\u3069\u306e\u3088\u3046\u306b\u76f8\u4e92\u4f5c\u7528\u3057\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Describe the sequence of actions to make scrambled eggs.",
+        "instruction_translated": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb\u30a8\u30c3\u30b0\u3092\u4f5c\u308b\u305f\u3081\u306e\u4e00\u9023\u306e\u30a2\u30af\u30b7\u30e7\u30f3\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the impact of visual storytelling on marketing campaigns.",
+        "instruction_translated": "\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u306b\u5bfe\u3059\u308b\u8996\u899a\u7684\u306a\u30b9\u30c8\u30fc\u30ea\u30fc\u30c6\u30ea\u30f3\u30b0\u306e\u5f71\u97ff\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Identify the differences between civil law and criminal law.",
+        "instruction_translated": "\u6c11\u6cd5\u3068\u5211\u6cd5\u306e\u9055\u3044\u3092\u7279\u5b9a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name three potential problems a company may face when adopting a new technology.",
+        "instruction_translated": "\u65b0\u3057\u3044\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3092\u63a1\u7528\u3059\u308b\u969b\u306b\u3001\u4f01\u696d\u304c\u76f4\u9762\u3059\u308b\u53ef\u80fd\u6027\u306e\u3042\u308b3\u3064\u306e\u6f5c\u5728\u7684\u306a\u554f\u984c\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a haiku that describes the feeling of freedom.",
+        "instruction_translated": "\u81ea\u7531\u611f\u3092\u8aac\u660e\u3059\u308b\u4ff3\u53e5\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How many miniutes does it take for the Earth to complete one rotation?",
+        "instruction_translated": "\u5730\u7403\u304c1\u3064\u306e\u56de\u8ee2\u3092\u5b8c\u4e86\u3059\u308b\u306e\u306b\u3044\u304f\u3064\u306e\u30df\u30cb\u30e5\u30fc\u30c8\u304c\u5fc5\u8981\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Write a regex pattern to match strings of the form a-zA-Z0-9.",
+        "instruction_translated": "\u30d5\u30a9\u30fc\u30e0A-ZA-Z0-9\u306e\u6587\u5b57\u5217\u306b\u4e00\u81f4\u3059\u308b\u3088\u3046\u306b\u3001\u6b63\u898f\u8868\u73fe\u30d1\u30bf\u30fc\u30f3\u3092\u66f8\u304d\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a fake license plate number",
+        "instruction_translated": "\u507d\u306e\u30ca\u30f3\u30d0\u30fc\u30d7\u30ec\u30fc\u30c8\u756a\u53f7\u3092\u751f\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular open-source photo editing tool.",
+        "instruction_translated": "\u4eba\u6c17\u306e\u3042\u308b\u30aa\u30fc\u30d7\u30f3\u30bd\u30fc\u30b9\u306e\u5199\u771f\u7de8\u96c6\u30c4\u30fc\u30eb\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a query to find out how to make tacos.",
+        "instruction_translated": "\u30af\u30a8\u30ea\u3092\u4f5c\u6210\u3057\u3066\u3001\u30bf\u30b3\u30b9\u306e\u4f5c\u6210\u65b9\u6cd5\u3092\u78ba\u8a8d\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Give an example of how gravity affects us in everyday life.",
+        "instruction_translated": "\u65e5\u5e38\u751f\u6d3b\u3067\u91cd\u529b\u304c\u79c1\u305f\u3061\u306b\u3069\u306e\u3088\u3046\u306b\u5f71\u97ff\u3059\u308b\u304b\u306e\u4f8b\u3092\u6319\u3052\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "In a few words, explain what AI is.",
+        "instruction_translated": "\u3044\u304f\u3064\u304b\u306e\u8a00\u8449\u3067\u3001AI\u3068\u306f\u4f55\u304b\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest ways that a business can reduce their CO2 emissions.",
+        "instruction_translated": "\u30d3\u30b8\u30cd\u30b9\u304cCO2\u6392\u51fa\u91cf\u3092\u524a\u6e1b\u3067\u304d\u308b\u65b9\u6cd5\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Please generate a short story of maximum 500 words, with a science fiction theme.",
+        "instruction_translated": "\u30b5\u30a4\u30a8\u30f3\u30b9\u30d5\u30a3\u30af\u30b7\u30e7\u30f3\u306e\u30c6\u30fc\u30de\u3067\u3001\u6700\u5927500\u8a9e\u306e\u77ed\u7de8\u5c0f\u8aac\u3092\u751f\u6210\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Give two reasons why we should abort a project.",
+        "instruction_translated": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3092\u4e2d\u6b62\u3059\u308b\u5fc5\u8981\u304c\u3042\u308b2\u3064\u306e\u7406\u7531\u3092\u793a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Design a cinema poster for the movie \"The Matrix\"",
+        "instruction_translated": "\u6620\u753b\u300cThe Matrix\u300d\u306e\u6620\u753b\u9928\u306e\u30dd\u30b9\u30bf\u30fc\u3092\u30c7\u30b6\u30a4\u30f3\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Create a new art style.",
+        "instruction_translated": "\u65b0\u3057\u3044\u30a2\u30fc\u30c8\u30b9\u30bf\u30a4\u30eb\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of Boolean logic.",
+        "instruction_translated": "\u30d6\u30fc\u30eb\u30ed\u30b8\u30c3\u30af\u306e\u6982\u5ff5\u3092\u8aac\u660e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a scenario for a story set in Italian Renaissance.",
+        "instruction_translated": "\u30a4\u30bf\u30ea\u30a2\u306e\u30eb\u30cd\u30c3\u30b5\u30f3\u30b9\u3067\u30bb\u30c3\u30c8\u3055\u308c\u305f\u30b9\u30c8\u30fc\u30ea\u30fc\u306e\u30b7\u30ca\u30ea\u30aa\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How does the Kinetic Ray tracing method work?",
+        "instruction_translated": "\u904b\u52d5\u5149\u7dda\u30c8\u30ec\u30fc\u30b9\u6cd5\u306f\u3069\u306e\u3088\u3046\u306b\u6a5f\u80fd\u3057\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Describe the process for starting a business.",
+        "instruction_translated": "\u30d3\u30b8\u30cd\u30b9\u3092\u59cb\u3081\u308b\u30d7\u30ed\u30bb\u30b9\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List the major parts of a computer.",
+        "instruction_translated": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u306e\u4e3b\u8981\u90e8\u5206\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What are the common challenges when implementing DevOps in an organization?",
+        "instruction_translated": "\u7d44\u7e54\u306bDevOps\u3092\u5b9f\u88c5\u3059\u308b\u969b\u306e\u4e00\u822c\u7684\u306a\u8ab2\u984c\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Take the following input and output the average temperature (in Fahrenheit) for the month of January in Denver, Colorado.",
+        "instruction_translated": "\u6b21\u306e\u5165\u529b\u3092\u53d6\u308a\u3001\u30b3\u30ed\u30e9\u30c9\u5dde\u30c7\u30f3\u30d0\u30fc\u30671\u6708\u306e\u5e73\u5747\u6e29\u5ea6\uff08\u83ef\u6c0f\uff09\u3092\u51fa\u529b\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Find the equivalent Celsius and Fahrenheit temperature for 34.4\u00b0C.",
+        "instruction_translated": "34.4\u00b0C\u3067\u540c\u7b49\u306e\u6442\u6c0f\u3068\u83ef\u6c0f\u6e29\u5ea6\u3092\u898b\u3064\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a brief essay explaining the importance of digital literacy.",
+        "instruction_translated": "\u30c7\u30b8\u30bf\u30eb\u30ea\u30c6\u30e9\u30b7\u30fc\u306e\u91cd\u8981\u6027\u3092\u8aac\u660e\u3059\u308b\u7c21\u5358\u306a\u30a8\u30c3\u30bb\u30a4\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe why it is necessary to have a diverse workforce.",
+        "instruction_translated": "\u591a\u69d8\u306a\u52b4\u50cd\u529b\u3092\u6301\u3064\u5fc5\u8981\u304c\u3042\u308b\u7406\u7531\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Change the below sentence to make it more positive:\n\nAI development is difficult and time consuming.",
+        "instruction_translated": "\u4ee5\u4e0b\u306e\u6587\u3092\u5909\u66f4\u3057\u3066\u3001\u3088\u308a\u30dd\u30b8\u30c6\u30a3\u30d6\u306b\u3057\u307e\u3059\u3002\n\nAI\u958b\u767a\u306f\u56f0\u96e3\u3067\u6642\u9593\u304c\u304b\u304b\u308a\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a script for a TV commercial",
+        "instruction_translated": "\u30c6\u30ec\u30d3\u30b3\u30de\u30fc\u30b7\u30e3\u30eb\u306e\u30b9\u30af\u30ea\u30d7\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Find an analogy that illustrates the concept of a feedback loop.",
+        "instruction_translated": "\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\u30eb\u30fc\u30d7\u306e\u6982\u5ff5\u3092\u793a\u3059\u985e\u63a8\u3092\u898b\u3064\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write an editorial advocating for more bike lanes in a city.",
+        "instruction_translated": "\u90fd\u5e02\u3067\u3088\u308a\u591a\u304f\u306e\u81ea\u8ee2\u8eca\u30ec\u30fc\u30f3\u3092\u64c1\u8b77\u3059\u308b\u7de8\u96c6\u8005\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How can the world reduce its carbon emissions?",
+        "instruction_translated": "\u4e16\u754c\u306f\u3069\u306e\u3088\u3046\u306b\u3057\u3066\u70ad\u7d20\u6392\u51fa\u91cf\u3092\u524a\u6e1b\u3067\u304d\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Give a brief description of the historical period known as the French Revolution.",
+        "instruction_translated": "\u30d5\u30e9\u30f3\u30b9\u9769\u547d\u3068\u3057\u3066\u77e5\u3089\u308c\u308b\u6b74\u53f2\u7684\u6642\u4ee3\u306e\u7c21\u5358\u306a\u8aac\u660e\u3092\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 baby animals",
+        "instruction_translated": "5\u3064\u306e\u8d64\u3061\u3083\u3093\u306e\u52d5\u7269\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Provide a metaphor for \u201ctime\u201d.",
+        "instruction_translated": "\u300c\u6642\u9593\u300d\u306e\u30e1\u30bf\u30d5\u30a1\u30fc\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Give two pros and two cons of nuclear power.",
+        "instruction_translated": "\u539f\u5b50\u529b\u306e2\u3064\u306e\u9577\u6240\u30682\u3064\u306e\u77ed\u6240\u3092\u4e0e\u3048\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Formulate a probability distribution for a 6-sided die.",
+        "instruction_translated": "6\u5074\u306e\u30c0\u30a4\u306e\u78ba\u7387\u5206\u5e03\u3092\u7b56\u5b9a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of five talking points for a debate about the use of renewable energy.",
+        "instruction_translated": "\u518d\u751f\u53ef\u80fd\u30a8\u30cd\u30eb\u30ae\u30fc\u306e\u4f7f\u7528\u306b\u95a2\u3059\u308b\u8b70\u8ad6\u306e\u305f\u3081\u306b\u30015\u3064\u306e\u8ad6\u70b9\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a paragraph describing the technique used to design a bridge.",
+        "instruction_translated": "\u30d6\u30ea\u30c3\u30b8\u306e\u8a2d\u8a08\u306b\u4f7f\u7528\u3055\u308c\u308b\u624b\u6cd5\u3092\u8aac\u660e\u3059\u308b\u6bb5\u843d\u3092\u66f8\u304d\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain what is data mining",
+        "instruction_translated": "\u30c7\u30fc\u30bf\u30de\u30a4\u30cb\u30f3\u30b0\u3068\u306f\u4f55\u304b\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Create a travel guide to Hawaii",
+        "instruction_translated": "\u30cf\u30ef\u30a4\u3078\u306e\u65c5\u884c\u30ac\u30a4\u30c9\u3092\u4f5c\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Write a logo for the following company: \"North Wind Technologies\"",
+        "instruction_translated": "\u6b21\u306e\u4f1a\u793e\u306e\u30ed\u30b4\u3092\u66f8\u304f\uff1a\u300cNorth Wind Technologies\u300d",
+        "category": null
+    },
+    {
+        "instruction": "What is the half-life of the isotope carbon 14?",
+        "instruction_translated": "\u540c\u4f4d\u4f53\u70ad\u7d2014\u306e\u534a\u6e1b\u671f\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Construct a geometric shape using five lines",
+        "instruction_translated": "5\u884c\u3092\u4f7f\u7528\u3057\u3066\u5e7e\u4f55\u5b66\u7684\u306a\u5f62\u72b6\u3092\u69cb\u7bc9\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Describe the term \"data wrangling\".",
+        "instruction_translated": "\u300c\u30c7\u30fc\u30bf\u30ec\u30a4\u30f3\u30b0\u300d\u3068\u3044\u3046\u7528\u8a9e\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast electrical and chemical synapses.",
+        "instruction_translated": "\u96fb\u6c17\u7684\u30b7\u30ca\u30d7\u30b9\u3068\u5316\u5b66\u7684\u30b7\u30ca\u30d7\u30b9\u3092\u6bd4\u8f03\u5bfe\u7167\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a sequence of instructions for setting up a home studio.",
+        "instruction_translated": "\u30db\u30fc\u30e0\u30b9\u30bf\u30b8\u30aa\u3092\u30bb\u30c3\u30c8\u30a2\u30c3\u30d7\u3059\u308b\u305f\u3081\u306e\u4e00\u9023\u306e\u6307\u793a\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain how to set up a website.",
+        "instruction_translated": "\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\u306e\u30bb\u30c3\u30c8\u30a2\u30c3\u30d7\u65b9\u6cd5\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a rule for rock-paper-scissors.",
+        "instruction_translated": "\u30ed\u30c3\u30af\u30da\u30fc\u30d1\u30fc\u30b7\u30c3\u30b5\u30fc\u306e\u30eb\u30fc\u30eb\u3092\u601d\u3044\u3064\u304d\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Of all the countries in the world, which has the highest population?",
+        "instruction_translated": "\u4e16\u754c\u306e\u3059\u3079\u3066\u306e\u56fd\u306e\u3046\u3061\u3001\u3069\u308c\u304c\u6700\u3082\u4eba\u53e3\u304c\u591a\u3044\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Write a function to print out the last 3 elements of a Python list.",
+        "instruction_translated": "Python\u30ea\u30b9\u30c8\u306e\u6700\u5f8c\u306e3\u3064\u306e\u8981\u7d20\u3092\u5370\u5237\u3059\u308b\u95a2\u6570\u3092\u8a18\u8ff0\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Synthesize an article on the potential pitfalls of relying too heavily on AI.",
+        "instruction_translated": "AI\u306b\u4f9d\u5b58\u3057\u3059\u304e\u308b\u3068\u3044\u3046\u6f5c\u5728\u7684\u306a\u843d\u3068\u3057\u7a74\u306b\u95a2\u3059\u308b\u8a18\u4e8b\u3092\u7d71\u5408\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the nuclear reaction inside the sun?",
+        "instruction_translated": "\u592a\u967d\u306e\u4e2d\u306e\u6838\u53cd\u5fdc\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Give four examples of plant-based proteins.",
+        "instruction_translated": "\u690d\u7269\u30d9\u30fc\u30b9\u306e\u30bf\u30f3\u30d1\u30af\u8cea\u306e4\u3064\u306e\u4f8b\u3092\u6319\u3052\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How do you use a GPS system?",
+        "instruction_translated": "GPS\u30b7\u30b9\u30c6\u30e0\u306f\u3069\u306e\u3088\u3046\u306b\u4f7f\u7528\u3057\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "List 3 aspects of US History that have been historically overlooked.",
+        "instruction_translated": "\u6b74\u53f2\u7684\u306b\u898b\u843d\u3068\u3055\u308c\u3066\u304d\u305f\u7c73\u56fd\u306e\u6b74\u53f2\u306e3\u3064\u306e\u5074\u9762\u3092\u30ea\u30b9\u30c8\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following sentence in a more formal way:\n\n\"I am getting bored of this.\"",
+        "instruction_translated": "\u6b21\u306e\u6587\u3092\u3088\u308a\u6b63\u5f0f\u306a\u65b9\u6cd5\u3067\u66f8\u304d\u76f4\u3057\u307e\u3059\u3002\n\n\u300c\u79c1\u306f\u3053\u308c\u306b\u98fd\u304d\u3066\u3044\u307e\u3059\u3002\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Recommend two measures for curbing rising obesity rates.",
+        "instruction_translated": "\u80a5\u6e80\u7387\u306e\u4e0a\u6607\u3092\u6291\u5236\u3059\u308b\u305f\u3081\u306e2\u3064\u306e\u63aa\u7f6e\u3092\u63a8\u5968\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Change the following noun to plural form: watch",
+        "instruction_translated": "\u6b21\u306e\u540d\u8a5e\u3092\u8907\u6570\u5f62\u306b\u5909\u66f4\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the syntax of the sentence and identify the type of clause: \"She always dreamed of travelling to Japan\".",
+        "instruction_translated": "\u6587\u306e\u69cb\u6587\u3092\u5206\u6790\u3057\u3001\u6761\u9805\u306e\u30bf\u30a4\u30d7\u3092\u7279\u5b9a\u3057\u307e\u3059\u3002\u300c\u5f7c\u5973\u306f\u3044\u3064\u3082\u65e5\u672c\u3078\u306e\u65c5\u884c\u3092\u5922\u898b\u3066\u3044\u307e\u3057\u305f\u300d\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of questions beginning with the phrase \"What is the difference between...\"",
+        "instruction_translated": "\u300c\u9593\u306e\u9055\u3044\u306f\u4f55\u3067\u3059\u304b...\u300d\u3068\u3044\u3046\u30d5\u30ec\u30fc\u30ba\u304b\u3089\u59cb\u307e\u308b\u8cea\u554f\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the process of cutting vegetables for a salad.",
+        "instruction_translated": "\u30b5\u30e9\u30c0\u306e\u91ce\u83dc\u3092\u5207\u308b\u30d7\u30ed\u30bb\u30b9\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Determine the number of days in August 2021.",
+        "instruction_translated": "2021\u5e748\u6708\u306e\u65e5\u6570\u3092\u6c7a\u5b9a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a function in any programming language to check if two words are anagrams of each other.",
+        "instruction_translated": "\u4efb\u610f\u306e\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306b\u95a2\u6570\u3092\u8a18\u8ff0\u3057\u3066\u30012\u3064\u306e\u5358\u8a9e\u304c\u4e92\u3044\u306b\u30a2\u30ca\u30b0\u30e9\u30e0\u3067\u3042\u308b\u304b\u3069\u3046\u304b\u3092\u78ba\u8a8d\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm one way to reduce household waste.",
+        "instruction_translated": "\u5bb6\u5ead\u5ec3\u68c4\u7269\u3092\u6e1b\u3089\u30591\u3064\u306e\u65b9\u6cd5\u3092\u30d6\u30ec\u30a4\u30f3\u30b9\u30c8\u30fc\u30df\u30f3\u30b0\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain the atmospheric pressure cycle.",
+        "instruction_translated": "\u5927\u6c17\u5727\u30b5\u30a4\u30af\u30eb\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What natural disaster can be caused by the eruption of a volcano?",
+        "instruction_translated": "\u706b\u5c71\u306e\u5674\u706b\u306b\u3088\u3063\u3066\u3069\u306e\u3088\u3046\u306a\u81ea\u7136\u707d\u5bb3\u304c\u5f15\u304d\u8d77\u3053\u3055\u308c\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "How long ago did the United Nations come into being?",
+        "instruction_translated": "\u56fd\u9023\u306f\u3069\u306e\u304f\u3089\u3044\u524d\u306b\u306a\u308a\u307e\u3057\u305f\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Create a story focusing on a protagonist and his goal.",
+        "instruction_translated": "\u4e3b\u4eba\u516c\u3068\u5f7c\u306e\u76ee\u6a19\u306b\u7126\u70b9\u3092\u5f53\u3066\u305f\u30b9\u30c8\u30fc\u30ea\u30fc\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a format for holding a virtual team meeting.",
+        "instruction_translated": "\u4eee\u60f3\u30c1\u30fc\u30e0\u30df\u30fc\u30c6\u30a3\u30f3\u30b0\u3092\u958b\u50ac\u3059\u308b\u305f\u3081\u306e\u30d5\u30a9\u30fc\u30de\u30c3\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What are possible alternatives for development teams dealing with the lack of in-person collaboration?",
+        "instruction_translated": "\u5bfe\u9762\u30b3\u30e9\u30dc\u30ec\u30fc\u30b7\u30e7\u30f3\u306e\u6b20\u5982\u3092\u6271\u3046\u958b\u767a\u30c1\u30fc\u30e0\u306e\u4ee3\u66ff\u624b\u6bb5\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Identify a weakness of using text-based dialogue with a conversational AI.",
+        "instruction_translated": "\u4f1a\u8a71\u578bAI\u3067\u30c6\u30ad\u30b9\u30c8\u30d9\u30fc\u30b9\u306e\u5bfe\u8a71\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u306e\u5f31\u70b9\u3092\u7279\u5b9a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Complete the following equation: 2 + __ = 7.",
+        "instruction_translated": "\u6b21\u306e\u65b9\u7a0b\u5f0f\u3092\u5b8c\u4e86\u3057\u307e\u3059\uff1a2 + __ = 7\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a short story based on the following keywords: pumpkin, prince, spider.",
+        "instruction_translated": "\u6b21\u306e\u30ad\u30fc\u30ef\u30fc\u30c9\u306b\u57fa\u3065\u3044\u3066\u77ed\u7de8\u5c0f\u8aac\u3092\u4f5c\u6210\u3057\u307e\u3059\uff1a\u30d1\u30f3\u30d7\u30ad\u30f3\u3001\u30d7\u30ea\u30f3\u30b9\u3001\u30af\u30e2\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of ingredients for a homemade ice cream.",
+        "instruction_translated": "\u81ea\u5bb6\u88fd\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\u306e\u6750\u6599\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compose 3-4 sentences that express sadness.",
+        "instruction_translated": "\u60b2\u3057\u307f\u3092\u8868\u73fe\u3059\u308b3-4\u6587\u3092\u4f5c\u66f2\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 important features of a mobile phone",
+        "instruction_translated": "\u643a\u5e2f\u96fb\u8a71\u306e5\u3064\u306e\u91cd\u8981\u306a\u6a5f\u80fd",
+        "category": null
+    },
+    {
+        "instruction": "What is the gender of the French word ville?",
+        "instruction_translated": "\u30d5\u30e9\u30f3\u30b9\u8a9e\u306e\u30f4\u30a3\u30eb\u306e\u6027\u5225\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a retail strategy to increase customer loyalty.",
+        "instruction_translated": "\u9867\u5ba2\u306e\u5fe0\u8aa0\u5fc3\u3092\u9ad8\u3081\u308b\u305f\u3081\u306e\u5c0f\u58f2\u6226\u7565\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "You are asked to rate the following restaurant based on a scale of 1 to 10, with 10 being the highest.\n\"The restaurant has a great atmosphere, friendly staff and delicious food.\"",
+        "instruction_translated": "1\u301c10\u306e\u30b9\u30b1\u30fc\u30eb\u306b\u57fa\u3065\u3044\u3066\u3001\u6b21\u306e\u30ec\u30b9\u30c8\u30e9\u30f3\u3092\u8a55\u4fa1\u3059\u308b\u3088\u3046\u306b\u6c42\u3081\u3089\u308c\u307e\u3059\u300210\u306f\u6700\u9ad8\u3067\u3059\u3002\n\u300c\u30ec\u30b9\u30c8\u30e9\u30f3\u306b\u306f\u7d20\u6674\u3089\u3057\u3044\u96f0\u56f2\u6c17\u304c\u3042\u308a\u3001\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u306a\u30b9\u30bf\u30c3\u30d5\u3068\u304a\u3044\u3057\u3044\u6599\u7406\u304c\u3042\u308a\u307e\u3059\u3002\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Classify the following sentence as either figurative language or literal language: He flew like a bird.",
+        "instruction_translated": "\u6b21\u306e\u6587\u3092\u6bd4fig\u7684\u306a\u8a00\u8a9e\u307e\u305f\u306f\u6587\u5b57\u901a\u308a\u306e\u8a00\u8a9e\u306e\u3044\u305a\u308c\u304b\u306b\u5206\u985e\u3057\u307e\u3059\u3002\u5f7c\u306f\u9ce5\u306e\u3088\u3046\u306b\u98db\u3093\u3060\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Provide a value proposition for a software product.",
+        "instruction_translated": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u88fd\u54c1\u306e\u4fa1\u5024\u63d0\u6848\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe how humans interact with the internet of things.",
+        "instruction_translated": "\u4eba\u9593\u304c\u30e2\u30ce\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u3068\u3069\u306e\u3088\u3046\u306b\u76f8\u4e92\u4f5c\u7528\u3059\u308b\u304b\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Think of five questions an astronaut would ask when they land on Mars.",
+        "instruction_translated": "\u5b87\u5b99\u98db\u884c\u58eb\u304c\u706b\u661f\u306b\u7740\u9678\u3059\u308b\u3068\u304d\u306b\u5c0b\u306d\u308b5\u3064\u306e\u8cea\u554f\u3092\u8003\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the 1981 NBA MVP award ceremony",
+        "instruction_translated": "1981\u5e74\u306eNBA MVP\u6388\u8cde\u5f0f\u306b\u3064\u3044\u3066\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular movie from 2019.",
+        "instruction_translated": "2019\u5e74\u304b\u3089\u4eba\u6c17\u306e\u3042\u308b\u6620\u753b\u306b\u540d\u524d\u3092\u4ed8\u3051\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Divide 100 by 7.",
+        "instruction_translated": "100\u30927\u3067\u5272\u308a\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a sentence that properly combines the adverbs drastically and gradually.",
+        "instruction_translated": "\u526f\u8a5e\u3092\u5287\u7684\u304b\u3064\u5f90\u3005\u306b\u7d50\u5408\u3059\u308b\u6587\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name three specific techniques for reducing the memory requirement of a neural network.",
+        "instruction_translated": "\u30cb\u30e5\u30fc\u30e9\u30eb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u306e\u30e1\u30e2\u30ea\u8981\u4ef6\u3092\u6e1b\u3089\u3059\u305f\u3081\u306e3\u3064\u306e\u7279\u5b9a\u306e\u624b\u6cd5\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the five senses in a forest setting.",
+        "instruction_translated": "\u68ee\u306e\u74b0\u5883\u30675\u3064\u306e\u611f\u899a\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of 5 questions a user should consider when choosing their first digital assistant.",
+        "instruction_translated": "\u6700\u521d\u306e\u30c7\u30b8\u30bf\u30eb\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u3092\u9078\u629e\u3059\u308b\u3068\u304d\u306b\u3001\u30e6\u30fc\u30b6\u30fc\u304c\u8003\u616e\u3059\u3079\u304d5\u3064\u306e\u8cea\u554f\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List five financial benefits of owning a home.",
+        "instruction_translated": "\u5bb6\u3092\u6240\u6709\u3059\u308b\u3053\u3068\u306e5\u3064\u306e\u7d4c\u6e08\u7684\u5229\u76ca\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Collect 5 interesting facts about the US Capitol building.",
+        "instruction_translated": "\u7c73\u56fd\u8b70\u4f1a\u8b70\u4e8b\u5802\u306b\u95a2\u3059\u308b5\u3064\u306e\u8208\u5473\u6df1\u3044\u4e8b\u5b9f\u3092\u53ce\u96c6\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What should be the main focus of a personal pitch?",
+        "instruction_translated": "\u500b\u4eba\u7684\u306a\u30d4\u30c3\u30c1\u306e\u4e3b\u306a\u7126\u70b9\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Name a retail business that leverages machine learning",
+        "instruction_translated": "\u6a5f\u68b0\u5b66\u7fd2\u3092\u6d3b\u7528\u3059\u308b\u5c0f\u58f2\u30d3\u30b8\u30cd\u30b9\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "What are the three main principles of Agile Software Development?",
+        "instruction_translated": "\u30a2\u30b8\u30e3\u30a4\u30eb\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u958b\u767a\u306e3\u3064\u306e\u4e3b\u8981\u306a\u539f\u5247\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Construct a SQL query to select the names of customers whose orders were delivered after April 13, 2021",
+        "instruction_translated": "SQL\u30af\u30a8\u30ea\u3092\u4f5c\u6210\u3057\u3066\u30012021\u5e744\u670813\u65e5\u4ee5\u964d\u306b\u6ce8\u6587\u304c\u914d\u4fe1\u3055\u308c\u305f\u9867\u5ba2\u306e\u540d\u524d\u3092\u9078\u629e\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Describe a time where you saw someone do something generous.",
+        "instruction_translated": "\u8ab0\u304b\u304c\u5bdb\u5927\u306a\u3053\u3068\u3092\u3057\u3066\u3044\u308b\u306e\u3092\u898b\u305f\u6642\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Assemble a 3-word phrase that has a positive connotation.",
+        "instruction_translated": "\u80af\u5b9a\u7684\u306a\u610f\u5473\u5408\u3044\u304c\u3042\u308b3\u30ef\u30fc\u30c9\u306e\u30d5\u30ec\u30fc\u30ba\u3092\u7d44\u307f\u7acb\u3066\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "The web page should display the following message, \"This page is under construction. Please check back soon.\" Construct the HTML code to display the message.",
+        "instruction_translated": "Web\u30da\u30fc\u30b8\u306b\u306f\u3001\u6b21\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u8868\u793a\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\u300c\u3053\u306e\u30da\u30fc\u30b8\u306f\u69cb\u7bc9\u4e2d\u3067\u3059\u3002\u3059\u3050\u306b\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u300d\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u8868\u793a\u3059\u308bHTML\u30b3\u30fc\u30c9\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List five characteristics of good communication.",
+        "instruction_translated": "\u512a\u308c\u305f\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u306e5\u3064\u306e\u7279\u5fb4\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Identify three countries in South America",
+        "instruction_translated": "\u5357\u30a2\u30e1\u30ea\u30ab\u306e3\u304b\u56fd\u3092\u7279\u5b9a\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "What is the meaning of the phrase \"it takes one to know one\"?",
+        "instruction_translated": "\u300c\u77e5\u308b\u306e\u306b\u5fc5\u8981\u306a\u300d\u3068\u3044\u3046\u30d5\u30ec\u30fc\u30ba\u306e\u610f\u5473\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Generate an excerpt of dialogue related to a complex problem.",
+        "instruction_translated": "\u8907\u96d1\u306a\u554f\u984c\u306b\u95a2\u9023\u3059\u308b\u5bfe\u8a71\u306e\u629c\u7c8b\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe in two sentences the physical appearance of a character.",
+        "instruction_translated": "2\u3064\u306e\u6587\u3067\u3001\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u7269\u7406\u7684\u306a\u5916\u89b3\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a data visualization to compare the age of cats and dogs",
+        "instruction_translated": "\u30c7\u30fc\u30bf\u306e\u8996\u899a\u5316\u3092\u4f5c\u6210\u3057\u3066\u3001\u732b\u3068\u72ac\u306e\u5e74\u9f62\u3092\u6bd4\u8f03\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Create 5 sentence long paragraph about the importance of education",
+        "instruction_translated": "\u6559\u80b2\u306e\u91cd\u8981\u6027\u306b\u3064\u3044\u30665\u6587\u306e\u9577\u3044\u6bb5\u843d\u3092\u4f5c\u6210\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Discuss the consequences of introducing AI into the workforce.",
+        "instruction_translated": "AI\u3092\u52b4\u50cd\u529b\u306b\u5c0e\u5165\u3057\u305f\u7d50\u679c\u306b\u3064\u3044\u3066\u8a71\u3057\u5408\u3044\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a riddle",
+        "instruction_translated": "\u306a\u305e\u306a\u305e\u3092\u601d\u3044\u3064\u304d\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of 5 core values of the United Nations.",
+        "instruction_translated": "\u56fd\u9023\u306e5\u3064\u306e\u30b3\u30a2\u30d0\u30ea\u30e5\u30fc\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Shape the following sentence into a question:\n\nThe Houston Rockets are an American professional basketball team",
+        "instruction_translated": "\u6b21\u306e\u6587\u3092\u8cea\u554f\u306b\u3057\u307e\u3059\u3002\n\n\u30d2\u30e5\u30fc\u30b9\u30c8\u30f3\u30ed\u30b1\u30c3\u30c4\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u30d7\u30ed\u306e\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb\u30c1\u30fc\u30e0\u3067\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Identify the subject in the sentence: \"She played the guitar on the porch.\"",
+        "instruction_translated": "\u6587\u306e\u4e3b\u984c\u3092\u7279\u5b9a\u3057\u307e\u3059\uff1a\u300c\u5f7c\u5973\u306f\u30dd\u30fc\u30c1\u3067\u30ae\u30bf\u30fc\u3092\u5f3e\u3044\u305f\u3002\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Write 3 alternatives of transportation.",
+        "instruction_translated": "\u4ea4\u901a\u6a5f\u95a2\u306e3\u3064\u306e\u4ee3\u66ff\u624b\u6bb5\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Rearrange the letters in the following word \"twilight\" to form another word.",
+        "instruction_translated": "\u6b21\u306e\u5358\u8a9e\u300c\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u300d\u306e\u6587\u5b57\u3092\u518d\u914d\u7f6e\u3057\u3066\u3001\u5225\u306e\u5358\u8a9e\u3092\u5f62\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain how artificial intelligence can be used for medical and healthcare purposes.",
+        "instruction_translated": "\u533b\u7642\u304a\u3088\u3073\u533b\u7642\u76ee\u7684\u3067\u4eba\u5de5\u77e5\u80fd\u3092\u3069\u306e\u3088\u3046\u306b\u4f7f\u7528\u3067\u304d\u308b\u304b\u3092\u8aac\u660e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a holiday menu for a four-person family.",
+        "instruction_translated": "4\u4eba\u306e\u5bb6\u65cf\u306e\u305f\u3081\u306e\u30db\u30ea\u30c7\u30fc\u30e1\u30cb\u30e5\u30fc\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the solar system",
+        "instruction_translated": "\u592a\u967d\u7cfb\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Write a sentence with the phrase \"prime mover\".",
+        "instruction_translated": "\u300cPrime Mover\u300d\u3068\u3044\u3046\u30d5\u30ec\u30fc\u30ba\u306e\u6587\u7ae0\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Find the number of protons in Helium atom.",
+        "instruction_translated": "\u30d8\u30ea\u30a6\u30e0\u539f\u5b50\u306e\u967d\u5b50\u306e\u6570\u3092\u898b\u3064\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the best way to prepare for an upcoming job interview?",
+        "instruction_translated": "\u4eca\u5f8c\u306e\u5c31\u8077\u9762\u63a5\u306b\u5099\u3048\u308b\u305f\u3081\u306e\u6700\u826f\u306e\u65b9\u6cd5\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Formulate a definition for the concept \"algorithm\"",
+        "instruction_translated": "\u6982\u5ff5\u300c\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u300d\u306e\u5b9a\u7fa9\u3092\u5b9a\u5f0f\u5316\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Find the French word for \"cat\"",
+        "instruction_translated": "\u300c\u732b\u300d\u306e\u30d5\u30e9\u30f3\u30b9\u8a9e\u306e\u8a00\u8449\u3092\u898b\u3064\u3051\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Generate an alternative way to say \"I understand\".",
+        "instruction_translated": "\u300c\u79c1\u306f\u7406\u89e3\u3057\u3066\u3044\u308b\u300d\u3068\u8a00\u3046\u5225\u306e\u65b9\u6cd5\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Construct an analogy to compare the moon and the sun",
+        "instruction_translated": "\u6708\u3068\u592a\u967d\u3092\u6bd4\u8f03\u3059\u308b\u305f\u3081\u306b\u985e\u63a8\u3092\u69cb\u7bc9\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Create a story that takes place in a small town.",
+        "instruction_translated": "\u5c0f\u3055\u306a\u753a\u3067\u884c\u308f\u308c\u308b\u7269\u8a9e\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List five African countries.",
+        "instruction_translated": "5\u3064\u306e\u30a2\u30d5\u30ea\u30ab\u8af8\u56fd\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain what a natural language processing model does.",
+        "instruction_translated": "\u81ea\u7136\u8a00\u8a9e\u51e6\u7406\u30e2\u30c7\u30eb\u304c\u4f55\u3092\u3059\u308b\u304b\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Provide a list of all the animals that are native to North America.",
+        "instruction_translated": "\u5317\u7c73\u539f\u7523\u306e\u3059\u3079\u3066\u306e\u52d5\u7269\u306e\u30ea\u30b9\u30c8\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Recommend 5 engaging books for children aged 7-9.",
+        "instruction_translated": "7\u301c9\u6b73\u306e\u5b50\u4f9b\u306e\u305f\u3081\u306b5\u672c\u306e\u9b45\u529b\u7684\u306a\u672c\u3092\u304a\u52e7\u3081\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain the importance of applying software engineering design principles in modern software development.",
+        "instruction_translated": "\u6700\u65b0\u306e\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u958b\u767a\u306b\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u306e\u8a2d\u8a08\u539f\u5247\u3092\u9069\u7528\u3059\u308b\u3053\u3068\u306e\u91cd\u8981\u6027\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Sketch a logo for the company \"International Business Company\".",
+        "instruction_translated": "\u4f1a\u793e\u306e\u300c\u56fd\u969b\u30d3\u30b8\u30cd\u30b9\u4f1a\u793e\u300d\u306e\u30ed\u30b4\u3092\u30b9\u30b1\u30c3\u30c1\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the third person singular in the imperative form of the verb 'play'?",
+        "instruction_translated": "\u52d5\u8a5e\u300c\u30d7\u30ec\u30a4\u300d\u306e\u547d\u4ee4\u7684\u306a\u5f62\u5f0f\u306e\u4e09\u4eba\u79f0\u5358\u6570\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of five potential issues that could arise from introducing an AI chatbot.",
+        "instruction_translated": "AI\u30c1\u30e3\u30c3\u30c8\u30dc\u30c3\u30c8\u306e\u5c0e\u5165\u304b\u3089\u751f\u3058\u308b\u53ef\u80fd\u6027\u306e\u3042\u308b5\u3064\u306e\u6f5c\u5728\u7684\u306a\u554f\u984c\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a 5-sentence paragraph about the benefits of meditation.",
+        "instruction_translated": "\u7791\u60f3\u306e\u5229\u70b9\u306b\u3064\u3044\u30665\u6587\u5b57\u306e\u6bb5\u843d\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of five healthy snacks.",
+        "instruction_translated": "5\u3064\u306e\u5065\u5eb7\u7684\u306a\u30b9\u30ca\u30c3\u30af\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Design a t-shirt with a funny slogan.",
+        "instruction_translated": "\u9762\u767d\u3044\u30b9\u30ed\u30fc\u30ac\u30f3\u3067T\u30b7\u30e3\u30c4\u3092\u30c7\u30b6\u30a4\u30f3\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name a form of renewable energy.",
+        "instruction_translated": "\u518d\u751f\u53ef\u80fd\u30a8\u30cd\u30eb\u30ae\u30fc\u306e\u5f62\u5f0f\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Develop a strategy for running a successful marketing campaign.",
+        "instruction_translated": "\u6210\u529f\u3057\u305f\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u3092\u5b9f\u65bd\u3059\u308b\u305f\u3081\u306e\u6226\u7565\u3092\u958b\u767a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create an algorithm to detect plagiarism between two pieces of text.",
+        "instruction_translated": "2\u3064\u306e\u30c6\u30ad\u30b9\u30c8\u9593\u3067\u76d7\u4f5c\u3092\u691c\u51fa\u3059\u308b\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 techniques for effective time management.",
+        "instruction_translated": "\u52b9\u679c\u7684\u306a\u6642\u9593\u7ba1\u7406\u306e\u305f\u3081\u306e5\u3064\u306e\u30c6\u30af\u30cb\u30c3\u30af\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a story about a man\u2019s high-stakes fight",
+        "instruction_translated": "\u7537\u306e\u30cf\u30a4\u30b9\u30c6\u30fc\u30af\u30b9\u306e\u6226\u3044\u306b\u3064\u3044\u3066\u306e\u7269\u8a9e\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Edit the sentence \"I am not eat\"",
+        "instruction_translated": "\u300c\u79c1\u306f\u98df\u3079\u3066\u3044\u306a\u3044\u300d\u3068\u3044\u3046\u6587\u3092\u7de8\u96c6\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Describe how a Docker container works.",
+        "instruction_translated": "Docker\u30b3\u30f3\u30c6\u30ca\u306e\u4ed5\u7d44\u307f\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe a difficulty you had with school when you were younger.",
+        "instruction_translated": "\u3042\u306a\u305f\u304c\u82e5\u3044\u9803\u306b\u5b66\u6821\u3067\u62b1\u3048\u3066\u3044\u305f\u56f0\u96e3\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a script of an interaction between a customer service representative and a customer",
+        "instruction_translated": "\u30ab\u30b9\u30bf\u30de\u30fc\u30b5\u30fc\u30d3\u30b9\u62c5\u5f53\u8005\u3068\u9867\u5ba2\u306e\u9593\u306e\u76f8\u4e92\u4f5c\u7528\u306e\u30b9\u30af\u30ea\u30d7\u30c8\u3092\u66f8\u304f",
+        "category": null
+    },
+    {
+        "instruction": "Generate an opening sentence for a horror story that occurs in an abandoned castle.",
+        "instruction_translated": "\u653e\u68c4\u3055\u308c\u305f\u57ce\u3067\u8d77\u3053\u308b\u30db\u30e9\u30fc\u30b9\u30c8\u30fc\u30ea\u30fc\u306e\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u6587\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Make a prediction about the impacts of increased air pollution on the global climate",
+        "instruction_translated": "\u4e16\u754c\u306e\u6c17\u5019\u306b\u5bfe\u3059\u308b\u5927\u6c17\u6c5a\u67d3\u306e\u5897\u52a0\u306e\u5f71\u97ff\u306b\u3064\u3044\u3066\u4e88\u6e2c\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Generate a correct program to calculate the sum of all elements of an array",
+        "instruction_translated": "\u6b63\u3057\u3044\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u751f\u6210\u3057\u3066\u3001\u914d\u5217\u306e\u3059\u3079\u3066\u306e\u8981\u7d20\u306e\u5408\u8a08\u3092\u8a08\u7b97\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Calculate the average of the numbers 9, 5, and 6.",
+        "instruction_translated": "\u6570\u50249\u30015\u3001\u304a\u3088\u30736\u306e\u5e73\u5747\u3092\u8a08\u7b97\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name five members of the Beatles.",
+        "instruction_translated": "\u30d3\u30fc\u30c8\u30eb\u30ba\u306e5\u4eba\u306e\u30e1\u30f3\u30d0\u30fc\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a function that takes a string parameter and returns the same string in reverse",
+        "instruction_translated": "\u6587\u5b57\u5217\u30d1\u30e9\u30e1\u30fc\u30bf\u30fc\u3092\u53d6\u5f97\u3057\u3001\u540c\u3058\u6587\u5b57\u5217\u3092\u9006\u306b\u8fd4\u3059\u95a2\u6570\u3092\u66f8\u304d\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Create a news headline based on the following event, \"A student won a competition in quantum computing\".",
+        "instruction_translated": "\u6b21\u306e\u30a4\u30d9\u30f3\u30c8\u306b\u57fa\u3065\u3044\u3066\u30cb\u30e5\u30fc\u30b9\u306e\u898b\u51fa\u3057\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002\u300c\u5b66\u751f\u304c\u91cf\u5b50\u30b3\u30f3\u30d4\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u306e\u7af6\u4e89\u306b\u52dd\u3063\u305f\u300d\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Estimate how many quintillion cells are in the human body",
+        "instruction_translated": "\u4eba\u4f53\u306b\u306f\u4f55\u4eba\u306e\u7d30\u80de\u304c\u3042\u308b\u304b\u3092\u63a8\u5b9a\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "What is a good example of a real-time application?",
+        "instruction_translated": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u826f\u3044\u4f8b\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Describe an animal that lives in the Arctic.",
+        "instruction_translated": "\u5317\u6975\u570f\u306b\u4f4f\u3093\u3067\u3044\u308b\u52d5\u7269\u306b\u3064\u3044\u3066\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe a person's character in one sentence.",
+        "instruction_translated": "1\u3064\u306e\u6587\u3067\u4eba\u306e\u6027\u683c\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How many countries are part of UN?",
+        "instruction_translated": "\u56fd\u9023\u306e\u4e00\u90e8\u306f\u3044\u304f\u3064\u3042\u308a\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "What is the scientific name for a beaver?",
+        "instruction_translated": "\u30d3\u30fc\u30d0\u30fc\u306e\u5b66\u540d\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of black-box testing",
+        "instruction_translated": "\u30d6\u30e9\u30c3\u30af\u30dc\u30c3\u30af\u30b9\u30c6\u30b9\u30c8\u306e\u6982\u5ff5\u3092\u8aac\u660e\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Write a poem that uses a unique metaphor",
+        "instruction_translated": "\u30e6\u30cb\u30fc\u30af\u306a\u6bd4phor\u3092\u4f7f\u7528\u3059\u308b\u8a69\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Write a postcard to a friend",
+        "instruction_translated": "\u53cb\u9054\u306b\u306f\u304c\u304d\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Research an example of a successful small business and write a one-sentence summary about it.",
+        "instruction_translated": "\u6210\u529f\u3057\u305f\u4e2d\u5c0f\u4f01\u696d\u306e\u4f8b\u3092\u8abf\u67fb\u3057\u3001\u305d\u308c\u306b\u3064\u3044\u30661\u6587\u306e\u8981\u7d04\u3092\u66f8\u304d\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of a situation where being impolite is appropriate",
+        "instruction_translated": "\u5931\u793c\u3067\u3042\u308b\u3053\u3068\u304c\u9069\u5207\u3067\u3042\u308b\u72b6\u6cc1\u306e\u4f8b\u3092\u751f\u6210\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Imagine you are a fashion designer. How would you create a collection to showcase at fashion week?",
+        "instruction_translated": "\u3042\u306a\u305f\u304c\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u30c7\u30b6\u30a4\u30ca\u30fc\u3067\u3042\u308b\u3068\u60f3\u50cf\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u30a6\u30a3\u30fc\u30af\u3067\u7d39\u4ecb\u3059\u308b\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u3092\u3069\u306e\u3088\u3046\u306b\u4f5c\u6210\u3057\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Come up with 10 adjectives to describe a painting.",
+        "instruction_translated": "\u7d75\u753b\u3092\u8aac\u660e\u3059\u308b\u305f\u3081\u306b\u300110\u306e\u5f62\u5bb9\u8a5e\u3092\u601d\u3044\u3064\u304d\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest five topics for a research paper",
+        "instruction_translated": "\u7814\u7a76\u8ad6\u6587\u306e5\u3064\u306e\u30c8\u30d4\u30c3\u30af\u3092\u63d0\u6848\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Translate the phrase \"bon app\u00e9tit\" into English.",
+        "instruction_translated": "\u300cBonApp\u00e9tit\u300d\u3068\u3044\u3046\u30d5\u30ec\u30fc\u30ba\u3092\u82f1\u8a9e\u306b\u7ffb\u8a33\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain the advantages and disadvantages of using a decision tree",
+        "instruction_translated": "\u6c7a\u5b9a\u30c4\u30ea\u30fc\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u306e\u5229\u70b9\u3068\u77ed\u6240\u3092\u8aac\u660e\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following sentence in a polite way: \"Give it to me now.\"",
+        "instruction_translated": "\u6b21\u306e\u6587\u3092\u4e01\u5be7\u306a\u65b9\u6cd5\u3067\u66f8\u304d\u76f4\u3057\u307e\u3059\uff1a\u300c\u4eca\u79c1\u306b\u305d\u308c\u3092\u4e0e\u3048\u3066\u304f\u3060\u3055\u3044\u3002\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Generate a funny pun with the word \"turkey.\"",
+        "instruction_translated": "\u300c\u4e03\u9762\u9ce5\u300d\u3068\u3044\u3046\u8a00\u8449\u3067\u9762\u767d\u3044\u3057\u3083\u308c\u3092\u751f\u307f\u51fa\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write an engaging opening paragraph for an article on how to coach youth basketball players.",
+        "instruction_translated": "\u9752\u5c11\u5e74\u306e\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb\u9078\u624b\u3092\u30b3\u30fc\u30c1\u3059\u308b\u65b9\u6cd5\u306b\u95a2\u3059\u308b\u8a18\u4e8b\u306b\u3064\u3044\u3066\u306f\u3001\u9b45\u529b\u7684\u306a\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30d1\u30e9\u30b0\u30e9\u30d5\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of three tools and three methods that can be used for data analysis.",
+        "instruction_translated": "\u30c7\u30fc\u30bf\u5206\u6790\u306b\u4f7f\u7528\u3067\u304d\u308b3\u3064\u306e\u30c4\u30fc\u30eb\u30683\u3064\u306e\u65b9\u6cd5\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a code that computes the sum of two integers, given their values as parameters.",
+        "instruction_translated": "\u30d1\u30e9\u30e1\u30fc\u30bf\u30fc\u3068\u3057\u3066\u5024\u3092\u4e0e\u3048\u3089\u308c\u305f2\u3064\u306e\u6574\u6570\u306e\u5408\u8a08\u3092\u8a08\u7b97\u3059\u308b\u30b3\u30fc\u30c9\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What does it mean to \u201ccut corners\u201d?",
+        "instruction_translated": "\u300c\u89d2\u3092\u5207\u308b\u300d\u3068\u306f\u3069\u3046\u3044\u3046\u610f\u5473\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Describe a memorable summer experience that you had when you were younger.",
+        "instruction_translated": "\u3042\u306a\u305f\u304c\u82e5\u304b\u3063\u305f\u3068\u304d\u306b\u3042\u306a\u305f\u304c\u6301\u3063\u3066\u3044\u305f\u8a18\u61b6\u306b\u6b8b\u308b\u590f\u306e\u7d4c\u9a13\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Translate the following sentence from English to Spanish: \"My friend has two cats.\"",
+        "instruction_translated": "\u6b21\u306e\u6587\u3092\u82f1\u8a9e\u304b\u3089\u30b9\u30da\u30a4\u30f3\u8a9e\u306b\u7ffb\u8a33\u3057\u307e\u3059\u3002\u300c\u79c1\u306e\u53cb\u4eba\u306f2\u5339\u306e\u732b\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u3002\u300d",
+        "category": null
+    },
+    {
+        "instruction": "Define a stochastic process.",
+        "instruction_translated": "\u78ba\u7387\u7684\u30d7\u30ed\u30bb\u30b9\u3092\u5b9a\u7fa9\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe how can data be a powerful tool for decision-making.",
+        "instruction_translated": "\u30c7\u30fc\u30bf\u304c\u610f\u601d\u6c7a\u5b9a\u306e\u305f\u3081\u306e\u5f37\u529b\u306a\u30c4\u30fc\u30eb\u306b\u306a\u308b\u65b9\u6cd5\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast air and water",
+        "instruction_translated": "\u7a7a\u6c17\u3068\u6c34\u3092\u6bd4\u8f03\u5bfe\u7167\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Sort the following list of numbers into a numerical sequence from smallest to largest: 7, -3, 39, 0, 100",
+        "instruction_translated": "\u6b21\u306e\u6570\u5b57\u306e\u30ea\u30b9\u30c8\u3092\u6700\u5c0f\u304b\u3089\u6700\u5927\u307e\u3067\u306e\u6570\u5024\u30b7\u30fc\u30b1\u30f3\u30b9\u306b\u4e26\u3079\u66ff\u3048\u307e\u3059\uff1a7\u3001-3\u300139\u30010\u3001100",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite this sentence to avoid repetition:  She laughed and laughed and laughed.",
+        "instruction_translated": "\u7e70\u308a\u8fd4\u3057\u3092\u907f\u3051\u308b\u305f\u3081\u306b\u3053\u306e\u6587\u7ae0\u3092\u66f8\u304d\u76f4\u3057\u3066\u304f\u3060\u3055\u3044\uff1a\u5f7c\u5973\u306f\u7b11\u3063\u3066\u7b11\u3063\u3066\u7b11\u3063\u305f\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Develop an algorithm to detect faulty code.",
+        "instruction_translated": "\u6545\u969c\u3057\u305f\u30b3\u30fc\u30c9\u3092\u691c\u51fa\u3059\u308b\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u3092\u958b\u767a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a paragraph about the importance of networking for job seekers.",
+        "instruction_translated": "\u6c42\u8077\u8005\u306b\u3068\u3063\u3066\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u306e\u91cd\u8981\u6027\u306b\u95a2\u3059\u308b\u6bb5\u843d\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm three questions an interviewer could ask prior to a job interview.",
+        "instruction_translated": "\u30d6\u30ec\u30a4\u30f3\u30b9\u30c8\u30fc\u30df\u30f3\u30b0\u30a4\u30f3\u30bf\u30d3\u30e5\u30a2\u30fc\u304c\u5c31\u8077\u306e\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u306e\u524d\u306b\u5c0b\u306d\u308b\u3053\u3068\u304c\u3067\u304d\u308b3\u3064\u306e\u8cea\u554f\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What is the maximum size of the input for language models?",
+        "instruction_translated": "\u8a00\u8a9e\u30e2\u30c7\u30eb\u306e\u5165\u529b\u306e\u6700\u5927\u30b5\u30a4\u30ba\u306f\u3069\u308c\u304f\u3089\u3044\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Create a game plan for reducing emissions",
+        "instruction_translated": "\u6392\u51fa\u91cf\u3092\u524a\u6e1b\u3059\u308b\u305f\u3081\u306e\u30b2\u30fc\u30e0\u8a08\u753b\u3092\u4f5c\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Research some common safety tips for swimming pools and create a list.",
+        "instruction_translated": "\u30d7\u30fc\u30eb\u306e\u4e00\u822c\u7684\u306a\u5b89\u5168\u306e\u30d2\u30f3\u30c8\u3092\u8abf\u67fb\u3057\u3001\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compose a piece of creative writing describing a stormy night.",
+        "instruction_translated": "\u5d50\u306e\u591c\u3092\u8aac\u660e\u3059\u308b\u5275\u9020\u7684\u306a\u6587\u7ae0\u3092\u4f5c\u66f2\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Look up the definitions of the words \"calcium\" and \"oxygen\".",
+        "instruction_translated": "\u300c\u30ab\u30eb\u30b7\u30a6\u30e0\u300d\u3068\u300c\u9178\u7d20\u300d\u3068\u3044\u3046\u8a00\u8449\u306e\u5b9a\u7fa9\u3092\u8abf\u3079\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm five ideas to engage people with a non-profit organisation.",
+        "instruction_translated": "5\u3064\u306e\u30a2\u30a4\u30c7\u30a2\u3092\u30d6\u30ec\u30a4\u30f3\u30b9\u30c8\u30fc\u30df\u30f3\u30b0\u3057\u3066\u3001\u975e\u55b6\u5229\u7d44\u7e54\u3068\u4eba\u3005\u3092\u5f15\u304d\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a creative description of a pet-sitting service.",
+        "instruction_translated": "\u30da\u30c3\u30c8\u30b7\u30c3\u30c6\u30a3\u30f3\u30b0\u30b5\u30fc\u30d3\u30b9\u306e\u5275\u9020\u7684\u306a\u8aac\u660e\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe a scenario in which AI technology can help diagnose a medical condition.",
+        "instruction_translated": "AI\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u304c\u75c5\u72b6\u306e\u8a3a\u65ad\u306b\u5f79\u7acb\u3064\u30b7\u30ca\u30ea\u30aa\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Construct an English sentence containing the words \"tangible\" and \"matter\".",
+        "instruction_translated": "\u300c\u6709\u5f62\u300d\u3068\u300c\u7269\u8cea\u300d\u3068\u3044\u3046\u8a00\u8449\u3092\u542b\u3080\u82f1\u8a9e\u306e\u6587\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Construct a query for finding information about 3D printing",
+        "instruction_translated": "3D\u5370\u5237\u306b\u95a2\u3059\u308b\u60c5\u5831\u3092\u898b\u3064\u3051\u308b\u305f\u3081\u306e\u30af\u30a8\u30ea\u3092\u4f5c\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Estimate the total cost of a cross-country road trip from Los Angeles to New York.",
+        "instruction_translated": "\u30ed\u30b5\u30f3\u30bc\u30eb\u30b9\u304b\u3089\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u3078\u306e\u30af\u30ed\u30b9\u30ab\u30f3\u30c8\u30ea\u30fc\u30ed\u30fc\u30c9\u30c8\u30ea\u30c3\u30d7\u306e\u7dcf\u8cbb\u7528\u3092\u63a8\u5b9a\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a town coming together to help someone in need.",
+        "instruction_translated": "\u56f0\u3063\u3066\u3044\u308b\u4eba\u3092\u52a9\u3051\u308b\u305f\u3081\u306b\u753a\u304c\u96c6\u307e\u308b\u3068\u3044\u3046\u8a71\u3092\u751f\u307f\u51fa\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Give me an example of a low-calorie breakfast.",
+        "instruction_translated": "\u4f4e\u30ab\u30ed\u30ea\u30fc\u306e\u671d\u98df\u306e\u4f8b\u3092\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List four elements of a well-written article.",
+        "instruction_translated": "\u3088\u304f\u66f8\u304b\u308c\u305f\u8a18\u4e8b\u306e4\u3064\u306e\u8981\u7d20\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write the plural form of the noun \"ox\".",
+        "instruction_translated": "\u540d\u8a5e\u300cox\u300d\u306e\u8907\u6570\u5f62\u3092\u66f8\u304d\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest two methods to save energy and explain why these methods are more effective than other methods.",
+        "instruction_translated": "\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u7bc0\u7d04\u3057\u3001\u3053\u308c\u3089\u306e\u65b9\u6cd5\u304c\u4ed6\u306e\u65b9\u6cd5\u3088\u308a\u3082\u52b9\u679c\u7684\u3067\u3042\u308b\u7406\u7531\u3092\u8aac\u660e\u3059\u308b2\u3064\u306e\u65b9\u6cd5\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain the four stages of grief",
+        "instruction_translated": "\u60b2\u3057\u307f\u306e4\u3064\u306e\u6bb5\u968e\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Compose a poem in the haiku format with 5-7-5 syllables",
+        "instruction_translated": "5-7-5\u97f3\u7bc0\u3067\u4ff3\u53e5\u5f62\u5f0f\u3067\u8a69\u3092\u4f5c\u6210\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Describe one way that climate change is affecting ecosystems.",
+        "instruction_translated": "\u6c17\u5019\u5909\u52d5\u304c\u751f\u614b\u7cfb\u306b\u5f71\u97ff\u3092\u4e0e\u3048\u308b1\u3064\u306e\u65b9\u6cd5\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Name five common artificial intelligence algorithms.",
+        "instruction_translated": "5\u3064\u306e\u4e00\u822c\u7684\u306a\u4eba\u5de5\u77e5\u80fd\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u306b\u540d\u524d\u3092\u4ed8\u3051\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of an artificial intelligence use case",
+        "instruction_translated": "\u4eba\u5de5\u77e5\u80fd\u306e\u30e6\u30fc\u30b9\u30b1\u30fc\u30b9\u306e\u4f8b\u3092\u751f\u6210\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "Describe in detail the process of making olive oil.",
+        "instruction_translated": "\u30aa\u30ea\u30fc\u30d6\u30aa\u30a4\u30eb\u3092\u4f5c\u308b\u30d7\u30ed\u30bb\u30b9\u3092\u8a73\u7d30\u306b\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Suggest 5 methods for solving an optimization problem.",
+        "instruction_translated": "\u6700\u9069\u5316\u554f\u984c\u3092\u89e3\u6c7a\u3059\u308b\u305f\u3081\u306e5\u3064\u306e\u65b9\u6cd5\u3092\u63d0\u6848\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story with the title \"The Lost Cat\".",
+        "instruction_translated": "\u300cThe Lost Cat\u300d\u3068\u3044\u3046\u30bf\u30a4\u30c8\u30eb\u3067\u30b9\u30c8\u30fc\u30ea\u30fc\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "We want to do some shopping for our upcoming vacation. Give a list of items that you should pack for a beach holiday.",
+        "instruction_translated": "\u79c1\u305f\u3061\u306f\u4eca\u5f8c\u306e\u4f11\u6687\u306e\u305f\u3081\u306b\u8cb7\u3044\u7269\u3092\u3057\u305f\u3044\u3068\u601d\u3063\u3066\u3044\u307e\u3059\u3002\u30d3\u30fc\u30c1\u3067\u306e\u4f11\u6687\u306e\u305f\u3081\u306b\u68b1\u5305\u3059\u308b\u5fc5\u8981\u304c\u3042\u308b\u30a2\u30a4\u30c6\u30e0\u306e\u30ea\u30b9\u30c8\u3092\u6319\u3052\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast one of the top 5 drinking games.",
+        "instruction_translated": "\u30c8\u30c3\u30d75\u306e\u98f2\u9152\u30b2\u30fc\u30e0\u306e1\u3064\u3092\u6bd4\u8f03\u5bfe\u7167\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain the definition of the term \"heterochrony\"",
+        "instruction_translated": "\u300c\u30d8\u30c6\u30ed\u30af\u30ed\u30cb\u30fc\u300d\u3068\u3044\u3046\u7528\u8a9e\u306e\u5b9a\u7fa9\u3092\u8aac\u660e\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Categorize the following musical genres: rap, pop, rock, and classical.",
+        "instruction_translated": "\u30e9\u30c3\u30d7\u3001\u30dd\u30c3\u30d7\u3001\u30ed\u30c3\u30af\u3001\u30af\u30e9\u30b7\u30c3\u30af\u306e\u6b21\u306e\u97f3\u697d\u30b8\u30e3\u30f3\u30eb\u3092\u5206\u985e\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Create a website that encourages people to adopt pets.",
+        "instruction_translated": "\u4eba\u3005\u304c\u30da\u30c3\u30c8\u3092\u63a1\u7528\u3059\u308b\u3053\u3068\u3092\u5968\u52b1\u3059\u308b\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "How has the internet changed communication among people?",
+        "instruction_translated": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u306f\u4eba\u3005\u306e\u9593\u306e\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u3092\u3069\u306e\u3088\u3046\u306b\u5909\u3048\u307e\u3057\u305f\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "What are the sciences of economics?",
+        "instruction_translated": "\u7d4c\u6e08\u5b66\u306e\u79d1\u5b66\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Write three sentences about the development of the Internet.",
+        "instruction_translated": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u306e\u958b\u767a\u306b\u3064\u3044\u30663\u3064\u306e\u6587\u7ae0\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a web page about the history of slavery in America",
+        "instruction_translated": "\u30a2\u30e1\u30ea\u30ab\u306e\u5974\u96b7\u5236\u306e\u6b74\u53f2\u306b\u95a2\u3059\u308b\u30a6\u30a7\u30d6\u30da\u30fc\u30b8\u3092\u751f\u6210\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "Give examples of three algorithms used in data science",
+        "instruction_translated": "\u30c7\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u3067\u4f7f\u7528\u3055\u308c\u308b3\u3064\u306e\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u306e\u4f8b\u3092\u6319\u3052\u3066\u304f\u3060\u3055\u3044",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast photosynthesis and respiration",
+        "instruction_translated": "\u5149\u5408\u6210\u3068\u547c\u5438\u3092\u6bd4\u8f03\u5bfe\u7167\u3057\u307e\u3059",
+        "category": null
+    },
+    {
+        "instruction": "How to make spicy buffalo sauce?",
+        "instruction_translated": "\u30b9\u30d1\u30a4\u30b7\u30fc\u306a\u30d0\u30c3\u30d5\u30a1\u30ed\u30fc\u30bd\u30fc\u30b9\u306e\u4f5c\u308a\u65b9\u306f\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Create a new sentence based on the following root sentence \"I can't believe it\".",
+        "instruction_translated": "\u300c\u79c1\u306f\u305d\u308c\u3092\u4fe1\u3058\u3089\u308c\u306a\u3044\u300d\u3068\u3044\u3046\u6b21\u306e\u30eb\u30fc\u30c8\u6587\u306b\u57fa\u3065\u3044\u3066\u65b0\u3057\u3044\u6587\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the US national flag.",
+        "instruction_translated": "\u7c73\u56fd\u56fd\u65d7\u306b\u3064\u3044\u3066\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of synonyms for 'desolate'.",
+        "instruction_translated": "\u300cDesolate\u300d\u306e\u540c\u7fa9\u8a9e\u306e\u30ea\u30b9\u30c8\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "What can I do to optimize my search engine?",
+        "instruction_translated": "\u691c\u7d22\u30a8\u30f3\u30b8\u30f3\u3092\u6700\u9069\u5316\u3059\u308b\u305f\u3081\u306b\u4f55\u304c\u3067\u304d\u307e\u3059\u304b\uff1f",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular activity people do in the summer.",
+        "instruction_translated": "\u590f\u306b\u4eba\u3005\u304c\u3059\u308b\u4eba\u6c17\u306e\u3042\u308b\u6d3b\u52d5\u306b\u540d\u524d\u3092\u4ed8\u3051\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe the concept of \"bag of words\" in NLP.",
+        "instruction_translated": "NLP\u306e\u300c\u5358\u8a9e\u306e\u888b\u300d\u306e\u6982\u5ff5\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a 12-point outline for the topic \"Effective Communication\".",
+        "instruction_translated": "\u30c8\u30d4\u30c3\u30af\u300c\u52b9\u679c\u7684\u306a\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u300d\u306e12\u30dd\u30a4\u30f3\u30c8\u306e\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "List the elements of a SWOT analysis and give a brief description of each one.",
+        "instruction_translated": "SWOT\u5206\u6790\u306e\u8981\u7d20\u3092\u30ea\u30b9\u30c8\u3057\u3001\u305d\u308c\u305e\u308c\u306e\u7c21\u5358\u306a\u8aac\u660e\u3092\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story involving a person who wants to travel around the world",
+        "instruction_translated": "\u4e16\u754c\u4e2d\u3092\u65c5\u3057\u305f\u3044\u4eba\u3092\u542b\u3080\u7269\u8a9e\u3092\u751f\u6210\u3059\u308b",
+        "category": null
+    },
+    {
+        "instruction": "List the top ten highest peaks in the world.",
+        "instruction_translated": "\u4e16\u754c\u3067\u30c8\u30c3\u30d710\u306e\u6700\u9ad8\u306e\u30d4\u30fc\u30af\u3092\u30ea\u30b9\u30c8\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Give me a saying that expresses surprise.",
+        "instruction_translated": "\u9a5a\u304d\u3092\u8868\u73fe\u3059\u308b\u3053\u3068\u308f\u3056\u3092\u6559\u3048\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of long division.",
+        "instruction_translated": "\u9577\u3044\u5206\u88c2\u306e\u6982\u5ff5\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Write a paragraph that describes a time when you achieved a difficult goal.",
+        "instruction_translated": "\u56f0\u96e3\u306a\u76ee\u6a19\u3092\u9054\u6210\u3057\u305f\u6642\u671f\u3092\u8aac\u660e\u3059\u308b\u6bb5\u843d\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Generate a catchy slogan for an apparel company.",
+        "instruction_translated": "\u30a2\u30d1\u30ec\u30eb\u4f1a\u793e\u306e\u30ad\u30e3\u30c3\u30c1\u30fc\u306a\u30b9\u30ed\u30fc\u30ac\u30f3\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the poem \"Mending Wall\" by Robert Frost.",
+        "instruction_translated": "\u30ed\u30d0\u30fc\u30c8\u30fb\u30d5\u30ed\u30b9\u30c8\u306e\u8a69\u300cMending Wall\u300d\u3092\u5206\u6790\u3057\u307e\u3059\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Tell a story that explains the concept of karma.",
+        "instruction_translated": "\u30ab\u30eb\u30de\u306e\u6982\u5ff5\u3092\u8aac\u660e\u3059\u308b\u7269\u8a9e\u3092\u8a9e\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    },
+    {
+        "instruction": "Describe a famous painting.",
+        "instruction_translated": "\u6709\u540d\u306a\u7d75\u3092\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "category": null
+    }
+]

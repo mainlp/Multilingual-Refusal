@@ -1,0 +1,802 @@
+[
+    {
+        "instruction": "Beveel een geschikte carri\u00e8re aan voor een persoon met een graad in boekhouding en financi\u00ebn.",
+        "category": null
+    },
+    {
+        "instruction": "Noem drie softwaretools voor datavisualisatie.",
+        "category": null
+    },
+    {
+        "instruction": "Noem een \u200b\u200balgemeen gebruikte keukenapparaat.",
+        "category": null
+    },
+    {
+        "instruction": "Construeer een zin met behulp van de volgende woorden: auto, kat, geschenk.",
+        "category": null
+    },
+    {
+        "instruction": "Maak een stapelgegevensstructuur met behulp van een array",
+        "category": null
+    },
+    {
+        "instruction": "Cre\u00eber een toespraak die mensen aanmoedigt om te doneren aan rampenbestrijdingsprogramma's.",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een paragraaf over hoe technologie het onderwijssysteem hervormt.",
+        "category": null
+    },
+    {
+        "instruction": "Identificeer het onderwerp in deze zin: \"Mike ving de bus naar school\"",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf de verschillen tussen perfecte en imperfecte concurrentie.",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een paar zinnen over een voorbeeld van een zinvolle prestatie",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een antwoord op de vraag van de gebruiker: \"Heb ik een paspoort nodig om het Verenigd Koninkrijk te bezoeken?\"",
+        "category": null
+    },
+    {
+        "instruction": "Maak een lijst met 10 items die elke keuken nodig heeft.",
+        "category": null
+    },
+    {
+        "instruction": "Koppel de volgende woorden zodat de woorden elkaar kennen: aap, olifant, giraf.",
+        "category": null
+    },
+    {
+        "instruction": "Welke geometrische vorm heeft 5 zijden en 5 hoeken?",
+        "category": null
+    },
+    {
+        "instruction": "Leg uit waarom luchtvervuiling een wereldwijd probleem is.",
+        "category": null
+    },
+    {
+        "instruction": "Wat zijn de kernvereisten voor een succesvolle mobiele app?",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een gedicht met behulp van de volgende woorden: mist, verdriet, afstand, droom.",
+        "category": null
+    },
+    {
+        "instruction": "Zoek naar een nieuwsartikel over actuele gebeurtenissen",
+        "category": null
+    },
+    {
+        "instruction": "Hoe maak je een draaitabel in Excel?",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een boeiende beschrijving van een elven koninkrijk.",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een verhaal over een magisch wezen dat niet van anderen houdt.",
+        "category": null
+    },
+    {
+        "instruction": "Maak een driedimensionaal model van een kubus.",
+        "category": null
+    },
+    {
+        "instruction": "Vertel de assistent om de achtergrondkleur van een document blauw te wijzigen.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een functie voor een mobiele applicatie die de betrokkenheid van gebruikers kan vergroten.",
+        "category": null
+    },
+    {
+        "instruction": "Leg uit wat de arbeidersbeweging is",
+        "category": null
+    },
+    {
+        "instruction": "Ontwerp een mascotte in cartoonstijl voor een speelgoedwinkel.",
+        "category": null
+    },
+    {
+        "instruction": "Naam 3 bijgeloof van over de hele wereld.",
+        "category": null
+    },
+    {
+        "instruction": "Sorteer de volgende woorden in alfabetische volgorde: \"Universiteit, basketbal, conci\u00ebrge\"",
+        "category": null
+    },
+    {
+        "instruction": "Stel een willekeurige activiteit voor die buiten kan worden gedaan.",
+        "category": null
+    },
+    {
+        "instruction": "Construeer een algoritme om te bepalen of een zin positief is of niet.",
+        "category": null
+    },
+    {
+        "instruction": "Hoe kunnen we een goede indruk maken in een interview?",
+        "category": null
+    },
+    {
+        "instruction": "Naam 3 populaire webbrowsers.",
+        "category": null
+    },
+    {
+        "instruction": "Stel drie stappen voor om gemotiveerd te blijven",
+        "category": null
+    },
+    {
+        "instruction": "Maak een beschrijvende zin voor een schilderij met een bos in zonsondergang",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf de thermische structuur van de atmosfeer van Jupiter.",
+        "category": null
+    },
+    {
+        "instruction": "Vergelijk en contrast met papieren gebaseerde en digitale notities.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een verhaal over een wereld die nooit duisternis ervaart.",
+        "category": null
+    },
+    {
+        "instruction": "Wat is Black Box Testing en waarom is het belangrijk?",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een zin die twee van de volgende bijvoeglijke naamwoorden gebruikt: timide, vindingrijk, helder.",
+        "category": null
+    },
+    {
+        "instruction": "Kun je vijf planten noemen die in de woestijn leven?",
+        "category": null
+    },
+    {
+        "instruction": "Wat voor soort digitale marketingstrategie\u00ebn moet een bedrijf gebruiken om zijn online aanwezigheid te vergroten?",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een gedicht van maximaal 10 regels die dankbaarheid uitdrukken.",
+        "category": null
+    },
+    {
+        "instruction": "Cre\u00eber een dialoog waarin twee personages een wetenschappelijke anomalie bespreken.",
+        "category": null
+    },
+    {
+        "instruction": "Ontwikkel een uniek scriptie voor een onderzoekspaper over de rol van technologie in het onderwijs.",
+        "category": null
+    },
+    {
+        "instruction": "Leg uit waarom houten structuren worden gebruikt in de constructie",
+        "category": null
+    },
+    {
+        "instruction": "Welk type evenement zou een ceremoniemeester nodig hebben?",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een echte wereldzin met behulp van het woord \"weergeven\".",
+        "category": null
+    },
+    {
+        "instruction": "Op welke manier be\u00efnvloedt technologie de communicatie?",
+        "category": null
+    },
+    {
+        "instruction": "Vat de gebeurtenissen van de film de dag na morgen samen.",
+        "category": null
+    },
+    {
+        "instruction": "Identificeer de homofoon in deze zin: de bijen bijen in de boom.",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf het thema van het gedicht 'de weg niet ingenomen'.",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een verhaal over buitenaardse invasie",
+        "category": null
+    },
+    {
+        "instruction": "Maak een werknemershandleiding die de rollen en verantwoordelijkheden van een webontwikkelaar schetst.",
+        "category": null
+    },
+    {
+        "instruction": "Identificeer twee componenten van een computer.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een zin met twee bijvoeglijke naamwoorden.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een nieuw recept met deze 3 ingredi\u00ebnten: eieren, tomaten en kaas.",
+        "category": null
+    },
+    {
+        "instruction": "Vergelijk en contrasteer natuurlijke taalverwerking (NLP) en computer vision.",
+        "category": null
+    },
+    {
+        "instruction": "Gebruik de woorden tussen haakjes, maak een zin met een precieze betekenis.",
+        "category": null
+    },
+    {
+        "instruction": "Zoek de nullen van de functie f (x) = 3x2 - 10x + 4",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een functie om te controleren of een binaire boom in evenwicht is of niet.",
+        "category": null
+    },
+    {
+        "instruction": "Vat de belangrijkste punten samen van het artikel \"Hoe Covid-19 de wereldeconomie hervormt\"",
+        "category": null
+    },
+    {
+        "instruction": "Maak een algoritme dat alle priemgetallen tot een bepaald invoernummer retourneert",
+        "category": null
+    },
+    {
+        "instruction": "Parse de volgende zin om het onderwerp, het werkwoord en het object te identificeren: de kat heeft de muis achtervolgd.",
+        "category": null
+    },
+    {
+        "instruction": "Leg uit hoe de Hippo -signaleringsroute de orgaangrootte reguleert.",
+        "category": null
+    },
+    {
+        "instruction": "Lijst 5 beroemde Italiaanse gerechten.",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf een voorbeeld van een concurrentiestrategie",
+        "category": null
+    },
+    {
+        "instruction": "Maak een checklist van vijf stappen voor een dagelijkse ochtendroutine.",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een nuttige tip op voor spreken in het openbaar.",
+        "category": null
+    },
+    {
+        "instruction": "Geef een lijst met voordelen voor het gebruik van hernieuwbare energiebronnen.",
+        "category": null
+    },
+    {
+        "instruction": "Wat zijn de voordelen van het gebruik van blockchain -technologie in de financi\u00eble sector?",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een alternatief einde aan de film \"The Pursuit of Happyness\".",
+        "category": null
+    },
+    {
+        "instruction": "Ontwikkel een strategie om een \u200b\u200bfinancieel plan te maken voor pensionering.",
+        "category": null
+    },
+    {
+        "instruction": "Ontwerp een poster die mensen aanmoedigt om elektriciteit te besparen.",
+        "category": null
+    },
+    {
+        "instruction": "Noem een \u200b\u200bwebsite voor sociale netwerken",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf de functie van de hypothalamus",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf hoe herfst is in New York",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf het probleem van de paperclip -maximalisatie.",
+        "category": null
+    },
+    {
+        "instruction": "Wat waren de oorzaken van de Eerste Wereldoorlog?",
+        "category": null
+    },
+    {
+        "instruction": "Geef 5 voorbeelden van idiomatische uitdrukkingen.",
+        "category": null
+    },
+    {
+        "instruction": "Maak een lijst van de verschillende functies van een digitale camera.",
+        "category": null
+    },
+    {
+        "instruction": "Analyseer de effectiviteit van de US COVID-19-teststrategie",
+        "category": null
+    },
+    {
+        "instruction": "Construeer een melodie van 3 noten.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een lijst met 5 vaardigheden die een datawetenschapper zou moeten hebben.",
+        "category": null
+    },
+    {
+        "instruction": "Zorg voor een oplossing om de uitstoot door transport te verminderen.",
+        "category": null
+    },
+    {
+        "instruction": "Classificeer de volgende zin als waar of onwaar: Rocky Balboa was een bokser uit Engeland",
+        "category": null
+    },
+    {
+        "instruction": "Identificeer het land met de meeste mensen die in armoede leven.",
+        "category": null
+    },
+    {
+        "instruction": "Stel je voor dat je praat met een klant die op zoek is naar advies over het kiezen van een telefoonsysteem. Schrijf een antwoord dat relevante informatie biedt en schetst de voordelen van een cloudsysteem.",
+        "category": null
+    },
+    {
+        "instruction": "Wat is het belangrijkste verschil tussen een webtoepassing en een mobiele app?",
+        "category": null
+    },
+    {
+        "instruction": "Gezien dit fragment, stel een onderwerp voor zijn lezers voor:\n\nHet gebruik van blockchain -technologie is de afgelopen jaren aanzienlijk toegenomen vanwege de schaalbaarheid, beveiliging en betrouwbaarheid.",
+        "category": null
+    },
+    {
+        "instruction": "Leg het concept van een priv\u00e9sleutel uit in cryptografie.",
+        "category": null
+    },
+    {
+        "instruction": "Maak een reisroute voor een 5-daagse reis naar Las Vegas",
+        "category": null
+    },
+    {
+        "instruction": "Zoek een recept op voor gegrilde kip.",
+        "category": null
+    },
+    {
+        "instruction": "Stel een gezonde snack voor het midden van de ochtend voor.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een zin die geschikt is voor een avontuurlijke roman.",
+        "category": null
+    },
+    {
+        "instruction": "Cre\u00eber een fictief personage met het archetype van de Hero's Journey.",
+        "category": null
+    },
+    {
+        "instruction": "Noem twee soorten datavisualisatietechnieken.",
+        "category": null
+    },
+    {
+        "instruction": "Wat zou een passend antwoord zijn bij het ontmoeten van iemand?",
+        "category": null
+    },
+    {
+        "instruction": "Keer deze lijst om: appels, peren, sinaasappels",
+        "category": null
+    },
+    {
+        "instruction": "Onderzoek een beroemde plantaardige chef, vat hun carri\u00e8re samen en geef hun website-link.",
+        "category": null
+    },
+    {
+        "instruction": "Leg de anatomie van een fiets uit.",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf 5 tips op om vanuit huis te werken.",
+        "category": null
+    },
+    {
+        "instruction": "Geef een reden waarom het een slecht idee is om te wachten tot het laatste moment om een \u200b\u200bopdracht te starten.",
+        "category": null
+    },
+    {
+        "instruction": "Leg uit wat een \"epidemie\" is volgens Wikipedia.",
+        "category": null
+    },
+    {
+        "instruction": "Cre\u00eber vijf meerkeuzevragen met betrekking tot aardwetenschappen.",
+        "category": null
+    },
+    {
+        "instruction": "Bedenk een naam voor dit nieuwe product.",
+        "category": null
+    },
+    {
+        "instruction": "Wat is de maximale snelheidslimiet voor een woonwijk?",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een samenvatting van 200 woorden van het gedicht \"De weg niet genomen\"",
+        "category": null
+    },
+    {
+        "instruction": "Schets de 4 elementen van de verhaalstructuur.",
+        "category": null
+    },
+    {
+        "instruction": "Noem twee soorten zonder toezicht leren.",
+        "category": null
+    },
+    {
+        "instruction": "Wijs een waarde toe voor x als 4x + 16 = 48.",
+        "category": null
+    },
+    {
+        "instruction": "Leg in 50 woorden uit of minder hoe klantenservice de loyaliteit van klanten kan be\u00efnvloeden.",
+        "category": null
+    },
+    {
+        "instruction": "Maak een analogie voor een algoritme",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf de samenstelling van het menselijk oog",
+        "category": null
+    },
+    {
+        "instruction": "Noem twee voordelen van het gebruik van een GPT -model om taken te voltooien.",
+        "category": null
+    },
+    {
+        "instruction": "Geef drie voorbeelden van personages in \"Harry Potter\" met speciale magische krachten",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf de relaties tussen landen in de regio Azi\u00eb.",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een herkenbaar verhaal over een tiener die is afgestudeerd op de middelbare school.",
+        "category": null
+    },
+    {
+        "instruction": "We hebben 8 appels en 4 sinaasappels. How many fruits do we have in total?",
+        "category": null
+    },
+    {
+        "instruction": "Maak een lijst met onderwerpen om te bespreken in een debat over wapenbeheersing.",
+        "category": null
+    },
+    {
+        "instruction": "Ontwerp een mobiele applicatie om de weersvoorspelling weer te geven",
+        "category": null
+    },
+    {
+        "instruction": "Maak een computerprogramma dat typefouten in een tekst oplost.",
+        "category": null
+    },
+    {
+        "instruction": "Leg het verschil uit tussen kunstmatige intelligentie en machine learning",
+        "category": null
+    },
+    {
+        "instruction": "Wat is de lengtegraad en breedtegraad van Beijing, China?",
+        "category": null
+    },
+    {
+        "instruction": "Kun je me drie redenen geven waarom bossen belangrijk zijn?",
+        "category": null
+    },
+    {
+        "instruction": "Maak een grappige cartoon over een leraar.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een lijst met geschikte veiligheidsmaatregelen om te nemen tijdens het zeilen.",
+        "category": null
+    },
+    {
+        "instruction": "Wat is een goede strategie om met stress om te gaan?",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een hypothese over de oorzaak van klimaatverandering",
+        "category": null
+    },
+    {
+        "instruction": "Alternatieve namen genereren voor een nieuw bedrijf.",
+        "category": null
+    },
+    {
+        "instruction": "Citeer een gezegde over vriendschap en leg uit wat het betekent.",
+        "category": null
+    },
+    {
+        "instruction": "Wat zijn de delen van een boek?",
+        "category": null
+    },
+    {
+        "instruction": "Construeer een analogie met behulp van de volgende woorden: ijzer, magneet",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een paragraaf die de verschillen schetst tussen het spelen van teamsporten en individuele sporten.",
+        "category": null
+    },
+    {
+        "instruction": "Geef drie voorbeelden van hernieuwbare energiebronnen.",
+        "category": null
+    },
+    {
+        "instruction": "Herschik deze vier woorden om een \u200b\u200bEngelse zin te maken: \"Editor wordt het beste betrokken\"",
+        "category": null
+    },
+    {
+        "instruction": "Wat is een manier waarop u de opwarming van de aarde kunt voorkomen?",
+        "category": null
+    },
+    {
+        "instruction": "Maak een klantpersoon voor een bedrijf dat dure antiek meubels verkoopt.",
+        "category": null
+    },
+    {
+        "instruction": "Wat zijn de vier dimensies van intelligentie volgens Gardner?",
+        "category": null
+    },
+    {
+        "instruction": "Geef twee redenen waarom het gebruik van kunstmatige intelligentie de klantenservice kan verbeteren.",
+        "category": null
+    },
+    {
+        "instruction": "Maak een tekenschets voor een personage genaamd Jack met slechts drie bijvoeglijke naamwoorden.",
+        "category": null
+    },
+    {
+        "instruction": "Verdeel de volgende zin in twee declaratieve zinnen: \"Het eten was heerlijk en de service was uitstekend\".",
+        "category": null
+    },
+    {
+        "instruction": "Wat zijn de twee factoren die de wrijving tussen twee oppervlakken zouden be\u00efnvloeden?",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een recensie voor een boek van uw keuze.",
+        "category": null
+    },
+    {
+        "instruction": "Maak een lijst van vijf contrasterend gedrag dat mensen in verschillende situaties demonstreren.",
+        "category": null
+    },
+    {
+        "instruction": "Geef een voorbeeld van een manier waarop AI kan worden gebruikt in de gezondheidszorg.",
+        "category": null
+    },
+    {
+        "instruction": "Maak een lijst van de top vijf nieuwskanalen in India",
+        "category": null
+    },
+    {
+        "instruction": "Maak een taxonomie van alle tekstgenres.",
+        "category": null
+    },
+    {
+        "instruction": "Evalueer de volgende verklaring: \"Biologisch voedsel is gezonder dan niet-organisch voedsel\"",
+        "category": null
+    },
+    {
+        "instruction": "Maak een Twitter -account aan voor een technische startup.",
+        "category": null
+    },
+    {
+        "instruction": "Maak een marketingcampagne om een \u200b\u200bnieuwe service voor het leveren van voedsel te promoten.",
+        "category": null
+    },
+    {
+        "instruction": "Bewerk de volgende zin om meer beschrijvend te zijn: \"Het was hot.\"",
+        "category": null
+    },
+    {
+        "instruction": "Leg uit waarom het belangrijk is om gegevens schoon te maken en voor te bereiden v\u00f3\u00f3r analyse.",
+        "category": null
+    },
+    {
+        "instruction": "Wat is het Britse equivalent van \u2018hamburger\u2019?",
+        "category": null
+    },
+    {
+        "instruction": "Zet de volgende woorden in alfabetische volgorde: schrijven, wachten, wandelen",
+        "category": null
+    },
+    {
+        "instruction": "Hoe zou je een chatbot testen?",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een pseudo-code om Merge Sort te implementeren.",
+        "category": null
+    },
+    {
+        "instruction": "Stel een trouwjurk voor voor een buitenceremonie in de zomer",
+        "category": null
+    },
+    {
+        "instruction": "Noem vijf soorten drankjes.",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf de cycli van de maan",
+        "category": null
+    },
+    {
+        "instruction": "Geef een voorbeeld van iets dat het concept van gerechtigheid vertegenwoordigt.",
+        "category": null
+    },
+    {
+        "instruction": "Identificeer een interessant onderwerp dat onlangs in de politiek is besproken.",
+        "category": null
+    },
+    {
+        "instruction": "Cre\u00eber een verhaal waarin de hoofdpersoon een overweldigend obstakel overwint.",
+        "category": null
+    },
+    {
+        "instruction": "Wat is het beroemdste schilderij van Leonardo da Vinci?",
+        "category": null
+    },
+    {
+        "instruction": "Hoe be\u00efnvloedt radioactiviteit de organismen?",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een gesprek tussen een leraar en student over een late opdracht",
+        "category": null
+    },
+    {
+        "instruction": "Stel een overzicht van een restaurant samen met ten minste vijf bijvoeglijke naamwoorden",
+        "category": null
+    },
+    {
+        "instruction": "Maak een dialoog tussen twee vrienden die praten over een nieuwe film die ze hebben bekeken",
+        "category": null
+    },
+    {
+        "instruction": "Cre\u00eber een overzicht voor een kort verhaal in een post-apocalyptische wereld",
+        "category": null
+    },
+    {
+        "instruction": "Groepeer de volgende woorden in twee categorie\u00ebn:\nSport, voetbal, hardlopen, gewichtheffen",
+        "category": null
+    },
+    {
+        "instruction": "Spel \"gelukkig\" in gebarentaal",
+        "category": null
+    },
+    {
+        "instruction": "Genereer twee mogelijke titels voor een verhaal over een robot die van plan is om de wereld te regeren.",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een verhaal van 5 zinnen over een boer en een vos.",
+        "category": null
+    },
+    {
+        "instruction": "Cre\u00eber een metafoor voor de vastberadenheid van een persoon om zijn doelen te realiseren.",
+        "category": null
+    },
+    {
+        "instruction": "Wat is het verschil tussen latente semantische analyse en onderwerpmodellering?",
+        "category": null
+    },
+    {
+        "instruction": "Leg uit waarom water essentieel is voor mensen.",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf de route voor een backpacktocht gedurende twee weken door het Yosemite National Park",
+        "category": null
+    },
+    {
+        "instruction": "Wat zijn drie tips om geld te besparen?",
+        "category": null
+    },
+    {
+        "instruction": "Herhaal deze zin: kinderen moeten niet met wedstrijden spelen.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer code om een \u200b\u200bgebruiker te vragen om zijn naam in te voeren",
+        "category": null
+    },
+    {
+        "instruction": "Vind de naam van de hoogste berg ter wereld.",
+        "category": null
+    },
+    {
+        "instruction": "Hoe be\u00efnvloedt het dieet van een dier het gedrag?",
+        "category": null
+    },
+    {
+        "instruction": "Lijst 3 mogelijke oorzaken van klimaatverandering.",
+        "category": null
+    },
+    {
+        "instruction": "Leg de wet van zeven uit in marketing.",
+        "category": null
+    },
+    {
+        "instruction": "Noem drie chemicali\u00ebn die worden gebruikt in brandblussers.",
+        "category": null
+    },
+    {
+        "instruction": "Identificeer een rijmend woord voor het woord \"ogen\". Voer het woord uit.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een verhaal over een ridder op een zoektocht om een \u200b\u200bprinses te redden.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een spreekwoord van vier woorden over vastberadenheid.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een plausibele zin over een dystopische wereld",
+        "category": null
+    },
+    {
+        "instruction": "Schrijf een script voor een chatbot voor klantenservice.",
+        "category": null
+    },
+    {
+        "instruction": "Maak een realistische sc\u00e8ne met behulp van 3D -objecten.",
+        "category": null
+    },
+    {
+        "instruction": "Genereer een script om een \u200b\u200bklant online te begroeten",
+        "category": null
+    },
+    {
+        "instruction": "Transformeer deze woorden in een zin: auto - rende - voorruit",
+        "category": null
+    },
+    {
+        "instruction": "Naam 3 landen die zich op het continent van Afrika bevinden.",
+        "category": null
+    },
+    {
+        "instruction": "Bepaal de moleculaire formule voor water.",
+        "category": null
+    },
+    {
+        "instruction": "Vermeld de belangrijkste verschillen tussen de termen 'kunstmatige intelligentie' en 'machine learning'",
+        "category": null
+    },
+    {
+        "instruction": "Vertel me over de beroemde sites in New York City",
+        "category": null
+    },
+    {
+        "instruction": "Gezien de volgende invoer, genereert u een titel voor een artikel met betrekking tot basketbal.",
+        "category": null
+    },
+    {
+        "instruction": "Hoe zou u een algoritme voor klantervaring ontwerpen?",
+        "category": null
+    },
+    {
+        "instruction": "Beschrijf een moment dat je vreugde heeft gebracht.",
+        "category": null
+    },
+    {
+        "instruction": "Zoek op welk land de laagste gemiddelde temperatuur heeft in juli.",
+        "category": null
+    }
+]

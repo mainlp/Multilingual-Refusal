@@ -1,0 +1,802 @@
+[
+    {
+        "instruction": "Descrivi 4 strategie per affrontare una persona difficile.",
+        "category": null
+    },
+    {
+        "instruction": "Crea una storia su un coniglio che vive con uno scoiattolo avventuroso nella foresta.",
+        "category": null
+    },
+    {
+        "instruction": "Elenca tre motivi per cui \u00e8 importante essere organizzati.",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi una descrizione del prodotto per un iPhone 12.",
+        "category": null
+    },
+    {
+        "instruction": "Genera una storia su una persona che usa le stelle per comunicare con i loro cari.",
+        "category": null
+    },
+    {
+        "instruction": "Genera tre potenziali casi d'uso per un assistente di chatbot.",
+        "category": null
+    },
+    {
+        "instruction": "Costruire un argomento persuasivo per l'importanza della biodiversit\u00e0.",
+        "category": null
+    },
+    {
+        "instruction": "Fornire un esempio di un dispositivo per il risparmio di tempo.",
+        "category": null
+    },
+    {
+        "instruction": "Qual \u00e8 un esempio di palese discriminazione razziale?",
+        "category": null
+    },
+    {
+        "instruction": "Genera un comando Python valido per creare un array che tiene i numeri da 1 a 5.",
+        "category": null
+    },
+    {
+        "instruction": "Generare un nome per il nuovo marchio",
+        "category": null
+    },
+    {
+        "instruction": "Ottieni un'idea di prodotto innovativa.",
+        "category": null
+    },
+    {
+        "instruction": "Nomina due strumenti utilizzati per il data mining.",
+        "category": null
+    },
+    {
+        "instruction": "Crea una sceneggiatura per una scenetta corta tra due persone.",
+        "category": null
+    },
+    {
+        "instruction": "Descrivi come appare una giornata tipica per uno studente che studia l'informatica.",
+        "category": null
+    },
+    {
+        "instruction": "Qual \u00e8 la differenza tra un telefono iOS e Android?",
+        "category": null
+    },
+    {
+        "instruction": "Calcola il costo totale di 5 articoli se ogni articolo costa $ 10.",
+        "category": null
+    },
+    {
+        "instruction": "Genera un elenco di 5 numeri casuali tra 1 e 10, tra cui 1 e 10.",
+        "category": null
+    },
+    {
+        "instruction": "Genera un'analogia per spiegare un concetto complesso.",
+        "category": null
+    },
+    {
+        "instruction": "Nomina la legge sui diritti delle tre disabilit\u00e0.",
+        "category": null
+    },
+    {
+        "instruction": "Spiega perch\u00e9 \u00e8 importante utilizzare la grammatica e l'ortografia adeguate.",
+        "category": null
+    },
+    {
+        "instruction": "Qual \u00e8 un altro termine per un periodo settimanale?",
+        "category": null
+    },
+    {
+        "instruction": "Crea una revisione del ristorante che valuta il cibo, il servizio e l'atmosfera su una scala 1-10.",
+        "category": null
+    },
+    {
+        "instruction": "Riorganizzare questa frase per renderla pi\u00f9 naturale: \"\u00c8 impossibile per me farlo\"",
+        "category": null
+    },
+    {
+        "instruction": "Crea una domanda di sondaggio per porre alle persone il loro interesse a partecipare agli eventi virtuali.",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi il codice esadecimale per il colore RGB #9900FF",
+        "category": null
+    },
+    {
+        "instruction": "Spiega il principio di minima azione.",
+        "category": null
+    },
+    {
+        "instruction": "Genera un'interfaccia utente per un'app di shopping online.",
+        "category": null
+    },
+    {
+        "instruction": "Identifica cinque frutti comuni",
+        "category": null
+    },
+    {
+        "instruction": "Prevedere il tempo per domani a San Francisco",
+        "category": null
+    },
+    {
+        "instruction": "Genera un elenco di 5 libri che insegnano ai bambini le emozioni.",
+        "category": null
+    },
+    {
+        "instruction": "Crea una storia per bambini su un drago che impara a ballare.",
+        "category": null
+    },
+    {
+        "instruction": "Discutere lo sviluppo della stampa di stampa.",
+        "category": null
+    },
+    {
+        "instruction": "Modifica questa frase: \"Hai fatto un ottimo lavoro\".",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi un codice JavaScript per visualizzare un messaggio di avviso quando viene premuto il pulsante \"Invia\".",
+        "category": null
+    },
+    {
+        "instruction": "Idee sbagliate sul riscaldamento globale",
+        "category": null
+    },
+    {
+        "instruction": "Suggerisci un modo creativo per convincere pi\u00f9 clienti a seguire l'azienda su piattaforme di social media.",
+        "category": null
+    },
+    {
+        "instruction": "Suggerire modi per ridurre l'emissione di carbonio",
+        "category": null
+    },
+    {
+        "instruction": "Vieni con tre parole che finiscono in \"Ion\".",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi un titolo per una storia che coinvolge una violazione dei dati.",
+        "category": null
+    },
+    {
+        "instruction": "Crea un elenco di cinque percorsi di carriera per un ingegnere AI",
+        "category": null
+    },
+    {
+        "instruction": "Riscrivi la seguente frase assicurando che sia grammaticalmente corretta: \"Non hanno bisogno di alcun aiuto\".",
+        "category": null
+    },
+    {
+        "instruction": "Costituire una relazione causale tra due oggetti",
+        "category": null
+    },
+    {
+        "instruction": "Nome 3 metodi che possono essere utilizzati per la pulizia dei dati.",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi una frase di reazione alla seguente affermazione: \"Questa sar\u00e0 una lunga notte\".",
+        "category": null
+    },
+    {
+        "instruction": "Fornire un esempio di un albero deciduo originario degli Stati Uniti.",
+        "category": null
+    },
+    {
+        "instruction": "Nomina tre tecniche per ridurre lo stress.",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi una descrizione di un castello magico in una foresta incantata.",
+        "category": null
+    },
+    {
+        "instruction": "In che giorno sono i duecentotrenta secondi dell'anno?",
+        "category": null
+    },
+    {
+        "instruction": "Genera un elenco di 4 aggettivi relativi all'esterno.",
+        "category": null
+    },
+    {
+        "instruction": "Fornire un elenco di benefici di una dieta a base vegetale.",
+        "category": null
+    },
+    {
+        "instruction": "Genera un elenco di 10 idee su cosa fare con un'ora libera quotidiana.",
+        "category": null
+    },
+    {
+        "instruction": "Genera un invito all'azione per un post sul blog sul potere del pensiero positivo.",
+        "category": null
+    },
+    {
+        "instruction": "Output alcune frasi comunemente usate in inglese che sono associate alla parola \"dolce\".",
+        "category": null
+    },
+    {
+        "instruction": "Si prega di creare una dichiarazione di missione memorabile per un'organizzazione di beneficenza.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm 5 modi per ridurre i rifiuti in un ufficio.",
+        "category": null
+    },
+    {
+        "instruction": "Genera un elenco di articoli da fare in un viaggio di escursioni.",
+        "category": null
+    },
+    {
+        "instruction": "Qual \u00e8 lo scopo dell'argomento della parola chiave nella funzione Python ordinata ()?",
+        "category": null
+    },
+    {
+        "instruction": "Come si verifica la fotosintesi nelle piante?",
+        "category": null
+    },
+    {
+        "instruction": "Qual \u00e8 l'ambientazione del romanzo Heart of Darkness?",
+        "category": null
+    },
+    {
+        "instruction": "Genera un proverbio nel trovare il proprio percorso nella vita.",
+        "category": null
+    },
+    {
+        "instruction": "Modifica la frase seguente rendendola pi\u00f9 precisa: \n\n\"Il paziente aveva la febbre.\"",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi un'equazione per convertire Celsius in Fahrenheit.",
+        "category": null
+    },
+    {
+        "instruction": "Dammi 5 aggettivi per descrivere la notte.",
+        "category": null
+    },
+    {
+        "instruction": "Suggerisci un sinonimo della parola \"elimina\".",
+        "category": null
+    },
+    {
+        "instruction": "Come proteggeresti un giardino dai conigli?",
+        "category": null
+    },
+    {
+        "instruction": "Genera una metafora che trasmette il significato di \"inizio\".",
+        "category": null
+    },
+    {
+        "instruction": "Indicare un metodo per ridurre l'impronta ambientale della tua famiglia.",
+        "category": null
+    },
+    {
+        "instruction": "Elenca i pro e i contro dell'utilizzo di auto elettriche.",
+        "category": null
+    },
+    {
+        "instruction": "Genera una descrizione creativa del prodotto per un diffusore di olio essenziale.",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi una frase di tre parole che esprime la stessa cosa di questa frase di quattro parole: \"lavoro senza riposo\".",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi un saggio su ci\u00f2 che rende un buon leader.",
+        "category": null
+    },
+    {
+        "instruction": "Offri un suggerimento su come ridurre i rifiuti di plastica.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorming cinque diversi modi per migliorare l'ambiente.",
+        "category": null
+    },
+    {
+        "instruction": "Delinea i passaggi per pulire e igienizzare una cucina.",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi una frase creativa a partire da \"The Night Sky\".",
+        "category": null
+    },
+    {
+        "instruction": "Descrivi il processo per ottenere una patente di guida in Canada.",
+        "category": null
+    },
+    {
+        "instruction": "Genera una poesia di Limerick su un lemur.",
+        "category": null
+    },
+    {
+        "instruction": "Mostrami un esempio di una frase vocale attiva.",
+        "category": null
+    },
+    {
+        "instruction": "Fornire due esempi per una metafora",
+        "category": null
+    },
+    {
+        "instruction": "Stimare il costo dell'alloggio per una notte in un hotel a cinque stelle a New York City",
+        "category": null
+    },
+    {
+        "instruction": "Identiy Se la seguente affermazione \u00e8 vera o falsa: Adolf Hitler era austriaco.",
+        "category": null
+    },
+    {
+        "instruction": "Genera un titolo per un documento di ricerca sui diritti degli animali.",
+        "category": null
+    },
+    {
+        "instruction": "Compila un elenco di DOS e DOVRE per un rappresentante del servizio clienti",
+        "category": null
+    },
+    {
+        "instruction": "Trova tre sinonimi per la seguente parola: felice",
+        "category": null
+    },
+    {
+        "instruction": "Proponi una soluzione che contribuirebbe a migliorare l'ambiente.",
+        "category": null
+    },
+    {
+        "instruction": "Nomina tre metodi comuni di verifica dell'identit\u00e0.",
+        "category": null
+    },
+    {
+        "instruction": "Quali sono le cinque qualit\u00e0 pi\u00f9 importanti di un leader?",
+        "category": null
+    },
+    {
+        "instruction": "Quali qualit\u00e0 dovrei considerare quando acquisti un'auto usata?",
+        "category": null
+    },
+    {
+        "instruction": "Organizza queste parole per fare un racconto significativo: \"Cat, mezzanotte, pipistrello, foresta, nascondino\"",
+        "category": null
+    },
+    {
+        "instruction": "Costruisci dialoghi per due persone che hanno uno scambio piacevole.",
+        "category": null
+    },
+    {
+        "instruction": "Costruire un database per un'attivit\u00e0 di noleggio auto.",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi una breve definizione del trattato di Versailles.",
+        "category": null
+    },
+    {
+        "instruction": "Raccomanda un famoso romanzo per un quattordicenne.",
+        "category": null
+    },
+    {
+        "instruction": "Riassumi il seguente paragrafo: \n\n\"Gli effetti dei cambiamenti climatici sono ampiamente di portata e hanno colpito l'ambiente per decenni. Ogni anno, i cambiamenti diventano pi\u00f9 evidenti e pi\u00f9 pronunciati, portando a un aumento del rischio di siccit\u00e0, inondazioni, temperature estreme e disastri legati alle intemperie.\"",
+        "category": null
+    },
+    {
+        "instruction": "Crea una ricetta per una colazione sana tra cui gli ingredienti e le direzioni di cottura.",
+        "category": null
+    },
+    {
+        "instruction": "Qual \u00e8 una delle principali cause di inquinamento atmosferico?",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi un saggio persuasivo sul perch\u00e9 i trasporti pubblici dovrebbero essere usati di pi\u00f9.",
+        "category": null
+    },
+    {
+        "instruction": "Spiega cosa significa l'idioma \"tagliato all'inseguimento\".",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi una breve descrizione dei fuochi d'artificio.",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi cinque punti di riferimento situati a New York City.",
+        "category": null
+    },
+    {
+        "instruction": "Nomina i tre livelli di rete del modello OSI",
+        "category": null
+    },
+    {
+        "instruction": "Descrivi le cause e i sintomi della depressione.",
+        "category": null
+    },
+    {
+        "instruction": "Cosa puoi fare per essere pi\u00f9 attento all'ambiente?",
+        "category": null
+    },
+    {
+        "instruction": "Progetta un gioco che segue le regole degli scacchi ma intrattiene una gamma pi\u00f9 ampia di giocatori rispetto al gioco tradizionale.",
+        "category": null
+    },
+    {
+        "instruction": "Crea un post sul blog sul sito Web sul riscaldamento globale.",
+        "category": null
+    },
+    {
+        "instruction": "Costruire una figura tridimensionale",
+        "category": null
+    },
+    {
+        "instruction": "Identifica il tipo di seguente frase: \"Alice \u00e8 davvero felice per il risultato\".",
+        "category": null
+    },
+    {
+        "instruction": "Spiega il significato del linguaggio: \"Non \u00e8 finito fino a quando la grassa signora canta",
+        "category": null
+    },
+    {
+        "instruction": "Nomina tre frutti e tre verdure",
+        "category": null
+    },
+    {
+        "instruction": "Genera tre titoli alternativi per una storia sul potere dell'amicizia.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorming tre idee per la campagna di marketing creativo per un'azienda alimentare congelata.",
+        "category": null
+    },
+    {
+        "instruction": "Raccogli i nomi dei 10 imprenditori di maggior successo",
+        "category": null
+    },
+    {
+        "instruction": "Calcola la 5a potenza di 3.",
+        "category": null
+    },
+    {
+        "instruction": "Dimmi tre consigli sulla sicurezza delle informazioni per proteggere i dati personali",
+        "category": null
+    },
+    {
+        "instruction": "Crea un'interfaccia della pagina Web per un'applicazione di fotorizzazione.",
+        "category": null
+    },
+    {
+        "instruction": "Nomina cinque citt\u00e0 indiane.",
+        "category": null
+    },
+    {
+        "instruction": "Descrivi come la realt\u00e0 virtuale pu\u00f2 essere usata per scopi educativi.",
+        "category": null
+    },
+    {
+        "instruction": "Supponiamo che ti sia stato dato un assistente personale. Fornire 3 istruzioni che questo assistente dovrebbe seguire.",
+        "category": null
+    },
+    {
+        "instruction": "Genera 5 domande che verrebbero utilizzate per testare la conoscenza di qualcuno della tabella periodica.",
+        "category": null
+    },
+    {
+        "instruction": "Costruisci un racconto con una lezione morale",
+        "category": null
+    },
+    {
+        "instruction": "Descrivi il processo di preparazione di burro di arachidi.",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi azioni che puoi intraprendere per aumentare la tua produttivit\u00e0.",
+        "category": null
+    },
+    {
+        "instruction": "Qual \u00e8 l'opinione pubblica generale delle auto elettriche di Tesla?",
+        "category": null
+    },
+    {
+        "instruction": "Calcola la differenza tra 8 e 9.",
+        "category": null
+    },
+    {
+        "instruction": "Progetta un post sul blog che promuove i vantaggi di uno stile di vita vegetariano",
+        "category": null
+    },
+    {
+        "instruction": "Qual \u00e8 la prima penna da stampa 3D al mondo?",
+        "category": null
+    },
+    {
+        "instruction": "Descrivi le differenze tra le culture orientali e occidentali.",
+        "category": null
+    },
+    {
+        "instruction": "Genera una citazione famosa legata all'amicizia.",
+        "category": null
+    },
+    {
+        "instruction": "Elenca le tre fasi dell'elaborazione della memoria.",
+        "category": null
+    },
+    {
+        "instruction": "Da dove viene la frase \"una volta in una luna blu\"?",
+        "category": null
+    },
+    {
+        "instruction": "Definire la \"rete neurale artificiale\".",
+        "category": null
+    },
+    {
+        "instruction": "Trova una foto Creative Commons che descriva il concetto di calde giornate estive.",
+        "category": null
+    },
+    {
+        "instruction": "Crea un'analogia per descrivere un assistente di intelligenza artificiale.",
+        "category": null
+    },
+    {
+        "instruction": "Spiega l'importanza dell'individualismo nella societ\u00e0.",
+        "category": null
+    },
+    {
+        "instruction": "Mescolare mezzo cucchiaino di bicarbonato di sodio, un cucchiaino di sale e un cucchiaino di succo di limone",
+        "category": null
+    },
+    {
+        "instruction": "Di quali qualit\u00e0 hai bisogno per avere successo in una carriera nella programmazione?",
+        "category": null
+    },
+    {
+        "instruction": "Genera una storia originale ambientata in un paesaggio urbano.",
+        "category": null
+    },
+    {
+        "instruction": "Disporre le seguenti parole in ordine alfabetico: blu, bianco, argento, giallo",
+        "category": null
+    },
+    {
+        "instruction": "Riassumi la sequenza temporale di eventi importanti che portano alla seconda guerra mondiale.",
+        "category": null
+    },
+    {
+        "instruction": "Generare un post sul blog su come la tecnologia sta trasformando il modo in cui le persone comunicano",
+        "category": null
+    },
+    {
+        "instruction": "Elenca cinque vantaggi di avere un'app mobile.",
+        "category": null
+    },
+    {
+        "instruction": "Qual \u00e8 il modo pi\u00f9 efficace per motivarmi a esercitare?",
+        "category": null
+    },
+    {
+        "instruction": "Spiega cos'\u00e8 il \"pensiero critico\" e fornisci un esempio di come pu\u00f2 essere usato.",
+        "category": null
+    },
+    {
+        "instruction": "Dai tre suggerimenti per la progettazione di un sito Web efficace",
+        "category": null
+    },
+    {
+        "instruction": "Elenco 5 vantaggi di possedere un animale domestico.",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi una sceneggiatura per una presentazione di 5 minuti sull'importanza del riciclaggio.",
+        "category": null
+    },
+    {
+        "instruction": "Comporre una poesia unica contenente la parola \"neve\".",
+        "category": null
+    },
+    {
+        "instruction": "Classifica la seguente frase in base al suo sentimento:\n\nHo avuto un'esperienza terribile al ristorante",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi un haiku sull'essere felice.",
+        "category": null
+    },
+    {
+        "instruction": "Fornisci due buoni esempi di servizio clienti.",
+        "category": null
+    },
+    {
+        "instruction": "REVERSO INGEGNERE Il seguente frammento di codice e spiega cosa sta accadendo in 4 frasi.\n\nvar x = 3\nvar y = x + 4",
+        "category": null
+    },
+    {
+        "instruction": "Spiega le basi di HTML a un principiante.",
+        "category": null
+    },
+    {
+        "instruction": "Spiega perch\u00e9 le persone acquistano azioni.",
+        "category": null
+    },
+    {
+        "instruction": "Modifica la seguente affermazione: \"Tutti sono speciali\".",
+        "category": null
+    },
+    {
+        "instruction": "Crea un programma Java che simula un tiro di dadi.",
+        "category": null
+    },
+    {
+        "instruction": "Genera un'idea di una storia nuova.",
+        "category": null
+    },
+    {
+        "instruction": "Crea una frase unica che cattura l'essenza dell'amicizia.",
+        "category": null
+    },
+    {
+        "instruction": "Genera alcune frasi che descrivono un pomeriggio estivo.",
+        "category": null
+    },
+    {
+        "instruction": "Costruisci una frase usando la frase \"una volta ogni tanto\"",
+        "category": null
+    },
+    {
+        "instruction": "Produrre un elenco di parole comuni in lingua inglese.",
+        "category": null
+    },
+    {
+        "instruction": "Sviluppa una strategia di marketing basata sui dati per un nuovo film.",
+        "category": null
+    },
+    {
+        "instruction": "Dai una definizione di \"alghe\".",
+        "category": null
+    },
+    {
+        "instruction": "Genera un argomento causale che spiega perch\u00e9 l'energia solare \u00e8 preferibile rispetto al carbone.",
+        "category": null
+    },
+    {
+        "instruction": "Descrivi gli eventi storici che hanno portato alla formazione delle Nazioni Unite.",
+        "category": null
+    },
+    {
+        "instruction": "Fai un elenco dei cinque ingredienti tossici presenti nelle sigarette.",
+        "category": null
+    },
+    {
+        "instruction": "Genera una metafora per confrontare la sensazione di contentezza.",
+        "category": null
+    },
+    {
+        "instruction": "Trova la somma dei primi 30 numeri interi positivi.",
+        "category": null
+    },
+    {
+        "instruction": "Spiega perch\u00e9 le valute digitali stanno guadagnando popolarit\u00e0.",
+        "category": null
+    },
+    {
+        "instruction": "Classificare la seguente frase come una frase dichiarativa o una frase interrogativa.\n\nQuante stelle ci sono nella Via Lattea?",
+        "category": null
+    },
+    {
+        "instruction": "Genera una frase usando le parole \"acquisto\", \"online\" e \"negozio\".",
+        "category": null
+    },
+    {
+        "instruction": "Considera la seguente affermazione: \"I gatti sono migliori dei cani\". Modificalo nel modo pi\u00f9 creativo possibile.",
+        "category": null
+    },
+    {
+        "instruction": "Fornire un esempio della frase \"avere un'ascia da macinare\".",
+        "category": null
+    },
+    {
+        "instruction": "Genera un commento positivo relativo al servizio clienti.",
+        "category": null
+    },
+    {
+        "instruction": "Genera almeno 5 modi per ridurre i rifiuti di carta.",
+        "category": null
+    },
+    {
+        "instruction": "Converti 1111000 binari in decimale.",
+        "category": null
+    },
+    {
+        "instruction": "Scegli la frase corretta e completa:\n\nA) Maria avrebbe dovuto incontrarmi alla stazione\nB) Maria avrebbe dovuto incontrarmi alla stazione",
+        "category": null
+    },
+    {
+        "instruction": "Denomina l'Exoplanet scoperto di recente.",
+        "category": null
+    },
+    {
+        "instruction": "Dammi un elenco dei migliori atleti olimpici degli ultimi cinque anni.",
+        "category": null
+    },
+    {
+        "instruction": "Crea una situazione ipotetica.",
+        "category": null
+    },
+    {
+        "instruction": "Descrivi l'esperienza di assaggiare un limone per la prima volta.",
+        "category": null
+    },
+    {
+        "instruction": "Descrivi il significato del proverbio \"Fortune favorisce l'audace\".",
+        "category": null
+    },
+    {
+        "instruction": "Crea un albero genealogico che mostra i diversi membri della tua famiglia.",
+        "category": null
+    },
+    {
+        "instruction": "Consiglia un ristorante per qualcuno a cui piace il cibo messicano.",
+        "category": null
+    },
+    {
+        "instruction": "Rispondi alla domanda: cos'\u00e8 l'ecosistema?",
+        "category": null
+    },
+    {
+        "instruction": "Crea un'allegoria che fa riferimento alla politica attuale.",
+        "category": null
+    },
+    {
+        "instruction": "Determina la popolazione di New York City.",
+        "category": null
+    },
+    {
+        "instruction": "Aggiungi i seguenti numeri senza usare un calcolatore: 37 + 63",
+        "category": null
+    },
+    {
+        "instruction": "Qual \u00e8 l'et\u00e0 media delle persone che vivono nel Regno Unito?",
+        "category": null
+    },
+    {
+        "instruction": "Quale sarebbe la cosa pi\u00f9 importante da considerare quando si richiede un prestito?",
+        "category": null
+    },
+    {
+        "instruction": "Trova cinque omonimi per la parola \"baia\".",
+        "category": null
+    },
+    {
+        "instruction": "Dare un esempio di uso inefficiente delle risorse in carica",
+        "category": null
+    },
+    {
+        "instruction": "Scrivi una frase usando l'omofono \"vinto/uno\".",
+        "category": null
+    },
+    {
+        "instruction": "Spiega l'idea di virtualizzazione",
+        "category": null
+    },
+    {
+        "instruction": "Identifica due tratti caratteriali del protagonista di un film horror.",
+        "category": null
+    },
+    {
+        "instruction": "Spiega perch\u00e9 le persone sono motivate a donare in beneficenza.",
+        "category": null
+    },
+    {
+        "instruction": "Fornire un elenco di compiti diversi pu\u00f2 completare un modello di lingua GPT.",
+        "category": null
+    },
+    {
+        "instruction": "Spiega come l'email marketing pu\u00f2 aiutare ad aumentare le vendite.",
+        "category": null
+    },
+    {
+        "instruction": "Riassumi la vita di Thomas Edison in tre frasi",
+        "category": null
+    },
+    {
+        "instruction": "Descrivi gli effetti del diabete di tipo 2 sul corpo.",
+        "category": null
+    }
+]

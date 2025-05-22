@@ -1,0 +1,802 @@
+[
+    {
+        "instruction": "Recommander une carri\u00e8re appropri\u00e9e pour une personne titulaire d'un dipl\u00f4me en comptabilit\u00e9 et en finance.",
+        "category": null
+    },
+    {
+        "instruction": "Nommez trois outils logiciels pour la visualisation des donn\u00e9es.",
+        "category": null
+    },
+    {
+        "instruction": "Nommez un appareil de cuisine couramment utilis\u00e9.",
+        "category": null
+    },
+    {
+        "instruction": "Construisez une phrase en utilisant les mots suivants: voiture, chat, cadeau.",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9er une structure de donn\u00e9es de pile \u00e0 l'aide d'un tableau",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9er un discours qui encourage les gens \u00e0 faire un don \u00e0 des programmes de secours en cas de catastrophe.",
+        "category": null
+    },
+    {
+        "instruction": "R\u00e9digez un paragraphe sur la fa\u00e7on dont la technologie remod\u00e8le le syst\u00e8me \u00e9ducatif.",
+        "category": null
+    },
+    {
+        "instruction": "Identifiez le sujet dans cette phrase: \"Mike a attrap\u00e9 le bus pour l'\u00e9cole\"",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez les diff\u00e9rences entre la concurrence parfaite et imparfaite.",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez quelques phrases sur un exemple de r\u00e9alisation significative",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une r\u00e9ponse \u00e0 la question de l'utilisateur: \"Ai-je besoin d'un passeport pour visiter le Royaume-Uni?\"",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez une liste de 10 articles dont chaque cuisine a besoin.",
+        "category": null
+    },
+    {
+        "instruction": "Liez les mots suivants pour que les mots se connaissent: singe, \u00e9l\u00e9phant, girafe.",
+        "category": null
+    },
+    {
+        "instruction": "Quelle forme g\u00e9om\u00e9trique a 5 c\u00f4t\u00e9s et 5 angles?",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez pourquoi la pollution atmosph\u00e9rique est un probl\u00e8me mondial.",
+        "category": null
+    },
+    {
+        "instruction": "Quelles sont les exigences de base pour une application mobile r\u00e9ussie?",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez un po\u00e8me en utilisant les mots suivants: brouillard, chagrin, distance, r\u00eave.",
+        "category": null
+    },
+    {
+        "instruction": "Rechercher un article de presse sur les \u00e9v\u00e9nements actuels",
+        "category": null
+    },
+    {
+        "instruction": "Comment cr\u00e9ez-vous une table pivot dans Excel?",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez une description passionnante d'un royaume elfique.",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez une histoire sur un \u00eatre magique qui est d\u00e9test\u00e9 par les autres.",
+        "category": null
+    },
+    {
+        "instruction": "Faites un mod\u00e8le tridimensionnel d'un cube.",
+        "category": null
+    },
+    {
+        "instruction": "Dites \u00e0 l'assistant de changer la couleur d'arri\u00e8re-plan d'un document en bleu.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une fonctionnalit\u00e9 pour une application mobile qui peut augmenter l'engagement des utilisateurs.",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez ce qu'est le mouvement ouvrier",
+        "category": null
+    },
+    {
+        "instruction": "Concevez une mascotte de style dessin anim\u00e9 pour un magasin de jouets.",
+        "category": null
+    },
+    {
+        "instruction": "Nommez 3 superstitions du monde entier.",
+        "category": null
+    },
+    {
+        "instruction": "Triez les mots suivants dans l'ordre alphab\u00e9tique: \"Universit\u00e9, basket-ball, concierge\"",
+        "category": null
+    },
+    {
+        "instruction": "Sugg\u00e9rez une activit\u00e9 al\u00e9atoire qui peut \u00eatre effectu\u00e9e \u00e0 l'ext\u00e9rieur.",
+        "category": null
+    },
+    {
+        "instruction": "Construisez un algorithme pour identifier si une phrase est positive ou non.",
+        "category": null
+    },
+    {
+        "instruction": "Comment pouvons-nous faire une bonne impression dans une interview?",
+        "category": null
+    },
+    {
+        "instruction": "Nommez 3 navigateurs Web populaires.",
+        "category": null
+    },
+    {
+        "instruction": "Sugg\u00e9rer trois \u00e9tapes pour rester motiv\u00e9",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez une phrase descriptive pour une peinture avec une for\u00eat au coucher du soleil",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez la structure thermique de l'atmosph\u00e8re de Jupiter.",
+        "category": null
+    },
+    {
+        "instruction": "Comparez et contrastez les notes papier et num\u00e9rique.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une histoire sur un monde qui ne ressent jamais l'obscurit\u00e9.",
+        "category": null
+    },
+    {
+        "instruction": "Qu'est-ce que Black Box Testing et pourquoi est-il important?",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une phrase qui utilise deux des adjectifs suivants: timide, ing\u00e9nieux, brillant.",
+        "category": null
+    },
+    {
+        "instruction": "Pouvez-vous nommer cinq plantes qui vivent dans le d\u00e9sert?",
+        "category": null
+    },
+    {
+        "instruction": "Quel type de strat\u00e9gies de marketing num\u00e9rique une entreprise devrait-elle utiliser pour accro\u00eetre sa pr\u00e9sence en ligne?",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez un po\u00e8me de jusqu'\u00e0 10 lignes qui exprime la gratitude.",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez un dialogue dans lequel deux personnages discutent d'une anomalie scientifique.",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9velopper une th\u00e8se unique pour un document de recherche sur le r\u00f4le de la technologie dans l'\u00e9ducation.",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez pourquoi les structures en bois sont utilis\u00e9es dans la construction",
+        "category": null
+    },
+    {
+        "instruction": "Quel type d'\u00e9v\u00e9nement aurait besoin d'un ma\u00eetre des c\u00e9r\u00e9monies?",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une phrase du monde r\u00e9el en utilisant le mot \u00abrepr\u00e9senter\u00bb.",
+        "category": null
+    },
+    {
+        "instruction": "De quelle mani\u00e8re la technologie influence-t-elle la communication?",
+        "category": null
+    },
+    {
+        "instruction": "R\u00e9sumez les \u00e9v\u00e9nements du film le lendemain de demain.",
+        "category": null
+    },
+    {
+        "instruction": "Identifiez l'homophone dans cette phrase: l'abeille d'abeille dans l'arbre.",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez le th\u00e8me du po\u00e8me \u00abla route non prise\u00bb.",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez une histoire sur l'invasion extraterrestre",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9er un manuel des employ\u00e9s qui d\u00e9crit les r\u00f4les et les responsabilit\u00e9s d'un d\u00e9veloppeur Web.",
+        "category": null
+    },
+    {
+        "instruction": "Identifiez deux composantes d'un ordinateur.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une phrase avec deux adjectifs.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une nouvelle recette en utilisant ces 3 ingr\u00e9dients: \u0153ufs, tomates et fromage.",
+        "category": null
+    },
+    {
+        "instruction": "Comparez et contrastez le traitement du langage naturel (NLP) et la vision par ordinateur.",
+        "category": null
+    },
+    {
+        "instruction": "\u00c0 l'aide des mots entre parenth\u00e8ses, cr\u00e9ez une phrase avec un sens pr\u00e9cis.",
+        "category": null
+    },
+    {
+        "instruction": "Trouvez les z\u00e9ros de la fonction f (x) = 3x2 - 10x + 4",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une fonction pour v\u00e9rifier si un arbre binaire est \u00e9quilibr\u00e9 ou non.",
+        "category": null
+    },
+    {
+        "instruction": "R\u00e9sumez les principaux points de l'article \"Comment Covid-19 remod\u00e8le l'\u00e9conomie mondiale\"",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9er un algorithme qui renvoie tous les nombres premiers jusqu'\u00e0 un certain num\u00e9ro d'entr\u00e9e",
+        "category": null
+    },
+    {
+        "instruction": "Analyser la phrase suivante pour identifier le sujet, le verbe et l'objet: le chat a chass\u00e9 la souris.",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez comment la voie de signalisation Hippo r\u00e9gule la taille de l'organe.",
+        "category": null
+    },
+    {
+        "instruction": "Liste 5 plats italiens c\u00e9l\u00e8bres.",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crire un exemple de strat\u00e9gie concurrentielle",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez une liste de contr\u00f4le de cinq \u00e9tapes pour une routine du matin de tous les jours.",
+        "category": null
+    },
+    {
+        "instruction": "Notez un conseil utile pour parler en public.",
+        "category": null
+    },
+    {
+        "instruction": "Fournir une liste d'avantages pour l'utilisation de sources d'\u00e9nergie renouvelables.",
+        "category": null
+    },
+    {
+        "instruction": "Quels sont les avantages de l'utilisation de la technologie de la blockchain dans l'industrie financi\u00e8re?",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une fin alternative au film \"The Pursuit of Happyness\".",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9laborez une strat\u00e9gie pour faire un plan financier pour la retraite.",
+        "category": null
+    },
+    {
+        "instruction": "Concevez une affiche encourageant les gens \u00e0 \u00e9conomiser de l'\u00e9lectricit\u00e9.",
+        "category": null
+    },
+    {
+        "instruction": "Nommez un site Web de r\u00e9seautage social",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez la fonction de l'hypothalamus",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez \u00e0 quoi ressemble l'automne \u00e0 New York",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez le probl\u00e8me de maximiseur de trombone.",
+        "category": null
+    },
+    {
+        "instruction": "Quelles \u00e9taient les causes de la Premi\u00e8re Guerre mondiale?",
+        "category": null
+    },
+    {
+        "instruction": "Fournir 5 exemples d'expressions idiomatiques.",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9num\u00e9rez les diff\u00e9rentes fonctionnalit\u00e9s d'un appareil photo num\u00e9rique.",
+        "category": null
+    },
+    {
+        "instruction": "Analyser l'efficacit\u00e9 de la strat\u00e9gie de test US Covid-19",
+        "category": null
+    },
+    {
+        "instruction": "Construisez une m\u00e9lodie \u00e0 3 notes.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une liste de 5 comp\u00e9tences qu'un scientifique des donn\u00e9es devrait avoir.",
+        "category": null
+    },
+    {
+        "instruction": "Fournir une solution pour r\u00e9duire les \u00e9missions du transport.",
+        "category": null
+    },
+    {
+        "instruction": "Classifier la phrase suivante comme vraie ou fausse: Rocky Balboa \u00e9tait un boxeur d'Angleterre",
+        "category": null
+    },
+    {
+        "instruction": "Identifiez le pays avec le plus de gens vivant dans la pauvret\u00e9.",
+        "category": null
+    },
+    {
+        "instruction": "Imaginez que vous parlez \u00e0 un client qui cherche des conseils sur le choix d'un syst\u00e8me t\u00e9l\u00e9phonique. \u00c9crivez une r\u00e9ponse qui fournit des informations pertinentes et d\u00e9crit les avantages d'un syst\u00e8me cloud.",
+        "category": null
+    },
+    {
+        "instruction": "Quelle est la principale diff\u00e9rence entre une application Web et une application mobile?",
+        "category": null
+    },
+    {
+        "instruction": "Compte tenu de cet extrait, sugg\u00e9rez un sujet pour ses lecteurs:\n\nL'utilisation de la technologie de la blockchain a augment\u00e9 de mani\u00e8re significative au cours des derni\u00e8res ann\u00e9es en raison de son \u00e9volutivit\u00e9, de sa s\u00e9curit\u00e9 et de sa fiabilit\u00e9.",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez le concept d'une cl\u00e9 priv\u00e9e en cryptographie.",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez un itin\u00e9raire de voyage pour un voyage de 5 jours \u00e0 Las Vegas",
+        "category": null
+    },
+    {
+        "instruction": "Recherchez une recette pour le poulet grill\u00e9.",
+        "category": null
+    },
+    {
+        "instruction": "Sugg\u00e9rez une collation en milieu de matin\u00e9e sain.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une phrase adapt\u00e9e \u00e0 un roman d'aventure.",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez un personnage fictif en utilisant l'arch\u00e9type de voyage du h\u00e9ros.",
+        "category": null
+    },
+    {
+        "instruction": "Nommez deux types de techniques de visualisation des donn\u00e9es.",
+        "category": null
+    },
+    {
+        "instruction": "Quelle serait une r\u00e9ponse appropri\u00e9e lors de la rencontre avec quelqu'un?",
+        "category": null
+    },
+    {
+        "instruction": "Inverser cette liste: pommes, poires, oranges",
+        "category": null
+    },
+    {
+        "instruction": "Recherchez un c\u00e9l\u00e8bre chef \u00e0 base de plantes, r\u00e9sume leur carri\u00e8re et fournissez leur lien de site Web.",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez l'anatomie d'un v\u00e9lo.",
+        "category": null
+    },
+    {
+        "instruction": "Notez 5 conseils pour travailler \u00e0 domicile.",
+        "category": null
+    },
+    {
+        "instruction": "Donnez une raison pour laquelle c'est une mauvaise id\u00e9e d'attendre la derni\u00e8re minute pour commencer une mission.",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez ce qu'est une \u00ab\u00e9pid\u00e9mie\u00bb selon Wikipedia.",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez cinq questions \u00e0 choix multiples li\u00e9es \u00e0 la science de la Terre.",
+        "category": null
+    },
+    {
+        "instruction": "Trouvez un nom pour ce nouveau produit.",
+        "category": null
+    },
+    {
+        "instruction": "Quelle est la limite de vitesse maximale pour une zone r\u00e9sidentielle?",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez un r\u00e9sum\u00e9 de 200 mots du po\u00e8me \"la route non prise\"",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez les 4 \u00e9l\u00e9ments de la structure de l'histoire.",
+        "category": null
+    },
+    {
+        "instruction": "Nommez deux types d'apprentissage non supervis\u00e9.",
+        "category": null
+    },
+    {
+        "instruction": "Attribuez une valeur pour x si 4x + 16 = 48.",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez en 50 mots ou moins comment le service client peut avoir un impact sur la fid\u00e9lit\u00e9 des clients.",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9er une analogie pour un algorithme",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez la composition de l'\u0153il humain",
+        "category": null
+    },
+    {
+        "instruction": "Nommez deux avantages de l'utilisation d'un mod\u00e8le GPT pour effectuer des t\u00e2ches.",
+        "category": null
+    },
+    {
+        "instruction": "Donnez trois exemples de personnages dans \"Harry Potter\" avec des pouvoirs magiques sp\u00e9ciaux",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez les relations entre les pays de la r\u00e9gion d'Asie.",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez une histoire relatable sur un adolescent dipl\u00f4m\u00e9 du lyc\u00e9e.",
+        "category": null
+    },
+    {
+        "instruction": "Nous avons 8 pommes et 4 oranges. Combien de fruits avons-nous au total?",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez une liste de sujets \u00e0 discuter dans un d\u00e9bat sur le contr\u00f4le des armes \u00e0 feu.",
+        "category": null
+    },
+    {
+        "instruction": "Concevoir une application mobile pour afficher les pr\u00e9visions m\u00e9t\u00e9orologiques",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez un programme informatique qui corrige les fautes de frappe dans un texte.",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez la diff\u00e9rence entre l'intelligence artificielle et l'apprentissage automatique",
+        "category": null
+    },
+    {
+        "instruction": "Quelle est la longitude et la latitude de P\u00e9kin, Chine?",
+        "category": null
+    },
+    {
+        "instruction": "Pouvez-vous me donner trois raisons pour lesquelles les for\u00eats sont importantes?",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez un dessin anim\u00e9 dr\u00f4le sur un enseignant.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une liste de pr\u00e9cautions de s\u00e9curit\u00e9 appropri\u00e9es \u00e0 prendre pendant la voile.",
+        "category": null
+    },
+    {
+        "instruction": "Quelle est une bonne strat\u00e9gie pour faire face au stress?",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rer une hypoth\u00e8se sur la cause du changement climatique",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez des noms alternatifs pour une nouvelle entreprise.",
+        "category": null
+    },
+    {
+        "instruction": "Citez un dicton sur l'amiti\u00e9 et expliquez ce que cela signifie.",
+        "category": null
+    },
+    {
+        "instruction": "Quelles sont les parties d'un livre?",
+        "category": null
+    },
+    {
+        "instruction": "Construisez une analogie en utilisant les mots suivants: fer, aimant",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez un paragraphe qui d\u00e9crit les diff\u00e9rences entre la pratique des sports d'\u00e9quipe et les sports individuels.",
+        "category": null
+    },
+    {
+        "instruction": "Fournir trois exemples de sources d'\u00e9nergie renouvelables.",
+        "category": null
+    },
+    {
+        "instruction": "R\u00e9organisez ces quatre mots pour faire une phrase en anglais: \"L'\u00e9diteur est le mieux engag\u00e9\"",
+        "category": null
+    },
+    {
+        "instruction": "Quelle est une fa\u00e7on d'emp\u00eacher le r\u00e9chauffement climatique?",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez un personnage client pour une entreprise vendant des meubles anciens co\u00fbteux.",
+        "category": null
+    },
+    {
+        "instruction": "Quelles sont les quatre dimensions de l'intelligence selon Gardner?",
+        "category": null
+    },
+    {
+        "instruction": "Fournir deux raisons pour lesquelles l'utilisation de l'intelligence artificielle peut am\u00e9liorer le service client.",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez un croquis de personnage pour un personnage nomm\u00e9 Jack en utilisant seulement trois adjectifs.",
+        "category": null
+    },
+    {
+        "instruction": "Divisez la phrase suivante en deux peines d\u00e9claratives: \"La nourriture \u00e9tait d\u00e9licieuse et le service \u00e9tait excellent\".",
+        "category": null
+    },
+    {
+        "instruction": "Quels sont les deux facteurs qui affecteraient le frottement entre deux surfaces?",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez une critique pour un livre de votre choix.",
+        "category": null
+    },
+    {
+        "instruction": "Faites une liste de cinq comportements contrast\u00e9s que les gens d\u00e9montrent dans diff\u00e9rentes situations.",
+        "category": null
+    },
+    {
+        "instruction": "Donnez un exemple d'un moyen d'IA peut \u00eatre utilis\u00e9 dans l'industrie des soins de sant\u00e9.",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9num\u00e9rez les cinq premi\u00e8res cha\u00eenes d'information en Inde",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez une taxonomie de tous les genres de texte.",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9valuez l'\u00e9nonc\u00e9 suivant: \"Les aliments biologiques sont en meilleure sant\u00e9 que les aliments non biologiques\"",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez un compte Twitter pour une startup technologique.",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez une campagne de marketing pour promouvoir un nouveau service de livraison de nourriture.",
+        "category": null
+    },
+    {
+        "instruction": "Modifiez la phrase suivante pour \u00eatre plus descriptive: \"Il faisait chaud.\"",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez pourquoi il est important de nettoyer et de pr\u00e9parer les donn\u00e9es avant l'analyse.",
+        "category": null
+    },
+    {
+        "instruction": "Quel est l'\u00e9quivalent britannique de \u00abhamburger\u00bb?",
+        "category": null
+    },
+    {
+        "instruction": "Mettez les mots suivants dans l'ordre alphab\u00e9tique: \u00e9crire, attendre, marcher",
+        "category": null
+    },
+    {
+        "instruction": "Comment allez-vous tester un chatbot?",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez un pseudo-code pour impl\u00e9menter le tri de fusion.",
+        "category": null
+    },
+    {
+        "instruction": "Sugg\u00e9rez une robe de mari\u00e9e pour une c\u00e9r\u00e9monie d'\u00e9t\u00e9 en plein air",
+        "category": null
+    },
+    {
+        "instruction": "Nommez cinq types de boissons.",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez les cycles de la lune",
+        "category": null
+    },
+    {
+        "instruction": "Donnez un exemple de quelque chose qui repr\u00e9sente le concept de justice.",
+        "category": null
+    },
+    {
+        "instruction": "Identifiez un sujet int\u00e9ressant qui a \u00e9t\u00e9 discut\u00e9 r\u00e9cemment en politique.",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez une histoire o\u00f9 le personnage principal surmonte un obstacle \u00e9crasant.",
+        "category": null
+    },
+    {
+        "instruction": "Quelle est la peinture la plus c\u00e9l\u00e8bre de Leonardo da Vinci?",
+        "category": null
+    },
+    {
+        "instruction": "Comment la radioactivit\u00e9 affecte-t-elle les organismes?",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rer une conversation entre un enseignant et un \u00e9l\u00e8ve \u00e0 propos d'une mission tardive",
+        "category": null
+    },
+    {
+        "instruction": "Composez un examen d'un restaurant en utilisant au moins cinq adjectifs",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez un dialogue entre deux amis parlant d'un nouveau film qu'ils ont regard\u00e9",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez un contour pour un \u00e9tablissement de nouvelles dans un monde post-apocalyptique",
+        "category": null
+    },
+    {
+        "instruction": "Groupez les mots suivants en deux cat\u00e9gories:\nSports, football, course, halt\u00e9rophilie",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9noncer \"heureux\" en langue des signes",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez deux titres possibles pour une histoire sur un robot qui pr\u00e9voit de gouverner le monde.",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez une histoire de 5 phrases sur un fermier et un renard.",
+        "category": null
+    },
+    {
+        "instruction": "Cr\u00e9ez une m\u00e9taphore pour la d\u00e9termination d'une personne \u00e0 r\u00e9aliser ses objectifs.",
+        "category": null
+    },
+    {
+        "instruction": "Quelle est la diff\u00e9rence entre l'analyse s\u00e9mantique latente et la mod\u00e9lisation des sujets?",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez pourquoi l'eau est essentielle aux \u00eatres humains.",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez l'itin\u00e9raire pour un voyage en sac \u00e0 dos pendant deux semaines dans le parc national de Yosemite",
+        "category": null
+    },
+    {
+        "instruction": "Quels sont les trois conseils pour \u00e9conomiser de l'argent?",
+        "category": null
+    },
+    {
+        "instruction": "Reformultez cette phrase: les enfants ne devraient pas jouer avec des matchs.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rer du code pour inviter un utilisateur \u00e0 saisir son nom",
+        "category": null
+    },
+    {
+        "instruction": "Trouvez le nom de la plus haute montagne du monde.",
+        "category": null
+    },
+    {
+        "instruction": "Comment le r\u00e9gime alimentaire d'un animal affecte-t-il son comportement?",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9num\u00e9rez 3 causes possibles du changement climatique.",
+        "category": null
+    },
+    {
+        "instruction": "Expliquez la loi de sept en marketing.",
+        "category": null
+    },
+    {
+        "instruction": "Nommez trois produits chimiques utilis\u00e9s dans les extincteurs.",
+        "category": null
+    },
+    {
+        "instruction": "Identifiez un mot qui rime pour le mot \"yeux\". Sortez le mot.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez une histoire sur un chevalier dans une qu\u00eate pour sauver une princesse.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rez un proverbe de quatre mots sur la d\u00e9termination.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rer une phrase plausible sur un monde dystopique",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9crivez un script pour un chatbot de service client.",
+        "category": null
+    },
+    {
+        "instruction": "Faites une sc\u00e8ne r\u00e9aliste en utilisant des objets 3D.",
+        "category": null
+    },
+    {
+        "instruction": "G\u00e9n\u00e9rer un script pour saluer un client en ligne",
+        "category": null
+    },
+    {
+        "instruction": "Transformez ces mots en une phrase: Car - Ran - pare-brise",
+        "category": null
+    },
+    {
+        "instruction": "Nom 3 pays qui sont situ\u00e9s sur le continent africain.",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9terminez la formule mol\u00e9culaire pour l'eau.",
+        "category": null
+    },
+    {
+        "instruction": "\u00c9noncer les principales diff\u00e9rences entre les termes \u00abintelligence artificielle\u00bb et \u00abapprentissage automatique\u00bb",
+        "category": null
+    },
+    {
+        "instruction": "Parlez-moi des sites c\u00e9l\u00e8bres de New York",
+        "category": null
+    },
+    {
+        "instruction": "Compte tenu de l'entr\u00e9e suivante, g\u00e9n\u00e9rez un titre pour un article li\u00e9 au basket-ball.",
+        "category": null
+    },
+    {
+        "instruction": "Comment concevriez-vous un algorithme d'exp\u00e9rience client?",
+        "category": null
+    },
+    {
+        "instruction": "D\u00e9crivez un moment qui vous a apport\u00e9 de la joie.",
+        "category": null
+    },
+    {
+        "instruction": "Trouvez quel pays a la temp\u00e9rature moyenne la plus basse en juillet.",
+        "category": null
+    }
+]
