@@ -24,14 +24,6 @@ Install the evaluation harness from source
 cd lm-evaluation-harness
 pip install -e .
 ``` 
-
-### Requirements
-
-- Python 3.8+
-- PyTorch 2.0+
-- Transformers 4.30+
-- See `requirements.txt` for full list
-
 ## Usage
 
 ### Running Experiments
