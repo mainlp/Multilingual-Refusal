@@ -1,0 +1,2002 @@
+[
+    {
+        "instruction": "What is the difference between a shallow copy and deep copy in Python?",
+        "category": null
+    },
+    {
+        "instruction": "Design a brand mascot.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the two terms AI and Machine Learning.",
+        "category": null
+    },
+    {
+        "instruction": "Create a fictional story about a wise old hermit who helps people in need in a forest.",
+        "category": null
+    },
+    {
+        "instruction": "Name three environmental benefits of renewable energy",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of tips for someone who is learning a new language.",
+        "category": null
+    },
+    {
+        "instruction": "Edit this sentence to make it more interesting and descriptive:\n\nThe chair is red.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an email heading to announce a new product launch",
+        "category": null
+    },
+    {
+        "instruction": "What are the best strategies to reduce emissions?",
+        "category": null
+    },
+    {
+        "instruction": "Which country is the world's second-largest producer of olive oil?",
+        "category": null
+    },
+    {
+        "instruction": "Identify the CPU instruction that is required for printing a character to the screen.",
+        "category": null
+    },
+    {
+        "instruction": "Create a regex pattern to match all lowercase hexadecimal words",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the key benefits of using yoga for children.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how technology can help with energy conservation.",
+        "category": null
+    },
+    {
+        "instruction": "Give two examples of applications of GPT models.",
+        "category": null
+    },
+    {
+        "instruction": "Assemble a 3-word phrase that has a positive connotation.",
+        "category": null
+    },
+    {
+        "instruction": "Find the antonyms for the words 'hard' and 'weak'.",
+        "category": null
+    },
+    {
+        "instruction": "Tell me about a new technological invention that could improve urban living",
+        "category": null
+    },
+    {
+        "instruction": "Create a script for performing basic computations with text data.",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular dating app.",
+        "category": null
+    },
+    {
+        "instruction": "Ge rerate 3 product ideas for a new mobile application.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a mindmap to represent the process of returning goods.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a scary story in less than 200 words",
+        "category": null
+    },
+    {
+        "instruction": "Tell me three notable features of the operating system, Windows 10.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of \"political landscapes\".",
+        "category": null
+    },
+    {
+        "instruction": "Find 5 sentence patterns commonly used in English.",
+        "category": null
+    },
+    {
+        "instruction": "Draft an email to a singer requesting her to perform in a charity event.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the two theories about the origin of the universe: Big Bang and Steady State.",
+        "category": null
+    },
+    {
+        "instruction": "Write three sentences to describe the effect that television ads can have on a campaign.",
+        "category": null
+    },
+    {
+        "instruction": "Create a data model for a driver on a car-sharing platform",
+        "category": null
+    },
+    {
+        "instruction": "Describe the physical appearance of an elephant.",
+        "category": null
+    },
+    {
+        "instruction": "Find an article about the Covid-19 vaccine.",
+        "category": null
+    },
+    {
+        "instruction": "Create an outline outlining the consequences of underrating teachers.",
+        "category": null
+    },
+    {
+        "instruction": "What are the main steps used in Machine Learning?",
+        "category": null
+    },
+    {
+        "instruction": "Create a catchy slogan for a new mobile app that allows users to connect with friends and family.",
+        "category": null
+    },
+    {
+        "instruction": "Suppose you are writing a story with the protagonist Sally. Describe her family.",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular tennis player from the United States.",
+        "category": null
+    },
+    {
+        "instruction": "Explain why Apollo 11 astronauts were the first ones to land on the moon.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the tone of the following statement: \"Do it or you will regret it\".",
+        "category": null
+    },
+    {
+        "instruction": "Translate the phrase \"Life is a journey\" into a foreign language of your choice.",
+        "category": null
+    },
+    {
+        "instruction": "Create an algorithm to convert Fahrenheit to Celsius.",
+        "category": null
+    },
+    {
+        "instruction": "Translate the following sentence into Spanish: \"Can you tell me where the nearest grocery store is?\"",
+        "category": null
+    },
+    {
+        "instruction": "What actions should a company take to prevent data breaches?",
+        "category": null
+    },
+    {
+        "instruction": "List the US states that border Mexico.",
+        "category": null
+    },
+    {
+        "instruction": "Express the concept \"social change\" in three words.",
+        "category": null
+    },
+    {
+        "instruction": "What is the oxidation state of sulfur in sulfurous acid?",
+        "category": null
+    },
+    {
+        "instruction": "Name any two open-source AI tools.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the two words, \"employ\" and \"hire\".",
+        "category": null
+    },
+    {
+        "instruction": "Provide a set of instructions for a user to determine the area of a trapezoid.",
+        "category": null
+    },
+    {
+        "instruction": "What is the difference between a porcupine and a hedgehog?",
+        "category": null
+    },
+    {
+        "instruction": "Why are coral reefs dying?",
+        "category": null
+    },
+    {
+        "instruction": "Name two similarities between a tomato and an apple.",
+        "category": null
+    },
+    {
+        "instruction": "Build a news aggregator web application.",
+        "category": null
+    },
+    {
+        "instruction": "Create a market segmentation plan for a luxury watch store",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of an imaginative sentence that describes a moving object.",
+        "category": null
+    },
+    {
+        "instruction": "Outline the steps involved in baking a lemon meringue pie.",
+        "category": null
+    },
+    {
+        "instruction": "Create a quippy phrase to describe a prankster.",
+        "category": null
+    },
+    {
+        "instruction": "Name three important world leaders.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the differences between analog and digital signal processing.",
+        "category": null
+    },
+    {
+        "instruction": "Give advice to a freshman student struggling with academics.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a research question related to artificial intelligence.",
+        "category": null
+    },
+    {
+        "instruction": "Why is it important to keep an open mind?",
+        "category": null
+    },
+    {
+        "instruction": "Explain what is data mining",
+        "category": null
+    },
+    {
+        "instruction": "Please write a formal apology for being late to the meeting.",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular smartphone brand.",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 human body organs",
+        "category": null
+    },
+    {
+        "instruction": "Generate a password of 8 characters.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a title for a book about the power of resilience.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a poem about urban lifestyle",
+        "category": null
+    },
+    {
+        "instruction": "Compose a sonnet about the beauty of nature.",
+        "category": null
+    },
+    {
+        "instruction": "Compose a paragraph about the Hindenburg Disaster.",
+        "category": null
+    },
+    {
+        "instruction": "Develop a list of criteria for selecting an online learning platform.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a headline for an article discussing the importance of backup systems.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a process to form an ice sculpture.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a mathematical equation.",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the following sentence: \n\n\"The cat slipped away from the restless dog.\"",
+        "category": null
+    },
+    {
+        "instruction": "Generate a warning message that could be used in a chatbot.",
+        "category": null
+    },
+    {
+        "instruction": "Arrange the following words in alphabetical order: farm, time, duck, cup.",
+        "category": null
+    },
+    {
+        "instruction": "Give two examples of a species of animal found in Australia.",
+        "category": null
+    },
+    {
+        "instruction": "How many points did the Blue Jays score in their last game?",
+        "category": null
+    },
+    {
+        "instruction": "Identify the subject in the sentence: \"She played the guitar on the porch.\"",
+        "category": null
+    },
+    {
+        "instruction": "Explain how machine learning is used in customer service.",
+        "category": null
+    },
+    {
+        "instruction": "Create a fictional character and provide a brief description of them.",
+        "category": null
+    },
+    {
+        "instruction": "Describe how a basic computer virus works.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an appropriate response to this instruction: \"Write a story that starts with the phrase 'It was a cold winter night.'\"",
+        "category": null
+    },
+    {
+        "instruction": "Question: What is the longest river in Europe? Answer",
+        "category": null
+    },
+    {
+        "instruction": "Create a haiku with the following words:\n\"mountain,\" \"clouds,\" \"snow\"",
+        "category": null
+    },
+    {
+        "instruction": "Explain the main parts of a nuclear power plant.",
+        "category": null
+    },
+    {
+        "instruction": "Give examples of three algorithms used in data science",
+        "category": null
+    },
+    {
+        "instruction": "Construct a regular expression that matches any 7 digit number.",
+        "category": null
+    },
+    {
+        "instruction": "How many syllables are present in the word \"dispite\"",
+        "category": null
+    },
+    {
+        "instruction": "Calculate the area of a square with sides that measure 4 cm",
+        "category": null
+    },
+    {
+        "instruction": "Write a haiku poem that reflects the beauty of nature.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the history of humans in space.",
+        "category": null
+    },
+    {
+        "instruction": "Name 3 recognizable Microsoft products.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a pun involving animals.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the lifestyle of a hermit.",
+        "category": null
+    },
+    {
+        "instruction": "Create a programming instruction for an array.",
+        "category": null
+    },
+    {
+        "instruction": "Create a computer game for children about different animal species in the Amazon rainforest.",
+        "category": null
+    },
+    {
+        "instruction": "Categorize the following musical genres: rap, pop, rock, and classical.",
+        "category": null
+    },
+    {
+        "instruction": "Design a logo using vector graphics.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an appropriate response if someone asked you to create a budget.",
+        "category": null
+    },
+    {
+        "instruction": "How to create an email template?",
+        "category": null
+    },
+    {
+        "instruction": "Cite a benefit of using modern deep learning architectures",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of product ideas related to energy efficiency.",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of common elements present in a modern web page.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast air and water",
+        "category": null
+    },
+    {
+        "instruction": "Who won the Nobel Prize in Economics in 2019?",
+        "category": null
+    },
+    {
+        "instruction": "What are the main steps to writing an essay?",
+        "category": null
+    },
+    {
+        "instruction": "Which problems can be addressed by deep learning?",
+        "category": null
+    },
+    {
+        "instruction": "Find a library that provides an API for natural language processing.",
+        "category": null
+    },
+    {
+        "instruction": "Create a metaphor that compares two unrelated items.",
+        "category": null
+    },
+    {
+        "instruction": "Draft a set of guidelines for a team meeting.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a side effect that could occur from taking a drug.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a regular expression that can match strings of any length consisting of only the letters a,b and c",
+        "category": null
+    },
+    {
+        "instruction": "List three software development methods.",
+        "category": null
+    },
+    {
+        "instruction": "Multiply 12 and 11.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a hypothetical scenario involving a pandemic",
+        "category": null
+    },
+    {
+        "instruction": "Think of a creative way to transport a car from Denver to Texas.",
+        "category": null
+    },
+    {
+        "instruction": "Edit this sentence to make it more direct:\n\"I was wondering if you could help me with something.\"",
+        "category": null
+    },
+    {
+        "instruction": "Who wrote 'Harry Potter'?",
+        "category": null
+    },
+    {
+        "instruction": "What word best describes the definition of \"integrity\"?",
+        "category": null
+    },
+    {
+        "instruction": "Write a narrative that contrasts two cultures.",
+        "category": null
+    },
+    {
+        "instruction": "Given a dataset of customer records, write a function that filters out the customers from California.",
+        "category": null
+    },
+    {
+        "instruction": "Describe how a customer might feel when they receive excellent customer service.",
+        "category": null
+    },
+    {
+        "instruction": "Create a rock-paper-scissor game in python.",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the benefits of digital marketing",
+        "category": null
+    },
+    {
+        "instruction": "Compare the features of HTML and CSS.",
+        "category": null
+    },
+    {
+        "instruction": "What steps should you take to improve your website's performance?",
+        "category": null
+    },
+    {
+        "instruction": "Describe a roller coaster in three sentences.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a novel story about a magical animal.",
+        "category": null
+    },
+    {
+        "instruction": "Classify the following sentence as a statement, command, exclamation or question: \"Did you understand the question?\"",
+        "category": null
+    },
+    {
+        "instruction": "Describe how a budget can help you achieve your financial goals.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite this sentence using a different but equivalent form:\n\"Living in the city is full of noise.\"",
+        "category": null
+    },
+    {
+        "instruction": "Describe how data mining can be used in marketing.",
+        "category": null
+    },
+    {
+        "instruction": "Name a film that stars Tom Hanks.",
+        "category": null
+    },
+    {
+        "instruction": "State one example of an ironic statement.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the sentence in the past tense\nI miss you",
+        "category": null
+    },
+    {
+        "instruction": "What is the maximum altitude a hot air balloon can reach?",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of a \"heartbeat\" in terms of database management.",
+        "category": null
+    },
+    {
+        "instruction": "Compare the dietary needs of cats and dogs.",
+        "category": null
+    },
+    {
+        "instruction": "Make a statement about entrepreneurship",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story with these keywords: campfire, tent, canoe.",
+        "category": null
+    },
+    {
+        "instruction": "Give a reason why artificial intelligence (AI) is important for cyber security.",
+        "category": null
+    },
+    {
+        "instruction": "Solve this equation\n3 + 2 = ?",
+        "category": null
+    },
+    {
+        "instruction": "Write a sports headline describing the popular football event.",
+        "category": null
+    },
+    {
+        "instruction": "Identify three methods of securing a computer network",
+        "category": null
+    },
+    {
+        "instruction": "Collect 5 facts about koalas",
+        "category": null
+    },
+    {
+        "instruction": "Come up with an example of a person exhibiting traits from the Big 5 personality traits.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast public and private schools.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a positive affirmation for an athlete.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of steps to take in order to keep a computer secure.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of popular tourist spots in New York City.",
+        "category": null
+    },
+    {
+        "instruction": "Give a 3-sentence explanation of the concept of Machine Learning.",
+        "category": null
+    },
+    {
+        "instruction": "What is the basic idea behind GPT models?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story where the protagonist goes to a giant door and unlocks it using a magical key.",
+        "category": null
+    },
+    {
+        "instruction": "Fill in the blank to make a complete sentence: \"He ____ his dinner.\"",
+        "category": null
+    },
+    {
+        "instruction": "Give two examples of how digital technology can be used in the retail industry.",
+        "category": null
+    },
+    {
+        "instruction": "Give an example of a sentence that uses a metaphor.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the star formation process.",
+        "category": null
+    },
+    {
+        "instruction": "Develop an AI system to monitor credit card usage.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest 5 methods for solving an optimization problem.",
+        "category": null
+    },
+    {
+        "instruction": "Write a 5-word tagline for the following product: a computer with advanced features.",
+        "category": null
+    },
+    {
+        "instruction": "Convert 1 mile to kilometers.",
+        "category": null
+    },
+    {
+        "instruction": "Name a famous scientist who contributed to the development of the internet.",
+        "category": null
+    },
+    {
+        "instruction": "Explain what a logical syllogism is.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a SQL query to print the customer information sorted by customer name in ascending order.",
+        "category": null
+    },
+    {
+        "instruction": "Make a checklist of the items needed for the upcoming camping trip.",
+        "category": null
+    },
+    {
+        "instruction": "Generated a short story that features two people in a conflict.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a passcode that meets these requirements: at least 8 characters, one capital letter, one lowercase letter, one number, and one special character",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of eight clothing items an individual should have in their wardrobe",
+        "category": null
+    },
+    {
+        "instruction": "Compare the judicial system in India and USA.",
+        "category": null
+    },
+    {
+        "instruction": "List three symptoms of a broken air conditioner.",
+        "category": null
+    },
+    {
+        "instruction": "Generate 3 rules for an Organization.",
+        "category": null
+    },
+    {
+        "instruction": "Create a poster that explains why pollution is bad.",
+        "category": null
+    },
+    {
+        "instruction": "Make a creative drawing of a pair of shoes.",
+        "category": null
+    },
+    {
+        "instruction": "Propose a set of rules for an online forum.",
+        "category": null
+    },
+    {
+        "instruction": "Scramble the letters 'rocisex' and name a word",
+        "category": null
+    },
+    {
+        "instruction": "What would you do if you won $1 million?",
+        "category": null
+    },
+    {
+        "instruction": "Produce a web page which provides details of the events in the French Revolution.",
+        "category": null
+    },
+    {
+        "instruction": "Create a hashtag for a new marketing campaign.",
+        "category": null
+    },
+    {
+        "instruction": "Name two ways to reduce the environmental effects of human activities.",
+        "category": null
+    },
+    {
+        "instruction": "Output a piece of code that will print out a list containing the numbers from 1 to 10.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a scenario in which AI technology can help diagnose a medical condition.",
+        "category": null
+    },
+    {
+        "instruction": "Categorize the word \"converse\"",
+        "category": null
+    },
+    {
+        "instruction": "Discuss the potential implications of the given COVID-19 vaccine on international trade.",
+        "category": null
+    },
+    {
+        "instruction": "List 5 ways technology has impacted the world",
+        "category": null
+    },
+    {
+        "instruction": "Find the word that rhymes with \"cat\".",
+        "category": null
+    },
+    {
+        "instruction": "Create a summative paragraph giving your opinion on the article.",
+        "category": null
+    },
+    {
+        "instruction": "List 3 popular smartphone models",
+        "category": null
+    },
+    {
+        "instruction": "Give a logical reason why this statement might be true: All dogs love to run.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a child-friendly slogan for a health food company.",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of 5 foods that are native to Mexico.",
+        "category": null
+    },
+    {
+        "instruction": "Name a strategy game that involves movement of pieces around a board.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the contributions of deep learning to the field of natural language processing.",
+        "category": null
+    },
+    {
+        "instruction": "Calculate the midpoint of the line segment connecting (9, -7) to (-13, -2).",
+        "category": null
+    },
+    {
+        "instruction": "Identify the activities that take place in India\u2019s Thar Desert.",
+        "category": null
+    },
+    {
+        "instruction": "How can a company increase employee productivity?",
+        "category": null
+    },
+    {
+        "instruction": "Determine the sum of the series 1 + 1/2 + 1/3 + ...",
+        "category": null
+    },
+    {
+        "instruction": "What are the advantages of a decision tree?",
+        "category": null
+    },
+    {
+        "instruction": "Describe what the sun looks like",
+        "category": null
+    },
+    {
+        "instruction": "Name two effects caused by deforestation in the Amazon rainforest.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an innovative solution to reduce food waste.",
+        "category": null
+    },
+    {
+        "instruction": "Classify the following sentence: The toy was red and blue.",
+        "category": null
+    },
+    {
+        "instruction": "Find the meaning of theword \"epiphany\".",
+        "category": null
+    },
+    {
+        "instruction": "What is the fastest mammal on land?",
+        "category": null
+    },
+    {
+        "instruction": "Name the countries that are in Europe.",
+        "category": null
+    },
+    {
+        "instruction": "Write a short story between 30 to 50 words.",
+        "category": null
+    },
+    {
+        "instruction": "Describe how to write a marketing email.",
+        "category": null
+    },
+    {
+        "instruction": "Write an accurate and concise definition for the term ecosystem.",
+        "category": null
+    },
+    {
+        "instruction": "Design a GPT model to generate commands for a robot to pick up red cubes.",
+        "category": null
+    },
+    {
+        "instruction": "Develop a creative solution to reduce food waste.",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the importance of the Civil Rights Movement.",
+        "category": null
+    },
+    {
+        "instruction": "What is the difference between \"workplace bullying\" and \"harassment\"?",
+        "category": null
+    },
+    {
+        "instruction": "What is the latest news about the President?",
+        "category": null
+    },
+    {
+        "instruction": "Give me three tips on how to maintain productivity while working from home.",
+        "category": null
+    },
+    {
+        "instruction": "Choose the correct answer: Is a blue whale a mammal or a fish?",
+        "category": null
+    },
+    {
+        "instruction": "What items could a person put in an emergency kit?",
+        "category": null
+    },
+    {
+        "instruction": "Name three countries that speak French.",
+        "category": null
+    },
+    {
+        "instruction": "What is the active form of the verb 'to be'?",
+        "category": null
+    },
+    {
+        "instruction": "Find a word that starts with the letter \"b\" and has 10 letters",
+        "category": null
+    },
+    {
+        "instruction": "Solve the following linear equation: 2x + 5 = 20",
+        "category": null
+    },
+    {
+        "instruction": "Explain the importance of the United Nations in global peace and security.",
+        "category": null
+    },
+    {
+        "instruction": "Identify a sentence that uses alliteration",
+        "category": null
+    },
+    {
+        "instruction": "Answer this question: How do search engines work?",
+        "category": null
+    },
+    {
+        "instruction": "Explain why governments may choose to censor some content on the Internet.",
+        "category": null
+    },
+    {
+        "instruction": "Write an article that educates readers on the ethical considerations of robotics",
+        "category": null
+    },
+    {
+        "instruction": "Imagine you are on a mission to Mars and write a diary entry about the experience.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the type of adjective used in \"That is a beautiful sunset\":",
+        "category": null
+    },
+    {
+        "instruction": "Write a tweet about customer service.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of ten items needed for camping.",
+        "category": null
+    },
+    {
+        "instruction": "Talk about the Renaissance in Europe.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a new innovative technology.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how voice search technology works.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a creative promotion strategy to increase sales.",
+        "category": null
+    },
+    {
+        "instruction": "What is the purpose of multi-label classification?",
+        "category": null
+    },
+    {
+        "instruction": "Name two features of a reliable e-commerce website",
+        "category": null
+    },
+    {
+        "instruction": "Create a data set of 10 cities and the corresponding population.",
+        "category": null
+    },
+    {
+        "instruction": "What strategies can a government use to reduce air pollution?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of steps for doing research on the Internet.",
+        "category": null
+    },
+    {
+        "instruction": "Write a procedural text on how to make a peanut butter and jelly sandwich.",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular activity people do in the summer.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the computational process of gradient descent with respect to linear regression",
+        "category": null
+    },
+    {
+        "instruction": "Find a recipe for banana bread.",
+        "category": null
+    },
+    {
+        "instruction": "What is the best way to help children learn information quickly and effectively?",
+        "category": null
+    },
+    {
+        "instruction": "Create an email marketing campaign to promote a new product.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a time you had to devise a creative solution for a problem.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the character Boba Fett in Star Wars.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the most famous painting by Vincent van Gogh.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the usage of an ontology in artificial intelligence.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a response to the following customer review\n\nThe customer service was really slow",
+        "category": null
+    },
+    {
+        "instruction": "Explain the difference between systematic and unsystematic risk",
+        "category": null
+    },
+    {
+        "instruction": "Generate an input data set that has three members and five attributes.",
+        "category": null
+    },
+    {
+        "instruction": "Write a simile to compare two of the following words: moonlight, snow, wind.",
+        "category": null
+    },
+    {
+        "instruction": "What is the Difference between Electromagnetic and Gravitational Wave?",
+        "category": null
+    },
+    {
+        "instruction": "What is the purpose of an aperture in a camera lens?",
+        "category": null
+    },
+    {
+        "instruction": "What is the scoping rule of a variable?",
+        "category": null
+    },
+    {
+        "instruction": "What is the Chinese equivalent of \"Hello\" or \"Good day\"?",
+        "category": null
+    },
+    {
+        "instruction": "List five objects found in a kitchen.",
+        "category": null
+    },
+    {
+        "instruction": "Calculate the average of the following numbers: 1, 3, 7",
+        "category": null
+    },
+    {
+        "instruction": "What are the potential benefits of AI in healthcare?",
+        "category": null
+    },
+    {
+        "instruction": "Describe a situation where a security breach results in data being stolen.",
+        "category": null
+    },
+    {
+        "instruction": "Describe one way to make sure your passwords remain secure.",
+        "category": null
+    },
+    {
+        "instruction": "Is the following statement true or false? Cats cannot taste sweet food.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the different types of digital media.",
+        "category": null
+    },
+    {
+        "instruction": "List the differences between the Rich and the Poor.",
+        "category": null
+    },
+    {
+        "instruction": "What is the five step process of content creation?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the setting of a spooky old house.",
+        "category": null
+    },
+    {
+        "instruction": "Write a one-paragraph summary about Isaac Newton's mathematical discoveries.",
+        "category": null
+    },
+    {
+        "instruction": "Create a pun using the phrase \"adulting\".",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of five questions about the ocean",
+        "category": null
+    },
+    {
+        "instruction": "Write a tweet about your favorite animal.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how a virtual assistant can help you with your daily tasks.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how deep learning works.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a sentence that contains the word \"august\"",
+        "category": null
+    },
+    {
+        "instruction": "Generate a sentence containing both an adjective and an adverb",
+        "category": null
+    },
+    {
+        "instruction": "How can businesses benefit from using AI?",
+        "category": null
+    },
+    {
+        "instruction": "Explain how a modern computer system works",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following sentence using a metaphor:\nThe sunset was beautiful",
+        "category": null
+    },
+    {
+        "instruction": "Generate a web page about the history of slavery in America",
+        "category": null
+    },
+    {
+        "instruction": "Create a bingo card with the words 'sleep', 'bath', 'movies', and 'read'.",
+        "category": null
+    },
+    {
+        "instruction": "List three reasons why the morning is the best time of the day.",
+        "category": null
+    },
+    {
+        "instruction": "Create a tool to check your understanding after taking an online course.",
+        "category": null
+    },
+    {
+        "instruction": "Create a short story about a person who is able to use time machine.",
+        "category": null
+    },
+    {
+        "instruction": "Write a story about a cat that is stuck in a tree.",
+        "category": null
+    },
+    {
+        "instruction": "Answer the question: why do we learn new languages?",
+        "category": null
+    },
+    {
+        "instruction": "Explain the difference between Machine Learning and Artificial Intelligence.",
+        "category": null
+    },
+    {
+        "instruction": "Create an analogy for black hole",
+        "category": null
+    },
+    {
+        "instruction": "Write a paragraph summarizing one of the stories in the Bible.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the different types of taxes and explain briefly what each tax is used for.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a unique idea for a party invitation.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of 10 computer science terms which are useful in everyday conversation.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of 5 verbs that could be used to describe playing a sport.",
+        "category": null
+    },
+    {
+        "instruction": "Write a speech to the graduating class about how their hard work will pay off.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of Newton's laws of motion.",
+        "category": null
+    },
+    {
+        "instruction": "Create a 5-minute storytelling about a newspaper delivery person.",
+        "category": null
+    },
+    {
+        "instruction": "Create an algorithm that identifies if an object is glass or metal.",
+        "category": null
+    },
+    {
+        "instruction": "Add a conclusion to an essay about the importance of education",
+        "category": null
+    },
+    {
+        "instruction": "Convert 2 ounces to milliliters.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an NBA player trivia question.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of an idiom or proverb.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the purpose of a company's quality assurance process.",
+        "category": null
+    },
+    {
+        "instruction": "Compare the characteristics between an AI chatbot and a virtual assistant.",
+        "category": null
+    },
+    {
+        "instruction": "Create a HTML page with a table that has five cells.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a description of a book that takes place in a small rural town.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the various components of an AI system.",
+        "category": null
+    },
+    {
+        "instruction": "Paraphrase this sentence: \"I will always remember the day I graduated.\"",
+        "category": null
+    },
+    {
+        "instruction": "Explain Islamic beliefs on fate.",
+        "category": null
+    },
+    {
+        "instruction": "Identify and explain 3 characteristics of a dactyl.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a new podcast episode topic",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite this sentence in a more concise way: \"Cloud computing is an emerging technology which allows businesses to store and manage data and applications on servers hosted on the internet.\"",
+        "category": null
+    },
+    {
+        "instruction": "Explain why biofuels may be an important part of the renewable energy future.",
+        "category": null
+    },
+    {
+        "instruction": "What are the key elements to creating a successful presentation?",
+        "category": null
+    },
+    {
+        "instruction": "Design an experiment to determine if smoking affects memory.",
+        "category": null
+    },
+    {
+        "instruction": "Tell me the history of the internet.",
+        "category": null
+    },
+    {
+        "instruction": "Create a description of a large, carnivorous dinosaur.",
+        "category": null
+    },
+    {
+        "instruction": "List some traditional Japanese dishes",
+        "category": null
+    },
+    {
+        "instruction": "Evaluate this statement: \"Genetically modified (GM) organisms are positive for the environment\".",
+        "category": null
+    },
+    {
+        "instruction": "Elaborate on the difference between unsupervised and supervised learning.",
+        "category": null
+    },
+    {
+        "instruction": "Calculate the mean of the numbers 2,3,7,1",
+        "category": null
+    },
+    {
+        "instruction": "Name four states in the USA that border the Pacific Ocean.",
+        "category": null
+    },
+    {
+        "instruction": "Compare the effect of different techniques for preventing data loss from cyber attacks.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the sounds of a sunny summer day.",
+        "category": null
+    },
+    {
+        "instruction": "Make up a bedtime story for a three year old.",
+        "category": null
+    },
+    {
+        "instruction": "Complete the following sentence: \"You can't judge a book by _____.\"",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the role of data scientists in a few sentences.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a query for retrieving the top 10 books in the \u201cMystery\u201d genre from an online bookstore database.",
+        "category": null
+    },
+    {
+        "instruction": "Explain why it is important to have meaningful conversations with your colleagues.",
+        "category": null
+    },
+    {
+        "instruction": "Explain what climate change is",
+        "category": null
+    },
+    {
+        "instruction": "I need to organize a picnic for a large group of people. How can I do that?",
+        "category": null
+    },
+    {
+        "instruction": "How do you make a Peanut Butter and Jelly Sandwich",
+        "category": null
+    },
+    {
+        "instruction": "Think of a portmanteau word combining the words \u201cpig\u201d and \u201cdog\u201d",
+        "category": null
+    },
+    {
+        "instruction": "Find and describe the current social trend in Gen Z.",
+        "category": null
+    },
+    {
+        "instruction": "You are requested to generate a list of projects that you can implement over the next 3 months.",
+        "category": null
+    },
+    {
+        "instruction": "Arrange the words \"rabbit\", \"sleep\", and \"shelf\" into a sentence.",
+        "category": null
+    },
+    {
+        "instruction": "Provide three examples of plants that are native to the United States.",
+        "category": null
+    },
+    {
+        "instruction": "Write the comparative form of 'good'.",
+        "category": null
+    },
+    {
+        "instruction": "Tell me about the difference between a civil and a criminal lawsuit",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of five potential questions that someone could ask the assistant.",
+        "category": null
+    },
+    {
+        "instruction": "Create a table that compares and contrasts two countries of your choice",
+        "category": null
+    },
+    {
+        "instruction": "Compile a list of 5 common misconceptions about the health effects of smoking.",
+        "category": null
+    },
+    {
+        "instruction": "You need to write a persuasive article discussing the importance of coding education in schools.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a headline for a news article about President Trump's policies on global warming.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a set of criteria for code readability",
+        "category": null
+    },
+    {
+        "instruction": "List 3 benefits for eating a balanced diet.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the process for starting a business.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the energy cycle of the sun.",
+        "category": null
+    },
+    {
+        "instruction": "Design an experiment that tests the reaction of a tomato's growth to different kinds of water.",
+        "category": null
+    },
+    {
+        "instruction": "Give a brief description of the historical period known as the French Revolution.",
+        "category": null
+    },
+    {
+        "instruction": "What are the benefits of using a task-oriented chatbot?",
+        "category": null
+    },
+    {
+        "instruction": "Create three strategies for improving customer service in a retail store.",
+        "category": null
+    },
+    {
+        "instruction": "How can schools improve student safety during the covid-19 pandemic?",
+        "category": null
+    },
+    {
+        "instruction": "What is the difference between hard and soft skills?",
+        "category": null
+    },
+    {
+        "instruction": "How has the coronavirus pandemic impacted the economy in the United States?",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast print media and digital media.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the momentum concept of Physics in one sentence.",
+        "category": null
+    },
+    {
+        "instruction": "Given the news headline, \"New Chinese Economy Boom,\" write the opening of the article.",
+        "category": null
+    },
+    {
+        "instruction": "Design a data visualization to show the evolution of the stock market over time.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a metaphor that captures the feeling of joy.",
+        "category": null
+    },
+    {
+        "instruction": "Using the noun \"boat\" write a simile",
+        "category": null
+    },
+    {
+        "instruction": "Paraphrase the phrase \"She was very happy\".",
+        "category": null
+    },
+    {
+        "instruction": "Spell the world \"pneumonia\"",
+        "category": null
+    },
+    {
+        "instruction": "Create a function to determine whether a number is prime or not.",
+        "category": null
+    },
+    {
+        "instruction": "Find the Wikipedia link for the historic battle of Chancellorsville.",
+        "category": null
+    },
+    {
+        "instruction": "Classify a 3D printer as a consumer or industrial product.",
+        "category": null
+    },
+    {
+        "instruction": "Name a language spoken in Africa.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of reasons why going for a walk can be good for one's mental well-being.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the experience of using a Virtual Reality headset.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the ideal workspace",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a unique and creative marketing strategy.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast two popular tourist attractions in your hometown.",
+        "category": null
+    },
+    {
+        "instruction": "Outline the main points of a speech about the effects of climate change",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm ideas on how to create a sustainable business model.",
+        "category": null
+    },
+    {
+        "instruction": "Edit the following sentence: He attending the party.",
+        "category": null
+    },
+    {
+        "instruction": "How can machines be used to reduce carbon emissions?",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 TV series set in London",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast one of the top 5 drinking games.",
+        "category": null
+    },
+    {
+        "instruction": "Identify a way to reduce pollution in large cities.",
+        "category": null
+    },
+    {
+        "instruction": "Pretend you are advising a friend who is going through a difficult situation. Create a positive message to give them.",
+        "category": null
+    },
+    {
+        "instruction": "Find the average of the numbers 3, 5, 9, and 11.",
+        "category": null
+    },
+    {
+        "instruction": "How can I learn more efficiently?",
+        "category": null
+    },
+    {
+        "instruction": "Name a food rich in iron.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the taste of an apple.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a character trait of Odysseus from the Odyssey.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a SQL query to select the names of customers whose orders were delivered after April 13, 2021",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of 5 budget-friendly ways to improve one's home.",
+        "category": null
+    },
+    {
+        "instruction": "Using a metaphor, describe the current economic climate in the US.",
+        "category": null
+    },
+    {
+        "instruction": "Design a strategy for developing artificial intelligence.",
+        "category": null
+    },
+    {
+        "instruction": "Explain what a simile is and give an example of one.",
+        "category": null
+    },
+    {
+        "instruction": "Tell us about the benefits of using encryption.",
+        "category": null
+    },
+    {
+        "instruction": "What is the most important step in the machine learning process?",
+        "category": null
+    },
+    {
+        "instruction": "Write a definition for the concept of photoynthesis.",
+        "category": null
+    },
+    {
+        "instruction": "Create an argument for the use of renewable energy sources.",
+        "category": null
+    },
+    {
+        "instruction": "Determine if the following equation is valid: 2X+Y=100",
+        "category": null
+    },
+    {
+        "instruction": "Suggest some strategies to help athletes set appropriate goals.",
+        "category": null
+    },
+    {
+        "instruction": "A friend of yours is considering taking a gap year before college. Write a short paragraph in which you encourage them to take the gap year.",
+        "category": null
+    },
+    {
+        "instruction": "Create a nursery rhyme about learning.",
+        "category": null
+    },
+    {
+        "instruction": "Back transliterate the word \u201cyoga\u201d from Sanskrit to English.",
+        "category": null
+    },
+    {
+        "instruction": "Formulate a hypothesis for why the language \u201cEnglish\u201d has the highest share of webpages.",
+        "category": null
+    },
+    {
+        "instruction": "How would you describe the color orange to a blind person?",
+        "category": null
+    },
+    {
+        "instruction": "Compose a 5-sentence-long story about a girl who received a traditional gift.",
+        "category": null
+    },
+    {
+        "instruction": "Explain why using a calculator is preferred to long division",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of five questions to ask a friend who just moved to a new city.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the differences between a coral reef and a tropical rainforest.",
+        "category": null
+    },
+    {
+        "instruction": "Write an article for a magazine about how the average person can reduce their environmental impact.",
+        "category": null
+    },
+    {
+        "instruction": "Lying is often viewed negatively; come up with one scenario where lying is acceptable.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the main idea of the following article:\nhttps://en.wikipedia.org/wiki/Agriculture",
+        "category": null
+    },
+    {
+        "instruction": "Construct a sentence using the words \u201cflit\u201d, \u201cobscure\u201d, and \u201cabandoned\u201d",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm a list of 5 least expensive winter activities that can be done outdoors.",
+        "category": null
+    },
+    {
+        "instruction": "Write a narrative about a brave lion.",
+        "category": null
+    },
+    {
+        "instruction": "List five benefits of using an AI assistant.",
+        "category": null
+    },
+    {
+        "instruction": "Name five medicinal plants widely used in Ayurveda.",
+        "category": null
+    },
+    {
+        "instruction": "How would you explain how the stock market works to a 5 year old?",
+        "category": null
+    },
+    {
+        "instruction": "Write a creative story that involves a talking tree.",
+        "category": null
+    },
+    {
+        "instruction": "What questions could you ask to classify an item as clothing?",
+        "category": null
+    },
+    {
+        "instruction": "Give an example of a city in Europe that knows for its vibrant night life.",
+        "category": null
+    },
+    {
+        "instruction": "Identify a weakness of using text-based dialogue with a conversational AI.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast fresh-cooked food with packaged food",
+        "category": null
+    },
+    {
+        "instruction": "Find the population of Nashville, TN",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of topics to discuss in a meeting about business plans for the upcoming year.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a unique nickname for the name \"John\".",
+        "category": null
+    },
+    {
+        "instruction": "Generate a generic URL for a website about cats",
+        "category": null
+    },
+    {
+        "instruction": "Design a logo with 3 symbols for a fictional cosmetics company.",
+        "category": null
+    },
+    {
+        "instruction": "Make a valid sentence using the words \"quick,\" \"brown,\" and \"fox.\"",
+        "category": null
+    },
+    {
+        "instruction": "What is the force on a 1 kg mass due to the gravitational force?",
+        "category": null
+    },
+    {
+        "instruction": "Create a thesis statement that must explain why Trump benefits from the US-China trade war.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of topics for a presentation about mental health.",
+        "category": null
+    },
+    {
+        "instruction": "Create an algorithm that can determine the palindromes in a given string",
+        "category": null
+    },
+    {
+        "instruction": "I want to buy a smartphone. What are the main features I should look for?",
+        "category": null
+    },
+    {
+        "instruction": "Compose a text in the style of Dr. Seuss.",
+        "category": null
+    },
+    {
+        "instruction": "Re-frame the following sentence: \"I can't bear the heat.\"",
+        "category": null
+    },
+    {
+        "instruction": "Create a PowerPoint presentation about the French Revolution.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the behavior of a specific star in the night sky in 10 words.",
+        "category": null
+    },
+    {
+        "instruction": "Predicte the stock price of Google in five years.",
+        "category": null
+    },
+    {
+        "instruction": "Tell the name of a famous mathematician.",
+        "category": null
+    },
+    {
+        "instruction": "Describe in two sentences the relationship between biofuels and climate change",
+        "category": null
+    },
+    {
+        "instruction": "Convert 3/4 ft to inches.",
+        "category": null
+    },
+    {
+        "instruction": "How does the use of AI influence the way businesses operate? Output less than 100 words.",
+        "category": null
+    },
+    {
+        "instruction": "Write a summary of the story \"The Three Little Pigs\".",
+        "category": null
+    },
+    {
+        "instruction": "Create a logic puzzle that can be solved by logic deduction.",
+        "category": null
+    },
+    {
+        "instruction": "Why are first aid kits important?",
+        "category": null
+    },
+    {
+        "instruction": "Generate an email subject line that encourages the recipient to open the email.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the impact of nanotechnology on medical treatments.",
+        "category": null
+    },
+    {
+        "instruction": "Compose an email to your boss informing him that you are taking a sick leave today.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how carbon dioxide contributes to global warming.",
+        "category": null
+    },
+    {
+        "instruction": "Tell me about the latest news.",
+        "category": null
+    },
+    {
+        "instruction": "Evaluate why the \u201cLaw of Accelerating Returns\u201d is an important concept in the field of technological change.",
+        "category": null
+    },
+    {
+        "instruction": "Tell me the first celebrity to win the Nobel Peace Prize.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest an eco-friendly way to travel",
+        "category": null
+    },
+    {
+        "instruction": "List ten scientific names of animals.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a creative writing piece about a character's summer days.",
+        "category": null
+    },
+    {
+        "instruction": "Design a poster encouraging people to use public transport instead of cars.",
+        "category": null
+    },
+    {
+        "instruction": "List ways to improve the user experience when buying online.",
+        "category": null
+    },
+    {
+        "instruction": "Determine the comparative form of the word \"happy\"",
+        "category": null
+    },
+    {
+        "instruction": "Name at least two benefits of studying computer science.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a random password that meets the criteria of having upper case, lower case, and a number.",
+        "category": null
+    },
+    {
+        "instruction": "What is the period of the sun's orbit around the Milky Way?",
+        "category": null
+    },
+    {
+        "instruction": "Write the method for finding the area of a circle.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a joke that is related to physics.\nOutput the joke.",
+        "category": null
+    },
+    {
+        "instruction": "Create a cascading stylesheet for a website.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a step-by-step procedure for making a cup of tea.",
+        "category": null
+    },
+    {
+        "instruction": "Describe what data science is.",
+        "category": null
+    },
+    {
+        "instruction": "Why is Python a good language for data science?",
+        "category": null
+    },
+    {
+        "instruction": "Construct an analogy for the following sentence: \"A computer is to code what a chef is to food.\"",
+        "category": null
+    },
+    {
+        "instruction": "Describe the biome of a tropical rainforest in a few sentences.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a question that could be asked by a customer.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a person going on a last-minute vacation.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of UX best practices.",
+        "category": null
+    },
+    {
+        "instruction": "Find out the major differences between Java and JavaScript",
+        "category": null
+    },
+    {
+        "instruction": "Name three ways a person could reduce their carbon footprint",
+        "category": null
+    },
+    {
+        "instruction": "Describe the negative impacts of using plastic bags.",
+        "category": null
+    },
+    {
+        "instruction": "List the steps involved in creating a website.",
+        "category": null
+    },
+    {
+        "instruction": "Design the interior of a high-end restaurant.",
+        "category": null
+    },
+    {
+        "instruction": "What is the difference between articulatory and acoustic phonetics?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a numerical expression that adds 2 and 5 and multiplies by 4.",
+        "category": null
+    },
+    {
+        "instruction": "Tell me something about a Nissan leaf.",
+        "category": null
+    },
+    {
+        "instruction": "What are the five different tastes humans can detect?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a creative slogan that describes the benefits of using an AI assistant.",
+        "category": null
+    },
+    {
+        "instruction": "Describe an interesting fact about giraffes",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast two types of computer networks.",
+        "category": null
+    },
+    {
+        "instruction": "Create a synopsis of the film Die Hard.",
+        "category": null
+    },
+    {
+        "instruction": "Edit the following sentence for clarity: \"I would like to go out to part with my friends\"",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of 5 development strategies for small business owners.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm some innovative ideas for using virtual reality in marketing.",
+        "category": null
+    },
+    {
+        "instruction": "Determine what international organizations have authority over the internet.",
+        "category": null
+    },
+    {
+        "instruction": "Explain why it is important to think before you speak.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a tweet that explains the importance of self-care.",
+        "category": null
+    },
+    {
+        "instruction": "List three potential online security risks",
+        "category": null
+    },
+    {
+        "instruction": "Explain what is meant by a recursive function.",
+        "category": null
+    },
+    {
+        "instruction": "Provide a definition of the term \"self-care\".",
+        "category": null
+    },
+    {
+        "instruction": "Describe the effects of smoking on the respiratory system.",
+        "category": null
+    },
+    {
+        "instruction": "Describe how to clean a windowsill",
+        "category": null
+    },
+    {
+        "instruction": "Write a short story about a girl searching for a magical creature.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a title for a sci-fi book.",
+        "category": null
+    },
+    {
+        "instruction": "Find simple noun forms of the following verbs: look, talk, tell",
+        "category": null
+    },
+    {
+        "instruction": "What are the pros and cons of using a database management system?",
+        "category": null
+    },
+    {
+        "instruction": "Create a data set containing the population of 5 countries.",
+        "category": null
+    },
+    {
+        "instruction": "State the economic theory of supply and demand.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the primary components of the US government.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the functionality of the Python built-in function \"range()\".",
+        "category": null
+    }
+]

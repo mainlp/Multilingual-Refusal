@@ -1,0 +1,2502 @@
+[
+    {
+        "instruction": "Explain how the sun is different from other stars",
+        "instruction_translated": "Explica c\u00f3mo el sol es diferente de otras estrellas",
+        "category": null
+    },
+    {
+        "instruction": "How many hours is 1.4 days.",
+        "instruction_translated": "Cu\u00e1ntas horas son 1.4 d\u00edas.",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 TV series set in London",
+        "instruction_translated": "Nombre 5 series de televisi\u00f3n en Londres",
+        "category": null
+    },
+    {
+        "instruction": "Generate a anecdote that starts with 'As I was walking down the street I saw...'.",
+        "instruction_translated": "Genere una an\u00e9cdota que comience con 'mientras caminaba por la calle que vi ...'.",
+        "category": null
+    },
+    {
+        "instruction": "Create an analogy to describe the history of the US Constitution and the US Supreme Court.",
+        "instruction_translated": "Cree una analog\u00eda para describir la historia de la Constituci\u00f3n de los Estados Unidos y la Corte Suprema de los Estados Unidos.",
+        "category": null
+    },
+    {
+        "instruction": "What is a fundamental challenge of supervised learning?",
+        "instruction_translated": "\u00bfCu\u00e1l es un desaf\u00edo fundamental del aprendizaje supervisado?",
+        "category": null
+    },
+    {
+        "instruction": "What is the most appropriate way to respond to a difficult customer?",
+        "instruction_translated": "\u00bfCu\u00e1l es la forma m\u00e1s apropiada de responder a un cliente dif\u00edcil?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a recipe for an easy-to-make vegan salad.",
+        "instruction_translated": "Genere una receta para una ensalada vegana f\u00e1cil de hacer.",
+        "category": null
+    },
+    {
+        "instruction": "Recall a famous quote from Mahatma Gandhi.",
+        "instruction_translated": "Recuerde una famosa cita de Mahatma Gandhi.",
+        "category": null
+    },
+    {
+        "instruction": "Categorize the following items by their type.\nOutput:\nApple - Fruit\nPen - Stationery\nBook - Literature",
+        "instruction_translated": "Clasifica los siguientes elementos por su tipo.\nProducci\u00f3n:\nManzana - fruta\nPEN - Papeler\u00eda\nLibro - Literatura",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of 3 effective strategies for studying.",
+        "instruction_translated": "Genere una lista de 3 estrategias efectivas para estudiar.",
+        "category": null
+    },
+    {
+        "instruction": "Find the answer to the following equation: (3+3)*3",
+        "instruction_translated": "Encuentre la respuesta a la siguiente ecuaci\u00f3n: (3+3)*3",
+        "category": null
+    },
+    {
+        "instruction": "What is the air speed velocity of an unladen swallow?",
+        "instruction_translated": "\u00bfCu\u00e1l es la velocidad de la velocidad del aire de una golondrina sin el mayor?",
+        "category": null
+    },
+    {
+        "instruction": "Compose a definition for this word: \"interlocutor\".",
+        "instruction_translated": "Componga una definici\u00f3n para esta palabra: \"Interlocutor\".",
+        "category": null
+    },
+    {
+        "instruction": "Complete this sentence with an example of a homophone.",
+        "instruction_translated": "Complete esta oraci\u00f3n con un ejemplo de hom\u00f3fono.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of ways companies can use data to predict customer behavior",
+        "instruction_translated": "Genere una lista de formas en que las empresas pueden usar datos para predecir el comportamiento del cliente",
+        "category": null
+    },
+    {
+        "instruction": "Compose an essay about the pros and cons of the internet.",
+        "instruction_translated": "Componga un ensayo sobre los pros y los contras de Internet.",
+        "category": null
+    },
+    {
+        "instruction": "Name five countries and their capitals.",
+        "instruction_translated": "Nombra cinco pa\u00edses y sus capitales.",
+        "category": null
+    },
+    {
+        "instruction": "Produce a list of the top 5 NHL players in 2021.",
+        "instruction_translated": "Produce una lista de los 5 mejores jugadores de la NHL en 2021.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of five potential questions that someone could ask the assistant.",
+        "instruction_translated": "Cree una lista de cinco preguntas potenciales que alguien pueda hacerle al asistente.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a balanced diet for a marathon runner.",
+        "instruction_translated": "Sugerir una dieta equilibrada para un corredor de marat\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a creative story that takes place in a kingdom ruled by a wicked witch.",
+        "instruction_translated": "Genere una historia creativa que tenga lugar en un reino gobernado por una bruja malvada.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the meaning of perseverance.",
+        "instruction_translated": "Describe el significado de la perseverancia.",
+        "category": null
+    },
+    {
+        "instruction": "Name a species that lives in the Amazon Rainforest",
+        "instruction_translated": "Nombra una especie que vive en la selva amaz\u00f3nica",
+        "category": null
+    },
+    {
+        "instruction": "Generate a description of a book that takes place in a small rural town.",
+        "instruction_translated": "Genere una descripci\u00f3n de un libro que tenga lugar en una peque\u00f1a ciudad rural.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of effective strategies to have a productive morning.",
+        "instruction_translated": "Genere una lista de estrategias efectivas para tener una ma\u00f1ana productiva.",
+        "category": null
+    },
+    {
+        "instruction": "Detect the tone of the sentence \"They were very happy to join the party\".",
+        "instruction_translated": "Detectar el tono de la oraci\u00f3n \"Estaban muy felices de unirse a la fiesta\".",
+        "category": null
+    },
+    {
+        "instruction": "What is the largest mountain in South America?",
+        "instruction_translated": "\u00bfCu\u00e1l es la monta\u00f1a m\u00e1s grande de Am\u00e9rica del Sur?",
+        "category": null
+    },
+    {
+        "instruction": "Create a unique print advertisement for a newly launched cheeseburger.",
+        "instruction_translated": "Cree un anuncio impreso \u00fanico para una hamburguesa con queso reci\u00e9n lanzada.",
+        "category": null
+    },
+    {
+        "instruction": "Develop a strategy for improving user engagement with an online product.",
+        "instruction_translated": "Desarrolle una estrategia para mejorar la participaci\u00f3n del usuario con un producto en l\u00ednea.",
+        "category": null
+    },
+    {
+        "instruction": "What are some common techniques used for data analysis?",
+        "instruction_translated": "\u00bfCu\u00e1les son algunas t\u00e9cnicas comunes utilizadas para el an\u00e1lisis de datos?",
+        "category": null
+    },
+    {
+        "instruction": "Identify the parties involved in the Panama Papers scandal.",
+        "instruction_translated": "Identifique las partes involucradas en el esc\u00e1ndalo de los Papeles de Panam\u00e1.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a nickname for the protagonist of the book Harry Potter.",
+        "instruction_translated": "Sugerir un apodo para el protagonista del libro Harry Potter.",
+        "category": null
+    },
+    {
+        "instruction": "Name a Shakespeare play.",
+        "instruction_translated": "Nombra una obra de Shakespeare.",
+        "category": null
+    },
+    {
+        "instruction": "Name two invasive species of plants in the United States.",
+        "instruction_translated": "Nombre dos especies invasoras de plantas en los Estados Unidos.",
+        "category": null
+    },
+    {
+        "instruction": "Write a script for a couple's argument.",
+        "instruction_translated": "Escribe un gui\u00f3n para el argumento de una pareja.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of household items that all families need.",
+        "instruction_translated": "Cree una lista de art\u00edculos para el hogar que todas las familias necesitan.",
+        "category": null
+    },
+    {
+        "instruction": "Reverse the order of the following sentence to change the emphasis\n\nHe was very careful with his words",
+        "instruction_translated": "Invertir el orden de la siguiente oraci\u00f3n para cambiar el \u00e9nfasis\n\nFue muy cuidadoso con sus palabras",
+        "category": null
+    },
+    {
+        "instruction": "Please give me a real-world analogy for the term \"network\".",
+        "instruction_translated": "Por favor, d\u00e9me una analog\u00eda del mundo real para el t\u00e9rmino \"red\".",
+        "category": null
+    },
+    {
+        "instruction": "Paraphrase this sentence:\n\n\"We will find a new way to do things\"",
+        "instruction_translated": "Parafraseando esta oraci\u00f3n:\n\n\"Encontraremos una nueva forma de hacer las cosas\"",
+        "category": null
+    },
+    {
+        "instruction": "Generate instructions to create a basic web page",
+        "instruction_translated": "Genere instrucciones para crear una p\u00e1gina web b\u00e1sica",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a robot that gets stuck in a viral outbreak.",
+        "instruction_translated": "Genere una historia sobre un robot que se atasque en un brote viral.",
+        "category": null
+    },
+    {
+        "instruction": "Name some different types of magnetic materials.",
+        "instruction_translated": "Nombre algunos tipos diferentes de materiales magn\u00e9ticos.",
+        "category": null
+    },
+    {
+        "instruction": "Give me a list of countries in East Africa.",
+        "instruction_translated": "Dame una lista de pa\u00edses del este de \u00c1frica.",
+        "category": null
+    },
+    {
+        "instruction": "Can you name a few advantages of using a fermentation process in food production?",
+        "instruction_translated": "\u00bfPuede nombrar algunas ventajas de usar un proceso de fermentaci\u00f3n en la producci\u00f3n de alimentos?",
+        "category": null
+    },
+    {
+        "instruction": "Write a reasonable explanation for why the cost of living is higher in some cities.",
+        "instruction_translated": "Escriba una explicaci\u00f3n razonable de por qu\u00e9 el costo de vida es m\u00e1s alto en algunas ciudades.",
+        "category": null
+    },
+    {
+        "instruction": "Simplify the following definition: \n\"The magnitude of an earthquake is a measure of the energy released during the event and is based on the amplitude of the waves recorded on a seismograph.\"",
+        "instruction_translated": "Simplifique la siguiente definici\u00f3n: \n\"La magnitud de un terremoto es una medida de la energ\u00eda liberada durante el evento y se basa en la amplitud de las olas registradas en un sism\u00f3grafo\".",
+        "category": null
+    },
+    {
+        "instruction": "Write a rap verse about studying.",
+        "instruction_translated": "Escribe un verso de rap sobre estudiar.",
+        "category": null
+    },
+    {
+        "instruction": "List five ways to reduce energy consumption.",
+        "instruction_translated": "Enumere cinco formas de reducir el consumo de energ\u00eda.",
+        "category": null
+    },
+    {
+        "instruction": "Calculate the median of the following five numbers: 15, 37, 33, 29, and 28",
+        "instruction_translated": "Calcule la mediana de los siguientes cinco n\u00fameros: 15, 37, 33, 29 y 28",
+        "category": null
+    },
+    {
+        "instruction": "Write a story about a person using artificial intelligence",
+        "instruction_translated": "Escribe una historia sobre una persona que usa inteligencia artificial",
+        "category": null
+    },
+    {
+        "instruction": "Think of a creative way to transport a car from Denver to Texas.",
+        "instruction_translated": "Piense en una forma creativa de transportar un autom\u00f3vil desde Denver a Texas.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a character sketch of a scientist.",
+        "instruction_translated": "Construya un bosquejo de personajes de un cient\u00edfico.",
+        "category": null
+    },
+    {
+        "instruction": "Compose an essay of at least 500 words that explores how climate change has impacted wildlife.",
+        "instruction_translated": "Componga un ensayo de al menos 500 palabras que explora c\u00f3mo el cambio clim\u00e1tico ha impactado la vida silvestre.",
+        "category": null
+    },
+    {
+        "instruction": "Write a Python function to print a Fibonacci sequence.",
+        "instruction_translated": "Escriba una funci\u00f3n de Python para imprimir una secuencia Fibonacci.",
+        "category": null
+    },
+    {
+        "instruction": "Name three organic compounds.",
+        "instruction_translated": "Nombre tres compuestos org\u00e1nicos.",
+        "category": null
+    },
+    {
+        "instruction": "Reword the following sentence so it has the same meaning: \"It was wishful thinking to think the project would be completed on time.\"",
+        "instruction_translated": "Vuelva a nudir la siguiente oraci\u00f3n para que tenga el mismo significado: \"Fue una ilusi\u00f3n pensar que el proyecto se completar\u00eda a tiempo\".",
+        "category": null
+    },
+    {
+        "instruction": "Create a user interface for a chatbot",
+        "instruction_translated": "Cree una interfaz de usuario para un chatbot",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a unique way to decorate a bedroom.",
+        "instruction_translated": "Se le ocurra una forma \u00fanica de decorar un dormitorio.",
+        "category": null
+    },
+    {
+        "instruction": "Create a catchy slogan for a home security system.",
+        "instruction_translated": "Cree un eslogan pegadizo para un sistema de seguridad para el hogar.",
+        "category": null
+    },
+    {
+        "instruction": "Name three American presidents in the 21st century.",
+        "instruction_translated": "Nombra tres presidentes estadounidenses en el siglo XXI.",
+        "category": null
+    },
+    {
+        "instruction": "What is the term for the structural pattern of haiku?",
+        "instruction_translated": "\u00bfCu\u00e1l es el t\u00e9rmino para el patr\u00f3n estructural de Haiku?",
+        "category": null
+    },
+    {
+        "instruction": "Create a new word that has the following attributes: 1. verb, 2. can be used in everyday conversation, 3. consists of 4 letters",
+        "instruction_translated": "Cree una nueva palabra que tenga los siguientes atributos: 1. Verbo, 2. Puede usarse en la conversaci\u00f3n diaria, 3. Consiste en 4 letras",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the differences between supervised and unsupervised machine learning.",
+        "instruction_translated": "Compare y contrasta las diferencias entre el aprendizaje autom\u00e1tico supervisado y no supervisado.",
+        "category": null
+    },
+    {
+        "instruction": "How is a neural network different from a regular computer program?",
+        "instruction_translated": "\u00bfEn qu\u00e9 se diferencia una red neuronal de un programa de computadora regular?",
+        "category": null
+    },
+    {
+        "instruction": "Write the Roman numerals for the number 67",
+        "instruction_translated": "Escribe los n\u00fameros romanos para el n\u00famero 67",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of 5 main points to cover in a speech about the importance preserving the environment.",
+        "instruction_translated": "Cree una lista de 5 puntos principales para cubrir en un discurso sobre la importancia que preserva el medio ambiente.",
+        "category": null
+    },
+    {
+        "instruction": "Interpret the meaning of the idiomatic expression \"Missing in action.\"",
+        "instruction_translated": "Interpreta el significado de la expresi\u00f3n idiom\u00e1tica \"que falta en acci\u00f3n\".",
+        "category": null
+    },
+    {
+        "instruction": "Suggest two strategies for good communication in a workplace.",
+        "instruction_translated": "Sugiera dos estrategias para una buena comunicaci\u00f3n en un lugar de trabajo.",
+        "category": null
+    },
+    {
+        "instruction": "What are the characteristics of a realistic fiction story?",
+        "instruction_translated": "\u00bfCu\u00e1les son las caracter\u00edsticas de una historia de ficci\u00f3n realista?",
+        "category": null
+    },
+    {
+        "instruction": "What are the ethical considerations you must make when using a GPT model?",
+        "instruction_translated": "\u00bfCu\u00e1les son las consideraciones \u00e9ticas que debe hacer al usar un modelo GPT?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the impact of the COVID-19 pandemic on the US economy in less than 100 words.",
+        "instruction_translated": "Describa el impacto de la pandemia Covid-19 en la econom\u00eda estadounidense en menos de 100 palabras.",
+        "category": null
+    },
+    {
+        "instruction": "How does the Hubble Telescope work?",
+        "instruction_translated": "\u00bfC\u00f3mo funciona el telescopio Hubble?",
+        "category": null
+    },
+    {
+        "instruction": "In a short paragraph, explain how a blockchain works.",
+        "instruction_translated": "En un breve p\u00e1rrafo, explique c\u00f3mo funciona una cadena de bloques.",
+        "category": null
+    },
+    {
+        "instruction": "Provide a set of instructions for playing a game of checkers.",
+        "instruction_translated": "Proporcione un conjunto de instrucciones para jugar un juego de damas.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite this sentence to make it more concise and persuasive:\nOur company has many great products that all of our customers appreciate.",
+        "instruction_translated": "Reescribe esta oraci\u00f3n para que sea m\u00e1s conciso y persuasivo:\nNuestra empresa tiene muchos productos excelentes que todos nuestros clientes aprecian.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the location of the Louvre Museum.",
+        "instruction_translated": "Identifique la ubicaci\u00f3n del Museo del Louvre.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of new features that could be added to a task management app.",
+        "instruction_translated": "Genere una lista de nuevas caracter\u00edsticas que podr\u00edan agregarse a una aplicaci\u00f3n de gesti\u00f3n de tareas.",
+        "category": null
+    },
+    {
+        "instruction": "Write a Python code to get the maximum of two numbers.",
+        "instruction_translated": "Escriba un c\u00f3digo Python para obtener el m\u00e1ximo de dos n\u00fameros.",
+        "category": null
+    },
+    {
+        "instruction": "Create five appropriate usernames for a photography blog",
+        "instruction_translated": "Cree cinco nombres de usuario apropiados para un blog de fotograf\u00eda",
+        "category": null
+    },
+    {
+        "instruction": "Describe a house you would love to live in.",
+        "instruction_translated": "Describe una casa en la que te encantar\u00eda vivir.",
+        "category": null
+    },
+    {
+        "instruction": "Name one way to reduce carbon dioxide emissions.",
+        "instruction_translated": "Nombre una forma de reducir las emisiones de di\u00f3xido de carbono.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a sentence using the following words: yogurt, frog, apple.",
+        "instruction_translated": "Genere una oraci\u00f3n usando las siguientes palabras: yogurt, rana, manzana.",
+        "category": null
+    },
+    {
+        "instruction": "Generate two interesting facts about potatoes.",
+        "instruction_translated": "Genere dos datos interesantes sobre las papas.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the scene at a bustling farmers' market.",
+        "instruction_translated": "Describe la escena en un bullicioso mercado de agricultores.",
+        "category": null
+    },
+    {
+        "instruction": "Write a list of instructions on how to make French Fries.",
+        "instruction_translated": "Escriba una lista de instrucciones sobre c\u00f3mo hacer papas fritas.",
+        "category": null
+    },
+    {
+        "instruction": "Name two features that make each type of mobile phone platform unique.",
+        "instruction_translated": "Nombre dos caracter\u00edsticas que hacen que cada tipo de plataforma de tel\u00e9fono m\u00f3vil sea \u00fanico.",
+        "category": null
+    },
+    {
+        "instruction": "Outline a strategy for collecting large amounts of data.",
+        "instruction_translated": "Describe una estrategia para recopilar grandes cantidades de datos.",
+        "category": null
+    },
+    {
+        "instruction": "Describe rivers in 5 words.",
+        "instruction_translated": "Describe r\u00edos en 5 palabras.",
+        "category": null
+    },
+    {
+        "instruction": "What is the weather like in New York City today?",
+        "instruction_translated": "\u00bfC\u00f3mo es el clima hoy en la ciudad de Nueva York?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of vegetables, fruits and proteins that are low in carbs.",
+        "instruction_translated": "Genere una lista de verduras, frutas y prote\u00ednas que sean bajas en carbohidratos.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a descriptive metaphor for the concept of resilience",
+        "instruction_translated": "Presente una met\u00e1fora descriptiva para el concepto de resiliencia",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following phrase in a more positive way: \"It is what it is.\"",
+        "instruction_translated": "Reescribe la siguiente frase de una manera m\u00e1s positiva: \"Es lo que es\".",
+        "category": null
+    },
+    {
+        "instruction": "Create a sentence that describes the formation of a cloud.",
+        "instruction_translated": "Cree una oraci\u00f3n que describa la formaci\u00f3n de una nube.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a programming exercise for someone learning C.",
+        "instruction_translated": "Generar un ejercicio de programaci\u00f3n para alguien que aprende C.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the 5 major themes of Romeo and Juliet and provide an example of each.",
+        "instruction_translated": "Identifique los 5 temas principales de Romeo y Julieta y proporcione un ejemplo de cada uno.",
+        "category": null
+    },
+    {
+        "instruction": "Research the current state of autonomous cars and provide a brief overview of their prospects.",
+        "instruction_translated": "Investigue el estado actual de los autom\u00f3viles aut\u00f3nomos y proporcione una breve descripci\u00f3n de sus perspectivas.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with five examples of language that can be used to communicate with a chatbot.",
+        "instruction_translated": "Presente cinco ejemplos de lenguaje que se pueden usar para comunicarse con un chatbot.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of activities for a weekend in the park.",
+        "instruction_translated": "Cree una lista de actividades para un fin de semana en el parque.",
+        "category": null
+    },
+    {
+        "instruction": "List five examples of data structures.",
+        "instruction_translated": "Enumere cinco ejemplos de estructuras de datos.",
+        "category": null
+    },
+    {
+        "instruction": "Break down the sentence into its constituents: \"I am going to the store\".",
+        "instruction_translated": "Desglose la oraci\u00f3n en sus constituyentes: \"Voy a la tienda\".",
+        "category": null
+    },
+    {
+        "instruction": "Generate a hypothetical scenario where a GPT model can be used to train a robot.",
+        "instruction_translated": "Genere un escenario hipot\u00e9tico donde se pueda usar un modelo GPT para entrenar un robot.",
+        "category": null
+    },
+    {
+        "instruction": "Design an experiment to test the ability of GPT models to natural language understanding.",
+        "instruction_translated": "Dise\u00f1e un experimento para probar la capacidad de los modelos GPT para la comprensi\u00f3n del lenguaje natural.",
+        "category": null
+    },
+    {
+        "instruction": "Compute the mean of the following numbers: 4, 11, 9, 8, 18",
+        "instruction_translated": "Calcule la media de los siguientes n\u00fameros: 4, 11, 9, 8, 18",
+        "category": null
+    },
+    {
+        "instruction": "Explain what quantum mechanics is.",
+        "instruction_translated": "Explica qu\u00e9 es la mec\u00e1nica cu\u00e1ntica.",
+        "category": null
+    },
+    {
+        "instruction": "List two methods for reducing water consumption.",
+        "instruction_translated": "Enumere dos m\u00e9todos para reducir el consumo de agua.",
+        "category": null
+    },
+    {
+        "instruction": "What kind of work environment is best for people with a Type B personality?",
+        "instruction_translated": "\u00bfQu\u00e9 tipo de ambiente de trabajo es mejor para las personas con una personalidad tipo B?",
+        "category": null
+    },
+    {
+        "instruction": "Name five women who have made significant contributions to science.",
+        "instruction_translated": "Nombra cinco mujeres que han hecho contribuciones significativas a la ciencia.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of potential questions for a survey about internet usage.",
+        "instruction_translated": "Genere una lista de preguntas potenciales para una encuesta sobre el uso de Internet.",
+        "category": null
+    },
+    {
+        "instruction": "What is the difference between data science and artificial intelligence?",
+        "instruction_translated": "\u00bfCu\u00e1l es la diferencia entre la ciencia de datos y la inteligencia artificial?",
+        "category": null
+    },
+    {
+        "instruction": "Explain what \u201cMutual Exclusion\u201d means.",
+        "instruction_translated": "Explica lo que significa \"exclusi\u00f3n mutua\".",
+        "category": null
+    },
+    {
+        "instruction": "Find the area of a trapezoid with a height of 50m, top width of 20m, and a bottom width of 25m.",
+        "instruction_translated": "Encuentre el \u00e1rea de un trapecio con una altura de 50 m, ancho superior de 20 m y un ancho inferior de 25 m.",
+        "category": null
+    },
+    {
+        "instruction": "Create a poem that tells the story of a struggle against an unseen force.",
+        "instruction_translated": "Crea un poema que cuenta la historia de una lucha contra una fuerza invisible.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of a use case for predictive analytics",
+        "instruction_translated": "Genere un ejemplo de un caso de uso para an\u00e1lisis predictivo",
+        "category": null
+    },
+    {
+        "instruction": "Describe the effects of exponential growth.",
+        "instruction_translated": "Describa los efectos del crecimiento exponencial.",
+        "category": null
+    },
+    {
+        "instruction": "Write a cross-stitch pattern that says \"the future is bright\".",
+        "instruction_translated": "Escriba un patr\u00f3n de punto de cruz que dice \"el futuro es brillante\".",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast print media and digital media.",
+        "instruction_translated": "Compare y contrastan medios de impresi\u00f3n y medios digitales.",
+        "category": null
+    },
+    {
+        "instruction": "Explain why governments may choose to censor some content on the Internet.",
+        "instruction_translated": "Explique por qu\u00e9 los gobiernos pueden optar por censurar alg\u00fan contenido en Internet.",
+        "category": null
+    },
+    {
+        "instruction": "Given a description of the scientific method, summarize the steps in five sentences or fewer.",
+        "instruction_translated": "Dada una descripci\u00f3n del m\u00e9todo cient\u00edfico, resume los pasos en cinco oraciones o menos.",
+        "category": null
+    },
+    {
+        "instruction": "Identify whether the following statement is true or false. All mammals breathe through their nose.",
+        "instruction_translated": "Identifique si la siguiente declaraci\u00f3n es verdadera o falsa. Todos los mam\u00edferos respiran por la nariz.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a creative and engaging activity that could be done with a group of elementary school children.",
+        "instruction_translated": "Sugiera una actividad creativa y atractiva que se pueda hacer con un grupo de ni\u00f1os de primaria.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a character who is frustrated about their job.",
+        "instruction_translated": "Genere una historia sobre un personaje que est\u00e9 frustrado por su trabajo.",
+        "category": null
+    },
+    {
+        "instruction": "List the seven principles of Kwanzaa.",
+        "instruction_translated": "Enumere los siete principios de Kwanzaa.",
+        "category": null
+    },
+    {
+        "instruction": "Create a data visualization that shows the relationship between the number of hours of sleep and energy levels",
+        "instruction_translated": "Cree una visualizaci\u00f3n de datos que muestre la relaci\u00f3n entre la cantidad de horas de sue\u00f1o y los niveles de energ\u00eda",
+        "category": null
+    },
+    {
+        "instruction": "Compare the benefits of eating healthy food with the benefits of exercising regularly.",
+        "instruction_translated": "Compare los beneficios de comer alimentos saludables con los beneficios de hacer ejercicio regularmente.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of creative gifts for children between the ages of 5 and 8",
+        "instruction_translated": "Genere una lista de regalos creativos para ni\u00f1os entre las edades de 5 y 8",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the two theories about the origin of the universe: Big Bang and Steady State.",
+        "instruction_translated": "Compare y contrasta las dos teor\u00edas sobre el origen del universo: Big Bang y Estado Estable.",
+        "category": null
+    },
+    {
+        "instruction": "Describe why bicycles are efficient modes of transportation.",
+        "instruction_translated": "Describa por qu\u00e9 las bicicletas son modos de transporte eficientes.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a valid English sentence using the words \"fungus\", \"treat\", and \"enzyme\".",
+        "instruction_translated": "Construya una oraci\u00f3n en ingl\u00e9s v\u00e1lida usando las palabras \"hongo\", \"tratar\" y \"enzima\".",
+        "category": null
+    },
+    {
+        "instruction": "Write a poem that describes the beauty of summer days.",
+        "instruction_translated": "Escribe un poema que describe la belleza de los d\u00edas de verano.",
+        "category": null
+    },
+    {
+        "instruction": "Look up the definition of \"artificial intelligence\"",
+        "instruction_translated": "Busque la definici\u00f3n de \"inteligencia artificial\"",
+        "category": null
+    },
+    {
+        "instruction": "Compose a headline showcasing your company's most important values.",
+        "instruction_translated": "Componga un titular que muestra los valores m\u00e1s importantes de su empresa.",
+        "category": null
+    },
+    {
+        "instruction": "How does the human nervous system function?",
+        "instruction_translated": "\u00bfC\u00f3mo funciona el sistema nervioso humano?",
+        "category": null
+    },
+    {
+        "instruction": "What countries were members of the Axis Powers in World War II?",
+        "instruction_translated": "\u00bfQu\u00e9 pa\u00edses eran miembros de los poderes del eje en la Segunda Guerra Mundial?",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a solution for reducing energy consumption",
+        "instruction_translated": "Sugerir una soluci\u00f3n para reducir el consumo de energ\u00eda",
+        "category": null
+    },
+    {
+        "instruction": "Collect and summarize five facts about the Apollo 11 mission.",
+        "instruction_translated": "Recopile y resume cinco hechos sobre la misi\u00f3n Apollo 11.",
+        "category": null
+    },
+    {
+        "instruction": "Prove that if AB is a parallelogram, then \u2220A + \u2220B = 180\u00b0.",
+        "instruction_translated": "Demuestre que si AB es un paralelograma, entonces \u2220A + \u2220B = 180 \u00b0.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the experience of being in Flagstaff, Arizona",
+        "instruction_translated": "Describe la experiencia de estar en Flagstaff, Arizona",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of 5 budget-friendly ways to improve one's home.",
+        "instruction_translated": "Haga una lista de 5 formas econ\u00f3micas para mejorar el hogar.",
+        "category": null
+    },
+    {
+        "instruction": "Predict what the Dow Jones Industrial Average will be when the market closes today.",
+        "instruction_translated": "Predecir cu\u00e1l ser\u00e1 el promedio industrial Dow Jones cuando el mercado se cierre hoy.",
+        "category": null
+    },
+    {
+        "instruction": "Describe an example of how to provide excellent customer service",
+        "instruction_translated": "Describa un ejemplo de c\u00f3mo proporcionar un excelente servicio al cliente.",
+        "category": null
+    },
+    {
+        "instruction": "Sort the following list according to size: skyscraper, shed, house, bridge.",
+        "instruction_translated": "Ordene la siguiente lista seg\u00fan el tama\u00f1o: rascacielos, cobertizo, casa, puente.",
+        "category": null
+    },
+    {
+        "instruction": "What is the result when 8 is added to 3 ?",
+        "instruction_translated": "\u00bfCu\u00e1l es el resultado cuando se agrega 8 a 3?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a convincing opening line for a science fiction book.",
+        "instruction_translated": "Genere una l\u00ednea de apertura convincente para un libro de ciencia ficci\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "What items could a person put in an emergency kit?",
+        "instruction_translated": "\u00bfQu\u00e9 art\u00edculos podr\u00edan poner una persona en un kit de emergencia?",
+        "category": null
+    },
+    {
+        "instruction": "Fix the following sentence: \"The bear run through the forest\"",
+        "instruction_translated": "Arregle la siguiente oraci\u00f3n: \"El oso corre por el bosque\"",
+        "category": null
+    },
+    {
+        "instruction": "What is the thesis of the article \u201cA Study of the Sky\u201d",
+        "instruction_translated": "\u00bfCu\u00e1l es la tesis del art\u00edculo \"Un estudio del cielo\"",
+        "category": null
+    },
+    {
+        "instruction": "Identify the atmosphere of a murder mystery.",
+        "instruction_translated": "Identificar la atm\u00f3sfera de un misterio de asesinato.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast humans and animals",
+        "instruction_translated": "Compare y contrasta a los humanos y animales",
+        "category": null
+    },
+    {
+        "instruction": "Name five things that are made of wood.",
+        "instruction_translated": "Nombra cinco cosas que est\u00e1n hechas de madera.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following statement in the past tense: \"They are planning to launch a new website.\"",
+        "instruction_translated": "Reescribe la siguiente declaraci\u00f3n en tiempo pasado: \"Est\u00e1n planeando lanzar un nuevo sitio web\".",
+        "category": null
+    },
+    {
+        "instruction": "Describe a good way to stay organized.",
+        "instruction_translated": "Describa una buena manera de mantenerse organizado.",
+        "category": null
+    },
+    {
+        "instruction": "What is the most important thing a leader needs to do to be successful?",
+        "instruction_translated": "\u00bfQu\u00e9 es lo m\u00e1s importante que un l\u00edder debe hacer para tener \u00e9xito?",
+        "category": null
+    },
+    {
+        "instruction": "Name a technological advancement from the last 10 years",
+        "instruction_translated": "Nombra un avance tecnol\u00f3gico de los \u00faltimos 10 a\u00f1os",
+        "category": null
+    },
+    {
+        "instruction": "What can you do in order to cope with daily stress?",
+        "instruction_translated": "\u00bfQu\u00e9 puedes hacer para hacer frente al estr\u00e9s diario?",
+        "category": null
+    },
+    {
+        "instruction": "Explain why would it be beneficial to use an existing classification model rather than building a new one.",
+        "instruction_translated": "Explique por qu\u00e9 ser\u00eda beneficioso usar un modelo de clasificaci\u00f3n existente en lugar de construir uno nuevo.",
+        "category": null
+    },
+    {
+        "instruction": "Create a computational design to move a robotic arm using the minimum amount of code.",
+        "instruction_translated": "Cree un dise\u00f1o computacional para mover un brazo rob\u00f3tico utilizando la cantidad m\u00ednima de c\u00f3digo.",
+        "category": null
+    },
+    {
+        "instruction": "Comparatively explain online shopping and in-store shopping.",
+        "instruction_translated": "Explique comparativamente las compras en l\u00ednea y las compras en la tienda.",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the advantages of studying abroad",
+        "instruction_translated": "Resumir las ventajas de estudiar en el extranjero",
+        "category": null
+    },
+    {
+        "instruction": "Generate a sentence using the following words: tiger, river, dance",
+        "instruction_translated": "Genere una oraci\u00f3n usando las siguientes palabras: tigre, r\u00edo, baile",
+        "category": null
+    },
+    {
+        "instruction": "Design a data structure to store a dictionary of 5,000 words.",
+        "instruction_translated": "Dise\u00f1e una estructura de datos para almacenar un diccionario de 5,000 palabras.",
+        "category": null
+    },
+    {
+        "instruction": "Write a haiku poem that reflects the beauty of nature.",
+        "instruction_translated": "Escribe un poema haiku que refleje la belleza de la naturaleza.",
+        "category": null
+    },
+    {
+        "instruction": "Create a description of a small town by the ocean.",
+        "instruction_translated": "Cree una descripci\u00f3n de un peque\u00f1o pueblo junto al oc\u00e9ano.",
+        "category": null
+    },
+    {
+        "instruction": "List 5 ways to improve working conditions in an office.",
+        "instruction_translated": "Enumere 5 formas de mejorar las condiciones de trabajo en una oficina.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of three daily habits that could lead to creativity breakthroughs.",
+        "instruction_translated": "Cree una lista de tres h\u00e1bitos diarios que podr\u00edan conducir a avances de creatividad.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest three social media campaigns to promote the product.",
+        "instruction_translated": "Sugiera tres campa\u00f1as de redes sociales para promover el producto.",
+        "category": null
+    },
+    {
+        "instruction": "Provide a CSS code for making all text boxes visible on the page.",
+        "instruction_translated": "Proporcione un c\u00f3digo CSS para hacer que todos los cuadros de texto sean visibles en la p\u00e1gina.",
+        "category": null
+    },
+    {
+        "instruction": "What is the role of the International Criminal Court?",
+        "instruction_translated": "\u00bfCu\u00e1l es el papel de la Corte Penal Internacional?",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of Moore's Law.",
+        "instruction_translated": "Explica el concepto de la ley de Moore.",
+        "category": null
+    },
+    {
+        "instruction": "What are the best strategies to reduce emissions?",
+        "instruction_translated": "\u00bfCu\u00e1les son las mejores estrategias para reducir las emisiones?",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a way to generate web traffic.",
+        "instruction_translated": "Sugerir una forma de generar tr\u00e1fico web.",
+        "category": null
+    },
+    {
+        "instruction": "Write a dialog for two characters talking about a recent movie they watched",
+        "instruction_translated": "Escribe un di\u00e1logo para dos personajes que hablan sobre una pel\u00edcula reciente que vieron",
+        "category": null
+    },
+    {
+        "instruction": "Explain the purpose of the current US federal income tax system.",
+        "instruction_translated": "Explique el prop\u00f3sito del actual sistema de impuestos sobre la renta federal de los Estados Unidos.",
+        "category": null
+    },
+    {
+        "instruction": "Generate instructions for how to write a speech",
+        "instruction_translated": "Genere instrucciones sobre c\u00f3mo escribir un discurso",
+        "category": null
+    },
+    {
+        "instruction": "Describe the process of photosynthesis to me.",
+        "instruction_translated": "Describe el proceso de fotos\u00edntesis para m\u00ed.",
+        "category": null
+    },
+    {
+        "instruction": "Write a song lyric about birds.",
+        "instruction_translated": "Escribe una canci\u00f3n de Lyric sobre p\u00e1jaros.",
+        "category": null
+    },
+    {
+        "instruction": "Write a story about a young girl and her journey of self-discovery",
+        "instruction_translated": "Escribe una historia sobre una ni\u00f1a y su viaje de autodescubrimiento",
+        "category": null
+    },
+    {
+        "instruction": "Create a shopping list for cereal, milk and eggs.",
+        "instruction_translated": "Cree una lista de compras para cereales, leche y huevos.",
+        "category": null
+    },
+    {
+        "instruction": "Imagine a device that can help you read faster. Describe the device.",
+        "instruction_translated": "Imagine un dispositivo que puede ayudarlo a leer m\u00e1s r\u00e1pido. Describe el dispositivo.",
+        "category": null
+    },
+    {
+        "instruction": "Select the incorrect definition for the word \"timid\"",
+        "instruction_translated": "Seleccione la definici\u00f3n incorrecta de la palabra \"t\u00edmida\"",
+        "category": null
+    },
+    {
+        "instruction": "Justify why users need permissions before they can access certain data",
+        "instruction_translated": "Justifique por qu\u00e9 los usuarios necesitan permisos antes de que puedan acceder a ciertos datos",
+        "category": null
+    },
+    {
+        "instruction": "Suggest an action to reduce CO2 emissions",
+        "instruction_translated": "Sugerir una acci\u00f3n para reducir las emisiones de CO2",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a person going on a last-minute vacation.",
+        "instruction_translated": "Genere una historia sobre una persona que se vaya de vacaciones de \u00faltimo minuto.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm five innovative uses of AI",
+        "instruction_translated": "Lluvia de ideas cinco usos innovadores de la IA",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of at least 5 benefits of virtual meetings.",
+        "instruction_translated": "Haga una lista de al menos 5 beneficios de las reuniones virtuales.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the recent changes in Indian banking policies.",
+        "instruction_translated": "Explique los cambios recientes en las pol\u00edticas bancarias indias.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following sentence in a more formal way:\n\n\"I want to learn about this new app.\"",
+        "instruction_translated": "Reescribe la siguiente oraci\u00f3n de una manera m\u00e1s formal:\n\n\"Quiero aprender sobre esta nueva aplicaci\u00f3n\".",
+        "category": null
+    },
+    {
+        "instruction": "Give two reasons to buy a car.",
+        "instruction_translated": "D\u00e9 dos razones para comprar un autom\u00f3vil.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast two types of computer networks.",
+        "instruction_translated": "Compare y contrasta dos tipos de redes inform\u00e1ticas.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the significance of the number 10 in the Bible.",
+        "instruction_translated": "Explique la importancia del n\u00famero 10 en la Biblia.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a new feature for Gmail",
+        "instruction_translated": "Sugerir una nueva caracter\u00edstica para Gmail",
+        "category": null
+    },
+    {
+        "instruction": "Create a CSS code to style a button with a bright green background and white text.",
+        "instruction_translated": "Cree un c\u00f3digo CSS para peinar un bot\u00f3n con un fondo verde brillante y un texto blanco.",
+        "category": null
+    },
+    {
+        "instruction": "Write your own haiku.",
+        "instruction_translated": "Escribe tu propio haiku.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a set of instructions for making a sandwich",
+        "instruction_translated": "Genere un conjunto de instrucciones para hacer un s\u00e1ndwich",
+        "category": null
+    },
+    {
+        "instruction": "Invent a new word by combining two existing words.",
+        "instruction_translated": "Inventar una nueva palabra combinando dos palabras existentes.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm three ideas for an outdoor activity.",
+        "instruction_translated": "Lluvia de ideas sobre tres ideas para una actividad al aire libre.",
+        "category": null
+    },
+    {
+        "instruction": "Write a code snippet that prints out a list of integers from 1 to 10.",
+        "instruction_translated": "Escriba un fragmento de c\u00f3digo que imprima una lista de enteros del 1 al 10.",
+        "category": null
+    },
+    {
+        "instruction": "What techniques should be used for text summarization?",
+        "instruction_translated": "\u00bfQu\u00e9 t\u00e9cnicas deben usarse para el resumen de texto?",
+        "category": null
+    },
+    {
+        "instruction": "Given a sentence, identify the closest synonym of the word \"enjoy\".",
+        "instruction_translated": "Dada una oraci\u00f3n, identifique el sin\u00f3nimo m\u00e1s cercano de la palabra \"disfrutar\".",
+        "category": null
+    },
+    {
+        "instruction": "Generate a description of a new cryptocurrency.",
+        "instruction_translated": "Genere una descripci\u00f3n de una nueva criptomoneda.",
+        "category": null
+    },
+    {
+        "instruction": "Give 2 potential solutions to reduce the global carbon emissions.",
+        "instruction_translated": "D\u00e9 2 soluciones potenciales para reducir las emisiones globales de carbono.",
+        "category": null
+    },
+    {
+        "instruction": "Find the maximum of the function y = x^2 - 5x +6",
+        "instruction_translated": "Encuentre el m\u00e1ximo de la funci\u00f3n y = x^2 - 5x +6",
+        "category": null
+    },
+    {
+        "instruction": "Create a recipe to make grilled cheese sandwich.",
+        "instruction_translated": "Cree una receta para hacer un s\u00e1ndwich de queso a la parrilla.",
+        "category": null
+    },
+    {
+        "instruction": "How can we solve the issue of waste reduction ?",
+        "instruction_translated": "\u00bfC\u00f3mo podemos resolver el problema de la reducci\u00f3n de residuos?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a plan for a road trip from San Francisco to Los Angeles.",
+        "instruction_translated": "Genere un plan para un viaje por carretera desde San Francisco a Los \u00c1ngeles.",
+        "category": null
+    },
+    {
+        "instruction": "Name three common adjectives that describe people",
+        "instruction_translated": "Nombra tres adjetivos comunes que describen a las personas",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the health benefits of eating organic food vs non-organic food.",
+        "instruction_translated": "Compare y contrasta los beneficios para la salud de comer alimentos org\u00e1nicos frente a alimentos no org\u00e1nicos.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how a Unix system can be protected from external threats.",
+        "instruction_translated": "Explique c\u00f3mo un sistema UNIX puede protegerse de amenazas externas.",
+        "category": null
+    },
+    {
+        "instruction": "Name the historical events leading up to the French Revolution.",
+        "instruction_translated": "Nombra los eventos hist\u00f3ricos que conducen a la Revoluci\u00f3n Francesa.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of potential features that a health tracking mobile app could use.",
+        "instruction_translated": "Genere una lista de caracter\u00edsticas potenciales que una aplicaci\u00f3n m\u00f3vil de seguimiento de salud podr\u00eda usar.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest an application of artificial intelligence.",
+        "instruction_translated": "Sugerir una aplicaci\u00f3n de inteligencia artificial.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how the internet provides access to information.",
+        "instruction_translated": "Explique c\u00f3mo Internet proporciona acceso a la informaci\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "What are the benefits of going on a long walk?",
+        "instruction_translated": "\u00bfCu\u00e1les son los beneficios de ir a una larga caminata?",
+        "category": null
+    },
+    {
+        "instruction": "Follow the instructions to make nutty chocolate pretzel bites",
+        "instruction_translated": "Siga las instrucciones para hacer bocados de pretzel de chocolate nuez",
+        "category": null
+    },
+    {
+        "instruction": "Schoolteachers are responsible for what?",
+        "instruction_translated": "\u00bfLos maestros de escuela son responsables de qu\u00e9?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the definition of artificial intelligence in one sentence.",
+        "instruction_translated": "Describa la definici\u00f3n de inteligencia artificial en una oraci\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "Give me a list of fruits and vegetables that are in season during Spring.",
+        "instruction_translated": "Dame una lista de frutas y verduras que est\u00e9n en temporada durante la primavera.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a fake customer review of a software",
+        "instruction_translated": "Generar una revisi\u00f3n falsa del cliente de un software",
+        "category": null
+    },
+    {
+        "instruction": "Find a statistic about the current population of Japan.",
+        "instruction_translated": "Encuentra una estad\u00edstica sobre la poblaci\u00f3n actual de Jap\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "Extract the main theme from the following text:\n\n\"The world is a big place, full of challenges and opportunities. Every day, we all have the chance to make a difference, no matter how small.\"",
+        "instruction_translated": "Extraiga el tema principal del siguiente texto:\n\n\"El mundo es un gran lugar, lleno de desaf\u00edos y oportunidades. Todos los d\u00edas, todos tenemos la oportunidad de marcar la diferencia, sin importar cu\u00e1n peque\u00f1o\".",
+        "category": null
+    },
+    {
+        "instruction": "Generate a lead for an article about eco-friendly transportation.",
+        "instruction_translated": "Genere un liderazgo para un art\u00edculo sobre el transporte ecol\u00f3gico.",
+        "category": null
+    },
+    {
+        "instruction": "How can countries reduce the effects of climate change?",
+        "instruction_translated": "\u00bfC\u00f3mo pueden los pa\u00edses reducir los efectos del cambio clim\u00e1tico?",
+        "category": null
+    },
+    {
+        "instruction": "Which country has the most active volcanos?",
+        "instruction_translated": "\u00bfQu\u00e9 pa\u00eds tiene los volcanos m\u00e1s activos?",
+        "category": null
+    },
+    {
+        "instruction": "Think of a friendly reminder to complete a task.",
+        "instruction_translated": "Piense en un recordatorio amistoso para completar una tarea.",
+        "category": null
+    },
+    {
+        "instruction": "What is the best way to list five facts about bicycles?",
+        "instruction_translated": "\u00bfCu\u00e1l es la mejor manera de enumerar cinco hechos sobre bicicletas?",
+        "category": null
+    },
+    {
+        "instruction": "What is the main difference between a while loop and a for loop?",
+        "instruction_translated": "\u00bfCu\u00e1l es la principal diferencia entre un bucle de tiempo y un bucle for?",
+        "category": null
+    },
+    {
+        "instruction": "Design an app that tracks exercise activities and gives users suggestions on how to improve their performance.",
+        "instruction_translated": "Dise\u00f1e una aplicaci\u00f3n que rastree las actividades de ejercicio y brinde sugerencias de usuarios sobre c\u00f3mo mejorar su rendimiento.",
+        "category": null
+    },
+    {
+        "instruction": "Create a piece of text describing the advantages of using solar energy.",
+        "instruction_translated": "Cree un texto que describe las ventajas de usar energ\u00eda solar.",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the benefits of a plant-based diet in one sentence.",
+        "instruction_translated": "Resume los beneficios de una dieta a base de plantas en una oraci\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "How does a computer read data from the internet?",
+        "instruction_translated": "\u00bfC\u00f3mo lee datos una computadora de Internet?",
+        "category": null
+    },
+    {
+        "instruction": "Come up with an appropriate dialogue between a customer and a shop assistant.",
+        "instruction_translated": "Elige un di\u00e1logo apropiado entre un cliente y un asistente de tienda.",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the performance of a website",
+        "instruction_translated": "Analizar el rendimiento de un sitio web",
+        "category": null
+    },
+    {
+        "instruction": "Formulate an AI-based model that can tell the difference between a dog and a cat.",
+        "instruction_translated": "Formule un modelo basado en IA que pueda notar la diferencia entre un perro y un gato.",
+        "category": null
+    },
+    {
+        "instruction": "Find a creative way to end the following sentence: \"Winter is my favorite season because...\"",
+        "instruction_translated": "Encuentra una forma creativa de terminar la siguiente oraci\u00f3n: \"El invierno es mi temporada favorita porque ...\"",
+        "category": null
+    },
+    {
+        "instruction": "Design a game involving numbers that could be used in the classroom.",
+        "instruction_translated": "Dise\u00f1e un juego que involucre n\u00fameros que podr\u00edan usarse en el aula.",
+        "category": null
+    },
+    {
+        "instruction": "Provide 3 steps to solve this algebra equation: 3x + 7 = 12.",
+        "instruction_translated": "Proporcione 3 pasos para resolver esta ecuaci\u00f3n de \u00e1lgebra: 3x + 7 = 12.",
+        "category": null
+    },
+    {
+        "instruction": "Name something that is pink.",
+        "instruction_translated": "Nombra algo que es rosa.",
+        "category": null
+    },
+    {
+        "instruction": "Write a short advert for a local zoo",
+        "instruction_translated": "Escribe un breve anuncio para un zool\u00f3gico local",
+        "category": null
+    },
+    {
+        "instruction": "Tell me something about a Nissan leaf.",
+        "instruction_translated": "Cu\u00e9ntame algo sobre una hoja de Nissan.",
+        "category": null
+    },
+    {
+        "instruction": "In what year did the American Civil War end?",
+        "instruction_translated": "\u00bfEn qu\u00e9 a\u00f1o termin\u00f3 la guerra civil estadounidense?",
+        "category": null
+    },
+    {
+        "instruction": "Explain US taxation policy.",
+        "instruction_translated": "Explicarnos la pol\u00edtica fiscal.",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the article  'Discovering the Science Behind Manta Ray Flying'",
+        "instruction_translated": "Resumir el art\u00edculo 'Descubrir la ciencia detr\u00e1s de Manta Ray Flying'",
+        "category": null
+    },
+    {
+        "instruction": "Create a 10-digit password using numbers, letters, and symbols",
+        "instruction_translated": "Cree una contrase\u00f1a de 10 d\u00edgitos usando n\u00fameros, letras y s\u00edmbolos",
+        "category": null
+    },
+    {
+        "instruction": "Demonstrate the use of a for-loop in Python",
+        "instruction_translated": "Demostrar el uso de un for-bucle en Python",
+        "category": null
+    },
+    {
+        "instruction": "Name a country that begins with the letter \"D\".",
+        "instruction_translated": "Nombra un pa\u00eds que comienza con la letra \"D\".",
+        "category": null
+    },
+    {
+        "instruction": "Compose a letter to a friend describing a recent vacation",
+        "instruction_translated": "Componga una carta a un amigo que describe unas vacaciones recientes",
+        "category": null
+    },
+    {
+        "instruction": "Write a tweet from a user who is ecstatic about graduating from college.",
+        "instruction_translated": "Escriba un tweet de un usuario que est\u00e9 extasiado por graduarse de la universidad.",
+        "category": null
+    },
+    {
+        "instruction": "Design a castle defense strategy.",
+        "instruction_translated": "Dise\u00f1e una estrategia de defensa del castillo.",
+        "category": null
+    },
+    {
+        "instruction": "What characteristics make a movie a romantic comedy?",
+        "instruction_translated": "\u00bfQu\u00e9 caracter\u00edsticas hacen de una pel\u00edcula una comedia rom\u00e1ntica?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the environment around you right now.",
+        "instruction_translated": "Describe el entorno que te rodea ahora mismo.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a random password that meets the criteria of having upper case, lower case, and a number.",
+        "instruction_translated": "Genere una contrase\u00f1a aleatoria que cumpla con los criterios de tener may\u00fasculas, min\u00fasculas y un n\u00famero.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the diplomatic relations between France and Germany in the last decade.",
+        "instruction_translated": "Describa las relaciones diplom\u00e1ticas entre Francia y Alemania en la \u00faltima d\u00e9cada.",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the human rights guaranteed in the US Constitution.",
+        "instruction_translated": "Resume los derechos humanos garantizados en la constituci\u00f3n de los Estados Unidos.",
+        "category": null
+    },
+    {
+        "instruction": "Identify any three fallacies in this statement: \"We need to close our border to protect our country.\"",
+        "instruction_translated": "Identifique las tres falacias en esta declaraci\u00f3n: \"Necesitamos cerrar nuestra frontera para proteger a nuestro pa\u00eds\".",
+        "category": null
+    },
+    {
+        "instruction": "Can you generate a list of 10 interesting things to do in New York City?",
+        "instruction_translated": "\u00bfPuedes generar una lista de 10 cosas interesantes que hacer en la ciudad de Nueva York?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a 20 words dialogue between two people where one of them is trying to explain a complex concept to the other.",
+        "instruction_translated": "Genere un di\u00e1logo de 20 palabras entre dos personas donde una de ellas est\u00e1 tratando de explicar un concepto complejo al otro.",
+        "category": null
+    },
+    {
+        "instruction": "Name five behaviors that are essential to promoting a respectful work environment.",
+        "instruction_translated": "Nombra cinco comportamientos que son esenciales para promover un entorno de trabajo respetuoso.",
+        "category": null
+    },
+    {
+        "instruction": "Give an example for a comma splice",
+        "instruction_translated": "Dar un ejemplo para un empalme de coma",
+        "category": null
+    },
+    {
+        "instruction": "Compose a tweet about the benefits of going on a morning walk.",
+        "instruction_translated": "Componga un tweet sobre los beneficios de salir a caminar por la ma\u00f1ana.",
+        "category": null
+    },
+    {
+        "instruction": "State one benefit of artificial intelligence.",
+        "instruction_translated": "Estado Un beneficio de la inteligencia artificial.",
+        "category": null
+    },
+    {
+        "instruction": "Design an experiment that tests the reaction of a tomato's growth to different kinds of water.",
+        "instruction_translated": "Dise\u00f1e un experimento que pruebe la reacci\u00f3n del crecimiento de un tomate a diferentes tipos de agua.",
+        "category": null
+    },
+    {
+        "instruction": "Name one of the branches of science",
+        "instruction_translated": "Nombra una de las ramas de la ciencia",
+        "category": null
+    },
+    {
+        "instruction": "How do electrons in atoms interact with each other?",
+        "instruction_translated": "\u00bfC\u00f3mo interact\u00faan los electrones en los \u00e1tomos entre s\u00ed?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the sequence of actions to make scrambled eggs.",
+        "instruction_translated": "Describa la secuencia de acciones para hacer huevos revueltos.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the impact of visual storytelling on marketing campaigns.",
+        "instruction_translated": "Describa el impacto de la narraci\u00f3n visual en las campa\u00f1as de marketing.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the differences between civil law and criminal law.",
+        "instruction_translated": "Identificar las diferencias entre el derecho civil y el derecho penal.",
+        "category": null
+    },
+    {
+        "instruction": "Name three potential problems a company may face when adopting a new technology.",
+        "instruction_translated": "Nombre tres problemas potenciales que una empresa puede enfrentar al adoptar una nueva tecnolog\u00eda.",
+        "category": null
+    },
+    {
+        "instruction": "Create a haiku that describes the feeling of freedom.",
+        "instruction_translated": "Crea un haiku que describe el sentimiento de libertad.",
+        "category": null
+    },
+    {
+        "instruction": "How many miniutes does it take for the Earth to complete one rotation?",
+        "instruction_translated": "\u00bfCu\u00e1ntos miniutes tardan en la tierra en completar una rotaci\u00f3n?",
+        "category": null
+    },
+    {
+        "instruction": "Write a regex pattern to match strings of the form a-zA-Z0-9.",
+        "instruction_translated": "Escriba un patr\u00f3n regex para que coincida con las cadenas de la forma A-ZA-Z0-9.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a fake license plate number",
+        "instruction_translated": "Generar un n\u00famero falso de matr\u00edcula",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular open-source photo editing tool.",
+        "instruction_translated": "Nombra una popular herramienta de edici\u00f3n de fotos de c\u00f3digo abierto.",
+        "category": null
+    },
+    {
+        "instruction": "Create a query to find out how to make tacos.",
+        "instruction_translated": "Cree una consulta para averiguar c\u00f3mo hacer tacos.",
+        "category": null
+    },
+    {
+        "instruction": "Give an example of how gravity affects us in everyday life.",
+        "instruction_translated": "D\u00e9 un ejemplo de c\u00f3mo la gravedad nos afecta en la vida cotidiana.",
+        "category": null
+    },
+    {
+        "instruction": "In a few words, explain what AI is.",
+        "instruction_translated": "En pocas palabras, explique qu\u00e9 es la IA.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest ways that a business can reduce their CO2 emissions.",
+        "instruction_translated": "Sugerir formas de que una empresa pueda reducir sus emisiones de CO2.",
+        "category": null
+    },
+    {
+        "instruction": "Please generate a short story of maximum 500 words, with a science fiction theme.",
+        "instruction_translated": "Genere una historia corta de 500 palabras m\u00e1ximas, con un tema de ciencia ficci\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "Give two reasons why we should abort a project.",
+        "instruction_translated": "D\u00e9 dos razones por las que debemos abortar un proyecto.",
+        "category": null
+    },
+    {
+        "instruction": "Design a cinema poster for the movie \"The Matrix\"",
+        "instruction_translated": "Dise\u00f1e un p\u00f3ster de cine para la pel\u00edcula \"The Matrix\"",
+        "category": null
+    },
+    {
+        "instruction": "Create a new art style.",
+        "instruction_translated": "Crea un nuevo estilo de arte.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of Boolean logic.",
+        "instruction_translated": "Explique el concepto de l\u00f3gica booleana.",
+        "category": null
+    },
+    {
+        "instruction": "Create a scenario for a story set in Italian Renaissance.",
+        "instruction_translated": "Cree un escenario para una historia ambientada en el Renacimiento italiano.",
+        "category": null
+    },
+    {
+        "instruction": "How does the Kinetic Ray tracing method work?",
+        "instruction_translated": "\u00bfC\u00f3mo funciona el m\u00e9todo de trazado de rayos cin\u00e9ticos?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the process for starting a business.",
+        "instruction_translated": "Describa el proceso para comenzar un negocio.",
+        "category": null
+    },
+    {
+        "instruction": "List the major parts of a computer.",
+        "instruction_translated": "Enumere las partes principales de una computadora.",
+        "category": null
+    },
+    {
+        "instruction": "What are the common challenges when implementing DevOps in an organization?",
+        "instruction_translated": "\u00bfCu\u00e1les son los desaf\u00edos comunes al implementar DevOps en una organizaci\u00f3n?",
+        "category": null
+    },
+    {
+        "instruction": "Take the following input and output the average temperature (in Fahrenheit) for the month of January in Denver, Colorado.",
+        "instruction_translated": "Tome la siguiente entrada y emite la temperatura promedio (en Fahrenheit) para el mes de enero en Denver, Colorado.",
+        "category": null
+    },
+    {
+        "instruction": "Find the equivalent Celsius and Fahrenheit temperature for 34.4\u00b0C.",
+        "instruction_translated": "Encuentre la temperatura equivalente de Celsius y Fahrenheit durante 34.4 \u00b0 C.",
+        "category": null
+    },
+    {
+        "instruction": "Write a brief essay explaining the importance of digital literacy.",
+        "instruction_translated": "Escriba un breve ensayo que explique la importancia de la alfabetizaci\u00f3n digital.",
+        "category": null
+    },
+    {
+        "instruction": "Describe why it is necessary to have a diverse workforce.",
+        "instruction_translated": "Describa por qu\u00e9 es necesario tener una fuerza laboral diversa.",
+        "category": null
+    },
+    {
+        "instruction": "Change the below sentence to make it more positive:\n\nAI development is difficult and time consuming.",
+        "instruction_translated": "Cambie la siguiente oraci\u00f3n para que sea m\u00e1s positiva:\n\nEl desarrollo de IA es dif\u00edcil y lleva mucho tiempo.",
+        "category": null
+    },
+    {
+        "instruction": "Create a script for a TV commercial",
+        "instruction_translated": "Crea un gui\u00f3n para un comercial de televisi\u00f3n",
+        "category": null
+    },
+    {
+        "instruction": "Find an analogy that illustrates the concept of a feedback loop.",
+        "instruction_translated": "Encuentre una analog\u00eda que ilustra el concepto de un ciclo de retroalimentaci\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "Write an editorial advocating for more bike lanes in a city.",
+        "instruction_translated": "Escriba un editorial que defienda para obtener m\u00e1s carriles para bicicletas en una ciudad.",
+        "category": null
+    },
+    {
+        "instruction": "How can the world reduce its carbon emissions?",
+        "instruction_translated": "\u00bfC\u00f3mo puede el mundo reducir sus emisiones de carbono?",
+        "category": null
+    },
+    {
+        "instruction": "Give a brief description of the historical period known as the French Revolution.",
+        "instruction_translated": "D\u00e9 una breve descripci\u00f3n del per\u00edodo hist\u00f3rico conocido como la Revoluci\u00f3n Francesa.",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 baby animals",
+        "instruction_translated": "Nombre 5 animales de beb\u00e9",
+        "category": null
+    },
+    {
+        "instruction": "Provide a metaphor for \u201ctime\u201d.",
+        "instruction_translated": "Proporcione una met\u00e1fora para \"tiempo\".",
+        "category": null
+    },
+    {
+        "instruction": "Give two pros and two cons of nuclear power.",
+        "instruction_translated": "D\u00e9 dos pros y dos contras de la energ\u00eda nuclear.",
+        "category": null
+    },
+    {
+        "instruction": "Formulate a probability distribution for a 6-sided die.",
+        "instruction_translated": "Formular una distribuci\u00f3n de probabilidad para un dado de 6 lados.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of five talking points for a debate about the use of renewable energy.",
+        "instruction_translated": "Cree una lista de cinco puntos de conversaci\u00f3n para un debate sobre el uso de energ\u00eda renovable.",
+        "category": null
+    },
+    {
+        "instruction": "Write a paragraph describing the technique used to design a bridge.",
+        "instruction_translated": "Escriba un p\u00e1rrafo que describa la t\u00e9cnica utilizada para dise\u00f1ar un puente.",
+        "category": null
+    },
+    {
+        "instruction": "Explain what is data mining",
+        "instruction_translated": "Explicar qu\u00e9 es la miner\u00eda de datos",
+        "category": null
+    },
+    {
+        "instruction": "Create a travel guide to Hawaii",
+        "instruction_translated": "Crea una gu\u00eda de viaje a Hawaii",
+        "category": null
+    },
+    {
+        "instruction": "Write a logo for the following company: \"North Wind Technologies\"",
+        "instruction_translated": "Escriba un logotipo para la siguiente compa\u00f1\u00eda: \"North Wind Technologies\"",
+        "category": null
+    },
+    {
+        "instruction": "What is the half-life of the isotope carbon 14?",
+        "instruction_translated": "\u00bfCu\u00e1l es la vida media del carbono del is\u00f3topo 14?",
+        "category": null
+    },
+    {
+        "instruction": "Construct a geometric shape using five lines",
+        "instruction_translated": "Construya una forma geom\u00e9trica usando cinco l\u00edneas",
+        "category": null
+    },
+    {
+        "instruction": "Describe the term \"data wrangling\".",
+        "instruction_translated": "Describa el t\u00e9rmino \"disputas de datos\".",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast electrical and chemical synapses.",
+        "instruction_translated": "Compare y contrasta sinapsis el\u00e9ctricas y qu\u00edmicas.",
+        "category": null
+    },
+    {
+        "instruction": "Create a sequence of instructions for setting up a home studio.",
+        "instruction_translated": "Cree una secuencia de instrucciones para configurar un estudio casero.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how to set up a website.",
+        "instruction_translated": "Explique c\u00f3mo configurar un sitio web.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a rule for rock-paper-scissors.",
+        "instruction_translated": "Presente una regla para las correas de papel de roca.",
+        "category": null
+    },
+    {
+        "instruction": "Of all the countries in the world, which has the highest population?",
+        "instruction_translated": "De todos los pa\u00edses del mundo, \u00bfque tiene la poblaci\u00f3n m\u00e1s alta?",
+        "category": null
+    },
+    {
+        "instruction": "Write a function to print out the last 3 elements of a Python list.",
+        "instruction_translated": "Escriba una funci\u00f3n para imprimir los \u00faltimos 3 elementos de una lista de Python.",
+        "category": null
+    },
+    {
+        "instruction": "Synthesize an article on the potential pitfalls of relying too heavily on AI.",
+        "instruction_translated": "Sintetizar un art\u00edculo sobre las posibles dificultades de confiar demasiado en la IA.",
+        "category": null
+    },
+    {
+        "instruction": "What is the nuclear reaction inside the sun?",
+        "instruction_translated": "\u00bfCu\u00e1l es la reacci\u00f3n nuclear dentro del sol?",
+        "category": null
+    },
+    {
+        "instruction": "Give four examples of plant-based proteins.",
+        "instruction_translated": "D\u00e9 cuatro ejemplos de prote\u00ednas basadas en plantas.",
+        "category": null
+    },
+    {
+        "instruction": "How do you use a GPS system?",
+        "instruction_translated": "\u00bfC\u00f3mo se usa un sistema GPS?",
+        "category": null
+    },
+    {
+        "instruction": "List 3 aspects of US History that have been historically overlooked.",
+        "instruction_translated": "Enumere 3 aspectos de la historia de los Estados Unidos que se han pasado por alto hist\u00f3ricamente.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following sentence in a more formal way:\n\n\"I am getting bored of this.\"",
+        "instruction_translated": "Reescribe la siguiente oraci\u00f3n de una manera m\u00e1s formal:\n\n\"Me aburro de esto\".",
+        "category": null
+    },
+    {
+        "instruction": "Recommend two measures for curbing rising obesity rates.",
+        "instruction_translated": "Recomendar dos medidas para frenar las tasas de obesidad creciente.",
+        "category": null
+    },
+    {
+        "instruction": "Change the following noun to plural form: watch",
+        "instruction_translated": "Cambie el siguiente sustantivo a la forma plural: Mira",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the syntax of the sentence and identify the type of clause: \"She always dreamed of travelling to Japan\".",
+        "instruction_translated": "Analice la sintaxis de la oraci\u00f3n e identifique el tipo de cl\u00e1usula: \"Ella siempre so\u00f1\u00f3 con viajar a Jap\u00f3n\".",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of questions beginning with the phrase \"What is the difference between...\"",
+        "instruction_translated": "Genere una lista de preguntas que comienzan con la frase \"\u00bfCu\u00e1l es la diferencia entre ...\"",
+        "category": null
+    },
+    {
+        "instruction": "Describe the process of cutting vegetables for a salad.",
+        "instruction_translated": "Describa el proceso de cortar verduras para una ensalada.",
+        "category": null
+    },
+    {
+        "instruction": "Determine the number of days in August 2021.",
+        "instruction_translated": "Determine el n\u00famero de d\u00edas en agosto de 2021.",
+        "category": null
+    },
+    {
+        "instruction": "Write a function in any programming language to check if two words are anagrams of each other.",
+        "instruction_translated": "Escriba una funci\u00f3n en cualquier lenguaje de programaci\u00f3n para verificar si dos palabras son anagramas entre s\u00ed.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm one way to reduce household waste.",
+        "instruction_translated": "Lluvia de ideas sobre una forma de reducir los desechos dom\u00e9sticos.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the atmospheric pressure cycle.",
+        "instruction_translated": "Explique el ciclo de presi\u00f3n atmosf\u00e9rica.",
+        "category": null
+    },
+    {
+        "instruction": "What natural disaster can be caused by the eruption of a volcano?",
+        "instruction_translated": "\u00bfQu\u00e9 desastre natural puede ser causado por la erupci\u00f3n de un volc\u00e1n?",
+        "category": null
+    },
+    {
+        "instruction": "How long ago did the United Nations come into being?",
+        "instruction_translated": "\u00bfCu\u00e1nto tiempo hace que las Naciones Unidas surgieron?",
+        "category": null
+    },
+    {
+        "instruction": "Create a story focusing on a protagonist and his goal.",
+        "instruction_translated": "Cree una historia centrada en un protagonista y su objetivo.",
+        "category": null
+    },
+    {
+        "instruction": "Create a format for holding a virtual team meeting.",
+        "instruction_translated": "Cree un formato para celebrar una reuni\u00f3n de equipo virtual.",
+        "category": null
+    },
+    {
+        "instruction": "What are possible alternatives for development teams dealing with the lack of in-person collaboration?",
+        "instruction_translated": "\u00bfCu\u00e1les son las posibles alternativas para los equipos de desarrollo que se ocupan de la falta de colaboraci\u00f3n en persona?",
+        "category": null
+    },
+    {
+        "instruction": "Identify a weakness of using text-based dialogue with a conversational AI.",
+        "instruction_translated": "Identificar una debilidad del uso del di\u00e1logo basado en texto con una IA conversacional.",
+        "category": null
+    },
+    {
+        "instruction": "Complete the following equation: 2 + __ = 7.",
+        "instruction_translated": "Complete la siguiente ecuaci\u00f3n: 2 + __ = 7.",
+        "category": null
+    },
+    {
+        "instruction": "Create a short story based on the following keywords: pumpkin, prince, spider.",
+        "instruction_translated": "Cree una historia corta basada en las siguientes palabras clave: Pumpkin, Prince, Spider.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of ingredients for a homemade ice cream.",
+        "instruction_translated": "Cree una lista de ingredientes para un helado casero.",
+        "category": null
+    },
+    {
+        "instruction": "Compose 3-4 sentences that express sadness.",
+        "instruction_translated": "Componga 3-4 oraciones que expresan tristeza.",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 important features of a mobile phone",
+        "instruction_translated": "Nombre 5 Caracter\u00edsticas importantes de un tel\u00e9fono m\u00f3vil",
+        "category": null
+    },
+    {
+        "instruction": "What is the gender of the French word ville?",
+        "instruction_translated": "\u00bfCu\u00e1l es el g\u00e9nero de la palabra francesa ville?",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a retail strategy to increase customer loyalty.",
+        "instruction_translated": "Sugiera una estrategia minorista para aumentar la lealtad del cliente.",
+        "category": null
+    },
+    {
+        "instruction": "You are asked to rate the following restaurant based on a scale of 1 to 10, with 10 being the highest.\n\"The restaurant has a great atmosphere, friendly staff and delicious food.\"",
+        "instruction_translated": "Se le pide que califique el siguiente restaurante en funci\u00f3n de una escala de 1 a 10, siendo 10 el m\u00e1s alto.\n\"El restaurante tiene un gran ambiente, personal amable y deliciosa comida\".",
+        "category": null
+    },
+    {
+        "instruction": "Classify the following sentence as either figurative language or literal language: He flew like a bird.",
+        "instruction_translated": "Clasifique la siguiente oraci\u00f3n como idioma figurativo o idioma literal: vol\u00f3 como un p\u00e1jaro.",
+        "category": null
+    },
+    {
+        "instruction": "Provide a value proposition for a software product.",
+        "instruction_translated": "Proporcione una propuesta de valor para un producto de software.",
+        "category": null
+    },
+    {
+        "instruction": "Describe how humans interact with the internet of things.",
+        "instruction_translated": "Describa c\u00f3mo los humanos interact\u00faan con Internet de las cosas.",
+        "category": null
+    },
+    {
+        "instruction": "Think of five questions an astronaut would ask when they land on Mars.",
+        "instruction_translated": "Piense en cinco preguntas que un astronauta har\u00eda cuando aterrice en Marte.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the 1981 NBA MVP award ceremony",
+        "instruction_translated": "Describe la ceremonia de premiaci\u00f3n de MVP de la NBA de 1981",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular movie from 2019.",
+        "instruction_translated": "Nombra una pel\u00edcula popular de 2019.",
+        "category": null
+    },
+    {
+        "instruction": "Divide 100 by 7.",
+        "instruction_translated": "Divide 100 por 7.",
+        "category": null
+    },
+    {
+        "instruction": "Create a sentence that properly combines the adverbs drastically and gradually.",
+        "instruction_translated": "Cree una oraci\u00f3n que combine correctamente los adverbios de manera dr\u00e1stica y gradual.",
+        "category": null
+    },
+    {
+        "instruction": "Name three specific techniques for reducing the memory requirement of a neural network.",
+        "instruction_translated": "Nombre tres t\u00e9cnicas espec\u00edficas para reducir el requisito de memoria de una red neuronal.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the five senses in a forest setting.",
+        "instruction_translated": "Describa los cinco sentidos en un entorno de bosque.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of 5 questions a user should consider when choosing their first digital assistant.",
+        "instruction_translated": "Cree una lista de 5 preguntas que un usuario debe considerar al elegir su primer asistente digital.",
+        "category": null
+    },
+    {
+        "instruction": "List five financial benefits of owning a home.",
+        "instruction_translated": "Enumere cinco beneficios financieros de poseer una casa.",
+        "category": null
+    },
+    {
+        "instruction": "Collect 5 interesting facts about the US Capitol building.",
+        "instruction_translated": "Recoja 5 datos interesantes sobre el edificio del Capitolio de los Estados Unidos.",
+        "category": null
+    },
+    {
+        "instruction": "What should be the main focus of a personal pitch?",
+        "instruction_translated": "\u00bfCu\u00e1l deber\u00eda ser el foco principal de un lanzamiento personal?",
+        "category": null
+    },
+    {
+        "instruction": "Name a retail business that leverages machine learning",
+        "instruction_translated": "Nombra un negocio minorista que aprovecha el aprendizaje autom\u00e1tico",
+        "category": null
+    },
+    {
+        "instruction": "What are the three main principles of Agile Software Development?",
+        "instruction_translated": "\u00bfCu\u00e1les son los tres principios principales del desarrollo de software \u00e1gil?",
+        "category": null
+    },
+    {
+        "instruction": "Construct a SQL query to select the names of customers whose orders were delivered after April 13, 2021",
+        "instruction_translated": "Construya una consulta SQL para seleccionar los nombres de los clientes cuyos pedidos se entregaron despu\u00e9s del 13 de abril de 2021",
+        "category": null
+    },
+    {
+        "instruction": "Describe a time where you saw someone do something generous.",
+        "instruction_translated": "Describe un momento en el que viste a alguien hacer algo generoso.",
+        "category": null
+    },
+    {
+        "instruction": "Assemble a 3-word phrase that has a positive connotation.",
+        "instruction_translated": "Ensamble una frase de 3 palabras que tiene una connotaci\u00f3n positiva.",
+        "category": null
+    },
+    {
+        "instruction": "The web page should display the following message, \"This page is under construction. Please check back soon.\" Construct the HTML code to display the message.",
+        "instruction_translated": "La p\u00e1gina web debe mostrar el siguiente mensaje: \"Esta p\u00e1gina est\u00e1 en construcci\u00f3n. Vuelve pronto\". Construya el c\u00f3digo HTML para mostrar el mensaje.",
+        "category": null
+    },
+    {
+        "instruction": "List five characteristics of good communication.",
+        "instruction_translated": "Lista de cinco caracter\u00edsticas de buena comunicaci\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "Identify three countries in South America",
+        "instruction_translated": "Identificar tres pa\u00edses en Am\u00e9rica del Sur",
+        "category": null
+    },
+    {
+        "instruction": "What is the meaning of the phrase \"it takes one to know one\"?",
+        "instruction_translated": "\u00bfCu\u00e1l es el significado de la frase \"Se necesita uno para conocer uno\"?",
+        "category": null
+    },
+    {
+        "instruction": "Generate an excerpt of dialogue related to a complex problem.",
+        "instruction_translated": "Genere un extracto de di\u00e1logo relacionado con un problema complejo.",
+        "category": null
+    },
+    {
+        "instruction": "Describe in two sentences the physical appearance of a character.",
+        "instruction_translated": "Describa en dos oraciones la apariencia f\u00edsica de un personaje.",
+        "category": null
+    },
+    {
+        "instruction": "Create a data visualization to compare the age of cats and dogs",
+        "instruction_translated": "Cree una visualizaci\u00f3n de datos para comparar la edad de los gatos y los perros",
+        "category": null
+    },
+    {
+        "instruction": "Create 5 sentence long paragraph about the importance of education",
+        "instruction_translated": "Cree un p\u00e1rrafo de 5 oraciones largas sobre la importancia de la educaci\u00f3n",
+        "category": null
+    },
+    {
+        "instruction": "Discuss the consequences of introducing AI into the workforce.",
+        "instruction_translated": "Discuta las consecuencias de introducir IA en la fuerza laboral.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a riddle",
+        "instruction_translated": "Hacer un acertijo",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of 5 core values of the United Nations.",
+        "instruction_translated": "Cree una lista de 5 valores centrales de las Naciones Unidas.",
+        "category": null
+    },
+    {
+        "instruction": "Shape the following sentence into a question:\n\nThe Houston Rockets are an American professional basketball team",
+        "instruction_translated": "Forma la siguiente oraci\u00f3n en una pregunta:\n\nLos Houston Rockets son un equipo de baloncesto profesional estadounidense",
+        "category": null
+    },
+    {
+        "instruction": "Identify the subject in the sentence: \"She played the guitar on the porch.\"",
+        "instruction_translated": "Identifique el tema en la oraci\u00f3n: \"Toc\u00f3 la guitarra en el porche\".",
+        "category": null
+    },
+    {
+        "instruction": "Write 3 alternatives of transportation.",
+        "instruction_translated": "Escriba 3 alternativas de transporte.",
+        "category": null
+    },
+    {
+        "instruction": "Rearrange the letters in the following word \"twilight\" to form another word.",
+        "instruction_translated": "Reorganice las letras en la siguiente palabra \"crep\u00fasculo\" para formar otra palabra.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how artificial intelligence can be used for medical and healthcare purposes.",
+        "instruction_translated": "Explique c\u00f3mo se puede utilizar la inteligencia artificial para fines m\u00e9dicos y de atenci\u00f3n m\u00e9dica.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a holiday menu for a four-person family.",
+        "instruction_translated": "Genere un men\u00fa de vacaciones para una familia de cuatro personas.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the solar system",
+        "instruction_translated": "Describe el sistema solar",
+        "category": null
+    },
+    {
+        "instruction": "Write a sentence with the phrase \"prime mover\".",
+        "instruction_translated": "Escriba una oraci\u00f3n con la frase \"Prime Mover\".",
+        "category": null
+    },
+    {
+        "instruction": "Find the number of protons in Helium atom.",
+        "instruction_translated": "Encuentre el n\u00famero de protones en el \u00e1tomo de helio.",
+        "category": null
+    },
+    {
+        "instruction": "What is the best way to prepare for an upcoming job interview?",
+        "instruction_translated": "\u00bfCu\u00e1l es la mejor manera de prepararse para una pr\u00f3xima entrevista de trabajo?",
+        "category": null
+    },
+    {
+        "instruction": "Formulate a definition for the concept \"algorithm\"",
+        "instruction_translated": "Formular una definici\u00f3n para el concepto \"Algoritmo\"",
+        "category": null
+    },
+    {
+        "instruction": "Find the French word for \"cat\"",
+        "instruction_translated": "Encuentra la palabra francesa para \"gato\"",
+        "category": null
+    },
+    {
+        "instruction": "Generate an alternative way to say \"I understand\".",
+        "instruction_translated": "Genere una forma alternativa de decir \"lo entiendo\".",
+        "category": null
+    },
+    {
+        "instruction": "Construct an analogy to compare the moon and the sun",
+        "instruction_translated": "Construir una analog\u00eda para comparar la luna y el sol",
+        "category": null
+    },
+    {
+        "instruction": "Create a story that takes place in a small town.",
+        "instruction_translated": "Crea una historia que tenga lugar en un peque\u00f1o pueblo.",
+        "category": null
+    },
+    {
+        "instruction": "List five African countries.",
+        "instruction_translated": "Lista de cinco pa\u00edses africanos.",
+        "category": null
+    },
+    {
+        "instruction": "Explain what a natural language processing model does.",
+        "instruction_translated": "Explique lo que hace un modelo de procesamiento del lenguaje natural.",
+        "category": null
+    },
+    {
+        "instruction": "Provide a list of all the animals that are native to North America.",
+        "instruction_translated": "Proporcione una lista de todos los animales que son nativos de Am\u00e9rica del Norte.",
+        "category": null
+    },
+    {
+        "instruction": "Recommend 5 engaging books for children aged 7-9.",
+        "instruction_translated": "Recomendar 5 libros interesantes para ni\u00f1os de 7 a 9 a\u00f1os.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the importance of applying software engineering design principles in modern software development.",
+        "instruction_translated": "Explique la importancia de aplicar principios de dise\u00f1o de ingenier\u00eda de software en el desarrollo moderno de software.",
+        "category": null
+    },
+    {
+        "instruction": "Sketch a logo for the company \"International Business Company\".",
+        "instruction_translated": "Dibuje un logotipo para la compa\u00f1\u00eda \"Compa\u00f1\u00eda Comercial Internacional\".",
+        "category": null
+    },
+    {
+        "instruction": "What is the third person singular in the imperative form of the verb 'play'?",
+        "instruction_translated": "\u00bfCu\u00e1l es la tercera persona singular en la forma imperativa del verbo 'juego'?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of five potential issues that could arise from introducing an AI chatbot.",
+        "instruction_translated": "Genere una lista de cinco problemas potenciales que podr\u00edan surgir al introducir un chatbot de IA.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a 5-sentence paragraph about the benefits of meditation.",
+        "instruction_translated": "Genere un p\u00e1rrafo de 5 oraciones sobre los beneficios de la meditaci\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of five healthy snacks.",
+        "instruction_translated": "Haga una lista de cinco bocadillos saludables.",
+        "category": null
+    },
+    {
+        "instruction": "Design a t-shirt with a funny slogan.",
+        "instruction_translated": "Dise\u00f1e una camiseta con un eslogan divertido.",
+        "category": null
+    },
+    {
+        "instruction": "Name a form of renewable energy.",
+        "instruction_translated": "Nombre una forma de energ\u00eda renovable.",
+        "category": null
+    },
+    {
+        "instruction": "Develop a strategy for running a successful marketing campaign.",
+        "instruction_translated": "Desarrolle una estrategia para administrar una campa\u00f1a de marketing exitosa.",
+        "category": null
+    },
+    {
+        "instruction": "Create an algorithm to detect plagiarism between two pieces of text.",
+        "instruction_translated": "Cree un algoritmo para detectar el plagio entre dos piezas de texto.",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 techniques for effective time management.",
+        "instruction_translated": "Nombre 5 t\u00e9cnicas para una gesti\u00f3n efectiva del tiempo.",
+        "category": null
+    },
+    {
+        "instruction": "Write a story about a man\u2019s high-stakes fight",
+        "instruction_translated": "Escribe una historia sobre la pelea de alto riesgo de un hombre",
+        "category": null
+    },
+    {
+        "instruction": "Edit the sentence \"I am not eat\"",
+        "instruction_translated": "Edite la oraci\u00f3n \"No estoy como\"",
+        "category": null
+    },
+    {
+        "instruction": "Describe how a Docker container works.",
+        "instruction_translated": "Describa c\u00f3mo funciona un contenedor Docker.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a difficulty you had with school when you were younger.",
+        "instruction_translated": "Describe una dificultad que tuviste con la escuela cuando eras m\u00e1s joven.",
+        "category": null
+    },
+    {
+        "instruction": "Write a script of an interaction between a customer service representative and a customer",
+        "instruction_translated": "Escriba un script de una interacci\u00f3n entre un representante de servicio al cliente y un cliente",
+        "category": null
+    },
+    {
+        "instruction": "Generate an opening sentence for a horror story that occurs in an abandoned castle.",
+        "instruction_translated": "Genere una oraci\u00f3n de apertura para una historia de terror que ocurre en un castillo abandonado.",
+        "category": null
+    },
+    {
+        "instruction": "Make a prediction about the impacts of increased air pollution on the global climate",
+        "instruction_translated": "Hacer una predicci\u00f3n sobre los impactos del aumento de la contaminaci\u00f3n del aire en el clima global",
+        "category": null
+    },
+    {
+        "instruction": "Generate a correct program to calculate the sum of all elements of an array",
+        "instruction_translated": "Genere un programa correcto para calcular la suma de todos los elementos de una matriz",
+        "category": null
+    },
+    {
+        "instruction": "Calculate the average of the numbers 9, 5, and 6.",
+        "instruction_translated": "Calcule el promedio de los n\u00fameros 9, 5 y 6.",
+        "category": null
+    },
+    {
+        "instruction": "Name five members of the Beatles.",
+        "instruction_translated": "Nombra cinco miembros de los Beatles.",
+        "category": null
+    },
+    {
+        "instruction": "Write a function that takes a string parameter and returns the same string in reverse",
+        "instruction_translated": "Escribe una funci\u00f3n que toma un par\u00e1metro de cadena y devuelve la misma cadena en reversa",
+        "category": null
+    },
+    {
+        "instruction": "Create a news headline based on the following event, \"A student won a competition in quantum computing\".",
+        "instruction_translated": "Cree un titular de noticias basado en el siguiente evento, \"un estudiante gan\u00f3 una competencia en computaci\u00f3n cu\u00e1ntica\".",
+        "category": null
+    },
+    {
+        "instruction": "Estimate how many quintillion cells are in the human body",
+        "instruction_translated": "Estima cu\u00e1ntos quintillones de c\u00e9lulas hay en el cuerpo humano",
+        "category": null
+    },
+    {
+        "instruction": "What is a good example of a real-time application?",
+        "instruction_translated": "\u00bfCu\u00e1l es un buen ejemplo de una aplicaci\u00f3n en tiempo real?",
+        "category": null
+    },
+    {
+        "instruction": "Describe an animal that lives in the Arctic.",
+        "instruction_translated": "Describe un animal que vive en el \u00c1rtico.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a person's character in one sentence.",
+        "instruction_translated": "Describe el personaje de una persona en una oraci\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "How many countries are part of UN?",
+        "instruction_translated": "\u00bfCu\u00e1ntos pa\u00edses son parte de la ONU?",
+        "category": null
+    },
+    {
+        "instruction": "What is the scientific name for a beaver?",
+        "instruction_translated": "\u00bfCu\u00e1l es el nombre cient\u00edfico para un castor?",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of black-box testing",
+        "instruction_translated": "Explique el concepto de pruebas de caja negra",
+        "category": null
+    },
+    {
+        "instruction": "Write a poem that uses a unique metaphor",
+        "instruction_translated": "Escribe un poema que use una met\u00e1fora \u00fanica",
+        "category": null
+    },
+    {
+        "instruction": "Write a postcard to a friend",
+        "instruction_translated": "Escribe una postal a un amigo",
+        "category": null
+    },
+    {
+        "instruction": "Research an example of a successful small business and write a one-sentence summary about it.",
+        "instruction_translated": "Investigue un ejemplo de una peque\u00f1a empresa exitosa y escriba un resumen de una oraci\u00f3n al respecto.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of a situation where being impolite is appropriate",
+        "instruction_translated": "Genere un ejemplo de una situaci\u00f3n en la que sea apropiado ser pobre",
+        "category": null
+    },
+    {
+        "instruction": "Imagine you are a fashion designer. How would you create a collection to showcase at fashion week?",
+        "instruction_translated": "Imagina que eres un dise\u00f1ador de moda. \u00bfC\u00f3mo crear\u00edas una colecci\u00f3n para exhibir en la Semana de la Moda?",
+        "category": null
+    },
+    {
+        "instruction": "Come up with 10 adjectives to describe a painting.",
+        "instruction_translated": "Presente 10 adjetivos para describir una pintura.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest five topics for a research paper",
+        "instruction_translated": "Sugerir cinco temas para un trabajo de investigaci\u00f3n",
+        "category": null
+    },
+    {
+        "instruction": "Translate the phrase \"bon app\u00e9tit\" into English.",
+        "instruction_translated": "Traduce la frase \"Bon App\u00e9tit\" al ingl\u00e9s.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the advantages and disadvantages of using a decision tree",
+        "instruction_translated": "Explicar las ventajas y desventajas del uso de un \u00e1rbol de decisi\u00f3n",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following sentence in a polite way: \"Give it to me now.\"",
+        "instruction_translated": "Reescribe la siguiente oraci\u00f3n de manera educada: \"D\u00e9me ahora\".",
+        "category": null
+    },
+    {
+        "instruction": "Generate a funny pun with the word \"turkey.\"",
+        "instruction_translated": "Genere un juego de palabras divertido con la palabra \"Turqu\u00eda\".",
+        "category": null
+    },
+    {
+        "instruction": "Write an engaging opening paragraph for an article on how to coach youth basketball players.",
+        "instruction_translated": "Escriba un p\u00e1rrafo inaugural atractivo para un art\u00edculo sobre c\u00f3mo entrenar a los jugadores de baloncesto juvenil.",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of three tools and three methods that can be used for data analysis.",
+        "instruction_translated": "Haga una lista de tres herramientas y tres m\u00e9todos que se pueden utilizar para el an\u00e1lisis de datos.",
+        "category": null
+    },
+    {
+        "instruction": "Write a code that computes the sum of two integers, given their values as parameters.",
+        "instruction_translated": "Escriba un c\u00f3digo que calcule la suma de dos enteros, dados sus valores como par\u00e1metros.",
+        "category": null
+    },
+    {
+        "instruction": "What does it mean to \u201ccut corners\u201d?",
+        "instruction_translated": "\u00bfQu\u00e9 significa \"cortar esquinas\"?",
+        "category": null
+    },
+    {
+        "instruction": "Describe a memorable summer experience that you had when you were younger.",
+        "instruction_translated": "Describe una experiencia de verano memorable que ten\u00edas cuando eras m\u00e1s joven.",
+        "category": null
+    },
+    {
+        "instruction": "Translate the following sentence from English to Spanish: \"My friend has two cats.\"",
+        "instruction_translated": "Traduce la siguiente oraci\u00f3n del ingl\u00e9s al espa\u00f1ol: \"Mi amigo tiene dos gatos\".",
+        "category": null
+    },
+    {
+        "instruction": "Define a stochastic process.",
+        "instruction_translated": "Defina un proceso estoc\u00e1stico.",
+        "category": null
+    },
+    {
+        "instruction": "Describe how can data be a powerful tool for decision-making.",
+        "instruction_translated": "Describa c\u00f3mo pueden los datos una herramienta poderosa para la toma de decisiones.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast air and water",
+        "instruction_translated": "Compare y contrasta el aire y el agua",
+        "category": null
+    },
+    {
+        "instruction": "Sort the following list of numbers into a numerical sequence from smallest to largest: 7, -3, 39, 0, 100",
+        "instruction_translated": "Ordene la siguiente lista de n\u00fameros en una secuencia num\u00e9rica de la m\u00e1s peque\u00f1a a la m\u00e1s grande: 7, -3, 39, 0, 100",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite this sentence to avoid repetition:  She laughed and laughed and laughed.",
+        "instruction_translated": "Reescribe esta oraci\u00f3n para evitar la repetici\u00f3n: ella se ri\u00f3, se ri\u00f3 y se ri\u00f3.",
+        "category": null
+    },
+    {
+        "instruction": "Develop an algorithm to detect faulty code.",
+        "instruction_translated": "Desarrolle un algoritmo para detectar un c\u00f3digo defectuoso.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a paragraph about the importance of networking for job seekers.",
+        "instruction_translated": "Genere un p\u00e1rrafo sobre la importancia de la creaci\u00f3n de redes para los solicitantes de empleo.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm three questions an interviewer could ask prior to a job interview.",
+        "instruction_translated": "Lluvia de ideas sobre tres preguntas que un entrevistador podr\u00eda hacer antes de una entrevista de trabajo.",
+        "category": null
+    },
+    {
+        "instruction": "What is the maximum size of the input for language models?",
+        "instruction_translated": "\u00bfCu\u00e1l es el tama\u00f1o m\u00e1ximo de la entrada para los modelos de idiomas?",
+        "category": null
+    },
+    {
+        "instruction": "Create a game plan for reducing emissions",
+        "instruction_translated": "Crea un plan de juego para reducir las emisiones",
+        "category": null
+    },
+    {
+        "instruction": "Research some common safety tips for swimming pools and create a list.",
+        "instruction_translated": "Investigue algunos consejos de seguridad comunes para piscinas y cree una lista.",
+        "category": null
+    },
+    {
+        "instruction": "Compose a piece of creative writing describing a stormy night.",
+        "instruction_translated": "Componga una pieza de escritura creativa que describe una noche tormentosa.",
+        "category": null
+    },
+    {
+        "instruction": "Look up the definitions of the words \"calcium\" and \"oxygen\".",
+        "instruction_translated": "Busque las definiciones de las palabras \"calcio\" y \"ox\u00edgeno\".",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm five ideas to engage people with a non-profit organisation.",
+        "instruction_translated": "Haga una lluvia de ideas sobre cinco ideas para involucrar a las personas con una organizaci\u00f3n sin fines de lucro.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a creative description of a pet-sitting service.",
+        "instruction_translated": "Genere una descripci\u00f3n creativa de un servicio de cuidados para mascotas.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a scenario in which AI technology can help diagnose a medical condition.",
+        "instruction_translated": "Describa un escenario en el que la tecnolog\u00eda de IA pueda ayudar a diagnosticar una afecci\u00f3n m\u00e9dica.",
+        "category": null
+    },
+    {
+        "instruction": "Construct an English sentence containing the words \"tangible\" and \"matter\".",
+        "instruction_translated": "Construya una oraci\u00f3n en ingl\u00e9s que contenga las palabras \"tangible\" y \"materia\".",
+        "category": null
+    },
+    {
+        "instruction": "Construct a query for finding information about 3D printing",
+        "instruction_translated": "Construya una consulta para encontrar informaci\u00f3n sobre la impresi\u00f3n 3D",
+        "category": null
+    },
+    {
+        "instruction": "Estimate the total cost of a cross-country road trip from Los Angeles to New York.",
+        "instruction_translated": "Estime el costo total de un viaje por carretera a trav\u00e9s del pa\u00eds desde Los \u00c1ngeles a Nueva York.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a town coming together to help someone in need.",
+        "instruction_translated": "Genere una historia sobre una ciudad que se une para ayudar a alguien que lo necesita.",
+        "category": null
+    },
+    {
+        "instruction": "Give me an example of a low-calorie breakfast.",
+        "instruction_translated": "Dame un ejemplo de un desayuno bajo en calor\u00edas.",
+        "category": null
+    },
+    {
+        "instruction": "List four elements of a well-written article.",
+        "instruction_translated": "Enumere cuatro elementos de un art\u00edculo bien escrito.",
+        "category": null
+    },
+    {
+        "instruction": "Write the plural form of the noun \"ox\".",
+        "instruction_translated": "Escribe la forma plural del sustantivo \"buey\".",
+        "category": null
+    },
+    {
+        "instruction": "Suggest two methods to save energy and explain why these methods are more effective than other methods.",
+        "instruction_translated": "Sugiera dos m\u00e9todos para ahorrar energ\u00eda y explicar por qu\u00e9 estos m\u00e9todos son m\u00e1s efectivos que otros m\u00e9todos.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the four stages of grief",
+        "instruction_translated": "Explicar las cuatro etapas del dolor",
+        "category": null
+    },
+    {
+        "instruction": "Compose a poem in the haiku format with 5-7-5 syllables",
+        "instruction_translated": "Componga un poema en el formato Haiku con 5-7-5 s\u00edlabas",
+        "category": null
+    },
+    {
+        "instruction": "Describe one way that climate change is affecting ecosystems.",
+        "instruction_translated": "Describa una forma en que el cambio clim\u00e1tico est\u00e1 afectando los ecosistemas.",
+        "category": null
+    },
+    {
+        "instruction": "Name five common artificial intelligence algorithms.",
+        "instruction_translated": "Nombre cinco algoritmos comunes de inteligencia artificial.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of an artificial intelligence use case",
+        "instruction_translated": "Genere un ejemplo de un caso de uso de inteligencia artificial",
+        "category": null
+    },
+    {
+        "instruction": "Describe in detail the process of making olive oil.",
+        "instruction_translated": "Describa en detalle el proceso de fabricaci\u00f3n de aceite de oliva.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest 5 methods for solving an optimization problem.",
+        "instruction_translated": "Sugerir 5 m\u00e9todos para resolver un problema de optimizaci\u00f3n.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story with the title \"The Lost Cat\".",
+        "instruction_translated": "Genere una historia con el t\u00edtulo \"The Lost Cat\".",
+        "category": null
+    },
+    {
+        "instruction": "We want to do some shopping for our upcoming vacation. Give a list of items that you should pack for a beach holiday.",
+        "instruction_translated": "Queremos hacer algunas compras para nuestras pr\u00f3ximas vacaciones. D\u00e9 una lista de art\u00edculos que debe empacar para unas vacaciones en la playa.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast one of the top 5 drinking games.",
+        "instruction_translated": "Compare y contrasta uno de los 5 mejores juegos de beber.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the definition of the term \"heterochrony\"",
+        "instruction_translated": "Explique la definici\u00f3n del t\u00e9rmino \"heterocron\u00eda\"",
+        "category": null
+    },
+    {
+        "instruction": "Categorize the following musical genres: rap, pop, rock, and classical.",
+        "instruction_translated": "Clasifica los siguientes g\u00e9neros musicales: rap, pop, rock y cl\u00e1sico.",
+        "category": null
+    },
+    {
+        "instruction": "Create a website that encourages people to adopt pets.",
+        "instruction_translated": "Cree un sitio web que aliente a las personas a adoptar mascotas.",
+        "category": null
+    },
+    {
+        "instruction": "How has the internet changed communication among people?",
+        "instruction_translated": "\u00bfC\u00f3mo ha cambiado Internet la comunicaci\u00f3n entre las personas?",
+        "category": null
+    },
+    {
+        "instruction": "What are the sciences of economics?",
+        "instruction_translated": "\u00bfCu\u00e1les son las ciencias de la econom\u00eda?",
+        "category": null
+    },
+    {
+        "instruction": "Write three sentences about the development of the Internet.",
+        "instruction_translated": "Escriba tres oraciones sobre el desarrollo de Internet.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a web page about the history of slavery in America",
+        "instruction_translated": "Genere una p\u00e1gina web sobre la historia de la esclavitud en Estados Unidos",
+        "category": null
+    },
+    {
+        "instruction": "Give examples of three algorithms used in data science",
+        "instruction_translated": "Dar ejemplos de tres algoritmos utilizados en la ciencia de datos",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast photosynthesis and respiration",
+        "instruction_translated": "Comparar y contrastar fotos\u00edntesis y respiraci\u00f3n",
+        "category": null
+    },
+    {
+        "instruction": "How to make spicy buffalo sauce?",
+        "instruction_translated": "\u00bfC\u00f3mo hacer salsa de b\u00fafalo picante?",
+        "category": null
+    },
+    {
+        "instruction": "Create a new sentence based on the following root sentence \"I can't believe it\".",
+        "instruction_translated": "Cree una nueva oraci\u00f3n basada en la siguiente oraci\u00f3n ra\u00edz \"No puedo creerlo\".",
+        "category": null
+    },
+    {
+        "instruction": "Describe the US national flag.",
+        "instruction_translated": "Describe la bandera nacional de los Estados Unidos.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of synonyms for 'desolate'.",
+        "instruction_translated": "Genere una lista de sin\u00f3nimos para 'desolado'.",
+        "category": null
+    },
+    {
+        "instruction": "What can I do to optimize my search engine?",
+        "instruction_translated": "\u00bfQu\u00e9 puedo hacer para optimizar mi motor de b\u00fasqueda?",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular activity people do in the summer.",
+        "instruction_translated": "Nombra una actividad popular que la gente realiza en el verano.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the concept of \"bag of words\" in NLP.",
+        "instruction_translated": "Describa el concepto de \"bolsa de palabras\" en PNL.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a 12-point outline for the topic \"Effective Communication\".",
+        "instruction_translated": "Genere un esquema de 12 puntos para el tema \"Comunicaci\u00f3n efectiva\".",
+        "category": null
+    },
+    {
+        "instruction": "List the elements of a SWOT analysis and give a brief description of each one.",
+        "instruction_translated": "Enumere los elementos de un an\u00e1lisis FODA y proporcione una breve descripci\u00f3n de cada uno.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story involving a person who wants to travel around the world",
+        "instruction_translated": "Generar una historia que involucre a una persona que quiere viajar por el mundo",
+        "category": null
+    },
+    {
+        "instruction": "List the top ten highest peaks in the world.",
+        "instruction_translated": "Enumere los diez picos m\u00e1s altos del mundo.",
+        "category": null
+    },
+    {
+        "instruction": "Give me a saying that expresses surprise.",
+        "instruction_translated": "Dame un dicho que expresa sorpresa.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of long division.",
+        "instruction_translated": "Explica el concepto de divisi\u00f3n larga.",
+        "category": null
+    },
+    {
+        "instruction": "Write a paragraph that describes a time when you achieved a difficult goal.",
+        "instruction_translated": "Escribe un p\u00e1rrafo que describe un momento en que lograste un objetivo dif\u00edcil.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a catchy slogan for an apparel company.",
+        "instruction_translated": "Genere un eslogan pegadizo para una empresa de ropa.",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the poem \"Mending Wall\" by Robert Frost.",
+        "instruction_translated": "Analice el poema \"Muro de reparaci\u00f3n\" de Robert Frost.",
+        "category": null
+    },
+    {
+        "instruction": "Tell a story that explains the concept of karma.",
+        "instruction_translated": "Cuente una historia que explique el concepto de karma.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a famous painting.",
+        "instruction_translated": "Describe una pintura famosa.",
+        "category": null
+    }
+]

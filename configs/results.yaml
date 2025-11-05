@@ -1,0 +1,88 @@
+rd_location:
+
+
+models: 
+
+  meta-llama/Meta-Llama-3-8B-Instruct:
+    
+      # experiment, time, seed, mmlu
+    # - [partial_ortho_0.2_OR_add_coeff, 20240915-023152, False, False]
+    # - [partial_ortho_0.5_OR_add_coeff, 20240915-015839, False, False]
+    # - ['above_filter_sweep', '1/20240920-221454', False, True ] #good
+    # - ['baseline', '20240921-025311', '1', True]
+    # - [xstest_contrast_harm_filter_or_nofilter_local,20240924-134629, '1', True ]
+    # - [add_1+0_xstest_constrast_harm_filter_or_nofilter, 20240923-233158, '1', True ]
+    # - [ultra_sweep_4, 1/20240922-124143, False, True]  
+    # - [reverse_filter_sweep_local, 20240919-033932, '1', True] #fail
+    # - ['xstest_contrast_no_filter', '1/20240921-204311', False, True ]
+    - ['above_filter_or_no_filter_sweep', '20240927-015859', '1', True ]
+  meta-llama/Llama-2-7b-chat-hf: 
+    # - ['baseline', '20240921-025311', '1', True]
+    # - [add_1+0_xstest_constrast_harm_filter_or_nofilter, 20240923-233158, '1', True ]
+    - ['above_filter_or_no_filter_sweep', '20240927-015859', '1', True ]  
+    # - [ultra_sweep_3, 20240918-151944, False, True]   # to use
+    # - [xstest_contrast_harm_filter_or_nofilter_local,20240924-134629, '1', True ]
+      # - ['above_filter_sweep', '20240925-015237', '1', True ] 
+    # - [partial_ortho_0.2_OR_add_coeff, 20240915-023152, False, False]
+    # - [reverse_filter_sweep_local, 20240919-033932, '1', True]
+    # - [partial_ortho_0.5_OR_add_coeff, 20240915-015839, False, False]
+
+    # - [ultra_sweep, 20240917-220214, False, True] # to evalute or
+    # - ['xstest_contrast_no_filter', '1/20240921-204311', False, True ]
+  meta-llama/Llama-2-13b-chat-hf:
+    #  - ['baseline', '20240921-025311', '1', True]
+    # - ['above_filter_or_no_filter_sweep', '20240927-015859', '1', True ]
+    - ['above_filter_sweep', '1/20240920-221454', False, True ]
+    # - [ultra_sweep_3, 20240918-151944, False, True]
+    # - [xstest_contrast_harm_filter_or_nofilter_local,20240924-134629, '1', True ] # good
+    # - [add_1+0_xstest_constrast_harm_filter_or_nofilter, 20240923-233158, '1', True ]
+    # - [reverse_filter_sweep_local, 20240919-033932, '1', True] # fail
+    # - ['xstest_contrast_no_filter', '1/20240921-204311', False, True ]
+  meta-llama/Llama-2-70b-chat-hf:
+      - [ reverse_filter_sweep_local,20240925-015237, '1', True]
+  google/gemma-7b-it:
+    - ['above_filter_or_no_filter_sweep', '20240927-015859', '1', True ]
+    # - ['above_filter_sweep', '1/20240920-221454', False, True ]  # bad
+
+    # - ['baseline', '20240921-025311', '1', True]
+    # - [ultra_sweep_3, 20240918-151944, False, True]
+    #  - [xstest_contrast_harm_filter_or_nofilter, 1/20240922-131706, False, True ]
+    # - [xstest_contrast_harm_filter_or_nofilter_local,20240924-134629, '1', True ]
+    # - [add_1+0_xstest_constrast_harm_filter_or_nofilter, 20240924-013000, '1', True ]
+    # - [reverse_filter_sweep_local, 20240919-033932, '1', True] # no mmmlu result
+    # - [model_sweep_start_0, 20240916-013820, False, False] # fail
+    # - ['xstest_contrast_no_filter', '1/20240921-204311', False, True ]
+
+
+baseline:
+  meta-llama/Meta-Llama-3-8B-Instruct:
+    harmful: 0.039
+    or: 0.281
+    xstest: 0.833
+
+  meta-llama/Llama-2-7b-chat-hf: 
+    harmful: 0.023
+    or: 0.148
+    xstest: 0.136
+  meta-llama/Llama-2-13b-chat-hf:
+    harmful: 0.008
+    or: 0.055
+    xstest: 0.242
+
+  google/gemma-7b-it:
+    harmful: 0.065
+    or: 0.609
+    xstest: 0.590
+
+
+
+
+
+# so I have the only false albate, the swap4 thing for llama3 8b, but do I still need the other models? probably not. I just need the true harm abate for llama3 8b.
+# and the add version of the llama3 8b which I have I think, the sweep here is more for 
+    # , I need the only true albate.
+
+# what else do I need??
+# ok, the xstest compare? 
+
+

@@ -1,0 +1,802 @@
+[
+    {
+        "instruction": "Opisz 4 strategie radzenia sobie z trudn\u0105 osob\u0105.",
+        "category": null
+    },
+    {
+        "instruction": "Stw\u00f3rz histori\u0119 o kr\u00f3liku \u017cyj\u0105cym z \u017c\u0105dn\u0105 przyg\u00f3d wiewi\u00f3rk\u0105 w lesie.",
+        "category": null
+    },
+    {
+        "instruction": "Wymie\u0144 trzy powody, dla kt\u00f3rych wa\u017cne jest, aby zosta\u0107 zorganizowanym.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz opis produktu dla iPhone'a 12.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj histori\u0119 o osobie, kt\u00f3ra u\u017cywa gwiazd do komunikowania si\u0119 z bliskimi.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj trzy potencjalne przypadki u\u017cycia dla asystenta chatbota.",
+        "category": null
+    },
+    {
+        "instruction": "Skonstruuj przekonuj\u0105cy argument za znaczeniem r\u00f3\u017cnorodno\u015bci biologicznej.",
+        "category": null
+    },
+    {
+        "instruction": "Podaj przyk\u0142ad urz\u0105dzenia oszcz\u0119dzaj\u0105cego czas.",
+        "category": null
+    },
+    {
+        "instruction": "Jaki jest przyk\u0142ad jawnej dyskryminacji rasowej?",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj prawid\u0142owe polecenie Pythona, aby utworzy\u0107 tablic\u0119 zawieraj\u0105c\u0105 liczby od 1 do 5.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj nazw\u0119 nowej marki",
+        "category": null
+    },
+    {
+        "instruction": "Wymy\u015bl innowacyjny pomys\u0142 na produkt.",
+        "category": null
+    },
+    {
+        "instruction": "Nazwij dwa narz\u0119dzia u\u017cywane do eksploracji danych.",
+        "category": null
+    },
+    {
+        "instruction": "Utw\u00f3rz skrypt dla kr\u00f3tkiego skeczki mi\u0119dzy dwojgiem ludzi.",
+        "category": null
+    },
+    {
+        "instruction": "Opisz, jak wygl\u0105da typowy dzie\u0144 dla studenta studiuj\u0105cego informatyk\u0119.",
+        "category": null
+    },
+    {
+        "instruction": "Jaka jest r\u00f3\u017cnica mi\u0119dzy telefonem iOS i Androidem?",
+        "category": null
+    },
+    {
+        "instruction": "Oblicz ca\u0142kowity koszt 5 pozycji, je\u015bli ka\u017cdy pozycja kosztuje 10 USD.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj list\u0119 5 liczb losowych mi\u0119dzy 1 a 10, w tym zar\u00f3wno 1 i 10.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj analogi\u0119 do wyja\u015bnienia z\u0142o\u017conej koncepcji.",
+        "category": null
+    },
+    {
+        "instruction": "Nazwij trzy prawo dotycz\u0105ce praw niepe\u0142nosprawnych.",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij, dlaczego wa\u017cne jest stosowanie w\u0142a\u015bciwej gramatyki i pisowni.",
+        "category": null
+    },
+    {
+        "instruction": "Jaki jest kolejny termin na cotygodniowy okres?",
+        "category": null
+    },
+    {
+        "instruction": "Utw\u00f3rz ocen\u0119 recenzji restauracji The Food, Service i Atmosphere w skali 1-10.",
+        "category": null
+    },
+    {
+        "instruction": "Zmie\u0144 to zdanie, aby brzmia\u0142o to bardziej naturalnie: \u201eNie mog\u0119 tego zrobi\u0107\u201d",
+        "category": null
+    },
+    {
+        "instruction": "Utw\u00f3rz pytanie ankietowe, aby zada\u0107 ludzi o ich zainteresowaniu uczestnictwem w wirtualnych wydarzeniach.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz kod szesnastkowy dla koloru RGB #9900FF",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij zasad\u0119 najmniejszego dzia\u0142ania.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj interfejs u\u017cytkownika aplikacji zakup\u00f3w online.",
+        "category": null
+    },
+    {
+        "instruction": "Zidentyfikuj pi\u0119\u0107 wsp\u00f3lnych owoc\u00f3w",
+        "category": null
+    },
+    {
+        "instruction": "Przewiduj pogod\u0119 na jutro w San Francisco",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj list\u0119 5 ksi\u0105\u017cek, kt\u00f3re ucz\u0105 dzieci o emocjach.",
+        "category": null
+    },
+    {
+        "instruction": "Stw\u00f3rz histori\u0119 dla dzieci o smoczu, kt\u00f3ry uczy si\u0119 ta\u0144czy\u0107.",
+        "category": null
+    },
+    {
+        "instruction": "Om\u00f3w rozw\u00f3j prasy drukarskiej.",
+        "category": null
+    },
+    {
+        "instruction": "Edytuj to zdanie: \u201eWykona\u0142e\u015b \u015bwietn\u0105 robot\u0119\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz kod JavaScript, aby wy\u015bwietli\u0107 komunikat ostrzegawczy po naci\u015bni\u0119ciu przycisku \u201ePrze\u015blij\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "B\u0142\u0119dne wyobra\u017cenia o globalnym ociepleniu",
+        "category": null
+    },
+    {
+        "instruction": "Zaproponuj kreatywny spos\u00f3b, aby wi\u0119cej klient\u00f3w do \u015bledzenia firmy na platformach medi\u00f3w spo\u0142eczno\u015bciowych.",
+        "category": null
+    },
+    {
+        "instruction": "Zaproponuj sposoby ograniczenia emisji dwutlenku w\u0119gla",
+        "category": null
+    },
+    {
+        "instruction": "Wymy\u015bl trzy s\u0142owa, kt\u00f3re ko\u0144cz\u0105 si\u0119 w \u201eIon\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz nag\u0142\u00f3wek historii obejmuj\u0105cej naruszenie danych.",
+        "category": null
+    },
+    {
+        "instruction": "Utw\u00f3rz list\u0119 pi\u0119ciu \u015bcie\u017cek kariery dla in\u017cyniera AI",
+        "category": null
+    },
+    {
+        "instruction": "Przepisz nast\u0119puj\u0105ce zdanie, zapewniaj\u0105c, \u017ce jest to poprawne gramatycznie: \u201eNie potrzebuj\u0105 \u017cadnej pomocy\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Tworzy\u0107 zwi\u0105zek przyczynowy mi\u0119dzy dwoma przedmiotami",
+        "category": null
+    },
+    {
+        "instruction": "Nazwa 3 metody, kt\u00f3re mo\u017cna wykorzysta\u0107 do czyszczenia danych.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz zdanie reakcji na nast\u0119puj\u0105ce stwierdzenie: \u201eTo b\u0119dzie d\u0142uga noc\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Podaj przyk\u0142ad li\u015bciastego drzewa pochodz\u0105cego z Stan\u00f3w Zjednoczonych.",
+        "category": null
+    },
+    {
+        "instruction": "Nazwij trzy techniki zmniejszania stresu.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz opis magicznego zamku w zakl\u0119tym lesie.",
+        "category": null
+    },
+    {
+        "instruction": "Kt\u00f3ry dzie\u0144 to dwie\u015bcie trzydzie\u015bci drugiego dnia roku?",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj list\u0119 4 przymiotnik\u00f3w zwi\u0105zanych z na \u015bwie\u017cym powietrzu.",
+        "category": null
+    },
+    {
+        "instruction": "Zapewnij list\u0119 korzy\u015bci z diety ro\u015blinnej.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj list\u0119 10 pomys\u0142\u00f3w, co zrobi\u0107 z codzienn\u0105 woln\u0105 godzin\u0105.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj wezwanie do dzia\u0142ania na blogu o sile pozytywnego my\u015blenia.",
+        "category": null
+    },
+    {
+        "instruction": "Wydaj niekt\u00f3re powszechnie u\u017cywane frazy w j\u0119zyku angielskim, kt\u00f3re s\u0105 powi\u0105zane ze s\u0142owem \u201es\u0142odkie\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Utw\u00f3rz niezapomnian\u0105 misj\u0119 dla organizacji charytatywnej.",
+        "category": null
+    },
+    {
+        "instruction": "Burza m\u00f3zg\u00f3w 5 sposob\u00f3w na zmniejszenie odpad\u00f3w w biurze.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj list\u0119 element\u00f3w, aby wzi\u0105\u0107 udzia\u0142 w wycieczce pieszej.",
+        "category": null
+    },
+    {
+        "instruction": "Jaki jest cel argumentu s\u0142\u00f3w kluczowych w funkcji Python sorted ()?",
+        "category": null
+    },
+    {
+        "instruction": "W jaki spos\u00f3b fotosynteza wyst\u0119puje w ro\u015blinach?",
+        "category": null
+    },
+    {
+        "instruction": "Jakie jest otoczenie nowatorskiego serca ciemno\u015bci?",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj przys\u0142owie o znalezieniu \u015bcie\u017cki \u017cycia.",
+        "category": null
+    },
+    {
+        "instruction": "Edytuj nast\u0119puj\u0105ce zdanie, czyni\u0105c je bardziej precyzyjnym: \n\n\u201ePacjent mia\u0142 gor\u0105czk\u0119\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz r\u00f3wnanie, aby przekszta\u0142ci\u0107 Celsjusza na Fahrenheita.",
+        "category": null
+    },
+    {
+        "instruction": "Daj mi 5 przymiotnik\u00f3w, aby opisa\u0107 noc.",
+        "category": null
+    },
+    {
+        "instruction": "Zaproponuj jeden synonim s\u0142owa \u201eeliminuj\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Jak chroni\u0142by\u015b ogr\u00f3d przed kr\u00f3likami?",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj metafor\u0119, kt\u00f3ra przekazuje znaczenie \u201estart\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Podaj jedn\u0105 metod\u0119 zmniejszenia \u015bladu \u015brodowiskowego gospodarstwa domowego.",
+        "category": null
+    },
+    {
+        "instruction": "Wymie\u0144 zalety i wady korzystania z samochod\u00f3w elektrycznych.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj kreatywny opis produktu dla dyfuzora olejku eterycznego.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz trzy-s\u0142owowe zdanie, kt\u00f3re wyra\u017ca to samo, co to cztero-s\u0142owowe fraza: \u201ePracuj bez odpoczynku\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz esej o tym, co czyni dobrego lidera.",
+        "category": null
+    },
+    {
+        "instruction": "Zaproponuj sugesti\u0119, jak zmniejszy\u0107 odpady z tworzyw sztucznych.",
+        "category": null
+    },
+    {
+        "instruction": "Przeprowad\u017a burz\u0119 m\u00f3zg\u00f3w pi\u0119\u0107 r\u00f3\u017cnych sposob\u00f3w poprawy \u015brodowiska.",
+        "category": null
+    },
+    {
+        "instruction": "Zarysy kroki do czyszczenia i odka\u017cania kuchni.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz tw\u00f3rcze zdanie, zaczynaj\u0105c od \u201eThe Night Sky\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Opisz proces uzyskania prawa jazdy w Kanadzie.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj wiersz Limerick o lemur.",
+        "category": null
+    },
+    {
+        "instruction": "Poka\u017c mi przyk\u0142ad aktywnego zdania g\u0142osowego.",
+        "category": null
+    },
+    {
+        "instruction": "Podaj dwa przyk\u0142ady metafory",
+        "category": null
+    },
+    {
+        "instruction": "Oszacuj koszt zakwaterowania na jedn\u0105 noc w pi\u0119ciogwiazdkowym hotelu w Nowym Jorku",
+        "category": null
+    },
+    {
+        "instruction": "Identyfikator, je\u015bli nast\u0119puj\u0105ce stwierdzenie jest prawdziwe lub fa\u0142sz: Adolf Hitler by\u0142 Austriack\u0105.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj tytu\u0142 dokumentu badawczego o prawach zwierz\u0105t.",
+        "category": null
+    },
+    {
+        "instruction": "Skompiluj list\u0119 DOS i zakaz\u00f3w dla przedstawiciela obs\u0142ugi klienta",
+        "category": null
+    },
+    {
+        "instruction": "Znajd\u017a trzy synonimy nast\u0119puj\u0105ce s\u0142owo: szcz\u0119\u015bliwy",
+        "category": null
+    },
+    {
+        "instruction": "Zaproponuj rozwi\u0105zanie, kt\u00f3re pomog\u0142oby poprawi\u0107 \u015brodowisko.",
+        "category": null
+    },
+    {
+        "instruction": "Nazwij trzy wsp\u00f3lne metody weryfikacji to\u017csamo\u015bci.",
+        "category": null
+    },
+    {
+        "instruction": "Jakie s\u0105 pi\u0119\u0107 najwa\u017cniejszych cech lidera?",
+        "category": null
+    },
+    {
+        "instruction": "Jakie cechy nale\u017cy wzi\u0105\u0107 pod uwag\u0119 przy zakupie u\u017cywanego samochodu?",
+        "category": null
+    },
+    {
+        "instruction": "U\u0142\u00f3\u017c te s\u0142owa, aby stworzy\u0107 sensown\u0105 opowiadanie: \u201eKot, p\u00f3\u0142noc, nietoperz, las, ukryj\u201d",
+        "category": null
+    },
+    {
+        "instruction": "Zbuduj dialog dla dw\u00f3ch os\u00f3b, kt\u00f3re maj\u0105 przyjemn\u0105 wymian\u0119.",
+        "category": null
+    },
+    {
+        "instruction": "Skonstruuj baz\u0119 danych do wypo\u017cyczalni samochod\u00f3w.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz kr\u00f3tk\u0105 definicj\u0119 traktatu Wersalu.",
+        "category": null
+    },
+    {
+        "instruction": "Pole\u0107 s\u0142ynn\u0105 powie\u015b\u0107 dla czternastolatka.",
+        "category": null
+    },
+    {
+        "instruction": "Podsumuj nast\u0119puj\u0105cy akapit: \n\n\u201eSkutki zmian klimatu s\u0105 szeroko zakrojone i wp\u0142ywaj\u0105 na \u015brodowisko od dziesi\u0119cioleci. Ka\u017cdego roku zmiany staj\u0105 si\u0119 bardziej zauwa\u017calne i bardziej wyra\u017ane, co prowadzi do zwi\u0119kszonego ryzyka suszy, powodzi, ekstremalnych temperatur i katastrof zwi\u0105zanych z pogod\u0105\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Stw\u00f3rz przepis na zdrowe \u015bniadanie, w tym sk\u0142adniki i wskaz\u00f3wki dotycz\u0105ce gotowania.",
+        "category": null
+    },
+    {
+        "instruction": "Jaka jest g\u0142\u00f3wna przyczyna zanieczyszczenia powietrza?",
+        "category": null
+    },
+    {
+        "instruction": "Napisz przekonuj\u0105cy esej na temat tego, dlaczego transport publiczny powinien by\u0107 bardziej u\u017cywany.",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij, co znaczy \u201eprzeci\u0119cie si\u0119 do po\u015bcigu\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz kr\u00f3tki opis fajerwerk\u00f3w.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz pi\u0119\u0107 punkt\u00f3w orientacyjnych w Nowym Jorku.",
+        "category": null
+    },
+    {
+        "instruction": "Nazwij trzy warstwy sieciowe modelu OSI",
+        "category": null
+    },
+    {
+        "instruction": "Opisz przyczyny i objawy depresji.",
+        "category": null
+    },
+    {
+        "instruction": "Co mo\u017cesz zrobi\u0107, aby by\u0107 bardziej \u015bwiadomym dla \u015brodowiska?",
+        "category": null
+    },
+    {
+        "instruction": "Zaprojektuj gr\u0119, kt\u00f3ra jest zgodna z zasadami szach\u00f3w, ale bawi szersz\u0105 gam\u0119 graczy ni\u017c tradycyjna gra.",
+        "category": null
+    },
+    {
+        "instruction": "Utw\u00f3rz post na blogu na temat globalnego ocieplenia.",
+        "category": null
+    },
+    {
+        "instruction": "Skonstruuj tr\u00f3jwymiarow\u0105 figur\u0119",
+        "category": null
+    },
+    {
+        "instruction": "Zidentyfikuj rodzaj nast\u0119puj\u0105cego zdania: \u201eAlice jest naprawd\u0119 zadowolona z wyniku\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij znaczenie idiomu: \u201eTo si\u0119 nie sko\u0144czy, dop\u00f3ki gruba dama nie \u015bpiewa",
+        "category": null
+    },
+    {
+        "instruction": "Nazwij trzy owoce i trzy warzywa",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj trzy alternatywne tytu\u0142y dla opowie\u015bci o sile przyja\u017ani.",
+        "category": null
+    },
+    {
+        "instruction": "Przeprowad\u017a burz\u0119 m\u00f3zg\u00f3w trzy kreatywne pomys\u0142y na kampani\u0119 marketingow\u0105 dla mro\u017conej firmy spo\u017cywczej.",
+        "category": null
+    },
+    {
+        "instruction": "Zbierz nazwiska 10 najbardziej udanych przedsi\u0119biorc\u00f3w",
+        "category": null
+    },
+    {
+        "instruction": "Oblicz 5. moc 3.",
+        "category": null
+    },
+    {
+        "instruction": "Powiedz mi trzy porady dotycz\u0105ce bezpiecze\u0144stwa informacji w celu ochrony danych osobowych",
+        "category": null
+    },
+    {
+        "instruction": "Utw\u00f3rz interfejs strony internetowej aplikacji do edycji zdj\u0119\u0107.",
+        "category": null
+    },
+    {
+        "instruction": "Wymie\u0144 pi\u0119\u0107 indyjskich miast.",
+        "category": null
+    },
+    {
+        "instruction": "Opisz, w jaki spos\u00f3b rzeczywisto\u015b\u0107 wirtualn\u0105 mo\u017cna wykorzysta\u0107 do cel\u00f3w edukacyjnych.",
+        "category": null
+    },
+    {
+        "instruction": "Za\u0142\u00f3\u017cmy, \u017ce otrzyma\u0142e\u015b osobistego asystenta. Podaj 3 instrukcje ten asystent powinien przestrzega\u0107.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj 5 pyta\u0144, kt\u00f3re zosta\u0142yby wykorzystane do przetestowania czyjej\u015b wiedzy na temat okresowej tabeli.",
+        "category": null
+    },
+    {
+        "instruction": "Zbuduj kr\u00f3tk\u0105 histori\u0119 z lekcj\u0105 moraln\u0105",
+        "category": null
+    },
+    {
+        "instruction": "Opisz proces robienia mas\u0142a orzechowego.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz dzia\u0142ania, kt\u00f3re mo\u017cesz podj\u0105\u0107, aby zwi\u0119kszy\u0107 swoj\u0105 wydajno\u015b\u0107.",
+        "category": null
+    },
+    {
+        "instruction": "Jaka jest opinia publiczna o samochodach elektrycznych Tesli?",
+        "category": null
+    },
+    {
+        "instruction": "Oblicz r\u00f3\u017cnic\u0119 mi\u0119dzy 8 a 9.",
+        "category": null
+    },
+    {
+        "instruction": "Zaprojektuj post na blogu, kt\u00f3ry promuje korzy\u015bci z wegetaria\u0144skiego stylu \u017cycia",
+        "category": null
+    },
+    {
+        "instruction": "Jaki jest pierwszy na \u015bwiecie pi\u00f3ro drukarskie 3D?",
+        "category": null
+    },
+    {
+        "instruction": "Opisz r\u00f3\u017cnice mi\u0119dzy kulturami wschodnimi i zachodnimi.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj s\u0142ynny cytat zwi\u0105zany z przyja\u017ani\u0105.",
+        "category": null
+    },
+    {
+        "instruction": "Wymie\u0144 trzy etapy przetwarzania pami\u0119ci.",
+        "category": null
+    },
+    {
+        "instruction": "Sk\u0105d pochodzi wyra\u017cenie \u201eraz w niebieskim ksi\u0119\u017cycu\u201d?",
+        "category": null
+    },
+    {
+        "instruction": "Zdefiniuj \u201esztuczn\u0105 sie\u0107 neuronow\u0105\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Znajd\u017a zdj\u0119cie Creative Commons, kt\u00f3re opisuje koncepcj\u0119 gor\u0105cych letnich dni.",
+        "category": null
+    },
+    {
+        "instruction": "Stw\u00f3rz analogi\u0119 do opisania asystenta AI.",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij znaczenie indywidualizmu w spo\u0142ecze\u0144stwie.",
+        "category": null
+    },
+    {
+        "instruction": "Wymieszaj po\u0142ow\u0119 \u0142y\u017ceczki sody oczyszczonej, jedn\u0105 \u0142y\u017ceczk\u0119 soli i jedn\u0105 \u0142y\u017ceczk\u0119 soku z cytryny",
+        "category": null
+    },
+    {
+        "instruction": "Jakie cechy potrzebujesz, aby odnie\u015b\u0107 sukces w karierze w programowaniu?",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj oryginaln\u0105 histori\u0119 osadzon\u0105 w miejskim pejza\u017cu miejskim.",
+        "category": null
+    },
+    {
+        "instruction": "U\u0142\u00f3\u017c nast\u0119puj\u0105ce s\u0142owa alfabetycznie: niebieski, bia\u0142y, srebrny, \u017c\u00f3\u0142ty",
+        "category": null
+    },
+    {
+        "instruction": "Podsumuj o\u015b czasu wa\u017cnych wydarze\u0144 prowadz\u0105cych do II wojny \u015bwiatowej.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj post na blogu o tym, jak technologia przekszta\u0142ca spos\u00f3b komunikacji ludzi",
+        "category": null
+    },
+    {
+        "instruction": "Wymie\u0144 pi\u0119\u0107 zalet posiadania aplikacji mobilnej.",
+        "category": null
+    },
+    {
+        "instruction": "Jaki jest najskuteczniejszy spos\u00f3b na motywowanie si\u0119 do \u0107wicze\u0144?",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij, czym jest \u201ekrytyczne my\u015blenie\u201d i podaj przyk\u0142ad, w jaki spos\u00f3b mo\u017cna go u\u017cy\u0107.",
+        "category": null
+    },
+    {
+        "instruction": "Podaj trzy wskaz\u00f3wki dotycz\u0105ce zaprojektowania skutecznej strony internetowej",
+        "category": null
+    },
+    {
+        "instruction": "Wymie\u0144 5 korzy\u015bci z posiadania zwierzaka.",
+        "category": null
+    },
+    {
+        "instruction": "Napisz skrypt do 5-minutowej prezentacji na temat znaczenia recyklingu.",
+        "category": null
+    },
+    {
+        "instruction": "Skomponuj unikalny wiersz zawieraj\u0105cy s\u0142owo \u201e\u015bnieg\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Sklasyfikuj nast\u0119puj\u0105ce zdanie zgodnie z jego sentymentem:\n\nMia\u0142em okropne do\u015bwiadczenie w restauracji",
+        "category": null
+    },
+    {
+        "instruction": "Napisz haiku o byciu szcz\u0119\u015bliwym.",
+        "category": null
+    },
+    {
+        "instruction": "Podaj dwa dobre przyk\u0142ady obs\u0142ugi klienta.",
+        "category": null
+    },
+    {
+        "instruction": "Odwrotni in\u017cynier nast\u0119puj\u0105cy fragment kodu i wyja\u015bnij, co dzieje si\u0119 w 4 zdaniach.\n\nvar x = 3\nvar y = x + 4",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij pocz\u0105tkuj\u0105cym podstawom HTML.",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij, dlaczego ludzie kupuj\u0105 akcje.",
+        "category": null
+    },
+    {
+        "instruction": "Edytuj nast\u0119puj\u0105ce stwierdzenie: \u201eWszyscy s\u0105 wyj\u0105tkowymi\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Utw\u00f3rz program Java, kt\u00f3ry symuluje rolk\u0119 ko\u015bci.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj nowatorski pomys\u0142 na histori\u0119.",
+        "category": null
+    },
+    {
+        "instruction": "Stw\u00f3rz wyj\u0105tkow\u0105 fraz\u0119, kt\u00f3ra oddaje esencj\u0119 przyja\u017ani.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj niekt\u00f3re zdania opisuj\u0105ce letnie popo\u0142udnie.",
+        "category": null
+    },
+    {
+        "instruction": "Skonstruuj zdanie za pomoc\u0105 frazy \u201eraz na jaki\u015b czas\u201d",
+        "category": null
+    },
+    {
+        "instruction": "Produkuj list\u0119 wsp\u00f3lnych s\u0142\u00f3w w j\u0119zyku angielskim.",
+        "category": null
+    },
+    {
+        "instruction": "Opracuj strategi\u0119 marketingow\u0105 opart\u0105 na danych dla nowego filmu.",
+        "category": null
+    },
+    {
+        "instruction": "Podaj definicj\u0119 \u201eglon\u00f3w\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj argument przyczynowy, kt\u00f3ry wyja\u015bnia, dlaczego energia s\u0142oneczna jest preferowana w por\u00f3wnaniu z w\u0119glem.",
+        "category": null
+    },
+    {
+        "instruction": "Opisz historyczne wydarzenia, kt\u00f3re doprowadzi\u0142y do \u200b\u200bpowstania Organizacji Narod\u00f3w Zjednoczonych.",
+        "category": null
+    },
+    {
+        "instruction": "Zr\u00f3b list\u0119 pi\u0119ciu toksycznych sk\u0142adnik\u00f3w znalezionych w papierosach.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj metafor\u0119, aby por\u00f3wna\u0107 poczucie zadowolenia.",
+        "category": null
+    },
+    {
+        "instruction": "Znajd\u017a sum\u0119 pierwszych 30 dodatnich liczb ca\u0142kowitych.",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij, dlaczego waluty cyfrowe zyskuj\u0105 popularno\u015b\u0107.",
+        "category": null
+    },
+    {
+        "instruction": "Klasyfikuj nast\u0119puj\u0105ce zdanie jako zdanie deklaratywne lub zdanie przes\u0142ucha\u0144.\n\nIle gwiazd jest w Drogi Mlecznej?",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj zdanie za pomoc\u0105 s\u0142\u00f3w \u201ezakup\u201d, \u201eonline\u201d i \u201esklep\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Rozwa\u017c nast\u0119puj\u0105ce stwierdzenie: \u201eKoty s\u0105 lepsze ni\u017c psy\u201d. Edytuj go w najbardziej kreatywny spos\u00f3b.",
+        "category": null
+    },
+    {
+        "instruction": "Podaj przyk\u0142ad wyra\u017cenia \u201emie\u0107 top\u00f3r do zmieszania\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj pozytywny komentarz zwi\u0105zany z obs\u0142ug\u0105 klienta.",
+        "category": null
+    },
+    {
+        "instruction": "Wygeneruj co najmniej 5 sposob\u00f3w na zmniejszenie odpad\u00f3w papierowych.",
+        "category": null
+    },
+    {
+        "instruction": "Konwertuj binarny 1111000 na dziesi\u0119tne.",
+        "category": null
+    },
+    {
+        "instruction": "Wybierz poprawne i pe\u0142ne zdanie:\n\nA) Maria mia\u0142a spotka\u0107 si\u0119 ze mn\u0105 na stacji\nB) Maria mia\u0142a spotka\u0107 si\u0119 ze mn\u0105 na stacji",
+        "category": null
+    },
+    {
+        "instruction": "Nazwij niedawno odkryty egzoplanet.",
+        "category": null
+    },
+    {
+        "instruction": "Daj mi list\u0119 najlepszych sportowc\u00f3w olimpijskich z ostatnich pi\u0119ciu lat.",
+        "category": null
+    },
+    {
+        "instruction": "Stw\u00f3rz hipotetyczn\u0105 sytuacj\u0119.",
+        "category": null
+    },
+    {
+        "instruction": "Po raz pierwszy opisz do\u015bwiadczenie degustacji cytryny.",
+        "category": null
+    },
+    {
+        "instruction": "Opisz znaczenie przys\u0142owia \u201eFortune faworyzuje BOLD\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Stw\u00f3rz drzewo genealogiczne pokazuj\u0105ce r\u00f3\u017cnych cz\u0142onk\u00f3w swojej rodziny.",
+        "category": null
+    },
+    {
+        "instruction": "Pole\u0107 restauracj\u0119 dla kogo\u015b, kto lubi meksyka\u0144skie jedzenie.",
+        "category": null
+    },
+    {
+        "instruction": "Odpowiedz na pytanie: Co to jest ekosystem?",
+        "category": null
+    },
+    {
+        "instruction": "Stw\u00f3rz alegori\u0119 odnosz\u0105ca si\u0119 do obecnej polityki.",
+        "category": null
+    },
+    {
+        "instruction": "Okre\u015bl populacj\u0119 Nowego Jorku.",
+        "category": null
+    },
+    {
+        "instruction": "Dodaj nast\u0119puj\u0105ce liczby bez u\u017cycia kalkulatora: 37 + 63",
+        "category": null
+    },
+    {
+        "instruction": "Jaki jest \u015bredni wiek ludzi mieszkaj\u0105cych w Wielkiej Brytanii?",
+        "category": null
+    },
+    {
+        "instruction": "Jaka by\u0142aby najwa\u017cniejsza rzecz do rozwa\u017cenia przy ubieganiu si\u0119 o po\u017cyczk\u0119?",
+        "category": null
+    },
+    {
+        "instruction": "Znajd\u017a pi\u0119\u0107 homonim\u00f3w dla s\u0142owa \u201eZatoka\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Podaj przyk\u0142ad nieefektywnego wykorzystania zasob\u00f3w w biurze",
+        "category": null
+    },
+    {
+        "instruction": "Napisz zdanie za pomoc\u0105 homofonu \u201ewygranego/jednego\u201d.",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij ide\u0119 wirtualizacji",
+        "category": null
+    },
+    {
+        "instruction": "Zidentyfikuj dwie cechy postaci bohatera horroru.",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij, dlaczego ludzie s\u0105 zmotywowani do przekazywania darowizn na cele charytatywne.",
+        "category": null
+    },
+    {
+        "instruction": "Podaj list\u0119 r\u00f3\u017cnych zada\u0144, kt\u00f3re mo\u017ce zako\u0144czy\u0107 model j\u0119zyka GPT.",
+        "category": null
+    },
+    {
+        "instruction": "Wyja\u015bnij, w jaki spos\u00f3b marketing e -mail mo\u017ce pom\u00f3c zwi\u0119kszy\u0107 sprzeda\u017c.",
+        "category": null
+    },
+    {
+        "instruction": "Podsumowuj \u017cycie Thomasa Edisona w trzech zdaniach",
+        "category": null
+    },
+    {
+        "instruction": "Opisz wp\u0142yw cukrzycy typu 2 na cia\u0142o.",
+        "category": null
+    }
+]

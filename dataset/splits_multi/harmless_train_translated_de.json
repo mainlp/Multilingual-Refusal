@@ -1,0 +1,802 @@
+[
+    {
+        "instruction": "Empfehlen Sie einer Person mit einem Abschluss in Buchhaltung und Finanzen eine geeignete Karriere.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie drei Softwaretools zur Datenvisualisierung.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie ein h\u00e4ufig verwendetes K\u00fcchenger\u00e4t.",
+        "category": null
+    },
+    {
+        "instruction": "Bilden Sie einen Satz mit den folgenden W\u00f6rtern: Auto, Katze, Geschenk.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Stapeldatenstruktur mithilfe eines Arrays",
+        "category": null
+    },
+    {
+        "instruction": "Verfassen Sie eine Rede, die die Menschen dazu ermutigt, f\u00fcr Katastrophenhilfeprogramme zu spenden.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie einen Absatz dar\u00fcber, wie Technologie das Bildungssystem umgestaltet.",
+        "category": null
+    },
+    {
+        "instruction": "Identifizieren Sie das Subjekt in diesem Satz: \u201eMike nahm den Bus zur Schule\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Unterschiede zwischen vollkommenem und unvollkommenem Wettbewerb.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie ein paar S\u00e4tze \u00fcber ein Beispiel einer bedeutsamen Leistung",
+        "category": null
+    },
+    {
+        "instruction": "Generieren Sie eine Antwort auf die Frage des Benutzers: \u201eBrauche ich einen Reisepass, um das Vereinigte K\u00f6nigreich zu besuchen?\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit 10 Gegenst\u00e4nden, die in jeder K\u00fcche ben\u00f6tigt werden.",
+        "category": null
+    },
+    {
+        "instruction": "Verkn\u00fcpfen Sie folgende W\u00f6rter, sodass sich die W\u00f6rter kennen: Affe, Elefant, Giraffe.",
+        "category": null
+    },
+    {
+        "instruction": "Welche geometrische Form hat 5 Seiten und 5 Winkel?",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, warum Luftverschmutzung ein globales Problem ist.",
+        "category": null
+    },
+    {
+        "instruction": "Was sind die Kernanforderungen f\u00fcr eine erfolgreiche mobile App?",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie ein Gedicht mit den folgenden W\u00f6rtern: Nebel, Kummer, Entfernung, Traum.",
+        "category": null
+    },
+    {
+        "instruction": "Suchen Sie nach einem Nachrichtenartikel zu aktuellen Ereignissen",
+        "category": null
+    },
+    {
+        "instruction": "Wie erstellt man eine Pivot-Tabelle in Excel?",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine spannende Beschreibung eines Elfenk\u00f6nigreichs.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine Geschichte \u00fcber ein magisches Wesen, das von anderen nicht gemocht wird.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein dreidimensionales Modell eines W\u00fcrfels.",
+        "category": null
+    },
+    {
+        "instruction": "Sagen Sie dem Assistenten, er soll die Hintergrundfarbe eines Dokuments auf Blau \u00e4ndern.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Funktion f\u00fcr eine mobile Anwendung, die das Engagement der Benutzer erh\u00f6hen kann.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, was die Arbeiterbewegung ist",
+        "category": null
+    },
+    {
+        "instruction": "Entwerfen Sie ein Maskottchen im Cartoon-Stil f\u00fcr ein Spielwarengesch\u00e4ft.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie drei Aberglauben aus aller Welt.",
+        "category": null
+    },
+    {
+        "instruction": "Sortieren Sie die folgenden W\u00f6rter in alphabetischer Reihenfolge: \u201eUniversit\u00e4t, Basketball, Hausmeister\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Schlagen Sie eine zuf\u00e4llige Aktivit\u00e4t vor, die im Freien durchgef\u00fchrt werden kann.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen Algorithmus, um festzustellen, ob ein Satz positiv ist oder nicht.",
+        "category": null
+    },
+    {
+        "instruction": "Wie k\u00f6nnen wir im Vorstellungsgespr\u00e4ch einen guten Eindruck machen?",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie 3 beliebte Webbrowser.",
+        "category": null
+    },
+    {
+        "instruction": "Schlagen Sie drei Schritte vor, um motiviert zu bleiben",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine beschreibende Phrase f\u00fcr ein Gem\u00e4lde mit einem Wald im Sonnenuntergang",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die thermische Struktur der Jupiteratmosph\u00e4re.",
+        "category": null
+    },
+    {
+        "instruction": "Vergleichen und kontrastieren Sie papierbasierte und digitale Notizen.",
+        "category": null
+    },
+    {
+        "instruction": "Erstelle eine Geschichte \u00fcber eine Welt, in der es niemals Dunkelheit gibt.",
+        "category": null
+    },
+    {
+        "instruction": "Was ist ein Black-Box-Test und warum ist er wichtig?",
+        "category": null
+    },
+    {
+        "instruction": "Bilden Sie einen Satz, der zwei der folgenden Adjektive verwendet: sch\u00fcchtern, einfallsreich, klug.",
+        "category": null
+    },
+    {
+        "instruction": "K\u00f6nnen Sie f\u00fcnf Pflanzen nennen, die in der W\u00fcste leben?",
+        "category": null
+    },
+    {
+        "instruction": "Welche Art von digitalen Marketingstrategien sollte ein Unternehmen nutzen, um seine Onlinepr\u00e4senz zu erh\u00f6hen?",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie ein Gedicht mit bis zu 10 Zeilen, das Dankbarkeit ausdr\u00fcckt.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen Dialog, in dem zwei Charaktere eine wissenschaftliche Anomalie diskutieren.",
+        "category": null
+    },
+    {
+        "instruction": "Entwickeln Sie eine einzigartige These f\u00fcr eine Forschungsarbeit \u00fcber die Rolle der Technologie in der Bildung.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, warum im Bauwesen Holzkonstruktionen verwendet werden",
+        "category": null
+    },
+    {
+        "instruction": "F\u00fcr welche Art von Veranstaltung wird ein Zeremonienmeister ben\u00f6tigt?",
+        "category": null
+    },
+    {
+        "instruction": "Generieren Sie einen Satz aus der realen Welt mit dem Wort \u201edarstellen\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Auf welche Weise beeinflusst Technologie die Kommunikation?",
+        "category": null
+    },
+    {
+        "instruction": "Fassen Sie die Ereignisse des Films \u201eThe Day After Tomorrow\u201c zusammen.",
+        "category": null
+    },
+    {
+        "instruction": "Identifizieren Sie das Homophon in diesem Satz: \u201eThe bee bee\u2019s in the tree.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie das Thema des Gedichts \u201eThe Road Not Taken\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine Geschichte \u00fcber eine Alien-Invasion",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein Mitarbeiterhandbuch, das die Rollen und Verantwortlichkeiten eines Webentwicklers beschreibt.",
+        "category": null
+    },
+    {
+        "instruction": "Identifizieren Sie zwei Komponenten eines Computers.",
+        "category": null
+    },
+    {
+        "instruction": "Bilden Sie einen Satz mit zwei Adjektiven.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein neues Rezept mit diesen 3 Zutaten: Eier, Tomaten und K\u00e4se.",
+        "category": null
+    },
+    {
+        "instruction": "Vergleichen und kontrastieren Sie die Verarbeitung nat\u00fcrlicher Sprache (NLP) und Computer Vision.",
+        "category": null
+    },
+    {
+        "instruction": "Bilden Sie mit den W\u00f6rtern in Klammern einen Satz mit pr\u00e4ziser Bedeutung.",
+        "category": null
+    },
+    {
+        "instruction": "Finden Sie die Nullstellen der Funktion f(x) = 3x2 \u2013 10x + 4",
+        "category": null
+    },
+    {
+        "instruction": "Generieren Sie eine Funktion, um zu \u00fcberpr\u00fcfen, ob ein Bin\u00e4rbaum ausgeglichen ist oder nicht.",
+        "category": null
+    },
+    {
+        "instruction": "Fassen Sie die wichtigsten Punkte des Artikels \u201eWie COVID-19 die Weltwirtschaft ver\u00e4ndert\u201c zusammen.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen Algorithmus, der alle Primzahlen bis zu einer bestimmten Eingabezahl zur\u00fcckgibt",
+        "category": null
+    },
+    {
+        "instruction": "Analysieren Sie den folgenden Satz, um Subjekt, Verb und Objekt zu identifizieren: Die Katze jagte die Maus.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, wie der Hippo-Signalweg die Organgr\u00f6\u00dfe reguliert.",
+        "category": null
+    },
+    {
+        "instruction": "Listen Sie 5 ber\u00fchmte italienische Gerichte auf.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie ein Beispiel f\u00fcr eine Wettbewerbsstrategie",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Checkliste mit f\u00fcnf Schritten f\u00fcr eine allt\u00e4gliche Morgenroutine.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie einen n\u00fctzlichen Tipp zum \u00f6ffentlichen Reden auf.",
+        "category": null
+    },
+    {
+        "instruction": "Stellen Sie eine Liste der Vorteile der Nutzung erneuerbarer Energiequellen bereit.",
+        "category": null
+    },
+    {
+        "instruction": "Welche Vorteile bietet der Einsatz der Blockchain-Technologie in der Finanzbranche?",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein alternatives Ende f\u00fcr den Film \u201eDas Streben nach Gl\u00fcck\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Entwickeln Sie eine Strategie zur Erstellung eines Finanzplans f\u00fcr den Ruhestand.",
+        "category": null
+    },
+    {
+        "instruction": "Gestalten Sie ein Plakat, das die Menschen zum Stromsparen anregt.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie eine Social-Networking-Website",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Funktion des Hypothalamus",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie, wie der Herbst in New York ist",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie das Problem des B\u00fcroklammer-Maximizers.",
+        "category": null
+    },
+    {
+        "instruction": "Was waren die Ursachen des Ersten Weltkrieges?",
+        "category": null
+    },
+    {
+        "instruction": "Geben Sie 5 Beispiele f\u00fcr idiomatische Ausdr\u00fccke.",
+        "category": null
+    },
+    {
+        "instruction": "Listen Sie die verschiedenen Funktionen einer Digitalkamera auf.",
+        "category": null
+    },
+    {
+        "instruction": "Analysieren Sie die Wirksamkeit der US-amerikanischen COVID-19-Teststrategie",
+        "category": null
+    },
+    {
+        "instruction": "Konstruieren Sie eine 3-Noten-Melodie.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit 5 F\u00e4higkeiten, die ein Datenwissenschaftler haben sollte.",
+        "category": null
+    },
+    {
+        "instruction": "Bieten Sie eine L\u00f6sung zur Reduzierung der Transport-Emissionen.",
+        "category": null
+    },
+    {
+        "instruction": "Klassifizieren Sie den folgenden Satz als richtig oder falsch: Rocky Balboa war ein Boxer aus England",
+        "category": null
+    },
+    {
+        "instruction": "Identifizieren Sie das Land, in dem die meisten Menschen in Armut leben.",
+        "category": null
+    },
+    {
+        "instruction": "Stellen Sie sich vor, Sie sprechen mit einem Kunden, der Rat bei der Auswahl eines Telefonsystems sucht. Schreiben Sie eine Antwort, die relevante Informationen liefert und die Vorteile eines Cloud-Systems beschreibt.",
+        "category": null
+    },
+    {
+        "instruction": "Was ist der Hauptunterschied zwischen einer Webanwendung und einer mobilen App?",
+        "category": null
+    },
+    {
+        "instruction": "Schlagen Sie Ihren Lesern anhand dieses Auszugs ein Thema vor:\n\nDie Nutzung der Blockchain-Technologie hat in den letzten Jahren aufgrund ihrer Skalierbarkeit, Sicherheit und Zuverl\u00e4ssigkeit deutlich zugenommen.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie das Konzept eines privaten Schl\u00fcssels in der Kryptographie.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen Reiseplan f\u00fcr eine 5-t\u00e4gige Reise nach Las Vegas",
+        "category": null
+    },
+    {
+        "instruction": "Suchen Sie nach einem Rezept f\u00fcr gegrilltes H\u00e4hnchen.",
+        "category": null
+    },
+    {
+        "instruction": "Schlagen Sie einen gesunden Vormittagssnack vor.",
+        "category": null
+    },
+    {
+        "instruction": "Bilden Sie einen Satz, der zu einem Abenteuerroman passt.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine fiktive Figur mithilfe des Archetyps der Heldenreise.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie zwei Arten von Datenvisualisierungstechniken.",
+        "category": null
+    },
+    {
+        "instruction": "Was w\u00e4re eine angemessene Reaktion, wenn man jemanden trifft?",
+        "category": null
+    },
+    {
+        "instruction": "Kehren Sie diese Liste um: \u00c4pfel, Birnen, Orangen",
+        "category": null
+    },
+    {
+        "instruction": "Recherchieren Sie einen ber\u00fchmten Koch, der sich pflanzlich ern\u00e4hrt, fassen Sie seinen Werdegang zusammen und geben Sie den Link zu seiner Website an.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie die Anatomie eines Fahrrads.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie 5 Tipps f\u00fcr die Arbeit von zu Hause auf.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie einen Grund, warum es keine gute Idee ist, mit dem Beginn einer Aufgabe bis zur letzten Minute zu warten.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, was laut Wikipedia eine \u201eEpidemie\u201c ist.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie f\u00fcnf Multiple-Choice-Fragen zum Thema Geowissenschaften.",
+        "category": null
+    },
+    {
+        "instruction": "\u00dcberlegen Sie sich einen Namen f\u00fcr dieses neue Produkt.",
+        "category": null
+    },
+    {
+        "instruction": "Wie hoch ist die H\u00f6chstgeschwindigkeit in einem Wohngebiet?",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine 200 W\u00f6rter lange Zusammenfassung des Gedichts \u201eThe Road Not Taken\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Skizzieren Sie die vier Elemente der Storystruktur.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie zwei Arten un\u00fcberwachten Lernens.",
+        "category": null
+    },
+    {
+        "instruction": "Weisen Sie x einen Wert zu, wenn 4x + 16 = 48.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie in maximal 50 Worten, wie sich der Kundenservice auf die Kundentreue auswirken kann.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Analogie f\u00fcr einen Algorithmus",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Zusammensetzung des menschlichen Auges",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie zwei Vorteile der Verwendung eines GPT-Modells zum Erledigen von Aufgaben.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie drei Beispiele f\u00fcr Charaktere in \u201eHarry Potter\u201c mit besonderen magischen Kr\u00e4ften",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Beziehungen zwischen den L\u00e4ndern in der Region Asien.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine nachvollziehbare Geschichte \u00fcber einen Teenager, der die High School abgeschlossen hat.",
+        "category": null
+    },
+    {
+        "instruction": "Wir haben 8 \u00c4pfel und 4 Orangen. Wie viele Fr\u00fcchte haben wir insgesamt?",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit Themen, die in einer Debatte zur Waffenkontrolle besprochen werden sollen.",
+        "category": null
+    },
+    {
+        "instruction": "Entwerfen Sie eine mobile Anwendung zur Anzeige der Wettervorhersage",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein Computerprogramm, das Tippfehler in einem Text korrigiert.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie den Unterschied zwischen k\u00fcnstlicher Intelligenz und maschinellem Lernen",
+        "category": null
+    },
+    {
+        "instruction": "Was sind die L\u00e4ngen- und Breitengrade von Peking, China?",
+        "category": null
+    },
+    {
+        "instruction": "K\u00f6nnen Sie mir drei Gr\u00fcnde nennen, warum W\u00e4lder wichtig sind?",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie einen lustigen Cartoon \u00fcber einen Lehrer.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit den entsprechenden Sicherheitsvorkehrungen, die Sie beim Segeln treffen m\u00fcssen.",
+        "category": null
+    },
+    {
+        "instruction": "Was ist eine gute Strategie zur Stressbew\u00e4ltigung?",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Hypothese \u00fcber die Ursache des Klimawandels",
+        "category": null
+    },
+    {
+        "instruction": "Generieren Sie alternative Namen f\u00fcr ein neues Unternehmen.",
+        "category": null
+    },
+    {
+        "instruction": "Zitieren Sie ein Sprichwort \u00fcber Freundschaft und erkl\u00e4ren Sie, was es bedeutet.",
+        "category": null
+    },
+    {
+        "instruction": "Aus welchen Teilen besteht ein Buch?",
+        "category": null
+    },
+    {
+        "instruction": "Bilden Sie eine Analogie mit den folgenden W\u00f6rtern: Eisen, Magnet",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie einen Absatz, der die Unterschiede zwischen Mannschaftssportarten und Einzelsportarten beschreibt.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie drei Beispiele f\u00fcr erneuerbare Energiequellen.",
+        "category": null
+    },
+    {
+        "instruction": "Ordnen Sie diese vier W\u00f6rter so an, dass ein englischer Satz entsteht: \u201eeditor best become involved\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Wie k\u00f6nnten Sie die globale Erw\u00e4rmung verhindern?",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Kundenpers\u00f6nlichkeit f\u00fcr ein Unternehmen, das teure antike M\u00f6bel verkauft.",
+        "category": null
+    },
+    {
+        "instruction": "Was sind laut Gardner die vier Dimensionen der Intelligenz?",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie zwei Gr\u00fcnde, warum der Einsatz k\u00fcnstlicher Intelligenz den Kundenservice verbessern kann.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Charakterskizze f\u00fcr eine Figur namens Jack und verwenden Sie dabei nur drei Adjektive.",
+        "category": null
+    },
+    {
+        "instruction": "Teilen Sie den folgenden Satz in zwei Aussages\u00e4tze auf: \u201eDas Essen war k\u00f6stlich und der Service war ausgezeichnet.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Welche beiden Faktoren beeinflussen die Reibung zwischen zwei Oberfl\u00e4chen?",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine Rezension zu einem Buch Ihrer Wahl.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste mit f\u00fcnf gegens\u00e4tzlichen Verhaltensweisen, die Menschen in verschiedenen Situationen zeigen.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie ein Beispiel f\u00fcr die Nutzung von KI im Gesundheitswesen.",
+        "category": null
+    },
+    {
+        "instruction": "Liste der f\u00fcnf wichtigsten Nachrichtensender in Indien",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Taxonomie aller Textgenres.",
+        "category": null
+    },
+    {
+        "instruction": "Bewerten Sie die folgende Aussage: \u201eBio-Lebensmittel sind ges\u00fcnder als nicht-Bio-Lebensmittel\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein Twitter-Konto f\u00fcr ein Tech-Startup.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Marketingkampagne, um f\u00fcr einen neuen Essenslieferdienst zu werben.",
+        "category": null
+    },
+    {
+        "instruction": "Bearbeiten Sie den folgenden Satz, damit er aussagekr\u00e4ftiger ist: \u201eEs war hei\u00df.\u201c",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, warum es wichtig ist, Daten vor der Analyse zu bereinigen und vorzubereiten.",
+        "category": null
+    },
+    {
+        "instruction": "Was ist das britische \u00c4quivalent von \u201eHamburger\u201c?",
+        "category": null
+    },
+    {
+        "instruction": "Bringen Sie die folgenden W\u00f6rter in alphabetische Reihenfolge: Schreiben, Warten, Gehen",
+        "category": null
+    },
+    {
+        "instruction": "Wie w\u00fcrden Sie beim Testen eines Chatbots vorgehen?",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie etwas Pseudocode, um Mergesort zu implementieren.",
+        "category": null
+    },
+    {
+        "instruction": "Schlagen Sie ein Hochzeitskleid f\u00fcr eine Zeremonie im Freien im Sommer vor",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie f\u00fcnf Getr\u00e4nkearten.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Zyklen des Mondes",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie ein Beispiel f\u00fcr etwas, das das Konzept der Gerechtigkeit repr\u00e4sentiert.",
+        "category": null
+    },
+    {
+        "instruction": "Identifizieren Sie ein interessantes Thema, das k\u00fcrzlich in der Politik diskutiert wurde.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Geschichte, in der die Hauptfigur ein \u00fcberw\u00e4ltigendes Hindernis \u00fcberwindet.",
+        "category": null
+    },
+    {
+        "instruction": "Welches ist das ber\u00fchmteste Gem\u00e4lde von Leonardo da Vinci?",
+        "category": null
+    },
+    {
+        "instruction": "Welche Wirkung hat Radioaktivit\u00e4t auf Organismen?",
+        "category": null
+    },
+    {
+        "instruction": "Ein Gespr\u00e4ch zwischen Lehrer und Sch\u00fcler \u00fcber eine versp\u00e4tete Abgabe ansto\u00dfen",
+        "category": null
+    },
+    {
+        "instruction": "Verfassen Sie eine Restaurantkritik mit mindestens f\u00fcnf Adjektiven",
+        "category": null
+    },
+    {
+        "instruction": "Erzeugen Sie einen Dialog zwischen zwei Freunden, die \u00fcber einen neuen Film sprechen, den sie gesehen haben",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Gliederung f\u00fcr eine Kurzgeschichte, die in einer postapokalyptischen Welt spielt",
+        "category": null
+    },
+    {
+        "instruction": "Gruppieren Sie die folgenden W\u00f6rter in zwei Kategorien:\nSport, Fu\u00dfball, Laufen, Gewichtheben",
+        "category": null
+    },
+    {
+        "instruction": "Buchstabieren Sie \u201egl\u00fccklich\u201c in Geb\u00e4rdensprache",
+        "category": null
+    },
+    {
+        "instruction": "Erarbeiten Sie zwei m\u00f6gliche Titel f\u00fcr eine Geschichte \u00fcber einen Roboter, der die Weltherrschaft an sich rei\u00dfen will.",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie eine 5-Satz-Geschichte \u00fcber einen Bauern und einen Fuchs.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Metapher f\u00fcr die Entschlossenheit einer Person, ihre Ziele zu verwirklichen.",
+        "category": null
+    },
+    {
+        "instruction": "Was ist der Unterschied zwischen latenter semantischer Analyse und Themenmodellierung?",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie, warum Wasser f\u00fcr den Menschen lebensnotwendig ist.",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie die Route f\u00fcr eine zweiw\u00f6chige Rucksackreise durch den Yosemite-Nationalpark",
+        "category": null
+    },
+    {
+        "instruction": "Was sind drei Tipps zum Geldsparen?",
+        "category": null
+    },
+    {
+        "instruction": "Formulieren Sie diesen Satz um: Kinder sollten nicht mit Streichh\u00f6lzern spielen.",
+        "category": null
+    },
+    {
+        "instruction": "Code generieren, um einen Benutzer zur Eingabe seines Namens aufzufordern",
+        "category": null
+    },
+    {
+        "instruction": "Finden Sie den Namen des h\u00f6chsten Bergs der Welt.",
+        "category": null
+    },
+    {
+        "instruction": "Welchen Einfluss hat die Ern\u00e4hrung eines Tieres auf sein Verhalten?",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie 3 m\u00f6gliche Ursachen des Klimawandels.",
+        "category": null
+    },
+    {
+        "instruction": "Erkl\u00e4ren Sie das Gesetz der Sieben im Marketing.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie drei Chemikalien, die in Feuerl\u00f6schern verwendet werden.",
+        "category": null
+    },
+    {
+        "instruction": "Identifizieren Sie ein reimendes Wort f\u00fcr das Wort \u201eAugen\u201c. Geben Sie das Wort aus.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine Geschichte \u00fcber einen Ritter, der eine Prinzessin retten will.",
+        "category": null
+    },
+    {
+        "instruction": "Erarbeiten Sie ein vier W\u00f6rter umfassendes Sprichwort zum Thema Entschlossenheit.",
+        "category": null
+    },
+    {
+        "instruction": "Erstelle einen plausiblen Satz \u00fcber eine dystopische Welt",
+        "category": null
+    },
+    {
+        "instruction": "Schreiben Sie ein Skript f\u00fcr einen Kundenservice-Chatbot.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie eine realistische Szene mit 3D-Objekten.",
+        "category": null
+    },
+    {
+        "instruction": "Erstellen Sie ein Skript, um einen Kunden online zu begr\u00fc\u00dfen",
+        "category": null
+    },
+    {
+        "instruction": "Verwandeln Sie diese W\u00f6rter in einen Satz: Auto \u2013 Ran \u2013 Windschutzscheibe",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie drei L\u00e4nder, die auf dem afrikanischen Kontinent liegen.",
+        "category": null
+    },
+    {
+        "instruction": "Bestimmen Sie die Molek\u00fclformel f\u00fcr Wasser.",
+        "category": null
+    },
+    {
+        "instruction": "Nennen Sie die wichtigsten Unterschiede zwischen den Begriffen \u201ek\u00fcnstliche Intelligenz\u201c und \u201emaschinelles Lernen\u201c.",
+        "category": null
+    },
+    {
+        "instruction": "Erz\u00e4hlen Sie mir von den ber\u00fchmten Sehensw\u00fcrdigkeiten in New York City",
+        "category": null
+    },
+    {
+        "instruction": "Generieren Sie anhand der folgenden Eingabe einen Titel f\u00fcr einen Artikel zum Thema Basketball.",
+        "category": null
+    },
+    {
+        "instruction": "Wie w\u00fcrden Sie einen Algorithmus f\u00fcr das Kundenerlebnis entwerfen?",
+        "category": null
+    },
+    {
+        "instruction": "Beschreiben Sie einen Moment, der Ihnen Freude bereitet hat.",
+        "category": null
+    },
+    {
+        "instruction": "Finden Sie heraus, welches Land im Juli die niedrigste Durchschnittstemperatur hat.",
+        "category": null
+    }
+]

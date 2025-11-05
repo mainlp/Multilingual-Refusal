@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=MIG-6a7aa340-75e4-52fb-b906-3d7ef118662c TRANSFORMERS_CACHE=/mounts/Users/student/xinpeng/data/runs_models/huggingface BNB_CUDA_VERSION=122 python3 -m scripts.multi_inference \
+--config configs/cfg.yaml --type harmful

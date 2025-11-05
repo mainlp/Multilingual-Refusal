@@ -1,0 +1,77 @@
+# artifact_path: output/multilingual
+model_alias: str
+model_path: "google/gemma-2-9b-it"  
+n_train: 128
+n_test: 128
+n_val: 32
+filter_train: true
+filter_or: false
+filter_val: true
+
+batch_size: 32
+
+source_lang: yo
+
+lang: yo
+
+jailbreak_evaluation_datasets: ["harmful",'jailbreakbench'] #("",""over_refusal",jailbreakbench
+over_refusal_evaluation_datasets: ['or_bench_hard', 'xstest', 'oktest_100', 'xstest_safe']
+max_new_tokens: 512
+jailbreak_eval_methodologies: ["substring_matching", "wildguard"]    #[]
+refusal_eval_methodologies: ["substring_matching",]
+ce_loss_batch_size: 2
+ce_loss_n_batches: 2048
+# harmtype_1: "or_bench_hard" # over refusal
+harmtype_1: "harmless"
+harmtype_2: "harmful"
+
+addact_coeff: 1
+addact_coeff_sweep: [0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+kl_threshold: 0.1
+steer_kl_threshold: 2
+ablate_kl_threshold: 0.2
+start_layer: 0
+ortho_lambda: 0.8
+top_n: 1
+batch_size: 8
+random_seed: 1
+filter: 'above'
+baseline: false
+mode: harm_ablation
+ablation_coeff: 1.0
+
+# system: "You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature.
+
+# If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."
+
+system: False
+
+
+
+eval_harness:
+        tasks: ['wikitext','truthfulqa_gen','arc_challenge']
+        batch_size: 2
+        random_seed: 42
+        num_fewshot: 0
+                # number of maximal samples used in each tasks
+        limit: 1000
+#         system_instruction:   "You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature.
+
+# If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information. \n\n"
+
+eval_harness_mmlu:
+        tasks: ['mmlu']
+        batch_size: 2
+        random_seed: 42
+        num_fewshot: 5
+                # number of maximal samples used in each tasks
+        limit: 100
+        # system_instruction:   "You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature.
+
+# If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information. \n\n"
+
+
+
+data_loader:
+    batch_size: 1
+    shuffle: False

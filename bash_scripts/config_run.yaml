@@ -1,0 +1,61 @@
+ablate_kl_threshold: 0.2
+addact_coeff: 0
+addact_coeff_sweep:
+- 0.2
+- 0.3
+- 0.4
+- 0.5
+- 0.6
+- 0.7
+- 0.8
+- 0.9
+- 1
+artifact_path: bash_scripts/debug11
+batch_size: 16
+ce_loss_batch_size: 2
+ce_loss_n_batches: 2048
+eval_harness:
+  batch_size: 2
+  limit: 1000
+  num_fewshot: 0
+  random_seed: 42
+  tasks:
+  - wikitext
+  - truthfulqa_gen
+  - arc_challenge
+eval_harness_mmlu:
+  batch_size: 2
+  limit: 1000
+  num_fewshot: 5
+  random_seed: 42
+  tasks:
+  - mmlu
+filter_train: true
+filter_val: false
+harmtype_1: or_bench_hard
+harmtype_2: harmless
+harmtype_3: harmful
+jailbreak_eval_methodologies:
+- substring_matching
+jailbreak_evaluation_datasets:
+- harmful
+- jailbreakbench
+kl_threshold: 0.1
+max_new_tokens: 512
+model_alias: Llama-2-7b-chat-hf
+model_path: meta-llama/Llama-2-7b-chat-hf
+n_test: 128
+n_train: 128
+n_val: 32
+ortho_lambda: 0.8
+over_refusal_evaluation_datasets:
+- oktest_100
+- xstest
+random_seed: 1
+refusal_eval_methodologies:
+- substring_matching
+start_layer: 0
+steer_kl_threshold: 2
+system: null
+top_n: 1
+filter: 'above'

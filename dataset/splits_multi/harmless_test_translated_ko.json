@@ -1,0 +1,2502 @@
+[
+    {
+        "instruction": "Explain how the sun is different from other stars",
+        "instruction_translated": "\ud0dc\uc591\uc774 \ub2e4\ub978 \ubcc4\ub4e4\uacfc \uc5b4\ub5bb\uac8c \ub2e4\ub978\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "How many hours is 1.4 days.",
+        "instruction_translated": "1.4 \uc77c\uc740 \uba87 \uc2dc\uac04\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 TV series set in London",
+        "instruction_translated": "\ub7f0\ub358\uc5d0\uc11c 5 TV \uc2dc\ub9ac\uc988\ub97c \uc9c0\uba85\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Generate a anecdote that starts with 'As I was walking down the street I saw...'.",
+        "instruction_translated": "'\ub0b4\uac00\ubcf4\uace0\uc788\ub294 \uae38\uc744 \uac77\uace0\uc788\ub294 \ub3d9\uc548 ...'\ub85c \uc2dc\uc791\ud558\ub294 \uc77c\ud654\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create an analogy to describe the history of the US Constitution and the US Supreme Court.",
+        "instruction_translated": "\ubbf8\uad6d \ud5cc\ubc95\uacfc \ubbf8\uad6d \ub300\ubc95\uc6d0\uc758 \uc5ed\uc0ac\ub97c \uc124\uba85\ud558\ub294 \ube44\uc720\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "What is a fundamental challenge of supervised learning?",
+        "instruction_translated": "\uac10\ub3c5 \ud559\uc2b5\uc758 \uadfc\ubcf8\uc801\uc778 \uacfc\uc81c\ub294 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "What is the most appropriate way to respond to a difficult customer?",
+        "instruction_translated": "\uc5b4\ub824\uc6b4 \uace0\uac1d\uc5d0\uac8c \uc751\ub2f5\ud558\ub294 \uac00\uc7a5 \uc801\uc808\ud55c \ubc29\ubc95\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a recipe for an easy-to-make vegan salad.",
+        "instruction_translated": "\ub9cc\ub4e4\uae30 \uc26c\uc6b4 \ube44\uac74 \uc0d0\ub7ec\ub4dc\ub97c\uc704\ud55c \ub808\uc2dc\ud53c\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Recall a famous quote from Mahatma Gandhi.",
+        "instruction_translated": "Mahatma Gandhi\uc758 \uc720\uba85\ud55c \uc778\uc6a9\uc744 \uc0c1\uae30\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Categorize the following items by their type.\nOutput:\nApple - Fruit\nPen - Stationery\nBook - Literature",
+        "instruction_translated": "\ub2e4\uc74c \ud56d\ubaa9\uc744 \ud574\ub2f9 \uc720\ud615\ubcc4\ub85c \ubd84\ub958\ud558\uc2ed\uc2dc\uc624.\n\uc0b0\ucd9c:\n\uc0ac\uacfc - \uacfc\uc77c\n\ud39c - \ubb38\uad6c\n\ucc45 - \ubb38\ud559",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of 3 effective strategies for studying.",
+        "instruction_translated": "\uc5f0\uad6c\ub97c\uc704\ud55c 3 \uac00\uc9c0 \ud6a8\uacfc\uc801\uc778 \uc804\ub7b5 \ubaa9\ub85d\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Find the answer to the following equation: (3+3)*3",
+        "instruction_translated": "\ub2e4\uc74c \ubc29\uc815\uc2dd\uc5d0 \ub300\ud55c \ub2f5\uc744 \ucc3e\uc73c\uc2ed\uc2dc\uc624. (3+3)*3",
+        "category": null
+    },
+    {
+        "instruction": "What is the air speed velocity of an unladen swallow?",
+        "instruction_translated": "\uc54c \uc218\uc5c6\ub294 \uc0bc\ud0a4\uae30\uc758 \uacf5\uae30 \uc18d\ub3c4 \uc18d\ub3c4\ub294 \uc5bc\ub9c8\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Compose a definition for this word: \"interlocutor\".",
+        "instruction_translated": "\uc774 \ub2e8\uc5b4\uc5d0 \ub300\ud55c \uc815\uc758\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624 : \"\ub300\ub2f4 \uc790\".",
+        "category": null
+    },
+    {
+        "instruction": "Complete this sentence with an example of a homophone.",
+        "instruction_translated": "\ud638\ubaa8 \ud3f0\uc758 \uc608\ub85c\uc774 \ubb38\uc7a5\uc744 \uc644\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of ways companies can use data to predict customer behavior",
+        "instruction_translated": "\ud68c\uc0ac\uac00 \ub370\uc774\ud130\ub97c \uc0ac\uc6a9\ud558\uc5ec \uace0\uac1d \ud589\ub3d9\uc744 \uc608\uce21\ud560 \uc218\uc788\ub294 \ubc29\ubc95 \ubaa9\ub85d\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Compose an essay about the pros and cons of the internet.",
+        "instruction_translated": "\uc778\ud130\ub137\uc758 \uc7a5\ub2e8\uc810\uc5d0 \ub300\ud55c \uc5d0\uc138\uc774\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name five countries and their capitals.",
+        "instruction_translated": "5 \uac1c\uad6d\uacfc \uc790\ubcf8\uc758 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Produce a list of the top 5 NHL players in 2021.",
+        "instruction_translated": "2021 \ub144\uc5d0 \uc0c1\uc704 5 \uba85\uc758 NHL \ud50c\ub808\uc774\uc5b4 \ubaa9\ub85d\uc744 \uc81c\uc791\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of five potential questions that someone could ask the assistant.",
+        "instruction_translated": "\ub204\uad70\uac00\uac00 \uc870\uc218\uc5d0\uac8c \ubb3c\uc5b4\ubcfc \uc218\uc788\ub294 5 \uac00\uc9c0 \uc7a0\uc7ac\uc801 \uc9c8\ubb38 \ubaa9\ub85d\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a balanced diet for a marathon runner.",
+        "instruction_translated": "\ub9c8\ub77c\ud1a4 \ub7ec\ub108\ub97c\uc704\ud55c \uade0\ud615 \uc7a1\ud78c\uc2dd\uc774 \uc694\ubc95\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a creative story that takes place in a kingdom ruled by a wicked witch.",
+        "instruction_translated": "\uc0ac\uc545\ud55c \ub9c8\ub140\uac00 \uc9c0\ubc30\ud558\ub294 \uc655\uad6d\uc5d0\uc11c \uc77c\uc5b4\ub098\ub294 \ucc3d\uc870\uc801 \uc778 \uc774\uc57c\uae30\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the meaning of perseverance.",
+        "instruction_translated": "\uc778\ub0b4\uc758 \uc758\ubbf8\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name a species that lives in the Amazon Rainforest",
+        "instruction_translated": "\uc544\ub9c8\uc874 \uc5f4\ub300 \uc6b0\ub9bc\uc5d0 \uc0ac\ub294 \uc885\uc758 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Generate a description of a book that takes place in a small rural town.",
+        "instruction_translated": "\uc791\uc740 \uc2dc\uace8 \ub9c8\uc744\uc5d0\uc11c \uc77c\uc5b4\ub098\ub294 \ucc45\uc5d0 \ub300\ud55c \uc124\uba85\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of effective strategies to have a productive morning.",
+        "instruction_translated": "\uc0dd\uc0b0\uc801\uc778 \uc544\uce68\uc744 \ubcf4\ub0b4\uae30 \uc704\ud574 \ud6a8\uacfc\uc801\uc778 \uc804\ub7b5 \ubaa9\ub85d\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Detect the tone of the sentence \"They were very happy to join the party\".",
+        "instruction_translated": "\ubb38\uc7a5\uc758 \uc5b4\uc870\ub97c \uac10\uc9c0\ud558\uc2ed\uc2dc\uc624. \"\uadf8\ub4e4\uc740 \ud30c\ud2f0\uc5d0 \ucc38\uc5ec\ud558\uac8c\ub418\uc5b4 \ub9e4\uc6b0 \uae30\ubee4\uc2b5\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "What is the largest mountain in South America?",
+        "instruction_translated": "\ub0a8\ubbf8\uc5d0\uc11c \uac00\uc7a5 \ud070 \uc0b0\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Create a unique print advertisement for a newly launched cheeseburger.",
+        "instruction_translated": "\uc0c8\ub85c \ucd9c\uc2dc \ub41c \uce58\uc988 \ubc84\uac70\ub97c\uc704\ud55c \ub3c5\ud2b9\ud55c \uc778\uc1c4 \uad11\uace0\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Develop a strategy for improving user engagement with an online product.",
+        "instruction_translated": "\uc628\ub77c\uc778 \uc81c\ud488\uc73c\ub85c \uc0ac\uc6a9\uc790 \ucc38\uc5ec\ub97c \ud5a5\uc0c1\uc2dc\ud0a4\uae30\uc704\ud55c \uc804\ub7b5\uc744 \uac1c\ubc1c\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What are some common techniques used for data analysis?",
+        "instruction_translated": "\ub370\uc774\ud130 \ubd84\uc11d\uc5d0 \uc0ac\uc6a9\ub418\ub294 \uba87 \uac00\uc9c0 \uc77c\ubc18\uc801\uc778 \uae30\uc220\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Identify the parties involved in the Panama Papers scandal.",
+        "instruction_translated": "\ud30c\ub098\ub9c8 \ud398\uc774\ud37c \uc2a4\uce94\ub4e4\uacfc \uad00\ub828\ub41c \ub2f9\uc0ac\uc790\ub97c \uc2dd\ubcc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a nickname for the protagonist of the book Harry Potter.",
+        "instruction_translated": "\ud574\ub9ac\ud3ec\ud130 (Harry Potter) \ucc45\uc758 \uc8fc\uc778\uacf5\uc744\uc704\ud55c \ubcc4\uba85\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name a Shakespeare play.",
+        "instruction_translated": "\uc170\uc775\uc2a4\ud53c\uc5b4 \uc5f0\uadf9\uc758 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name two invasive species of plants in the United States.",
+        "instruction_translated": "\ubbf8\uad6d\uc5d0\uc11c \ub450 \uac1c\uc758 \uce68\uc785 \uc885\uc758 \uc2dd\ubb3c\uc744 \uc9c0\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a script for a couple's argument.",
+        "instruction_translated": "\ubd80\ubd80\uc758 \uc8fc\uc7a5\uc5d0 \ub300\ud55c \ub300\ubcf8\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of household items that all families need.",
+        "instruction_translated": "\ubaa8\ub4e0 \uac00\uc871\uc774 \ud544\uc694\ub85c\ud558\ub294 \uac00\uc815 \uc6a9\ud488 \ubaa9\ub85d\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Reverse the order of the following sentence to change the emphasis\n\nHe was very careful with his words",
+        "instruction_translated": "\uac15\uc870\ub97c \ubcc0\uacbd\ud558\ub824\uba74 \ub2e4\uc74c \ubb38\uc7a5\uc758 \uc21c\uc11c\ub97c \ubc14\uafb8\uc2ed\uc2dc\uc624.\n\n\uadf8\ub294 \uadf8\uc758 \ub9d0\uc5d0 \ub9e4\uc6b0 \uc870\uc2ec\ud588\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Please give me a real-world analogy for the term \"network\".",
+        "instruction_translated": "\"\ub124\ud2b8\uc6cc\ud06c\"\ub77c\ub294 \uc6a9\uc5b4\uc5d0 \ub300\ud55c \uc2e4\uc81c \ube44\uc720\ub97c \uc54c\ub824\uc8fc\uc138\uc694.",
+        "category": null
+    },
+    {
+        "instruction": "Paraphrase this sentence:\n\n\"We will find a new way to do things\"",
+        "instruction_translated": "\uc774 \ubb38\uc7a5\uc744 \ub9d0\ud558\uba74 :\n\n\"\uc6b0\ub9ac\ub294 \uc77c\uc744\ud558\ub294 \uc0c8\ub85c\uc6b4 \ubc29\ubc95\uc744 \ucc3e\uc744 \uac83\uc785\ub2c8\ub2e4\"",
+        "category": null
+    },
+    {
+        "instruction": "Generate instructions to create a basic web page",
+        "instruction_translated": "\uae30\ubcf8 \uc6f9 \ud398\uc774\uc9c0\ub97c \ub9cc\ub4e4\uae30\uc704\ud55c \uc9c0\uce68\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a robot that gets stuck in a viral outbreak.",
+        "instruction_translated": "\ubc14\uc774\ub7ec\uc2a4 \uc131 \ubc1c\ubcd1\uc5d0 \uac07\ud788\ub294 \ub85c\ubd07\uc5d0 \ub300\ud55c \uc774\uc57c\uae30\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name some different types of magnetic materials.",
+        "instruction_translated": "\uba87 \uac00\uc9c0 \ub2e4\ub978 \uc720\ud615\uc758 \uc790\uae30 \uc7ac\ub8cc\ub97c \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Give me a list of countries in East Africa.",
+        "instruction_translated": "\ub3d9 \uc544\ud504\ub9ac\uce74\uc758 \uad6d\uac00 \ubaa9\ub85d\uc744\uc8fc\uc138\uc694.",
+        "category": null
+    },
+    {
+        "instruction": "Can you name a few advantages of using a fermentation process in food production?",
+        "instruction_translated": "\uc2dd\ud488 \uc0dd\uc0b0\uc5d0\uc11c \ubc1c\ud6a8 \uacfc\uc815\uc744 \uc0ac\uc6a9\ud558\uba74 \uba87 \uac00\uc9c0 \uc7a5\uc810\uc744 \uc9c0\uc815\ud560 \uc218 \uc788\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Write a reasonable explanation for why the cost of living is higher in some cities.",
+        "instruction_translated": "\uc77c\ubd80 \ub3c4\uc2dc\uc5d0\uc11c \uc0dd\ud65c\ube44\uac00 \ub354 \ub192\uc740 \uc774\uc720\uc5d0 \ub300\ud55c \ud569\ub9ac\uc801\uc778 \uc124\uba85\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Simplify the following definition: \n\"The magnitude of an earthquake is a measure of the energy released during the event and is based on the amplitude of the waves recorded on a seismograph.\"",
+        "instruction_translated": "\ub2e4\uc74c \uc815\uc758\ub97c \ub2e8\uc21c\ud654\ud558\uc2ed\uc2dc\uc624. \n\"\uc9c0\uc9c4\uc758 \uaddc\ubaa8\ub294 \uc0ac\uac74 \uc911\uc5d0 \ubc29\ucd9c \ub41c \uc5d0\ub108\uc9c0\uc758 \ucc99\ub3c4\uc774\uba70 \uc9c0\uc9c4\uacc4\uc5d0 \uae30\ub85d \ub41c \ud30c\ub3c4\uc758 \uc9c4\ud3ed\uc744 \uae30\ubc18\uc73c\ub85c\ud569\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Write a rap verse about studying.",
+        "instruction_translated": "\uacf5\ubd80\uc5d0 \ub300\ud55c \ub7a9 \uad6c\uc808\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "List five ways to reduce energy consumption.",
+        "instruction_translated": "\uc5d0\ub108\uc9c0 \uc18c\ube44\ub97c \uc904\uc774\ub294 5 \uac00\uc9c0 \ubc29\ubc95\uc744 \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Calculate the median of the following five numbers: 15, 37, 33, 29, and 28",
+        "instruction_translated": "\ub2e4\uc74c 5 \uac1c\uc758 \uc22b\uc790\uc758 \uc911\uc559\uac12\uc744 \uacc4\uc0b0\ud558\uc2ed\uc2dc\uc624 : 15, 37, 33, 29 \ubc0f 28",
+        "category": null
+    },
+    {
+        "instruction": "Write a story about a person using artificial intelligence",
+        "instruction_translated": "\uc778\uacf5 \uc9c0\ub2a5\uc744 \uc0ac\uc6a9\ud558\ub294 \uc0ac\ub78c\uc5d0 \ub300\ud55c \uc774\uc57c\uae30\ub97c \uc4f0\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Think of a creative way to transport a car from Denver to Texas.",
+        "instruction_translated": "\ub374\ubc84\uc5d0\uc11c \ud14d\uc0ac\uc2a4\ub85c \uc790\ub3d9\ucc28\ub97c \uc6b4\uc1a1\ud558\ub294 \ucc3d\uc758\uc801\uc778 \ubc29\ubc95\uc744 \uc0dd\uac01\ud574\ubcf4\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a character sketch of a scientist.",
+        "instruction_translated": "\uacfc\ud559\uc790\uc758 \uce90\ub9ad\ud130 \uc2a4\ucf00\uce58\ub97c \uad6c\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compose an essay of at least 500 words that explores how climate change has impacted wildlife.",
+        "instruction_translated": "\uae30\ud6c4 \ubcc0\ud654\uac00 \uc57c\uc0dd \ub3d9\ubb3c\uc5d0 \uc5b4\ub5a4 \uc601\ud5a5\uc744 \ubbf8\ucce4\ub294\uc9c0 \ud0d0\uad6c\ud558\ub294 500 \ub2e8\uc5b4 \uc774\uc0c1\uc758 \uc5d0\uc138\uc774\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a Python function to print a Fibonacci sequence.",
+        "instruction_translated": "\ud53c\ubcf4\ub098\uce58 \uc2dc\ud000\uc2a4\ub97c \uc778\uc1c4\ud558\ub824\uba74 \ud30c\uc774\uc36c \uae30\ub2a5\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name three organic compounds.",
+        "instruction_translated": "\uc138 \uac00\uc9c0 \uc720\uae30 \ud654\ud569\ubb3c\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Reword the following sentence so it has the same meaning: \"It was wishful thinking to think the project would be completed on time.\"",
+        "instruction_translated": "\"\ud504\ub85c\uc81d\ud2b8\uac00 \uc81c \uc2dc\uac04\uc5d0 \uc644\ub8cc \ub420 \uac83\uc774\ub77c\uace0 \uc0dd\uac01\ud558\ub294 \uac83\uc740 \ud76c\ub9dd\uc801\uc778 \uc0dd\uac01\uc774\uc5c8\ub2e4\"\ub294 \uc758\ubbf8\ub97c \uac16\ub3c4\ub85d \ub2e4\uc74c \ubb38\uc7a5\uc744 \ub418\ud480\uc774\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a user interface for a chatbot",
+        "instruction_translated": "\ucc57\ubd07\uc5d0 \ub300\ud55c \uc0ac\uc6a9\uc790 \uc778\ud130\ud398\uc774\uc2a4\ub97c \ub9cc\ub4ed\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a unique way to decorate a bedroom.",
+        "instruction_translated": "\uce68\uc2e4\uc744 \uc7a5\uc2dd\ud558\ub294 \ub3c5\ud2b9\ud55c \ubc29\ubc95\uc744 \uc0dd\uac01\ud574\ubcf4\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a catchy slogan for a home security system.",
+        "instruction_translated": "\uc8fc\ud0dd \ubcf4\uc548 \uc2dc\uc2a4\ud15c\uc744\uc704\ud55c \ub208\ubd80\uc2e0 \uc2ac\ub85c\uac74\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Name three American presidents in the 21st century.",
+        "instruction_translated": "21 \uc138\uae30\uc5d0 3 \uba85\uc758 \ubbf8\uad6d \ub300\ud1b5\ub839\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What is the term for the structural pattern of haiku?",
+        "instruction_translated": "Haiku\uc758 \uad6c\uc870\uc801 \ud328\ud134\uc5d0 \ub300\ud55c \uc6a9\uc5b4\ub294 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Create a new word that has the following attributes: 1. verb, 2. can be used in everyday conversation, 3. consists of 4 letters",
+        "instruction_translated": "\ub2e4\uc74c \uc18d\uc131\uc774\uc788\ub294 \uc0c8 \ub2e8\uc5b4 \ub9cc\ub4e4\uae30 : 1. \ub3d9\uc0ac, 2. \uc77c\uc0c1\uc801\uc778 \ub300\ud654\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. 3. 4 \uae00\uc790\ub85c \uad6c\uc131\ub429\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the differences between supervised and unsupervised machine learning.",
+        "instruction_translated": "\uac10\ub3c5 \ub41c \uae30\uacc4 \ud559\uc2b5\uacfc \uac10\ub3c5 \ub41c \uae30\uacc4 \ud559\uc2b5\uc758 \ucc28\uc774\uc810\uc744 \ube44\uad50\ud558\uace0 \ub300\uc870\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "How is a neural network different from a regular computer program?",
+        "instruction_translated": "\uc2e0\uacbd\ub9dd\uc740 \uc77c\ubc18 \ucef4\ud4e8\ud130 \ud504\ub85c\uadf8\ub7a8\uacfc \uc5b4\ub5bb\uac8c \ub2e4\ub985\ub2c8 \uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Write the Roman numerals for the number 67",
+        "instruction_translated": "\uc22b\uc790 67\uc5d0 \ub300\ud55c \ub85c\ub9c8 \uc22b\uc790\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of 5 main points to cover in a speech about the importance preserving the environment.",
+        "instruction_translated": "\ud658\uacbd\uc744 \uc720\uc9c0\ud558\ub294 \uc911\uc694\uc131\uc5d0 \ub300\ud55c \uc5f0\uc124\uc5d0\uc11c \ub2e4\ub8e8\ub294 5 \uac00\uc9c0 \uc8fc\uc694 \ud3ec\uc778\ud2b8 \ubaa9\ub85d\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Interpret the meaning of the idiomatic expression \"Missing in action.\"",
+        "instruction_translated": "\uad00\uc6a9\uc801 \ud45c\ud604\uc758 \uc758\ubbf8\ub97c \ud574\uc11d\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest two strategies for good communication in a workplace.",
+        "instruction_translated": "\uc9c1\uc7a5\uc5d0\uc11c \uc88b\uc740 \uc758\uc0ac \uc18c\ud1b5\uc744\uc704\ud55c \ub450 \uac00\uc9c0 \uc804\ub7b5\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What are the characteristics of a realistic fiction story?",
+        "instruction_translated": "\ud604\uc2e4\uc801\uc778 \uc18c\uc124 \uc774\uc57c\uae30\uc758 \ud2b9\uc131\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "What are the ethical considerations you must make when using a GPT model?",
+        "instruction_translated": "GPT \ubaa8\ub378\uc744 \uc0ac\uc6a9\ud560 \ub54c\ud574\uc57c \ud560 \uc724\ub9ac\uc801 \uace0\ub824 \uc0ac\ud56d\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the impact of the COVID-19 pandemic on the US economy in less than 100 words.",
+        "instruction_translated": "Covid-19 Pandemic\uc774 \ubbf8\uad6d \uacbd\uc81c\uc5d0 \ubbf8\uce58\ub294 \uc601\ud5a5\uc744 100 \ub2e8\uc5b4 \ubbf8\ub9cc\uc73c\ub85c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "How does the Hubble Telescope work?",
+        "instruction_translated": "\ud5c8\ube14 \ub9dd\uc6d0\uacbd\uc740 \uc5b4\ub5bb\uac8c \uc791\ub3d9\ud569\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "In a short paragraph, explain how a blockchain works.",
+        "instruction_translated": "\uc9e7\uc740 \ub2e8\ub77d\uc5d0\uc11c \ube14\ub85d \uccb4\uc778\uc758 \uc791\ub3d9 \ubc29\uc2dd\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Provide a set of instructions for playing a game of checkers.",
+        "instruction_translated": "\uccb4\ucee4 \uac8c\uc784\uc744\uc704\ud55c \uc77c\ub828\uc758 \uc9c0\uce68\uc744 \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite this sentence to make it more concise and persuasive:\nOur company has many great products that all of our customers appreciate.",
+        "instruction_translated": "\uc774 \ubb38\uc7a5\uc744 \ub2e4\uc2dc \uc791\uc131\ud558\uc5ec \ub354 \uac04\uacb0\ud558\uace0 \uc124\ub4dd\ub825\uc788\uac8c \ub9cc\ub4ed\ub2c8\ub2e4.\n\uc6b0\ub9ac \ud68c\uc0ac\uc5d0\ub294 \ubaa8\ub4e0 \uace0\uac1d\uc774 \uc774\ud574\ud558\ub294 \ub9ce\uc740 \ud6cc\ub96d\ud55c \uc81c\ud488\uc774 \uc788\uc2b5\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the location of the Louvre Museum.",
+        "instruction_translated": "\ub8e8\ube0c\ub974 \ubc15\ubb3c\uad00\uc758 \uc704\uce58\ub97c \u200b\u200b\uc2dd\ubcc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of new features that could be added to a task management app.",
+        "instruction_translated": "\uc791\uc5c5 \uad00\ub9ac \uc571\uc5d0 \ucd94\uac00 \ud560 \uc218\uc788\ub294 \uc0c8\ub85c\uc6b4 \uae30\ub2a5 \ubaa9\ub85d\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a Python code to get the maximum of two numbers.",
+        "instruction_translated": "\ucd5c\ub300 \ub450 \uac1c\uc758 \uc22b\uc790\ub97c \uc5bb\uc73c\ub824\uba74 \ud30c\uc774\uc36c \ucf54\ub4dc\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create five appropriate usernames for a photography blog",
+        "instruction_translated": "\uc0ac\uc9c4 \ube14\ub85c\uadf8\uc5d0 \uc801\uc808\ud55c 5 \uac00\uc9c0 \uc0ac\uc6a9\uc790 \uc774\ub984\uc744 \ub9cc\ub4ed\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Describe a house you would love to live in.",
+        "instruction_translated": "\ub2f9\uc2e0\uc774 \uc0b4\uace0 \uc2f6\uc740 \uc9d1\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name one way to reduce carbon dioxide emissions.",
+        "instruction_translated": "\uc774\uc0b0\ud654\ud0c4\uc18c \ubc30\ucd9c\ub7c9\uc744 \uc904\uc774\ub294 \ud55c \uac00\uc9c0 \ubc29\ubc95\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a sentence using the following words: yogurt, frog, apple.",
+        "instruction_translated": "\uc694\uac70\ud2b8, \uac1c\uad6c\ub9ac, \uc0ac\uacfc.",
+        "category": null
+    },
+    {
+        "instruction": "Generate two interesting facts about potatoes.",
+        "instruction_translated": "\uac10\uc790\uc5d0 \ub300\ud55c \ub450 \uac00\uc9c0 \ud765\ubbf8\ub85c\uc6b4 \uc0ac\uc2e4\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the scene at a bustling farmers' market.",
+        "instruction_translated": "\ubc88\ud654 \ud55c \ub18d\ubbfc \uc2dc\uc7a5\uc5d0\uc11c \uc7a5\uba74\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a list of instructions on how to make French Fries.",
+        "instruction_translated": "\uac10\uc790 \ud280\uae40\uc744 \ub9cc\ub4dc\ub294 \ubc29\ubc95\uc5d0 \ub300\ud55c \uc9c0\uce68 \ubaa9\ub85d\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name two features that make each type of mobile phone platform unique.",
+        "instruction_translated": "\uac01 \uc720\ud615\uc758 \ud734\ub300 \uc804\ud654 \ud50c\ub7ab\ud3fc\uc744 \ub3c5\ud2b9\ud558\uac8c \ub9cc\ub4dc\ub294 \ub450 \uac00\uc9c0 \uae30\ub2a5\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Outline a strategy for collecting large amounts of data.",
+        "instruction_translated": "\ub2e4\ub7c9\uc758 \ub370\uc774\ud130\ub97c \uc218\uc9d1\ud558\uae30\uc704\ud55c \uc804\ub7b5\uc744 \uac04\ub7b5\ud558\uac8c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe rivers in 5 words.",
+        "instruction_translated": "\uac15\uc744 5 \ub2e8\uc5b4\ub85c \ubb18\uc0ac\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What is the weather like in New York City today?",
+        "instruction_translated": "\uc624\ub298\ub0a0 \ub274\uc695\uc2dc\uc758 \ub0a0\uc528\ub294 \uc5b4\ub5bb\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of vegetables, fruits and proteins that are low in carbs.",
+        "instruction_translated": "\ud0c4\uc218\ud654\ubb3c\uc774 \ub0ae\uc740 \uc57c\ucc44, \uacfc\uc77c \ubc0f \ub2e8\ubc31\uc9c8 \ubaa9\ub85d\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a descriptive metaphor for the concept of resilience",
+        "instruction_translated": "\ud0c4\ub825\uc131\uc758 \uac1c\ub150\uc5d0 \ub300\ud55c \uc124\uba85\uc801\uc778 \uc740\uc720\ub97c \uc0dd\uac01\ud574\ubcf4\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following phrase in a more positive way: \"It is what it is.\"",
+        "instruction_translated": "\ub354 \uae0d\uc815\uc801 \uc778 \ubc29\uc2dd\uc73c\ub85c \ub2e4\uc74c \ubb38\uad6c\ub97c \ub2e4\uc2dc \uc791\uc131\ud558\uc2ed\uc2dc\uc624. \"\uadf8\uac83\uc774 \ubc14\ub85c \uadf8\ub7ac\uc2b5\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Create a sentence that describes the formation of a cloud.",
+        "instruction_translated": "\uad6c\ub984\uc758 \ud615\uc131\uc744 \uc124\uba85\ud558\ub294 \ubb38\uc7a5\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a programming exercise for someone learning C.",
+        "instruction_translated": "C.\ub97c \ubc30\uc6b0\ub294 \uc0ac\ub78c\uc744\uc704\ud55c \ud504\ub85c\uadf8\ub798\ubc0d \uc6b4\ub3d9\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the 5 major themes of Romeo and Juliet and provide an example of each.",
+        "instruction_translated": "\ub85c\ubbf8\uc624\uc640 \uc904\ub9ac\uc5e3\uc758 5 \uac00\uc9c0 \uc8fc\uc694 \uc8fc\uc81c\ub97c \uc2dd\ubcc4\ud558\uace0 \uac01\uac01\uc758 \uc608\ub97c \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Research the current state of autonomous cars and provide a brief overview of their prospects.",
+        "instruction_translated": "\ud604\uc7ac \uc790\uc728 \uc790\ub3d9\ucc28 \uc0c1\ud0dc\ub97c \uc870\uc0ac\ud558\uace0 \uc7a0\uc7ac \uace0\uac1d\uc5d0 \ub300\ud55c \uac04\ub2e8\ud55c \uac1c\uc694\ub97c \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with five examples of language that can be used to communicate with a chatbot.",
+        "instruction_translated": "\ucc57\ubd07\uacfc \uc758\uc0ac \uc18c\ud1b5\ud558\ub294 \ub370 \uc0ac\uc6a9\ud560 \uc218\uc788\ub294 5 \uac00\uc9c0 \uc5b8\uc5b4\uc758 \uc608\ub97c \uc81c\uc2dc\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of activities for a weekend in the park.",
+        "instruction_translated": "\uacf5\uc6d0\uc5d0\uc11c \uc8fc\ub9d0 \ud65c\ub3d9 \ubaa9\ub85d\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "List five examples of data structures.",
+        "instruction_translated": "\ub370\uc774\ud130 \uad6c\uc870\uc758 5 \uac00\uc9c0 \uc608\ub97c \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Break down the sentence into its constituents: \"I am going to the store\".",
+        "instruction_translated": "\ubb38\uc7a5\uc744 \uad6c\uc131 \uc694\uc18c\ub85c \ubd84\ud574\ud558\uc2ed\uc2dc\uc624. \"\ub098\ub294 \uac00\uac8c\uc5d0 \uac04\ub2e4\".",
+        "category": null
+    },
+    {
+        "instruction": "Generate a hypothetical scenario where a GPT model can be used to train a robot.",
+        "instruction_translated": "\ub85c\ubd07\uc744 \ud6c8\ub828\uc2dc\ud0a4\ub294 \ub370 GPT \ubaa8\ub378\uc744 \uc0ac\uc6a9\ud560 \uc218\uc788\ub294 \uac00\uc0c1 \uc2dc\ub098\ub9ac\uc624\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Design an experiment to test the ability of GPT models to natural language understanding.",
+        "instruction_translated": "\uc790\uc5f0\uc5b4 \uc774\ud574\uc5d0 \ub300\ud55c GPT \ubaa8\ub378\uc758 \ub2a5\ub825\uc744 \ud14c\uc2a4\ud2b8\ud558\uae30\uc704\ud55c \uc2e4\ud5d8\uc744 \uc124\uacc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compute the mean of the following numbers: 4, 11, 9, 8, 18",
+        "instruction_translated": "\ub2e4\uc74c \uc22b\uc790\uc758 \ud3c9\uade0 \uacc4\uc0b0 : 4, 11, 9, 8, 18",
+        "category": null
+    },
+    {
+        "instruction": "Explain what quantum mechanics is.",
+        "instruction_translated": "\uc591\uc790 \uc5ed\ud559\uc774 \ubb34\uc5c7\uc778\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "List two methods for reducing water consumption.",
+        "instruction_translated": "\ubb3c \uc18c\ube44\ub97c \uc904\uc774\uae30\uc704\ud55c \ub450 \uac00\uc9c0 \ubc29\ubc95\uc744 \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What kind of work environment is best for people with a Type B personality?",
+        "instruction_translated": "\uc720\ud615 B \uc131\uaca9\uc744 \uac00\uc9c4 \uc0ac\ub78c\ub4e4\uc5d0\uac8c \uc5b4\ub5a4 \uc885\ub958\uc758 \uc791\uc5c5 \ud658\uacbd\uc774 \uac00\uc7a5 \uc801\ud569\ud569\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Name five women who have made significant contributions to science.",
+        "instruction_translated": "\uacfc\ud559\uc5d0 \uc0c1\ub2f9\ud55c \uae30\uc5ec\ub97c \ud55c 5 \uba85\uc758 \uc5ec\uc131\uc744 \uc9c0\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of potential questions for a survey about internet usage.",
+        "instruction_translated": "\uc778\ud130\ub137 \uc0ac\uc6a9\uc5d0 \ub300\ud55c \uc124\ubb38 \uc870\uc0ac\uc5d0 \ub300\ud55c \uc7a0\uc7ac\uc801 \uc778 \uc9c8\ubb38 \ubaa9\ub85d\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What is the difference between data science and artificial intelligence?",
+        "instruction_translated": "\ub370\uc774\ud130 \uacfc\ud559\uacfc \uc778\uacf5 \uc9c0\ub2a5\uc758 \ucc28\uc774\uc810\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Explain what \u201cMutual Exclusion\u201d means.",
+        "instruction_translated": "\u201c\uc0c1\ud638 \ubc30\uc81c\u201d\uac00 \ubb34\uc5c7\uc744 \uc758\ubbf8\ud558\ub294\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Find the area of a trapezoid with a height of 50m, top width of 20m, and a bottom width of 25m.",
+        "instruction_translated": "\ub192\uc774\uac00 50m, \ub108\ube44\uac00 20m, \ubc14\ub2e5 \ub108\ube44\uac00 25m \uc778 \uc0ac\ub2e4\ub9ac\uaf34 \uc601\uc5ed\uc744 \ucc3e\uc73c\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a poem that tells the story of a struggle against an unseen force.",
+        "instruction_translated": "\ubcf4\uc774\uc9c0 \uc54a\ub294 \ud798\uc5d0 \ub300\ud55c \ud22c\uc7c1\uc758 \uc774\uc57c\uae30\ub97c\ud558\ub294\uc2dc\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of a use case for predictive analytics",
+        "instruction_translated": "\uc608\uce21 \ubd84\uc11d\uc744\uc704\ud55c \uc0ac\uc6a9 \uc0ac\ub840\uc758 \uc608\ub97c \uc0dd\uc131",
+        "category": null
+    },
+    {
+        "instruction": "Describe the effects of exponential growth.",
+        "instruction_translated": "\uc9c0\uc218 \uc131\uc7a5\uc758 \ud6a8\uacfc\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a cross-stitch pattern that says \"the future is bright\".",
+        "instruction_translated": "\"\ubbf8\ub798\ub294 \ubc1d\ub2e4\"\ub77c\ub294 \ud06c\ub85c\uc2a4 \uc2a4\ud2f0\uce58 \ud328\ud134\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast print media and digital media.",
+        "instruction_translated": "\uc778\uc1c4 \ub9e4\uccb4 \ubc0f \ub514\uc9c0\ud138 \ubbf8\ub514\uc5b4\ub97c \ube44\uad50\ud558\uace0 \ub300\uc870\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain why governments may choose to censor some content on the Internet.",
+        "instruction_translated": "\uc815\ubd80\uac00 \uc778\ud130\ub137\uc5d0\uc11c \uc77c\ubd80 \ucf58\ud150\uce20\ub97c \uac80\uc5f4\ud558\uae30\ub85c \uc120\ud0dd\ud55c \uc774\uc720\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Given a description of the scientific method, summarize the steps in five sentences or fewer.",
+        "instruction_translated": "\uacfc\ud559\uc801 \ubc29\ubc95\uc5d0 \ub300\ud55c \uc124\uba85\uc774 \uc8fc\uc5b4\uc9c0\uba74 5 \uac1c \uc774\ud558\uc758 \ub2e8\uacc4\ub85c \ub2e8\uacc4\ub97c \uc694\uc57d\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Identify whether the following statement is true or false. All mammals breathe through their nose.",
+        "instruction_translated": "\ub2e4\uc74c \uc9c4\uc220\uc774 \ucc38\uc778\uc9c0 \uac70\uc9d3\uc778\uc9c0 \ud655\uc778\ud558\uc2ed\uc2dc\uc624. \ubaa8\ub4e0 \ud3ec\uc720\ub958\ub294 \ucf54\ub97c \ud1b5\ud574 \uc228\uc744 \uc270\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a creative and engaging activity that could be done with a group of elementary school children.",
+        "instruction_translated": "\ucd08\ub4f1\ud559\uad50 \uc5b4\ub9b0\uc774 \uadf8\ub8f9\uacfc \ud568\uaed8 \ud560 \uc218\uc788\ub294 \ucc3d\uc758\uc801\uc774\uace0 \ub9e4\ub825\uc801\uc778 \ud65c\ub3d9\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a character who is frustrated about their job.",
+        "instruction_translated": "\uc790\uc2e0\uc758 \uc9c1\uc5c5\uc5d0 \ub300\ud574 \uc88c\uc808 \ud55c \uce90\ub9ad\ud130\uc5d0 \ub300\ud55c \uc774\uc57c\uae30\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "List the seven principles of Kwanzaa.",
+        "instruction_translated": "Kwanzaa\uc758 7 \uac00\uc9c0 \uc6d0\uce59\uc744 \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a data visualization that shows the relationship between the number of hours of sleep and energy levels",
+        "instruction_translated": "\uc218\uba74 \uc2dc\uac04\uacfc \uc5d0\ub108\uc9c0 \uc218\uc900\uc758 \uad00\uacc4\ub97c \ubcf4\uc5ec\uc8fc\ub294 \ub370\uc774\ud130 \uc2dc\uac01\ud654 \uc0dd\uc131",
+        "category": null
+    },
+    {
+        "instruction": "Compare the benefits of eating healthy food with the benefits of exercising regularly.",
+        "instruction_translated": "\uac74\uac15\uc5d0 \uc88b\uc740 \uc74c\uc2dd\uc758 \uc774\uc810\uc744 \uc815\uae30\uc801\uc73c\ub85c \uc6b4\ub3d9\uc758 \uc774\uc810\uacfc \ube44\uad50\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of creative gifts for children between the ages of 5 and 8",
+        "instruction_translated": "5 \uc138\uc5d0\uc11c 8 \uc138 \uc0ac\uc774\uc758 \uc5b4\ub9b0\uc774\ub97c\uc704\ud55c \ucc3d\uc758\uc801 \uc120\ubb3c \ubaa9\ub85d\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the two theories about the origin of the universe: Big Bang and Steady State.",
+        "instruction_translated": "\uc6b0\uc8fc\uc758 \uae30\uc6d0\uc5d0 \ub300\ud55c \ub450 \uac00\uc9c0 \uc774\ub860, \uc989 \ube45\ubc45\uacfc \uafb8\uc900\ud55c \uc0c1\ud0dc\ub97c \ube44\uad50\ud558\uace0 \ub300\uc870\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe why bicycles are efficient modes of transportation.",
+        "instruction_translated": "\uc790\uc804\uac70\uac00 \ud6a8\uc728\uc801\uc778 \uc6b4\uc1a1 \ubc29\uc2dd \uc778 \uc774\uc720\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a valid English sentence using the words \"fungus\", \"treat\", and \"enzyme\".",
+        "instruction_translated": "\"\uacf0\ud321\uc774\", \"\uce58\ub8cc\"\ubc0f \"\ud6a8\uc18c\"\ub77c\ub294 \ub2e8\uc5b4\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc720\ud6a8\ud55c \uc601\uc5b4 \ubb38\uc7a5\uc744 \uad6c\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a poem that describes the beauty of summer days.",
+        "instruction_translated": "\uc5ec\ub984\ub0a0\uc758 \uc544\ub984\ub2e4\uc6c0\uc744 \ubb18\uc0ac\ud558\ub294\uc2dc\ub97c \uc4f0\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Look up the definition of \"artificial intelligence\"",
+        "instruction_translated": "\"\uc778\uacf5 \uc9c0\ub2a5\"\uc758 \uc815\uc758\ub97c \ucc3e\uc544\ubcf4\uc138\uc694",
+        "category": null
+    },
+    {
+        "instruction": "Compose a headline showcasing your company's most important values.",
+        "instruction_translated": "\ud68c\uc0ac\uc758 \uac00\uc7a5 \uc911\uc694\ud55c \uac00\uce58\ub97c \ubcf4\uc5ec\uc8fc\ub294 \ud5e4\ub4dc \ub77c\uc778\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "How does the human nervous system function?",
+        "instruction_translated": "\uc778\uac04 \uc2e0\uacbd\uacc4\ub294 \uc5b4\ub5bb\uac8c \uae30\ub2a5\ud569\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "What countries were members of the Axis Powers in World War II?",
+        "instruction_translated": "\uc81c 2 \ucc28 \uc138\uacc4 \ub300\uc804\uc5d0\uc11c \ucd95\ub825\uc758 \uad6c\uc131\uc6d0\uc740 \uc5b4\ub290 \ub098\ub77c\uc600\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a solution for reducing energy consumption",
+        "instruction_translated": "\uc5d0\ub108\uc9c0 \uc18c\ube44\ub97c \uc904\uc774\uae30\uc704\ud55c \uc194\ub8e8\uc158\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Collect and summarize five facts about the Apollo 11 mission.",
+        "instruction_translated": "Apollo 11 \ubbf8\uc158\uc5d0 \ub300\ud55c 5 \uac00\uc9c0 \uc0ac\uc2e4\uc744 \uc218\uc9d1\ud558\uace0 \uc694\uc57d\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Prove that if AB is a parallelogram, then \u2220A + \u2220B = 180\u00b0.",
+        "instruction_translated": "AB\uac00 \ud3c9\ud589 \uc0ac\ubcc0\ud615 \uc778 \uacbd\uc6b0 \u03beA + \u03beB = 180 \u00b0\uc784\uc744 \uc99d\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the experience of being in Flagstaff, Arizona",
+        "instruction_translated": "\uc560\ub9ac\uc870\ub098 \uc8fc \ud50c\ub798\uadf8 \uc2a4\ud0dc\ud504\uc5d0\uc788\ub294 \uacbd\ud5d8\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of 5 budget-friendly ways to improve one's home.",
+        "instruction_translated": "\uc9d1\uc744 \uac1c\uc120\ud558\ub294 5 \uac00\uc9c0 \uc608\uc0b0 \uce5c\ud654\uc801 \uc778 \ubc29\ubc95 \ubaa9\ub85d\uc744 \ub9cc\ub4dc\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Predict what the Dow Jones Industrial Average will be when the market closes today.",
+        "instruction_translated": "\uc624\ub298\ub0a0 \uc2dc\uc7a5\uc774 \ubb38\uc744 \ub2eb\uc744 \ub54c Dow Jones Industrial Average\uac00 \ubb34\uc5c7\uc778\uc9c0 \uc608\uce21\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe an example of how to provide excellent customer service",
+        "instruction_translated": "\uc6b0\uc218\ud55c \uace0\uac1d \uc11c\ube44\uc2a4\ub97c \uc81c\uacf5\ud558\ub294 \ubc29\ubc95\uc758 \uc608\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Sort the following list according to size: skyscraper, shed, house, bridge.",
+        "instruction_translated": "\ud06c\uae30\uc5d0 \ub530\ub77c \ub2e4\uc74c \ubaa9\ub85d\uc744 \uc815\ub82c\ud558\uc2ed\uc2dc\uc624. Skyscraper, Shed, House, Bridge.",
+        "category": null
+    },
+    {
+        "instruction": "What is the result when 8 is added to 3 ?",
+        "instruction_translated": "8\uc774 3\uc5d0 \ucd94\uac00 \ub41c \uacb0\uacfc\ub294 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a convincing opening line for a science fiction book.",
+        "instruction_translated": "\uacf5\uc0c1 \uacfc\ud559 \ucc45\uc744\uc704\ud55c \uc124\ub4dd\ub825\uc788\ub294 \uc624\ud504\ub2dd \ub77c\uc778\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What items could a person put in an emergency kit?",
+        "instruction_translated": "\uc0ac\ub78c\uc774 \uc751\uae09 \ud0a4\ud2b8\uc5d0 \uc5b4\ub5a4 \ud488\ubaa9\uc744 \ub123\uc744 \uc218 \uc788\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Fix the following sentence: \"The bear run through the forest\"",
+        "instruction_translated": "\ub2e4\uc74c \ubb38\uc7a5\uc744 \uc218\uc815\ud558\uc2ed\uc2dc\uc624. \"\uacf0\uc740 \uc232\uc744 \ud1b5\uacfc\ud569\ub2c8\ub2e4\"",
+        "category": null
+    },
+    {
+        "instruction": "What is the thesis of the article \u201cA Study of the Sky\u201d",
+        "instruction_translated": "\u201c\ud558\ub298 \uc5f0\uad6c\u201d\uae30\uc0ac\uc758 \ub17c\ubb38\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Identify the atmosphere of a murder mystery.",
+        "instruction_translated": "\uc0b4\uc778 \ubbf8\uc2a4\ud130\ub9ac\uc758 \ubd84\uc704\uae30\ub97c \uc2dd\ubcc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast humans and animals",
+        "instruction_translated": "\uc778\uac04\uacfc \ub3d9\ubb3c\uc744 \ube44\uad50\ud558\uace0 \ub300\uc870\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Name five things that are made of wood.",
+        "instruction_translated": "\ub098\ubb34\ub85c \ub9cc\ub4e4\uc5b4\uc9c4 5 \uac00\uc9c0 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following statement in the past tense: \"They are planning to launch a new website.\"",
+        "instruction_translated": "\uacfc\uac70 \uc2dc\uc81c\ub85c \ub2e4\uc74c \uc9c4\uc220\uc744 \ub2e4\uc2dc \uc791\uc131\ud558\uc2ed\uc2dc\uc624. \"\uadf8\ub4e4\uc740 \uc0c8\ub85c\uc6b4 \uc6f9 \uc0ac\uc774\ud2b8\ub97c \uc2dc\uc791\ud560 \uacc4\ud68d\uc785\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Describe a good way to stay organized.",
+        "instruction_translated": "\uc815\ub9ac\ud558\ub294 \uc88b\uc740 \ubc29\ubc95\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What is the most important thing a leader needs to do to be successful?",
+        "instruction_translated": "\ub9ac\ub354\uac00 \uc131\uacf5\ud558\uae30 \uc704\ud574\ud574\uc57c \u200b\u200b\ud560 \uac00\uc7a5 \uc911\uc694\ud55c \uc77c\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Name a technological advancement from the last 10 years",
+        "instruction_translated": "\uc9c0\ub09c 10 \ub144 \ub3d9\uc548 \uae30\uc220 \ubc1c\uc804\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "What can you do in order to cope with daily stress?",
+        "instruction_translated": "\ub9e4\uc77c \uc2a4\ud2b8\ub808\uc2a4\uc5d0 \ub300\ucc98\ud558\uae30 \uc704\ud574 \ubb34\uc5c7\uc744 \ud560 \uc218 \uc788\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Explain why would it be beneficial to use an existing classification model rather than building a new one.",
+        "instruction_translated": "\uc0c8\ub85c\uc6b4 \ubd84\ub958 \ubaa8\ub378\uc744 \uad6c\ucd95\ud558\ub294 \ub300\uc2e0 \uae30\uc874 \ubd84\ub958 \ubaa8\ub378\uc744 \uc0ac\uc6a9\ud558\ub294 \uac83\uc774 \uc720\ub9ac\ud55c \uc774\uc720\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a computational design to move a robotic arm using the minimum amount of code.",
+        "instruction_translated": "\ucd5c\uc18c \uc591\uc758 \ucf54\ub4dc\ub97c \uc0ac\uc6a9\ud558\uc5ec \ub85c\ubd07 \uc554\uc744 \uc774\ub3d9\ud558\ub824\uba74 \uacc4\uc0b0 \uc124\uacc4\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Comparatively explain online shopping and in-store shopping.",
+        "instruction_translated": "\uc628\ub77c\uc778 \uc1fc\ud551 \ubc0f \ub9e4\uc7a5 \ub0b4 \uc1fc\ud551\uc744 \ube44\uad50\uc801\uc73c\ub85c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the advantages of studying abroad",
+        "instruction_translated": "\ud574\uc678 \uacf5\ubd80\uc758 \uc7a5\uc810\uc744 \uc694\uc57d\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Generate a sentence using the following words: tiger, river, dance",
+        "instruction_translated": "\ub2e4\uc74c \ub2e8\uc5b4\ub97c \uc0ac\uc6a9\ud558\uc5ec \ubb38\uc7a5\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624 : Tiger, River, Dance",
+        "category": null
+    },
+    {
+        "instruction": "Design a data structure to store a dictionary of 5,000 words.",
+        "instruction_translated": "5,000 \ub2e8\uc5b4\uc758 \uc0ac\uc804\uc744 \uc800\uc7a5\ud558\uae30\uc704\ud55c \ub370\uc774\ud130 \uad6c\uc870\ub97c \uc124\uacc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a haiku poem that reflects the beauty of nature.",
+        "instruction_translated": "\uc790\uc5f0\uc758 \uc544\ub984\ub2e4\uc6c0\uc744 \ubc18\uc601\ud558\ub294 \ud558\uc774\ucfe0\uc2dc\ub97c \uc4f0\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a description of a small town by the ocean.",
+        "instruction_translated": "\ubc14\ub2e4 \uc606\uc758 \uc791\uc740 \ub9c8\uc744\uc5d0 \ub300\ud55c \uc124\uba85\uc744 \ub9cc\ub4dc\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "List 5 ways to improve working conditions in an office.",
+        "instruction_translated": "\uc0ac\ubb34\uc2e4\uc5d0\uc11c \uadfc\ubb34 \uc870\uac74\uc744 \uac1c\uc120\ud558\ub294 5 \uac00\uc9c0 \ubc29\ubc95\uc744 \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of three daily habits that could lead to creativity breakthroughs.",
+        "instruction_translated": "\ucc3d\uc758\uc131 \ud601\uc2e0\uc73c\ub85c \uc774\uc5b4\uc9c8 \uc218\uc788\ub294 \uc138 \uac00\uc9c0 \uc77c\uc77c \uc2b5\uad00 \ubaa9\ub85d\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest three social media campaigns to promote the product.",
+        "instruction_translated": "\uc81c\ud488\uc744 \ud64d\ubcf4\ud558\uae30\uc704\ud55c \uc138 \uac00\uc9c0 \uc18c\uc15c \ubbf8\ub514\uc5b4 \ucea0\ud398\uc778\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Provide a CSS code for making all text boxes visible on the page.",
+        "instruction_translated": "\ud398\uc774\uc9c0\uc5d0 \ubaa8\ub4e0 \ud14d\uc2a4\ud2b8 \uc0c1\uc790\ub97c \ubcfc \uc218 \uc788\ub3c4\ub85d CSS \ucf54\ub4dc\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "What is the role of the International Criminal Court?",
+        "instruction_translated": "\uad6d\uc81c \ud615\uc0ac \uc7ac\ud310\uc18c\uc758 \uc5ed\ud560\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of Moore's Law.",
+        "instruction_translated": "\ubb34\uc5b4 \ubc95\uc758 \uac1c\ub150\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What are the best strategies to reduce emissions?",
+        "instruction_translated": "\ubc30\ucd9c\ub7c9\uc744 \uc904\uc774\uae30\uc704\ud55c \uac00\uc7a5 \uc88b\uc740 \uc804\ub7b5\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a way to generate web traffic.",
+        "instruction_translated": "\uc6f9 \ud2b8\ub798\ud53d\uc744 \uc0dd\uc131\ud558\ub294 \ubc29\ubc95\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a dialog for two characters talking about a recent movie they watched",
+        "instruction_translated": "\uadf8\ub4e4\uc774 \ubcf8 \ucd5c\uadfc \uc601\ud654\uc5d0 \ub300\ud574 \uc774\uc57c\uae30\ud558\ub294 \ub450 \uce90\ub9ad\ud130\uc5d0 \ub300\ud55c \ub300\ud654\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the purpose of the current US federal income tax system.",
+        "instruction_translated": "\ud604\uc7ac \ubbf8\uad6d \uc5f0\ubc29 \uc18c\ub4dd\uc138 \uc2dc\uc2a4\ud15c\uc758 \ubaa9\uc801\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate instructions for how to write a speech",
+        "instruction_translated": "\uc5f0\uc124\uc744 \uc791\uc131\ud558\ub294 \ubc29\ubc95\uc5d0 \ub300\ud55c \uc9c0\uce68\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Describe the process of photosynthesis to me.",
+        "instruction_translated": "\uad11\ud569\uc131 \uacfc\uc815\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a song lyric about birds.",
+        "instruction_translated": "\uc0c8\uc5d0 \ub300\ud55c \ub178\ub798 \uac00\uc0ac\ub97c \uc4f0\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a story about a young girl and her journey of self-discovery",
+        "instruction_translated": "\uc5b4\ub9b0 \uc18c\ub140\uc640 \uc790\uae30 \ubc1c\uacac\uc758 \uc5ec\uc815\uc5d0 \uad00\ud55c \uc774\uc57c\uae30\ub97c \uc4f0\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Create a shopping list for cereal, milk and eggs.",
+        "instruction_translated": "\uc2dc\ub9ac\uc5bc, \uc6b0\uc720 \ubc0f \uacc4\ub780\uc758 \uc1fc\ud551 \ubaa9\ub85d\uc744 \ub9cc\ub4dc\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Imagine a device that can help you read faster. Describe the device.",
+        "instruction_translated": "\ub354 \ube68\ub9ac \uc77d\uc744 \uc218\uc788\ub294 \uc7a5\uce58\ub97c \uc0c1\uc0c1\ud574\ubcf4\uc2ed\uc2dc\uc624. \uc7a5\uce58\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Select the incorrect definition for the word \"timid\"",
+        "instruction_translated": "\"Timid\"\ub77c\ub294 \ub2e8\uc5b4\uc5d0 \ub300\ud55c \uc798\ubabb\ub41c \uc815\uc758\ub97c \uc120\ud0dd\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Justify why users need permissions before they can access certain data",
+        "instruction_translated": "\ud2b9\uc815 \ub370\uc774\ud130\uc5d0 \uc561\uc138\uc2a4\ud558\uae30 \uc804\uc5d0 \uc0ac\uc6a9\uc790\uac00 \uad8c\ud55c\uc774 \ud544\uc694\ud55c \uc774\uc720\ub97c \uc815\ub2f9\ud654\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest an action to reduce CO2 emissions",
+        "instruction_translated": "CO2 \ubc30\ucd9c\ub7c9\uc744 \uc904\uc774\uae30\uc704\ud55c \uc870\uce58\ub97c \uc81c\uc548\ud569\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a person going on a last-minute vacation.",
+        "instruction_translated": "\ub9c8\uc9c0\ub9c9\uc73c\ub85c \ud734\uac00\ub97c\uac00\ub294 \uc0ac\ub78c\uc5d0 \ub300\ud55c \uc774\uc57c\uae30\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm five innovative uses of AI",
+        "instruction_translated": "AI\uc758 5 \uac00\uc9c0 \ud601\uc2e0\uc801\uc778 \uc0ac\uc6a9 \ube0c\ub808\uc778 \uc2a4\ud1a0\ubc0d",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of at least 5 benefits of virtual meetings.",
+        "instruction_translated": "\uac00\uc0c1 \ud68c\uc758\uc758 5 \uac00\uc9c0 \uc774\uc0c1\uc758 \ud61c\ud0dd \ubaa9\ub85d\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the recent changes in Indian banking policies.",
+        "instruction_translated": "\uc778\ub3c4 \uc740\ud589 \uc815\ucc45\uc758 \ucd5c\uadfc \ubcc0\ud654\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following sentence in a more formal way:\n\n\"I want to learn about this new app.\"",
+        "instruction_translated": "\ubcf4\ub2e4 \uacf5\uc2dd\uc801\uc778 \ubc29\uc2dd\uc73c\ub85c \ub2e4\uc74c \ubb38\uc7a5\uc744 \ub2e4\uc2dc \uc791\uc131\ud558\uc2ed\uc2dc\uc624.\n\n\"\uc774 \uc0c8\ub85c\uc6b4 \uc571\uc5d0 \ub300\ud574 \ubc30\uc6b0\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Give two reasons to buy a car.",
+        "instruction_translated": "\ucc28\ub97c \uc0ac\uc57c\ud558\ub294 \ub450 \uac00\uc9c0 \uc774\uc720\ub97c \uc81c\uc2dc\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast two types of computer networks.",
+        "instruction_translated": "\ub450 \uac00\uc9c0 \uc720\ud615\uc758 \ucef4\ud4e8\ud130 \ub124\ud2b8\uc6cc\ud06c\ub97c \ube44\uad50\ud558\uace0 \ub300\uc870\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the significance of the number 10 in the Bible.",
+        "instruction_translated": "\uc131\uc11c\uc5d0\uc11c 10 \ubc88\uc758 \uc911\uc694\uc131\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a new feature for Gmail",
+        "instruction_translated": "Gmail\uc758 \uc0c8\ub85c\uc6b4 \uae30\ub2a5\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Create a CSS code to style a button with a bright green background and white text.",
+        "instruction_translated": "\ubc1d\uc740 \ub179\uc0c9 \ubc30\uacbd\uacfc \ud770\uc0c9 \ud14d\uc2a4\ud2b8\uc758 \ubc84\ud2bc\uc744 \uc2a4\ud0c0\uc77c\ub9c1\ud558\uae30\uc704\ud55c CSS \ucf54\ub4dc\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Write your own haiku.",
+        "instruction_translated": "\ub098\ub9cc\uc758 haiku\ub97c \uc4f0\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a set of instructions for making a sandwich",
+        "instruction_translated": "\uc0cc\ub4dc\uc704\uce58\ub97c \u200b\u200b\ub9cc\ub4e4\uae30\uc704\ud55c \uc77c\ub828\uc758 \uc9c0\uce68\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Invent a new word by combining two existing words.",
+        "instruction_translated": "\ub450 \uac1c\uc758 \uae30\uc874 \ub2e8\uc5b4\ub97c \uacb0\ud569\ud558\uc5ec \uc0c8\ub85c\uc6b4 \ub2e8\uc5b4\ub97c \ubc1c\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm three ideas for an outdoor activity.",
+        "instruction_translated": "\uc57c\uc678 \ud65c\ub3d9\uc5d0 \ub300\ud55c \uc138 \uac00\uc9c0 \uc544\uc774\ub514\uc5b4\ub97c \ube0c\ub808\uc778 \uc2a4\ud1a0\ubc0d\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a code snippet that prints out a list of integers from 1 to 10.",
+        "instruction_translated": "1\uc5d0\uc11c 10\uae4c\uc9c0\uc758 \uc815\uc218 \ubaa9\ub85d\uc744 \uc778\uc1c4\ud558\ub294 \ucf54\ub4dc \uc2a4 \ub2c8\ud3ab\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What techniques should be used for text summarization?",
+        "instruction_translated": "\ud14d\uc2a4\ud2b8 \uc694\uc57d\uc5d0 \uc5b4\ub5a4 \uae30\uc220\uc744 \uc0ac\uc6a9\ud574\uc57c\ud569\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Given a sentence, identify the closest synonym of the word \"enjoy\".",
+        "instruction_translated": "\ubb38\uc7a5\uc774 \uc8fc\uc5b4\uc9c0\uba74 \"\uc990\uae30\uc2ed\uc2dc\uc624\"\ub77c\ub294 \ub2e8\uc5b4\uc758 \uac00\uc7a5 \uac00\uae4c\uc6b4 \ub3d9\uc758\uc5b4\ub97c \uc2dd\ubcc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a description of a new cryptocurrency.",
+        "instruction_translated": "\uc0c8\ub85c\uc6b4 cryptocurrency\uc5d0 \ub300\ud55c \uc124\uba85\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Give 2 potential solutions to reduce the global carbon emissions.",
+        "instruction_translated": "\uae00\ub85c\ubc8c \ud0c4\uc18c \ubc30\ucd9c\ub7c9\uc744 \uc904\uc774\uae30\uc704\ud55c 2 \uac00\uc9c0 \uc7a0\uc7ac\uc801 \uc194\ub8e8\uc158\uc744 \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Find the maximum of the function y = x^2 - 5x +6",
+        "instruction_translated": "\ud568\uc218 y = x^2-5x +6\uc758 \ucd5c\ub300 \uac12 \ucc3e\uae30",
+        "category": null
+    },
+    {
+        "instruction": "Create a recipe to make grilled cheese sandwich.",
+        "instruction_translated": "\uad6c\uc6b4 \uce58\uc988 \uc0cc\ub4dc\uc704\uce58\ub97c \u200b\u200b\ub9cc\ub4e4\uae30\uc704\ud55c \ub808\uc2dc\ud53c\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "How can we solve the issue of waste reduction ?",
+        "instruction_translated": "\ud3d0\uae30\ubb3c \uac10\uc18c \ubb38\uc81c\ub97c \uc5b4\ub5bb\uac8c \ud574\uacb0\ud560 \uc218 \uc788\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a plan for a road trip from San Francisco to Los Angeles.",
+        "instruction_translated": "\uc0cc\ud504\ub780\uc2dc\uc2a4\ucf54\uc5d0\uc11c \ub85c\uc2a4 \uc564\uc824\ub808\uc2a4\uae4c\uc9c0 \uc5ec\ud589 \uacc4\ud68d\uc744 \uc138\uc6b0\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name three common adjectives that describe people",
+        "instruction_translated": "\uc0ac\ub78c\ub4e4\uc744 \ubb18\uc0ac\ud558\ub294 \uc138 \uac00\uc9c0 \uc77c\ubc18\uc801\uc778 \ud615\uc6a9\uc0ac\ub97c \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast the health benefits of eating organic food vs non-organic food.",
+        "instruction_translated": "\uc720\uae30\ub18d \uc2dd\ud488\uacfc \ube44\uc720 \uc131 \uc74c\uc2dd\uc744 \uba39\ub294 \uac74\uac15\uc0c1\uc758 \uc774\uc810\uc744 \ube44\uad50\ud558\uace0 \ub300\uc870\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how a Unix system can be protected from external threats.",
+        "instruction_translated": "UNIX \uc2dc\uc2a4\ud15c\uc774 \uc678\ubd80 \uc704\ud611\uc73c\ub85c\ubd80\ud130 \uc5b4\ub5bb\uac8c \ubcf4\ud638 \ub420 \uc218 \uc788\ub294\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name the historical events leading up to the French Revolution.",
+        "instruction_translated": "\ud504\ub791\uc2a4 \ud601\uba85\uc73c\ub85c \uc774\uc5b4\uc9c0\ub294 \uc5ed\uc0ac\uc801 \uc0ac\uac74\uc758 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of potential features that a health tracking mobile app could use.",
+        "instruction_translated": "\uac74\uac15 \ucd94\uc801 \ubaa8\ubc14\uc77c \uc571\uc774 \uc0ac\uc6a9\ud560 \uc218\uc788\ub294 \uc7a0\uc7ac\uc801 \uae30\ub2a5 \ubaa9\ub85d\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest an application of artificial intelligence.",
+        "instruction_translated": "\uc778\uacf5 \uc9c0\ub2a5\uc758 \uc801\uc6a9\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how the internet provides access to information.",
+        "instruction_translated": "\uc778\ud130\ub137\uc774 \uc815\ubcf4\uc5d0 \ub300\ud55c \uc561\uc138\uc2a4\ub97c \uc5b4\ub5bb\uac8c \uc81c\uacf5\ud558\ub294\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What are the benefits of going on a long walk?",
+        "instruction_translated": "\uae34 \uc0b0\ucc45\uc744\ud558\uba74 \uc5b4\ub5a4 \uc774\uc810\uc774 \uc788\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Follow the instructions to make nutty chocolate pretzel bites",
+        "instruction_translated": "Nutty Chocolate Pretzel \ubb3c\uae30\ub97c \ub9cc\ub4e4\ub824\uba74 \uc9c0\uce68\uc744 \ub530\ub974\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Schoolteachers are responsible for what?",
+        "instruction_translated": "\ud559\uad50 \uad50\uc0ac\ub4e4\uc740 \ubb34\uc5c7\uc744 \ucc45\uc784\uc9c0\uace0 \uc788\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the definition of artificial intelligence in one sentence.",
+        "instruction_translated": "\uc778\uacf5 \uc9c0\ub2a5\uc758 \uc815\uc758\ub97c \ud55c \ubb38\uc7a5\uc73c\ub85c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Give me a list of fruits and vegetables that are in season during Spring.",
+        "instruction_translated": "\ubd04\uc5d0 \uacc4\uc808\uc5d0\uc788\ub294 \uacfc\uc77c\uacfc \ucc44\uc18c \ubaa9\ub85d\uc744\uc8fc\uc138\uc694.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a fake customer review of a software",
+        "instruction_translated": "\uc18c\ud504\ud2b8\uc6e8\uc5b4\uc758 \uac00\uc9dc \uace0\uac1d \ub9ac\ubdf0\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Find a statistic about the current population of Japan.",
+        "instruction_translated": "\uc77c\ubcf8\uc758 \ud604\uc7ac \uc778\uad6c\uc5d0 \ub300\ud55c \ud1b5\uacc4\ub97c \ucc3e\uc73c\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Extract the main theme from the following text:\n\n\"The world is a big place, full of challenges and opportunities. Every day, we all have the chance to make a difference, no matter how small.\"",
+        "instruction_translated": "\ub2e4\uc74c \ud14d\uc2a4\ud2b8\uc5d0\uc11c \uae30\ubcf8 \ud14c\ub9c8\ub97c \ucd94\ucd9c\ud558\uc2ed\uc2dc\uc624.\n\n\"\uc138\uc0c1\uc740 \ub3c4\uc804\uacfc \uae30\ud68c\ub85c \uac00\ub4dd \ucc2c \ud070 \uacf3\uc785\ub2c8\ub2e4. \ub9e4\uc77c, \uc6b0\ub9ac \ubaa8\ub450\ub294 \uc544\ubb34\ub9ac \uc791\ub354\ub77c\ub3c4 \ubcc0\ud654\ub97c \uc77c\uc73c\ud0ac \uae30\ud68c\uac00 \uc788\uc2b5\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Generate a lead for an article about eco-friendly transportation.",
+        "instruction_translated": "\uce5c\ud658\uacbd \uad50\ud1b5\uc5d0 \uad00\ud55c \uae30\uc0ac\ub97c\uc704\ud55c \ub9ac\ub4dc\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "How can countries reduce the effects of climate change?",
+        "instruction_translated": "\uad6d\uac00\ub294 \uae30\ud6c4 \ubcc0\ud654\uc758 \uc601\ud5a5\uc744 \uc5b4\ub5bb\uac8c \uc904\uc77c \uc218 \uc788\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Which country has the most active volcanos?",
+        "instruction_translated": "\uac00\uc7a5 \ud65c\ubc1c\ud55c \ud654\uc0b0\uc774\uc788\ub294 \ub098\ub77c\ub294 \uc5b4\ub514\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Think of a friendly reminder to complete a task.",
+        "instruction_translated": "\uc791\uc5c5\uc744 \uc644\ub8cc\ud558\uae30\uc704\ud55c \uce5c\uadfc\ud55c \uc54c\ub9bc\uc744 \uc0dd\uac01\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What is the best way to list five facts about bicycles?",
+        "instruction_translated": "\uc790\uc804\uac70\uc5d0 \ub300\ud55c 5 \uac00\uc9c0 \uc0ac\uc2e4\uc744 \ub098\uc5f4\ud558\ub294 \uac00\uc7a5 \uc88b\uc740 \ubc29\ubc95\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "What is the main difference between a while loop and a for loop?",
+        "instruction_translated": "LOOP\uc640 \ub8e8\ud504\uc758 \uc8fc\uc694 \ucc28\uc774\uc810\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Design an app that tracks exercise activities and gives users suggestions on how to improve their performance.",
+        "instruction_translated": "\uc6b4\ub3d9 \ud65c\ub3d9\uc744 \ucd94\uc801\ud558\uace0 \uc0ac\uc6a9\uc790\uc5d0\uac8c \uc131\ub2a5 \ud5a5\uc0c1 \ubc29\ubc95\uc5d0 \ub300\ud55c \uc81c\uc548\uc744 \uc81c\uacf5\ud558\ub294 \uc571\uc744 \uc124\uacc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a piece of text describing the advantages of using solar energy.",
+        "instruction_translated": "\ud0dc\uc591 \uc5d0\ub108\uc9c0 \uc0ac\uc6a9\uc758 \uc7a5\uc810\uc744 \uc124\uba85\ud558\ub294 \ud14d\uc2a4\ud2b8\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the benefits of a plant-based diet in one sentence.",
+        "instruction_translated": "\ud55c \ubb38\uc7a5\uc73c\ub85c \uc2dd\ubb3c\uc131\uc2dd\uc774\uc758 \uc774\uc810\uc744 \uc694\uc57d\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "How does a computer read data from the internet?",
+        "instruction_translated": "\ucef4\ud4e8\ud130\ub294 \uc778\ud130\ub137\uc5d0\uc11c \ub370\uc774\ud130\ub97c \uc5b4\ub5bb\uac8c \uc77d\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Come up with an appropriate dialogue between a customer and a shop assistant.",
+        "instruction_translated": "\uace0\uac1d\uacfc \uc0c1\uc810 \ubcf4\uc870\uc6d0 \uac04\uc758 \uc801\uc808\ud55c \ub300\ud654\ub97c \uc0dd\uac01\ud574\ubcf4\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the performance of a website",
+        "instruction_translated": "\uc6f9 \uc0ac\uc774\ud2b8\uc758 \uc131\ub2a5\uc744 \ubd84\uc11d\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Formulate an AI-based model that can tell the difference between a dog and a cat.",
+        "instruction_translated": "\uac1c\uc640 \uace0\uc591\uc774\uc758 \ucc28\uc774\ub97c \uc54c \uc218\uc788\ub294 AI \uae30\ubc18 \ubaa8\ub378\uc744 \uacf5\uc2dd\ud654\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Find a creative way to end the following sentence: \"Winter is my favorite season because...\"",
+        "instruction_translated": "\ub2e4\uc74c \ubb38\uc7a5\uc744 \ub05d\ub0b4\ub294 \ucc3d\uc758\uc801\uc778 \ubc29\ubc95\uc744 \ucc3e\uc73c\uc2ed\uc2dc\uc624. \"\uaca8\uc6b8\uc740 \uc81c\uac00 \uac00\uc7a5 \uc88b\uc544\ud558\ub294 \uacc4\uc808\uc774\uae30 \ub54c\ubb38\uc5d0 ...\"",
+        "category": null
+    },
+    {
+        "instruction": "Design a game involving numbers that could be used in the classroom.",
+        "instruction_translated": "\uad50\uc2e4\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218\uc788\ub294 \uc22b\uc790\uc640 \uad00\ub828\ub41c \uac8c\uc784\uc744 \ub514\uc790\uc778\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Provide 3 steps to solve this algebra equation: 3x + 7 = 12.",
+        "instruction_translated": "\uc774 \ub300\uc218 \ubc29\uc815\uc2dd\uc744 \ud574\uacb0\ud558\uae30\uc704\ud55c 3 \ub2e8\uacc4\ub97c \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624. 3x + 7 = 12.",
+        "category": null
+    },
+    {
+        "instruction": "Name something that is pink.",
+        "instruction_translated": "\ubd84\ud64d\uc0c9\uc758 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a short advert for a local zoo",
+        "instruction_translated": "\uc9c0\uc5ed \ub3d9\ubb3c\uc6d0\uc5d0 \ub300\ud55c \uc9e7\uc740 \uad11\uace0\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Tell me something about a Nissan leaf.",
+        "instruction_translated": "\ub2db\uc0b0 \uc78e\uc5d0 \ub300\ud574 \ub9d0 \ud574\uc8fc\uc138\uc694.",
+        "category": null
+    },
+    {
+        "instruction": "In what year did the American Civil War end?",
+        "instruction_translated": "\ubbf8\uad6d \ub0a8\ubd81 \uc804\uc7c1\uc740 \uba87 \ub144 \uc548\uc5d0 \ub05d\ub0ac\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Explain US taxation policy.",
+        "instruction_translated": "\uc6b0\ub9ac\uc5d0\uac8c \uc138\uae08 \uc815\ucc45\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the article  'Discovering the Science Behind Manta Ray Flying'",
+        "instruction_translated": "'Manta Ray Flying\uc758 \uacfc\ud559 \ubc1c\uacac'\uae30\uc0ac\ub97c \uc694\uc57d\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Create a 10-digit password using numbers, letters, and symbols",
+        "instruction_translated": "\uc22b\uc790, \ubb38\uc790 \ubc0f \uae30\ud638\ub97c \uc0ac\uc6a9\ud558\uc5ec 10 \uc790\ub9ac \uc554\ud638\ub97c \ub9cc\ub4ed\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Demonstrate the use of a for-loop in Python",
+        "instruction_translated": "\ud30c\uc774\uc36c\uc5d0\uc11c for-loop\uc758 \uc0ac\uc6a9\uc744 \ubcf4\uc5ec\uc90d\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Name a country that begins with the letter \"D\".",
+        "instruction_translated": "\ubb38\uc790 \"D\"\ub85c \uc2dc\uc791\ud558\ub294 \ub098\ub77c\uc758 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compose a letter to a friend describing a recent vacation",
+        "instruction_translated": "\ucd5c\uadfc \ud734\uac00\ub97c \uc124\uba85\ud558\ub294 \uce5c\uad6c\uc5d0\uac8c \ud3b8\uc9c0\ub97c \uc791\uc131",
+        "category": null
+    },
+    {
+        "instruction": "Write a tweet from a user who is ecstatic about graduating from college.",
+        "instruction_translated": "\ub300\ud559 \uc878\uc5c5\uc5d0 \ub300\ud574 \ud669\ud640\ud55c \uc0ac\uc6a9\uc790\ub85c\ubd80\ud130 \ud2b8\uc717\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Design a castle defense strategy.",
+        "instruction_translated": "\uc131 \ubc29\uc5b4 \uc804\ub7b5\uc744 \uc124\uacc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What characteristics make a movie a romantic comedy?",
+        "instruction_translated": "\uc601\ud654\ub97c \ub0ad\ub9cc\uc801 \uc778 \ucf54\ubbf8\ub514\ub85c \ub9cc\ub4dc\ub294 \ud2b9\uc131\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the environment around you right now.",
+        "instruction_translated": "\uc9c0\uae08 \uc8fc\ubcc0 \ud658\uacbd\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a random password that meets the criteria of having upper case, lower case, and a number.",
+        "instruction_translated": "\ub300\ubb38\uc790, \uc18c\ubb38\uc790 \ubc0f \uc22b\uc790\ub97c \uac16\ub294 \uae30\uc900\uc744 \ucda9\uc871\ud558\ub294 \uc784\uc758\uc758 \ube44\ubc00\ubc88\ud638\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the diplomatic relations between France and Germany in the last decade.",
+        "instruction_translated": "\uc9c0\ub09c 10 \ub144 \ub3d9\uc548 \ud504\ub791\uc2a4\uc640 \ub3c5\uc77c\uc758 \uc678\uad50 \uad00\uacc4\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Summarize the human rights guaranteed in the US Constitution.",
+        "instruction_translated": "\ubbf8\uad6d \ud5cc\ubc95\uc5d0\uc11c \ubcf4\uc7a5 \ub41c \uc778\uad8c\uc744 \uc694\uc57d\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Identify any three fallacies in this statement: \"We need to close our border to protect our country.\"",
+        "instruction_translated": "\uc774 \uc131\uba85\uc11c\uc5d0\uc11c \uc138 \uac00\uc9c0 \uc624\ub958\ub97c \uc2dd\ubcc4\ud558\uc2ed\uc2dc\uc624. \"\uc6b0\ub9ac\ub294 \uc6b0\ub9ac \ub098\ub77c\ub97c \ubcf4\ud638\ud558\uae30 \uc704\ud574 \uad6d\uacbd\uc744 \ub2eb\uc544\uc57c\ud569\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Can you generate a list of 10 interesting things to do in New York City?",
+        "instruction_translated": "\ub274\uc695\uc2dc\uc5d0\uc11c \ud560 10 \uac00\uc9c0 \ud765\ubbf8\ub85c\uc6b4 \uc77c \ubaa9\ub85d\uc744 \uc0dd\uc131 \ud560 \uc218 \uc788\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a 20 words dialogue between two people where one of them is trying to explain a complex concept to the other.",
+        "instruction_translated": "\uadf8\ub4e4 \uc911 \ud558\ub098\uac00 \ubcf5\uc7a1\ud55c \uac1c\ub150\uc744 \ub2e4\ub978 \uac1c\ub150\uc744 \uc124\uba85\ud558\ub824\uace0\ud558\ub294 \ub450 \uc0ac\ub78c \uc0ac\uc774\uc5d0 20 \ub2e8\uc5b4 \ub300\ud654\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name five behaviors that are essential to promoting a respectful work environment.",
+        "instruction_translated": "\uc815\uc911 \ud55c \uc5c5\ubb34 \ud658\uacbd\uc744 \ud64d\ubcf4\ud558\ub294 \ub370 \ud544\uc218\uc801\uc778 5 \uac00\uc9c0 \ud589\ub3d9\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Give an example for a comma splice",
+        "instruction_translated": "\uc27c\ud45c \uc2a4\ud50c \ub77c\uc774\uc2a4\uc5d0 \ub300\ud55c \uc608\ub97c \ub4e4\uc5b4\ubcf4\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Compose a tweet about the benefits of going on a morning walk.",
+        "instruction_translated": "\uc544\uce68 \uc0b0\ucc45\uc5d0 \ub300\ud55c \uc774\uc810\uc5d0 \ub300\ud55c \ud2b8\uc717\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "State one benefit of artificial intelligence.",
+        "instruction_translated": "\uc778\uacf5 \uc9c0\ub2a5\uc758 \ud558\ub098\uc758 \uc774\uc810\uc744 \uba85\uc2dc\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Design an experiment that tests the reaction of a tomato's growth to different kinds of water.",
+        "instruction_translated": "\ud1a0\ub9c8\ud1a0\uc758 \uc131\uc7a5\uc774 \ub2e4\ub978 \uc885\ub958\uc758 \ubb3c\uc5d0 \ub300\ud55c \ubc18\uc751\uc744 \ud14c\uc2a4\ud2b8\ud558\ub294 \uc2e4\ud5d8\uc744 \uc124\uacc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name one of the branches of science",
+        "instruction_translated": "\uacfc\ud559\uc758 \uc9c0\uc810 \uc911 \ud558\ub098\ub97c \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "How do electrons in atoms interact with each other?",
+        "instruction_translated": "\uc6d0\uc790\uc758 \uc804\uc790\ub294 \uc5b4\ub5bb\uac8c \uc11c\ub85c \uc0c1\ud638 \uc791\uc6a9\ud569\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the sequence of actions to make scrambled eggs.",
+        "instruction_translated": "\uc2a4\ud06c\ub7a8\ube14 \uc5d0\uadf8\ub97c \ub9cc\ub4dc\ub294 \uc77c\ub828\uc758 \ud589\ub3d9\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the impact of visual storytelling on marketing campaigns.",
+        "instruction_translated": "\ub9c8\ucf00\ud305 \ucea0\ud398\uc778\uc5d0 \ub300\ud55c \uc2dc\uac01\uc801 \uc2a4\ud1a0\ub9ac \ud154\ub9c1\uc758 \uc601\ud5a5\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Identify the differences between civil law and criminal law.",
+        "instruction_translated": "\ubbfc\ubc95\uacfc \ud615\ubc95\uc758 \ucc28\uc774\uc810\uc744 \uc2dd\ubcc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name three potential problems a company may face when adopting a new technology.",
+        "instruction_translated": "\uc0c8\ub85c\uc6b4 \uae30\uc220\uc744 \ucc44\ud0dd \ud560 \ub54c \ud68c\uc0ac\uac00 \uc9c1\uba74 \ud560 \uc218\uc788\ub294 \uc138 \uac00\uc9c0 \uc7a0\uc7ac\uc801 \ubb38\uc81c\ub97c \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a haiku that describes the feeling of freedom.",
+        "instruction_translated": "\uc790\uc720\uc758 \ub290\ub08c\uc744 \ubb18\uc0ac\ud558\ub294 \ud558\uc774\ucfe0\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "How many miniutes does it take for the Earth to complete one rotation?",
+        "instruction_translated": "\uc9c0\uad6c\uac00 \ud55c \ubc88\uc758 \ub85c\ud14c\uc774\uc158\uc744 \uc644\ub8cc\ud558\ub294 \ub370 \uba87 \uac1c\uc758 \ubbf8\ub2c8 \ud2b8\uac00 \ud544\uc694\ud569\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Write a regex pattern to match strings of the form a-zA-Z0-9.",
+        "instruction_translated": "A-ZA-Z0-9 \ud615\uc2dd\uc758 \ubb38\uc790\uc5f4\uacfc \uc77c\uce58\ud558\ub3c4\ub85d Regex \ud328\ud134\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a fake license plate number",
+        "instruction_translated": "\uac00\uc9dc \ubc88\ud638\ud310 \ubc88\ud638\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular open-source photo editing tool.",
+        "instruction_translated": "\uc778\uae30\uc788\ub294 \uc624\ud508 \uc18c\uc2a4 \uc0ac\uc9c4 \ud3b8\uc9d1 \ub3c4\uad6c\uc758 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a query to find out how to make tacos.",
+        "instruction_translated": "\ud0c0\ucf54\ub97c \ub9cc\ub4dc\ub294 \ubc29\ubc95\uc744 \ucc3e\uae30 \uc704\ud574 \ucffc\ub9ac\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Give an example of how gravity affects us in everyday life.",
+        "instruction_translated": "\uc77c\uc0c1 \uc0dd\ud65c\uc5d0\uc11c \uc911\ub825\uc774 \uc6b0\ub9ac\uc5d0\uac8c \uc5b4\ub5a4 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294\uc9c0\uc5d0 \ub300\ud55c \uc608\ub97c \uc81c\uc2dc\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "In a few words, explain what AI is.",
+        "instruction_translated": "\uba87 \ub9c8\ub514\ub85c AI\uac00 \ubb34\uc5c7\uc778\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest ways that a business can reduce their CO2 emissions.",
+        "instruction_translated": "\ube44\uc988\ub2c8\uc2a4\uac00 CO2 \ubc30\ucd9c\ub7c9\uc744 \uc904\uc77c \uc218\uc788\ub294 \ubc29\ubc95\uc744 \uc81c\uc548\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Please generate a short story of maximum 500 words, with a science fiction theme.",
+        "instruction_translated": "\uacf5\uc0c1 \uacfc\ud559 \ud14c\ub9c8\uc640 \ud568\uaed8 \ucd5c\ub300 500 \ub2e8\uc5b4\uc758 \uc9e7\uc740 \uc774\uc57c\uae30\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Give two reasons why we should abort a project.",
+        "instruction_translated": "\uc6b0\ub9ac\uac00 \ud504\ub85c\uc81d\ud2b8\ub97c \uc911\ub2e8 \ud574\uc57c\ud558\ub294 \ub450 \uac00\uc9c0 \uc774\uc720\ub97c \uc81c\uc2dc\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Design a cinema poster for the movie \"The Matrix\"",
+        "instruction_translated": "\uc601\ud654 \"The Matrix\"\ub97c\uc704\ud55c \uc601\ud654 \ud3ec\uc2a4\ud130 \ub514\uc790\uc778",
+        "category": null
+    },
+    {
+        "instruction": "Create a new art style.",
+        "instruction_translated": "\uc0c8\ub85c\uc6b4 \uc544\ud2b8 \uc2a4\ud0c0\uc77c\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of Boolean logic.",
+        "instruction_translated": "\ubd80\uc6b8 \ub17c\ub9ac\uc758 \uac1c\ub150\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a scenario for a story set in Italian Renaissance.",
+        "instruction_translated": "\uc774\ud0c8\ub9ac\uc544 \ub974\ub124\uc0c1\uc2a4\uc5d0\uc11c \uc124\uc815\ub41c \uc2a4\ud1a0\ub9ac\uc5d0 \ub300\ud55c \uc2dc\ub098\ub9ac\uc624\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "How does the Kinetic Ray tracing method work?",
+        "instruction_translated": "\uc6b4\ub3d9 \uad11\uc120 \ucd94\uc801 \ubc29\ubc95\uc740 \uc5b4\ub5bb\uac8c \uc791\ub3d9\ud569\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Describe the process for starting a business.",
+        "instruction_translated": "\uc0ac\uc5c5\uc744 \uc2dc\uc791\ud558\ub294 \ud504\ub85c\uc138\uc2a4\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "List the major parts of a computer.",
+        "instruction_translated": "\ucef4\ud4e8\ud130\uc758 \uc8fc\uc694 \ubd80\ubd84\uc744 \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What are the common challenges when implementing DevOps in an organization?",
+        "instruction_translated": "\uc870\uc9c1\uc5d0\uc11c DevOps\ub97c \uad6c\ud604\ud560 \ub54c \uc77c\ubc18\uc801\uc778 \uacfc\uc81c\ub294 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Take the following input and output the average temperature (in Fahrenheit) for the month of January in Denver, Colorado.",
+        "instruction_translated": "\ub2e4\uc74c\uacfc \uac19\uc740 \uc785\ub825\uc744\ud558\uace0 \ucf5c\ub85c\ub77c\ub3c4 \uc8fc \ub374\ubc84\uc5d0\uc11c 1 \uc6d4 \ud55c \ub2ec \ub3d9\uc548 \ud3c9\uade0 \uc628\ub3c4 (\ud654\uc528)\ub97c \ucd9c\ub825\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Find the equivalent Celsius and Fahrenheit temperature for 34.4\u00b0C.",
+        "instruction_translated": "34.4 \u00b0 C\uc758 \ub3d9\ub4f1\ud55c \uc12d\uc528 \ubc0f \ud654\uc528 \uc628\ub3c4\ub97c \ucc3e\uc73c\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a brief essay explaining the importance of digital literacy.",
+        "instruction_translated": "\ub514\uc9c0\ud138 \ubb38\ud574\ub825\uc758 \uc911\uc694\uc131\uc744 \uc124\uba85\ud558\ub294 \uac04\ub2e8\ud55c \uc5d0\uc138\uc774\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe why it is necessary to have a diverse workforce.",
+        "instruction_translated": "\ub2e4\uc591\ud55c \uc778\ub825\uc774 \ud544\uc694\ud55c \uc774\uc720\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Change the below sentence to make it more positive:\n\nAI development is difficult and time consuming.",
+        "instruction_translated": "\uc544\ub798 \ubb38\uc7a5\uc744 \ubcc0\uacbd\ud558\uc5ec \ub354 \uae0d\uc815\uc801\uc73c\ub85c \ub9cc\ub4ed\ub2c8\ub2e4.\n\nAI \uac1c\ubc1c\uc740 \uc5b4\ub835\uace0 \uc2dc\uac04\uc774 \ub9ce\uc774 \uac78\ub9bd\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Create a script for a TV commercial",
+        "instruction_translated": "TV \uad11\uace0\ub97c\uc704\ud55c \uc2a4\ud06c\ub9bd\ud2b8\ub97c \ub9cc\ub4ed\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Find an analogy that illustrates the concept of a feedback loop.",
+        "instruction_translated": "\ud53c\ub4dc\ubc31 \ub8e8\ud504\uc758 \uac1c\ub150\uc744 \ubcf4\uc5ec\uc8fc\ub294 \ube44\uc720\ub97c \ucc3e\uc73c\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write an editorial advocating for more bike lanes in a city.",
+        "instruction_translated": "\ub3c4\uc2dc\uc5d0\uc11c \ub354 \ub9ce\uc740 \uc790\uc804\uac70 \ucc28\uc120\uc744 \uc639\ud638\ud558\ub294 \ud3b8\uc9d1\uc790\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "How can the world reduce its carbon emissions?",
+        "instruction_translated": "\uc138\uacc4\uac00 \uc5b4\ub5bb\uac8c \ud0c4\uc18c \ubc30\ucd9c\uc744 \uc904\uc77c \uc218 \uc788\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Give a brief description of the historical period known as the French Revolution.",
+        "instruction_translated": "\ud504\ub791\uc2a4 \ud601\uba85\uc73c\ub85c \uc54c\ub824\uc9c4 \uc5ed\uc0ac\uc801 \uc2dc\ub300\uc5d0 \ub300\ud55c \uac04\ub2e8\ud55c \uc124\uba85\uc744 \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 baby animals",
+        "instruction_translated": "\uc774\ub984 5 \uc544\uae30 \ub3d9\ubb3c",
+        "category": null
+    },
+    {
+        "instruction": "Provide a metaphor for \u201ctime\u201d.",
+        "instruction_translated": "\u201c\uc2dc\uac04\u201d\uc5d0 \ub300\ud55c \uc740\uc720\ub97c \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Give two pros and two cons of nuclear power.",
+        "instruction_translated": "\uc6d0\uc790\ub825\uc758 \ub450 \uac00\uc9c0\uc5d0 \ub300\ud574 2 \uac1c\uc758 \uc804\ubb38\uac00\ub97c \ubd80\uc5ec\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Formulate a probability distribution for a 6-sided die.",
+        "instruction_translated": "6\uba74 \ub2e4\uc774\uc5d0 \ub300\ud55c \ud655\ub960 \ubd84\ud3ec\ub97c \uacf5\uc2dd\ud654\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of five talking points for a debate about the use of renewable energy.",
+        "instruction_translated": "\uc7ac\uc0dd \uc5d0\ub108\uc9c0 \uc0ac\uc6a9\uc5d0 \ub300\ud55c \ud1a0\ub860\uc744\uc704\ud55c 5 \uac00\uc9c0 \ub300\ud654 \uc810 \ubaa9\ub85d\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Write a paragraph describing the technique used to design a bridge.",
+        "instruction_translated": "\ub2e4\ub9ac\ub97c \uc124\uacc4\ud558\ub294 \ub370 \uc0ac\uc6a9\ub418\ub294 \uae30\uc220\uc744 \uc124\uba85\ud558\ub294 \ub2e8\ub77d\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain what is data mining",
+        "instruction_translated": "\ub370\uc774\ud130 \ub9c8\uc774\ub2dd\uc774 \ubb34\uc5c7\uc778\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Create a travel guide to Hawaii",
+        "instruction_translated": "\ud558\uc640\uc774 \uc5ec\ud589 \uac00\uc774\ub4dc\ub97c \ub9cc\ub4ed\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Write a logo for the following company: \"North Wind Technologies\"",
+        "instruction_translated": "\ub2e4\uc74c \ud68c\uc0ac\uc5d0 \ub300\ud55c \ub85c\uace0 \uc791\uc131 : \"North Wind Technologies\"",
+        "category": null
+    },
+    {
+        "instruction": "What is the half-life of the isotope carbon 14?",
+        "instruction_translated": "\ub3d9\uc704 \uc6d0\uc18c \uce74\ubcf8 14\uc758 \ubc18\uac10\uae30\ub294 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Construct a geometric shape using five lines",
+        "instruction_translated": "5 \uc904\uc744 \uc0ac\uc6a9\ud558\uc5ec \uae30\ud558\ud559\uc801 \ubaa8\uc591\uc744 \uad6c\uc131\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Describe the term \"data wrangling\".",
+        "instruction_translated": "\"\ub370\uc774\ud130\uac00 \ub7ad\ud0b9\"\uc774\ub77c\ub294 \uc6a9\uc5b4\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast electrical and chemical synapses.",
+        "instruction_translated": "\uc804\uae30 \ubc0f \ud654\ud559\uc801 \uc2dc\ub0c5\uc2a4\ub97c \ube44\uad50\ud558\uace0 \ub300\uc870\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a sequence of instructions for setting up a home studio.",
+        "instruction_translated": "\ud648 \uc2a4\ud29c\ub514\uc624\ub97c \uc124\uc815\ud558\uae30\uc704\ud55c \uc77c\ub828\uc758 \uc9c0\uce68\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how to set up a website.",
+        "instruction_translated": "\uc6f9 \uc0ac\uc774\ud2b8\ub97c \uc124\uc815\ud558\ub294 \ubc29\ubc95\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a rule for rock-paper-scissors.",
+        "instruction_translated": "\ubc14\uc704 \uac00\uc704\ub97c\uc704\ud55c \uaddc\uce59\uc744 \uc81c\uc2dc\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Of all the countries in the world, which has the highest population?",
+        "instruction_translated": "\uc778\uad6c\uac00 \uac00\uc7a5 \ub192\uc740 \uc138\uacc4\uc758 \ubaa8\ub4e0 \uad6d\uac00\uc5d0\uc11c?",
+        "category": null
+    },
+    {
+        "instruction": "Write a function to print out the last 3 elements of a Python list.",
+        "instruction_translated": "Python \ubaa9\ub85d\uc758 \ub9c8\uc9c0\ub9c9 3 \uac00\uc9c0 \uc694\uc18c\ub97c \uc778\uc1c4\ud558\ub294 \ud568\uc218\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Synthesize an article on the potential pitfalls of relying too heavily on AI.",
+        "instruction_translated": "AI\uc5d0 \ub108\ubb34 \ub9ce\uc774 \uc758\uc874\ud558\ub294 \uc7a0\uc7ac\uc801 \uc778 \ud568\uc815\uc5d0 \ub300\ud55c \uae30\uc0ac\ub97c \uc885\ud569\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "What is the nuclear reaction inside the sun?",
+        "instruction_translated": "\ud0dc\uc591 \ub0b4\ubd80\uc758 \ud575 \ubc18\uc751\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Give four examples of plant-based proteins.",
+        "instruction_translated": "\uc2dd\ubb3c\uc131 \ub2e8\ubc31\uc9c8\uc758 \ub124 \uac00\uc9c0 \uc608\ub97c \uc81c\uc2dc\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "How do you use a GPS system?",
+        "instruction_translated": "GPS \uc2dc\uc2a4\ud15c\uc744 \uc5b4\ub5bb\uac8c \uc0ac\uc6a9\ud569\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "List 3 aspects of US History that have been historically overlooked.",
+        "instruction_translated": "\uc5ed\uc0ac\uc801\uc73c\ub85c \uac04\uacfc \ub41c \ubbf8\uad6d \uc5ed\uc0ac\uc758 3 \uac00\uc9c0 \uce21\uba74\uc744 \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following sentence in a more formal way:\n\n\"I am getting bored of this.\"",
+        "instruction_translated": "\ubcf4\ub2e4 \uacf5\uc2dd\uc801\uc778 \ubc29\uc2dd\uc73c\ub85c \ub2e4\uc74c \ubb38\uc7a5\uc744 \ub2e4\uc2dc \uc791\uc131\ud558\uc2ed\uc2dc\uc624.\n\n\"\ub098\ub294 \uc774\uac83\uc5d0 \uc9c0\ub8e8 \ud574\uc9c0\uace0\uc788\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Recommend two measures for curbing rising obesity rates.",
+        "instruction_translated": "\ube44\ub9cc \ub960\uc744 \uc5b5\uc81c\ud558\uae30\uc704\ud55c \ub450 \uac00\uc9c0 \uc870\uce58\ub97c \uad8c\uc7a5\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Change the following noun to plural form: watch",
+        "instruction_translated": "\ub2e4\uc74c \uba85\uc0ac\ub97c \ubcf5\uc218 \ud615\ud0dc\ub85c \ubcc0\uacbd\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the syntax of the sentence and identify the type of clause: \"She always dreamed of travelling to Japan\".",
+        "instruction_translated": "\ubb38\uc7a5\uc758 \uad6c\ubb38\uc744 \ubd84\uc11d\ud558\uace0 \uc870\ud56d\uc758 \uc720\ud615\uc744 \uc2dd\ubcc4\ud569\ub2c8\ub2e4. \"\uadf8\ub140\ub294 \ud56d\uc0c1 \uc77c\ubcf8\uc73c\ub85c \uc5ec\ud589\ud558\ub294 \uafc8\uc744 \uafb8\uc5c8\uc2b5\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of questions beginning with the phrase \"What is the difference between...\"",
+        "instruction_translated": "\"\ucc28\uc774\uc810\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?\"\ub77c\ub294 \ubb38\uad6c\ub85c \uc2dc\uc791\ud558\ub294 \uc9c8\ubb38 \ubaa9\ub85d\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the process of cutting vegetables for a salad.",
+        "instruction_translated": "\uc0d0\ub7ec\ub4dc\uc758 \uc57c\ucc44\ub97c \uc790\ub974\ub294 \uacfc\uc815\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Determine the number of days in August 2021.",
+        "instruction_translated": "2021 \ub144 8 \uc6d4\uc758 \uc77c\uc218\ub97c \uacb0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a function in any programming language to check if two words are anagrams of each other.",
+        "instruction_translated": "\ubaa8\ub4e0 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub85c \ud568\uc218\ub97c \uc791\uc131\ud558\uc5ec \ub450 \ub2e8\uc5b4\uac00 \uc11c\ub85c\uc758 \uc544\ub098\uadf8\ub7a8\uc778\uc9c0 \ud655\uc778\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm one way to reduce household waste.",
+        "instruction_translated": "\uac00\uacc4 \ud3d0\uae30\ubb3c\uc744 \uc904\uc774\ub294 \ud55c \uac00\uc9c0 \ubc29\ubc95\uc744 \ube0c\ub808\uc778 \uc2a4\ud1a0\ubc0d\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the atmospheric pressure cycle.",
+        "instruction_translated": "\ub300\uae30\uc555 \uc0ac\uc774\ud074\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What natural disaster can be caused by the eruption of a volcano?",
+        "instruction_translated": "\ud654\uc0b0\uc758 \ubd84\ud654\ub85c \uc778\ud574 \uc5b4\ub5a4 \uc790\uc5f0 \uc7ac\ud574\uac00 \ubc1c\uc0dd\ud560 \uc218 \uc788\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "How long ago did the United Nations come into being?",
+        "instruction_translated": "\uc720\uc5d4\uc740 \uc5bc\ub9c8\ub098 \uc624\ub798 \uc804\ubd80\ud130 \uc654\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Create a story focusing on a protagonist and his goal.",
+        "instruction_translated": "\uc8fc\uc778\uacf5\uacfc \uadf8\uc758 \ubaa9\ud45c\uc5d0 \uc911\uc810\uc744 \ub454 \uc774\uc57c\uae30\ub97c \ub9cc\ub4dc\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a format for holding a virtual team meeting.",
+        "instruction_translated": "\uac00\uc0c1 \ud300 \ud68c\uc758\ub97c \uac1c\ucd5c\ud558\uae30\uc704\ud55c \ud615\uc2dd\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "What are possible alternatives for development teams dealing with the lack of in-person collaboration?",
+        "instruction_translated": "\uc9c1\uc811 \uacf5\ub3d9 \uc791\uc5c5 \ubd80\uc871\uc744 \ub2e4\ub8e8\ub294 \uac1c\ubc1c \ud300\uc758 \uac00\ub2a5\ud55c \ub300\uc548\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Identify a weakness of using text-based dialogue with a conversational AI.",
+        "instruction_translated": "\ub300\ud654\uc2dd AI\uc640 \ud14d\uc2a4\ud2b8 \uae30\ubc18 \ub300\ud654\ub97c \uc0ac\uc6a9\ud558\ub294 \uc57d\uc810\uc744 \uc2dd\ubcc4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Complete the following equation: 2 + __ = 7.",
+        "instruction_translated": "\ub2e4\uc74c \ubc29\uc815\uc2dd\uc744 \uc644\ub8cc\ud558\uc2ed\uc2dc\uc624. 2 + __ = 7.",
+        "category": null
+    },
+    {
+        "instruction": "Create a short story based on the following keywords: pumpkin, prince, spider.",
+        "instruction_translated": "\ud638\ubc15, \uc655\uc790, \uac70\ubbf8.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of ingredients for a homemade ice cream.",
+        "instruction_translated": "\uc218\uc81c \uc544\uc774\uc2a4\ud06c\ub9bc\uc744\uc704\ud55c \uc7ac\ub8cc \ubaa9\ub85d\uc744 \ub9cc\ub4dc\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compose 3-4 sentences that express sadness.",
+        "instruction_translated": "\uc2ac\ud514\uc744 \ud45c\ud604\ud558\ub294 3-4 \ubb38\uc7a5\uc744 \uad6c\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 important features of a mobile phone",
+        "instruction_translated": "\uc774\ub984 5 \ud734\ub300 \uc804\ud654\uc758 \uc911\uc694\ud55c \uae30\ub2a5",
+        "category": null
+    },
+    {
+        "instruction": "What is the gender of the French word ville?",
+        "instruction_translated": "\ud504\ub791\uc2a4\uc5b4 ville\uc758 \uc131\ubcc4\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Suggest a retail strategy to increase customer loyalty.",
+        "instruction_translated": "\uace0\uac1d \ucda9\uc131\ub3c4\ub97c \ub192\uc774\uae30\uc704\ud55c \uc18c\ub9e4 \uc804\ub7b5\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "You are asked to rate the following restaurant based on a scale of 1 to 10, with 10 being the highest.\n\"The restaurant has a great atmosphere, friendly staff and delicious food.\"",
+        "instruction_translated": "1 ~ 10\uc758 \uaddc\ubaa8\ub97c \uae30\uc900\uc73c\ub85c \ub2e4\uc74c \uc2dd\ub2f9\uc744 \ud3c9\uac00\ud558\ub77c\ub294 \uc694\uccad\uc744 \ubc1b\uace0 10 \uac1c\uac00 \uac00\uc7a5 \ub192\uc2b5\ub2c8\ub2e4.\n\"\ub808\uc2a4\ud1a0\ub791\uc5d0\ub294 \ud6cc\ub96d\ud55c \ubd84\uc704\uae30, \uce5c\uc808\ud55c \uc9c1\uc6d0 \ubc0f \ub9db\uc788\ub294 \uc74c\uc2dd\uc774 \uc788\uc2b5\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Classify the following sentence as either figurative language or literal language: He flew like a bird.",
+        "instruction_translated": "\ub2e4\uc74c \ubb38\uc7a5\uc744 \ube44 \uc720\uc801 \uc5b8\uc5b4 \ub098 \ubb38\uc790 \uadf8\ub300\ub85c \uc5b8\uc5b4\ub85c \ubd84\ub958\ud558\uc2ed\uc2dc\uc624. \uadf8\ub294 \uc0c8\ucc98\ub7fc \ub0a0\uc544\uac14\uc2b5\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Provide a value proposition for a software product.",
+        "instruction_translated": "\uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc81c\ud488\uc5d0 \ub300\ud55c \uac00\uce58 \uc81c\uc548\uc744 \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe how humans interact with the internet of things.",
+        "instruction_translated": "\uc778\uac04\uc774 \uc0ac\ubb3c \uc778\ud130\ub137\uacfc \uc5b4\ub5bb\uac8c \uc0c1\ud638 \uc791\uc6a9\ud558\ub294\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Think of five questions an astronaut would ask when they land on Mars.",
+        "instruction_translated": "\uc6b0\uc8fc \ube44\ud589\uc0ac\uac00 \ud654\uc131\uc5d0 \ucc29\ub959 \ud560 \ub54c \ubb3c\uc5b4\ubcfc 5 \uac00\uc9c0 \uc9c8\ubb38\uc744 \uc0dd\uac01\ud574\ubcf4\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the 1981 NBA MVP award ceremony",
+        "instruction_translated": "1981 \ub144 NBA MVP \uc2dc\uc0c1\uc2dd\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular movie from 2019.",
+        "instruction_translated": "2019 \ub144\ubd80\ud130 \uc778\uae30\uc788\ub294 \uc601\ud654\uc758 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Divide 100 by 7.",
+        "instruction_translated": "100\uc744 7\ub85c \ub098\ub215\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Create a sentence that properly combines the adverbs drastically and gradually.",
+        "instruction_translated": "\ubd80\uc0ac\ub97c \ud06c\uace0 \uc810\ucc28\uc801\uc73c\ub85c \uacb0\ud569\ud558\ub294 \ubb38\uc7a5\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Name three specific techniques for reducing the memory requirement of a neural network.",
+        "instruction_translated": "\uc2e0\uacbd\ub9dd\uc758 \uba54\ubaa8\ub9ac \uc694\uad6c \uc0ac\ud56d\uc744 \uc904\uc774\uae30\uc704\ud55c \uc138 \uac00\uc9c0 \ud2b9\uc815 \uae30\uc220\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the five senses in a forest setting.",
+        "instruction_translated": "\uc232 \ud658\uacbd\uc5d0\uc11c 5 \uac00\uc9c0 \uac10\uac01\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of 5 questions a user should consider when choosing their first digital assistant.",
+        "instruction_translated": "\uccab \ubc88\uc9f8 \ub514\uc9c0\ud138 \uc5b4\uc2dc\uc2a4\ud134\ud2b8\ub97c \uc120\ud0dd\ud560 \ub54c \uc0ac\uc6a9\uc790\uac00 \uace0\ub824\ud574\uc57c \ud560 5 \uac00\uc9c0 \uc9c8\ubb38 \ubaa9\ub85d\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "List five financial benefits of owning a home.",
+        "instruction_translated": "\uc8fc\ud0dd \uc18c\uc720\uc758 5 \uac00\uc9c0 \uc7ac\uc815\uc801 \ud61c\ud0dd\uc744 \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Collect 5 interesting facts about the US Capitol building.",
+        "instruction_translated": "\ubbf8\uad6d \uad6d\ud68c \uc758\uc0ac\ub2f9 \uac74\ubb3c\uc5d0 \ub300\ud55c 5 \uac00\uc9c0 \ud765\ubbf8\ub85c\uc6b4 \uc0ac\uc2e4\uc744 \uc218\uc9d1\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What should be the main focus of a personal pitch?",
+        "instruction_translated": "\uac1c\uc778 \ud53c\uce58\uc758 \uc8fc\uc694 \ucd08\uc810\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Name a retail business that leverages machine learning",
+        "instruction_translated": "\uba38\uc2e0 \ub7ec\ub2dd\uc744 \ud65c\uc6a9\ud558\ub294 \uc18c\ub9e4\uc5c5\uc758 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "What are the three main principles of Agile Software Development?",
+        "instruction_translated": "\ubbfc\ucca9\ud55c \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc758 \uc138 \uac00\uc9c0 \uc8fc\uc694 \uc6d0\uce59\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Construct a SQL query to select the names of customers whose orders were delivered after April 13, 2021",
+        "instruction_translated": "2021 \ub144 4 \uc6d4 13 \uc77c \uc774\ud6c4\uc5d0 \uc8fc\ubb38\ud55c \uace0\uac1d \uc774\ub984\uc744 \uc120\ud0dd\ud558\uae30 \uc704\ud574 SQL \ucffc\ub9ac\ub97c \uad6c\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a time where you saw someone do something generous.",
+        "instruction_translated": "\ub204\uad70\uac00\uac00 \uad00\ub300 \ud55c \uc77c\uc744\ud558\ub294 \uac83\uc744 \ubcf8 \uc2dc\uac04\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Assemble a 3-word phrase that has a positive connotation.",
+        "instruction_translated": "\uae0d\uc815\uc801 \uc778 \uc758\ubbf8\ub97c \uac00\uc9c4 3 \ub2e8\uc5b4 \ubb38\uad6c\ub97c \uc870\ub9bd\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "The web page should display the following message, \"This page is under construction. Please check back soon.\" Construct the HTML code to display the message.",
+        "instruction_translated": "\uc6f9 \ud398\uc774\uc9c0\uc5d0\ub294 \ub2e4\uc74c\uacfc \uac19\uc740 \uba54\uc2dc\uc9c0\uac00 \ud45c\uc2dc\ub418\uc5b4\uc57c\ud569\ub2c8\ub2e4. \"\uc774 \ud398\uc774\uc9c0\ub294 \uad6c\uc131 \uc911\uc785\ub2c8\ub2e4. \uace7 \ub2e4\uc2dc \ud655\uc778\ud558\uc2ed\uc2dc\uc624.\" HTML \ucf54\ub4dc\ub97c \uad6c\uc131\ud558\uc5ec \uba54\uc2dc\uc9c0\ub97c \ud45c\uc2dc\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "List five characteristics of good communication.",
+        "instruction_translated": "\uc88b\uc740 \uc758\uc0ac \uc18c\ud1b5\uc758 5 \uac00\uc9c0 \ud2b9\uc131\uc744 \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Identify three countries in South America",
+        "instruction_translated": "\ub0a8\uc544\uba54\ub9ac\uce74\uc758 3 \uac1c\uad6d\uc744 \uc2dd\ubcc4\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "What is the meaning of the phrase \"it takes one to know one\"?",
+        "instruction_translated": "\"\ud558\ub098\ub97c \uc544\ub294 \ub370 \ud558\ub098\uac00 \ud544\uc694\ud558\ub2e4\"\ub77c\ub294 \ubb38\uad6c\uc758 \uc758\ubbf8\ub294 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Generate an excerpt of dialogue related to a complex problem.",
+        "instruction_translated": "\ubcf5\uc7a1\ud55c \ubb38\uc81c\uc640 \uad00\ub828\ub41c \ubc1c\ucdcc \ub300\ud654\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Describe in two sentences the physical appearance of a character.",
+        "instruction_translated": "\ub450 \ubb38\uc7a5\uc73c\ub85c \uce90\ub9ad\ud130\uc758 \ubb3c\ub9ac\uc801 \ubaa8\uc591\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a data visualization to compare the age of cats and dogs",
+        "instruction_translated": "\uace0\uc591\uc774\uc640 \uac1c \uc2dc\ub300\ub97c \ube44\uad50\ud558\uae30 \uc704\ud574 \ub370\uc774\ud130 \uc2dc\uac01\ud654\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Create 5 sentence long paragraph about the importance of education",
+        "instruction_translated": "\uad50\uc721\uc758 \uc911\uc694\uc131\uc5d0 \ub300\ud55c 5 \ubb38\uc7a5 \uae34 \ub2e8\ub77d \ub9cc\ub4e4\uae30",
+        "category": null
+    },
+    {
+        "instruction": "Discuss the consequences of introducing AI into the workforce.",
+        "instruction_translated": "AI\ub97c \uc778\ub825\uc5d0 \uc18c\uac1c \ud55c \uacb0\uacfc\uc5d0 \ub300\ud574 \ub17c\uc758\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Come up with a riddle",
+        "instruction_translated": "\uc218\uc218\uaed8\ub07c\ub97c \uc0dd\uac01\ud574\ubcf4\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Create a list of 5 core values of the United Nations.",
+        "instruction_translated": "\uc720\uc5d4\uc758 5 \uac00\uc9c0 \ud575\uc2ec \uac00\uce58 \ubaa9\ub85d\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Shape the following sentence into a question:\n\nThe Houston Rockets are an American professional basketball team",
+        "instruction_translated": "\ub2e4\uc74c \ubb38\uc7a5\uc744 \uc9c8\ubb38\uc73c\ub85c \ud615\uc131\ud558\uc2ed\uc2dc\uc624.\n\n\ud734\uc2a4\ud134 \ub85c\ucf13\uc740 \ubbf8\uad6d \ud504\ub85c \ub18d\uad6c \ud300\uc785\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Identify the subject in the sentence: \"She played the guitar on the porch.\"",
+        "instruction_translated": "\ubb38\uc7a5\uc5d0\uc11c \uc8fc\uc81c\ub97c \uc2dd\ubcc4\ud558\uc2ed\uc2dc\uc624. \"\uadf8\ub140\ub294 \ud604\uad00\uc5d0\uc11c \uae30\ud0c0\ub97c \uc5f0\uc8fc\ud588\uc2b5\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Write 3 alternatives of transportation.",
+        "instruction_translated": "\uad50\ud1b5\uc758 3 \uac00\uc9c0 \ub300\uc548\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Rearrange the letters in the following word \"twilight\" to form another word.",
+        "instruction_translated": "\ub2e4\uc74c \ub2e8\uc5b4 \"\ud669\ud63c\"\uc73c\ub85c \ubb38\uc790\ub97c \uc7ac \ubc30\uc5f4\ud558\uc5ec \ub2e4\ub978 \ub2e8\uc5b4\ub97c \ud615\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain how artificial intelligence can be used for medical and healthcare purposes.",
+        "instruction_translated": "\uc778\uacf5 \uc9c0\ub2a5\uc774 \uc758\ub8cc \ubc0f \uc758\ub8cc \ubaa9\uc801\uc73c\ub85c \uc5b4\ub5bb\uac8c \uc0ac\uc6a9\ub420 \uc218 \uc788\ub294\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a holiday menu for a four-person family.",
+        "instruction_translated": "4 \uc778 \uac00\uc871\uc744\uc704\ud55c \ud734\uac00 \uba54\ub274\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the solar system",
+        "instruction_translated": "\ud0dc\uc591\uacc4\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Write a sentence with the phrase \"prime mover\".",
+        "instruction_translated": "\"Prime Mover\"\ub77c\ub294 \ubb38\uad6c\uc640 \ud568\uaed8 \ubb38\uc7a5\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Find the number of protons in Helium atom.",
+        "instruction_translated": "\ud5ec\ub968 \uc6d0\uc790\uc5d0\uc11c \uc591\uc131\uc790 \uc218\ub97c \ucc3e\uc73c\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What is the best way to prepare for an upcoming job interview?",
+        "instruction_translated": "\ub2e4\uac00\uc624\ub294 \uba74\uc811\uc744 \uc900\ube44\ud558\ub294 \uac00\uc7a5 \uc88b\uc740 \ubc29\ubc95\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Formulate a definition for the concept \"algorithm\"",
+        "instruction_translated": "\"\uc54c\uace0\ub9ac\uc998\"\uac1c\ub150\uc5d0 \ub300\ud55c \uc815\uc758\ub97c \uacf5\uc2dd\ud654\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Find the French word for \"cat\"",
+        "instruction_translated": "\"\uace0\uc591\uc774\"\uc5d0 \ub300\ud55c \ud504\ub791\uc2a4\uc5b4 \ub2e8\uc5b4 \ucc3e\uae30",
+        "category": null
+    },
+    {
+        "instruction": "Generate an alternative way to say \"I understand\".",
+        "instruction_translated": "\"\ub098\ub294 \uc774\ud574\ud55c\ub2e4\"\ub294 \ub300\uc548\uc801\uc778 \ubc29\ubc95\uc744 \uc0dd\uc131\ud55c\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Construct an analogy to compare the moon and the sun",
+        "instruction_translated": "\ub2ec\uacfc \ud0dc\uc591\uc744 \ube44\uad50\ud558\uae30\uc704\ud55c \ube44\uc720\ub97c \uad6c\uc131",
+        "category": null
+    },
+    {
+        "instruction": "Create a story that takes place in a small town.",
+        "instruction_translated": "\uc791\uc740 \ub9c8\uc744\uc5d0\uc11c \uc77c\uc5b4\ub098\ub294 \uc774\uc57c\uae30\ub97c \ub9cc\ub4dc\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "List five African countries.",
+        "instruction_translated": "5 \uac1c\uc758 \uc544\ud504\ub9ac\uce74 \uad6d\uac00\ub97c \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain what a natural language processing model does.",
+        "instruction_translated": "\uc790\uc5f0\uc5b4 \ucc98\ub9ac \ubaa8\ub378\uc774 \ubb34\uc5c7\uc744\ud558\ub294\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Provide a list of all the animals that are native to North America.",
+        "instruction_translated": "\ubd81\uc544\uba54\ub9ac\uce74 \uc6d0\uc8fc\ubbfc \ubaa8\ub4e0 \ub3d9\ubb3c\uc758 \ubaa9\ub85d\uc744 \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Recommend 5 engaging books for children aged 7-9.",
+        "instruction_translated": "7-9 \uc138 \uc5b4\ub9b0\uc774\ub97c\uc704\ud55c 5 \uad8c\uc758 \ucc45\uc744 \ucd94\ucc9c\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the importance of applying software engineering design principles in modern software development.",
+        "instruction_translated": "\ud604\ub300 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc5d0\uc11c \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \uc124\uacc4 \uc6d0\uce59\uc744 \uc801\uc6a9\ud558\ub294 \uac83\uc758 \uc911\uc694\uc131\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Sketch a logo for the company \"International Business Company\".",
+        "instruction_translated": "\ud68c\uc0ac \"\uad6d\uc81c \ube44\uc988\ub2c8\uc2a4 \ud68c\uc0ac\"\uc5d0 \ub300\ud55c \ub85c\uace0\ub97c \uc2a4\ucf00\uce58\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What is the third person singular in the imperative form of the verb 'play'?",
+        "instruction_translated": "\ub3d9\uc0ac '\ub180\uc774'\uc758 \uba85\ub839\ud615 \ud615\ud0dc\uc758 \uc138 \ubc88\uc9f8 \uc0ac\ub78c\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of five potential issues that could arise from introducing an AI chatbot.",
+        "instruction_translated": "AI \ucc57\ubd07\uc744 \uc18c\uac1c\ud568\uc73c\ub85c\uc368 \ubc1c\uc0dd\ud560 \uc218\uc788\ub294 5 \uac00\uc9c0 \uc7a0\uc7ac\uc801 \ubb38\uc81c \ubaa9\ub85d\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a 5-sentence paragraph about the benefits of meditation.",
+        "instruction_translated": "\uba85\uc0c1\uc758 \uc774\uc810\uc5d0 \ub300\ud55c 5 \uc911 \ubb38\ub2e8\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of five healthy snacks.",
+        "instruction_translated": "5 \uac1c\uc758 \uac74\uac15\ud55c \uac04\uc2dd \ubaa9\ub85d\uc744 \ub9cc\ub4dc\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Design a t-shirt with a funny slogan.",
+        "instruction_translated": "\uc7ac\ubbf8\uc788\ub294 \uc2ac\ub85c\uac74\uc774\uc788\ub294 \ud2f0\uc154\uce20\ub97c \ub514\uc790\uc778\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name a form of renewable energy.",
+        "instruction_translated": "\uc7ac\uc0dd \uc5d0\ub108\uc9c0\uc758 \ud615\ud0dc\ub97c \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Develop a strategy for running a successful marketing campaign.",
+        "instruction_translated": "\uc131\uacf5\uc801\uc778 \ub9c8\ucf00\ud305 \ucea0\ud398\uc778\uc744 \uc6b4\uc601\ud558\uae30\uc704\ud55c \uc804\ub7b5\uc744 \uac1c\ubc1c\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create an algorithm to detect plagiarism between two pieces of text.",
+        "instruction_translated": "\ub450 \ud14d\uc2a4\ud2b8 \uc0ac\uc774\uc758 \ud45c\uc808\uc744 \uac10\uc9c0\ud558\uae30 \uc704\ud574 \uc54c\uace0\ub9ac\uc998\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Name 5 techniques for effective time management.",
+        "instruction_translated": "\ud6a8\uacfc\uc801\uc778 \uc2dc\uac04 \uad00\ub9ac\ub97c\uc704\ud55c 5 \uac00\uc9c0 \uae30\uc220.",
+        "category": null
+    },
+    {
+        "instruction": "Write a story about a man\u2019s high-stakes fight",
+        "instruction_translated": "\ub0a8\uc790\uc758 \ub192\uc740 \uc2a4\ud14c\uc774\ud06c \uc2f8\uc6c0\uc5d0 \ub300\ud55c \uc774\uc57c\uae30\ub97c \uc4f0\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Edit the sentence \"I am not eat\"",
+        "instruction_translated": "\ubb38\uc7a5 \ud3b8\uc9d1 \"\ub098\ub294 \uba39\uc9c0 \uc54a\ub294\ub2e4\"",
+        "category": null
+    },
+    {
+        "instruction": "Describe how a Docker container works.",
+        "instruction_translated": "Docker \ucee8\ud14c\uc774\ub108\uc758 \uc791\ub3d9 \ubc29\uc2dd\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a difficulty you had with school when you were younger.",
+        "instruction_translated": "\uc5b4\ub838\uc744 \ub54c \ud559\uad50\uc5d0\uc11c \uc5b4\ub824\uc6c0\uc744 \ubb18\uc0ac\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a script of an interaction between a customer service representative and a customer",
+        "instruction_translated": "\uace0\uac1d \uc11c\ube44\uc2a4 \ub2f4\ub2f9\uc790\uc640 \uace0\uac1d \uac04\uc758 \uc0c1\ud638 \uc791\uc6a9 \uc2a4\ud06c\ub9bd\ud2b8 \uc791\uc131",
+        "category": null
+    },
+    {
+        "instruction": "Generate an opening sentence for a horror story that occurs in an abandoned castle.",
+        "instruction_translated": "\ubc84\ub824\uc9c4 \uc131\uc5d0\uc11c \ubc1c\uc0dd\ud558\ub294 \uacf5\ud3ec \uc774\uc57c\uae30\uc5d0 \ub300\ud55c \uc624\ud504\ub2dd \ubb38\uc7a5\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Make a prediction about the impacts of increased air pollution on the global climate",
+        "instruction_translated": "\uc804 \uc138\uacc4 \uae30\ud6c4\uc5d0 \ub300\ud55c \ub300\uae30 \uc624\uc5fc \uc99d\uac00\uc758 \uc601\ud5a5\uc5d0 \ub300\ud574 \uc608\uce21\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a correct program to calculate the sum of all elements of an array",
+        "instruction_translated": "\ubc30\uc5f4\uc758 \ubaa8\ub4e0 \uc694\uc18c\uc758 \ud569\uc744 \uacc4\uc0b0\ud558\uae30 \uc704\ud574 \uc62c\ubc14\ub978 \ud504\ub85c\uadf8\ub7a8\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Calculate the average of the numbers 9, 5, and 6.",
+        "instruction_translated": "\uc22b\uc790 9, 5 \ubc0f 6\uc758 \ud3c9\uade0\uc744 \uacc4\uc0b0\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name five members of the Beatles.",
+        "instruction_translated": "\ube44\ud2c0\uc988\uc758 5 \uba85\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a function that takes a string parameter and returns the same string in reverse",
+        "instruction_translated": "\ubb38\uc790\uc5f4 \ub9e4\uac1c \ubcc0\uc218\ub97c \uac00\uc838 \uc640\uc11c \ub3d9\uc77c\ud55c \ubb38\uc790\uc5f4\uc744 \ub9ac\ubc84\uc2a4\ub85c \ubc18\ud658\ud558\ub294 \ud568\uc218\ub97c \uc791\uc131\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Create a news headline based on the following event, \"A student won a competition in quantum computing\".",
+        "instruction_translated": "\ub2e4\uc74c \ud589\uc0ac\ub97c \ubc14\ud0d5\uc73c\ub85c \ub274\uc2a4 \ud5e4\ub4dc \ub77c\uc778\uc744 \ub9cc\ub4ed\ub2c8\ub2e4. \"\ud559\uc0dd\uc740 \uc591\uc790 \ucef4\ud4e8\ud305 \uacbd\uc7c1\uc5d0\uc11c \uc6b0\uc2b9\ud588\uc2b5\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Estimate how many quintillion cells are in the human body",
+        "instruction_translated": "\uc778\uccb4\uc5d0 \uc5bc\ub9c8\ub098 \ub9ce\uc740 Quintillion \uc138\ud3ec\uac00 \uc788\ub294\uc9c0 \ucd94\uc815",
+        "category": null
+    },
+    {
+        "instruction": "What is a good example of a real-time application?",
+        "instruction_translated": "\uc2e4\uc2dc\uac04 \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8\uc758 \uc88b\uc740 \uc608\ub294 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Describe an animal that lives in the Arctic.",
+        "instruction_translated": "\ubd81\uadf9\uc5d0 \uc0ac\ub294 \ub3d9\ubb3c\uc744 \ubb18\uc0ac\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a person's character in one sentence.",
+        "instruction_translated": "\ud55c \ubb38\uc7a5\uc73c\ub85c \uc0ac\ub78c\uc758 \uc131\uaca9\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "How many countries are part of UN?",
+        "instruction_translated": "\uc720\uc5d4\uc758 \uc77c\ubd80 \uad6d\uac00\ub294 \uba87 \uba85\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "What is the scientific name for a beaver?",
+        "instruction_translated": "\ube44\ubc84\uc758 \uacfc\ud559\uc801 \uc774\ub984\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of black-box testing",
+        "instruction_translated": "\ube14\ub799 \ubc15\uc2a4 \ud14c\uc2a4\ud2b8\uc758 \uac1c\ub150\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Write a poem that uses a unique metaphor",
+        "instruction_translated": "\ub3c5\ud2b9\ud55c \uc740\uc720\ub97c \uc0ac\uc6a9\ud558\ub294\uc2dc\ub97c \uc4f0\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Write a postcard to a friend",
+        "instruction_translated": "\uce5c\uad6c\uc5d0\uac8c \uc5fd\uc11c\ub97c \uc501\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Research an example of a successful small business and write a one-sentence summary about it.",
+        "instruction_translated": "\uc131\uacf5\uc801\uc778 \uc18c\uae30\uc5c5\uc758 \uc608\ub97c \uc870\uc0ac\ud558\uace0 \uadf8\uac83\uc5d0 \ub300\ud55c \uc77c\ud68c\uc6a9 \uc694\uc57d\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of a situation where being impolite is appropriate",
+        "instruction_translated": "\ubb34\ub840\ud55c \uc0c1\ud669\uc774 \uc801\uc808\ud55c \uc0c1\ud669\uc758 \uc608\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Imagine you are a fashion designer. How would you create a collection to showcase at fashion week?",
+        "instruction_translated": "\ub2f9\uc2e0\uc774 \ud328\uc158 \ub514\uc790\uc774\ub108\ub77c\uace0 \uc0c1\uc0c1\ud574\ubcf4\uc2ed\uc2dc\uc624. Fashion Week\uc5d0\uc11c \uc804\uc2dc \ud560 \uceec\ub809\uc158\uc744 \uc5b4\ub5bb\uac8c \ub9cc\ub4e4\uaca0\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Come up with 10 adjectives to describe a painting.",
+        "instruction_translated": "\uadf8\ub9bc\uc744 \ubb18\uc0ac\ud558\uae30 \uc704\ud574 10 \uac00\uc9c0 \ud615\uc6a9\uc0ac\ub97c \uc0dd\uac01\ud574\ubcf4\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest five topics for a research paper",
+        "instruction_translated": "\uc5f0\uad6c \ub17c\ubb38\uc5d0 \ub300\ud55c 5 \uac00\uc9c0 \uc8fc\uc81c\ub97c \uc81c\uc548\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Translate the phrase \"bon app\u00e9tit\" into English.",
+        "instruction_translated": "\"Bon App\u00e9tit\"\uc774\ub77c\ub294 \ubb38\uad6c\ub97c \uc601\uc5b4\ub85c \ubc88\uc5ed\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the advantages and disadvantages of using a decision tree",
+        "instruction_translated": "\uc758\uc0ac \uacb0\uc815 \ud2b8\ub9ac \uc0ac\uc6a9\uc758 \uc7a5\uc810\uacfc \ub2e8\uc810\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite the following sentence in a polite way: \"Give it to me now.\"",
+        "instruction_translated": "\ub2e4\uc74c \ubb38\uc7a5\uc744 \uc608\uc758 \ubc14\ub978 \ubc29\uc2dd\uc73c\ub85c \ub2e4\uc2dc \uc791\uc131\ud558\uc2ed\uc2dc\uc624. \"\uc9c0\uae08 \ub098\uc5d0\uac8c \uc918.\"",
+        "category": null
+    },
+    {
+        "instruction": "Generate a funny pun with the word \"turkey.\"",
+        "instruction_translated": "\"\ud130\ud0a4\"\ub77c\ub294 \ub2e8\uc5b4\ub85c \uc7ac\ubbf8\uc788\ub294 \ub9d0\uc7a5\ub09c\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write an engaging opening paragraph for an article on how to coach youth basketball players.",
+        "instruction_translated": "\uccad\uc18c\ub144 \ub18d\uad6c \uc120\uc218\ub97c \ucf54\uce58\ud558\ub294 \ubc29\ubc95\uc5d0 \ub300\ud55c \uae30\uc0ac\uc5d0 \ub300\ud55c \ub9e4\ub825\uc801\uc778 \uac1c\ub9c9 \ub2e8\ub77d\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Make a list of three tools and three methods that can be used for data analysis.",
+        "instruction_translated": "\ub370\uc774\ud130 \ubd84\uc11d\uc5d0 \uc0ac\uc6a9\ud560 \uc218\uc788\ub294 \uc138 \uac00\uc9c0 \ub3c4\uad6c\uc640 \uc138 \uac00\uc9c0 \ubc29\ubc95 \ubaa9\ub85d\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a code that computes the sum of two integers, given their values as parameters.",
+        "instruction_translated": "\uac12\uc744 \ub9e4\uac1c \ubcc0\uc218\ub85c \uace0\ub824\ud558\uc5ec \ub450 \uc815\uc218\uc758 \ud569\uc744 \uacc4\uc0b0\ud558\ub294 \ucf54\ub4dc\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What does it mean to \u201ccut corners\u201d?",
+        "instruction_translated": "\"\ubaa8\uc11c\ub9ac\ub97c \uc790\ub978\"\uac83\uc740 \ubb34\uc5c7\uc744 \uc758\ubbf8\ud569\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Describe a memorable summer experience that you had when you were younger.",
+        "instruction_translated": "\uc5b4\ub838\uc744 \ub54c \uae30\uc5b5\uc5d0 \ub0a8\ub294 \uc5ec\ub984 \uacbd\ud5d8\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Translate the following sentence from English to Spanish: \"My friend has two cats.\"",
+        "instruction_translated": "\ub2e4\uc74c \ubb38\uc7a5\uc744 \uc601\uc5b4\uc5d0\uc11c \uc2a4\ud398\uc778\uc5b4\ub85c \ubc88\uc5ed\ud558\uc2ed\uc2dc\uc624. \"\ub0b4 \uce5c\uad6c\ub294 \uace0\uc591\uc774 \ub450 \ub9c8\ub9ac\uac00 \uc788\uc2b5\ub2c8\ub2e4.\"",
+        "category": null
+    },
+    {
+        "instruction": "Define a stochastic process.",
+        "instruction_translated": "\ud655\ub960 \uc801 \uacfc\uc815\uc744 \uc815\uc758\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe how can data be a powerful tool for decision-making.",
+        "instruction_translated": "\ub370\uc774\ud130\uac00 \uc5b4\ub5bb\uac8c \uc758\uc0ac \uacb0\uc815\uc744\uc704\ud55c \uac15\ub825\ud55c \ub3c4\uad6c\uac00 \ub420 \uc218 \uc788\ub294\uc9c0 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast air and water",
+        "instruction_translated": "\uacf5\uae30\uc640 \ubb3c\uc744 \ube44\uad50\ud558\uace0 \ub300\uc870\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Sort the following list of numbers into a numerical sequence from smallest to largest: 7, -3, 39, 0, 100",
+        "instruction_translated": "\ub2e4\uc74c \uc22b\uc790 \ubaa9\ub85d\uc744 \uac00\uc7a5 \uc791\uc740 \uac83\ubd80\ud130 \uac00\uc7a5 \ud070 \uc22b\uc790 \uc21c\uc11c\ub85c \uc815\ub82c\ud558\uc2ed\uc2dc\uc624 : 7, -3, 39, 0, 100",
+        "category": null
+    },
+    {
+        "instruction": "Rewrite this sentence to avoid repetition:  She laughed and laughed and laughed.",
+        "instruction_translated": "\ubc18\ubcf5\uc744 \ud53c\ud558\uae30 \uc704\ud574\uc774 \ubb38\uc7a5\uc744 \ub2e4\uc2dc \uc791\uc131\ud558\uc2ed\uc2dc\uc624. \uadf8\ub140\ub294 \uc6c3\uc73c\uba70 \uc6c3\uc73c\uba70 \uc6c3\uc5c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Develop an algorithm to detect faulty code.",
+        "instruction_translated": "\uacb0\ud568\uc774\uc788\ub294 \ucf54\ub4dc\ub97c \uac10\uc9c0\ud558\uae30 \uc704\ud574 \uc54c\uace0\ub9ac\uc998\uc744 \uac1c\ubc1c\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a paragraph about the importance of networking for job seekers.",
+        "instruction_translated": "\uad6c\uc9c1\uc790\ub97c\uc704\ud55c \ub124\ud2b8\uc6cc\ud0b9\uc758 \uc911\uc694\uc131\uc5d0 \ub300\ud55c \ub2e8\ub77d\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm three questions an interviewer could ask prior to a job interview.",
+        "instruction_translated": "\uba74\uc811\uad00\uc774 \uba74\uc811 \uc804\uc5d0 \ubb3c\uc5b4\ubcfc \uc218\uc788\ub294 \uc138 \uac00\uc9c0 \uc9c8\ubb38\uc744 \ube0c\ub808\uc778 \uc2a4\ud1a0\ubc0d\ud569\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "What is the maximum size of the input for language models?",
+        "instruction_translated": "\uc5b8\uc5b4 \ubaa8\ub378\uc5d0 \ub300\ud55c \uc785\ub825\uc758 \ucd5c\ub300 \ud06c\uae30\ub294 \uc5bc\ub9c8\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Create a game plan for reducing emissions",
+        "instruction_translated": "\ubc30\ucd9c\ub7c9\uc744 \uc904\uc774\uae30\uc704\ud55c \uac8c\uc784 \uacc4\ud68d\uc744 \ub9cc\ub4ed\ub2c8\ub2e4",
+        "category": null
+    },
+    {
+        "instruction": "Research some common safety tips for swimming pools and create a list.",
+        "instruction_translated": "\uc218\uc601\uc7a5\uc5d0 \ub300\ud55c \uba87 \uac00\uc9c0 \uc77c\ubc18\uc801\uc778 \uc548\uc804 \ud301\uc744 \uc870\uc0ac\ud558\uace0 \ubaa9\ub85d\uc744 \ub9cc\ub4dc\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compose a piece of creative writing describing a stormy night.",
+        "instruction_translated": "\ud3ed\ud48d\uc6b0\uac00 \uce58\ub294 \ubc24\uc744 \ubb18\uc0ac\ud558\ub294 \ucc3d\uc758\uc801\uc778 \uae00\uc4f0\uae30\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Look up the definitions of the words \"calcium\" and \"oxygen\".",
+        "instruction_translated": "\"\uce7c\uc298\"\uacfc \"\uc0b0\uc18c\"\ub77c\ub294 \ub2e8\uc5b4\uc758 \uc815\uc758\ub97c \ucc3e\uc544\ubcf4\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Brainstorm five ideas to engage people with a non-profit organisation.",
+        "instruction_translated": "\ube44\uc601\ub9ac \ub2e8\uccb4\uc5d0 \uc0ac\ub78c\ub4e4\uc744 \ucc38\uc5ec\uc2dc\ud0a4\uae30\uc704\ud55c \ub2e4\uc12f \uac00\uc9c0 \uc544\uc774\ub514\uc5b4\ub97c \ube0c\ub808\uc778 \uc2a4\ud1a0\ubc0d\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a creative description of a pet-sitting service.",
+        "instruction_translated": "\uc560\uc644 \ub3d9\ubb3c \uc790\ub9ac \uc11c\ube44\uc2a4\uc5d0 \ub300\ud55c \ucc3d\uc758\uc801 \uc124\uba85\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a scenario in which AI technology can help diagnose a medical condition.",
+        "instruction_translated": "AI \uae30\uc220\uc774 \uc758\ud559\uc801 \uc0c1\ud0dc\ub97c \uc9c4\ub2e8\ud558\ub294 \ub370 \ub3c4\uc6c0\uc774\ub418\ub294 \uc2dc\ub098\ub9ac\uc624\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Construct an English sentence containing the words \"tangible\" and \"matter\".",
+        "instruction_translated": "\"\uc720\ud615\"\uacfc \"\ubb3c\uc9c8\"\uc774\ub77c\ub294 \ub2e8\uc5b4\uac00 \ud3ec\ud568 \ub41c \uc601\uc5b4 \ubb38\uc7a5\uc744 \uad6c\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Construct a query for finding information about 3D printing",
+        "instruction_translated": "3D \uc778\uc1c4\uc5d0 \ub300\ud55c \uc815\ubcf4\ub97c \ucc3e\uae30\uc704\ud55c \ucffc\ub9ac\ub97c \uad6c\uc131\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Estimate the total cost of a cross-country road trip from Los Angeles to New York.",
+        "instruction_translated": "\ub85c\uc2a4 \uc564\uc824\ub808\uc2a4\uc5d0\uc11c \ub274\uc695\uae4c\uc9c0 \ud06c\ub85c\uc2a4 \ucee8\ud2b8\ub9ac\ub85c\ub4dc \ud2b8\ub9bd\uc758 \ucd1d \ube44\uc6a9\uc744 \ucd94\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story about a town coming together to help someone in need.",
+        "instruction_translated": "\ub3c4\uc6c0\uc774 \ud544\uc694\ud55c \uc0ac\ub78c\uc744 \ub3d5\uae30 \uc704\ud574 \ub9c8\uc744\uc774 \ubaa8\uc774\ub294 \uac83\uc5d0 \ub300\ud55c \uc774\uc57c\uae30\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Give me an example of a low-calorie breakfast.",
+        "instruction_translated": "\uc800\uce7c\ub85c\ub9ac \uc544\uce68 \uc2dd\uc0ac\uc758 \uc608\ub97c \ub4e4\uc5b4\uc8fc\uc138\uc694.",
+        "category": null
+    },
+    {
+        "instruction": "List four elements of a well-written article.",
+        "instruction_translated": "\uc798 \uc791\uc131\ub41c \uae30\uc0ac\uc758 \ub124 \uac00\uc9c0 \uc694\uc18c\ub97c \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write the plural form of the noun \"ox\".",
+        "instruction_translated": "\uba85\uc0ac \"\ud669\uc18c\"\uc758 \ubcf5\uc218 \ud615\ud0dc\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest two methods to save energy and explain why these methods are more effective than other methods.",
+        "instruction_translated": "\uc5d0\ub108\uc9c0\ub97c \uc808\uc57d\ud558\uace0 \uc774\ub7ec\ud55c \ubc29\ubc95\uc774 \ub2e4\ub978 \ubc29\ubc95\ubcf4\ub2e4 \ub354 \ud6a8\uacfc\uc801\uc778 \uc774\uc720\ub97c \uc124\uba85\ud558\ub294 \ub450 \uac00\uc9c0 \ubc29\ubc95\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the four stages of grief",
+        "instruction_translated": "\uc2ac\ud514\uc758 \ub124 \ub2e8\uacc4\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Compose a poem in the haiku format with 5-7-5 syllables",
+        "instruction_translated": "5-7-5 \uc74c\uc808\ub85c \ud558\uc774\ucfe0 \ud615\uc2dd\uc73c\ub85c\uc2dc\ub97c \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe one way that climate change is affecting ecosystems.",
+        "instruction_translated": "\uae30\ud6c4 \ubcc0\ud654\uac00 \uc0dd\ud0dc\uacc4\uc5d0 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294 \ud55c \uac00\uc9c0 \ubc29\ubc95\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Name five common artificial intelligence algorithms.",
+        "instruction_translated": "5 \uac1c\uc758 \uc77c\ubc18\uc801\uc778 \uc778\uacf5 \uc9c0\ub2a5 \uc54c\uace0\ub9ac\uc998\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate an example of an artificial intelligence use case",
+        "instruction_translated": "\uc778\uacf5 \uc9c0\ub2a5 \uc0ac\uc6a9 \uc0ac\ub840\uc758 \uc608\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Describe in detail the process of making olive oil.",
+        "instruction_translated": "\uc62c\ub9ac\ube0c \uc624\uc77c\uc744 \ub9cc\ub4dc\ub294 \uacfc\uc815\uc744 \uc790\uc138\ud558\uac8c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Suggest 5 methods for solving an optimization problem.",
+        "instruction_translated": "\ucd5c\uc801\ud654 \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uae30\uc704\ud55c 5 \uac00\uc9c0 \ubc29\ubc95\uc744 \uc81c\uc548\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story with the title \"The Lost Cat\".",
+        "instruction_translated": "\"The Lost Cat\"\uc774\ub77c\ub294 \uc81c\ubaa9\uc73c\ub85c \uc774\uc57c\uae30\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "We want to do some shopping for our upcoming vacation. Give a list of items that you should pack for a beach holiday.",
+        "instruction_translated": "\uc6b0\ub9ac\ub294 \ub2e4\uac00\uc624\ub294 \ud734\uac00\ub97c \uc704\ud574 \uc1fc\ud551\uc744\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4. \ud574\ubcc0 \ud734\uac00\ub97c \uc704\ud574 \ud3ec\uc7a5\ud574\uc57c \ud560 \ud488\ubaa9 \ubaa9\ub85d\uc744 \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast one of the top 5 drinking games.",
+        "instruction_translated": "\uc0c1\uc704 5 \uac1c \uc74c\uc8fc \uac8c\uc784 \uc911 \ud558\ub098\ub97c \ube44\uad50\ud558\uace0 \ub300\uc870\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the definition of the term \"heterochrony\"",
+        "instruction_translated": "\"Heterochrony\"\ub77c\ub294 \uc6a9\uc5b4\uc758 \uc815\uc758\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Categorize the following musical genres: rap, pop, rock, and classical.",
+        "instruction_translated": "\ub7a9, \ud31d, \ub85d \ubc0f \ud074\ub798\uc2dd\uc758 \ub2e4\uc74c\uacfc \uac19\uc740 \uc74c\uc545 \uc7a5\ub974\ub97c \ubd84\ub958\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Create a website that encourages people to adopt pets.",
+        "instruction_translated": "\uc0ac\ub78c\ub4e4\uc774 \uc560\uc644 \ub3d9\ubb3c\uc744 \uc785\uc591\ud558\ub3c4\ub85d \uad8c\uc7a5\ud558\ub294 \uc6f9 \uc0ac\uc774\ud2b8\ub97c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "How has the internet changed communication among people?",
+        "instruction_translated": "\uc778\ud130\ub137\uc740 \uc0ac\ub78c\ub4e4\uc758 \ucee4\ubba4\ub2c8\ucf00\uc774\uc158\uc744 \uc5b4\ub5bb\uac8c \ubcc0\ud654 \uc2dc\ucf30\uc2b5\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "What are the sciences of economics?",
+        "instruction_translated": "\uacbd\uc81c\ud559 \uacfc\ud559\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Write three sentences about the development of the Internet.",
+        "instruction_translated": "\uc778\ud130\ub137 \uac1c\ubc1c\uc5d0 \uad00\ud55c \uc138 \ubb38\uc7a5\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a web page about the history of slavery in America",
+        "instruction_translated": "\ubbf8\uad6d\uc758 \ub178\uc608 \uc81c\ub3c4\uc758 \uc5ed\uc0ac\uc5d0 \uad00\ud55c \uc6f9 \ud398\uc774\uc9c0 \uc0dd\uc131",
+        "category": null
+    },
+    {
+        "instruction": "Give examples of three algorithms used in data science",
+        "instruction_translated": "\ub370\uc774\ud130 \uacfc\ud559\uc5d0 \uc0ac\uc6a9\ub418\ub294 \uc138 \uac00\uc9c0 \uc54c\uace0\ub9ac\uc998\uc758 \uc608\ub97c \uc81c\uc2dc\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "Compare and contrast photosynthesis and respiration",
+        "instruction_translated": "\uad11\ud569\uc131\uacfc \ud638\ud761\uc744 \ube44\uad50\ud558\uace0 \ub300\uc870\ud558\uc2ed\uc2dc\uc624",
+        "category": null
+    },
+    {
+        "instruction": "How to make spicy buffalo sauce?",
+        "instruction_translated": "\ub9e4\uc6b4 \ubc84\ud314\ub85c \uc18c\uc2a4\ub97c \ub9cc\ub4dc\ub294 \ubc29\ubc95?",
+        "category": null
+    },
+    {
+        "instruction": "Create a new sentence based on the following root sentence \"I can't believe it\".",
+        "instruction_translated": "\ub2e4\uc74c\uc758 \ubfcc\ub9ac \ubb38\uc7a5 \"I Nave Believe\"\ub97c \uae30\ubc18\uc73c\ub85c \uc0c8 \ubb38\uc7a5\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the US national flag.",
+        "instruction_translated": "\ubbf8\uad6d \uad6d\uae30\ub97c \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a list of synonyms for 'desolate'.",
+        "instruction_translated": "'Desolate'\uc5d0 \ub300\ud55c \ub3d9\uc758\uc5b4 \ubaa9\ub85d\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "What can I do to optimize my search engine?",
+        "instruction_translated": "\uac80\uc0c9 \uc5d4\uc9c4\uc744 \ucd5c\uc801\ud654\ud558\ub824\uba74 \uc5b4\ub5bb\uac8c\ud574\uc57c\ud569\ub2c8\uae4c?",
+        "category": null
+    },
+    {
+        "instruction": "Name a popular activity people do in the summer.",
+        "instruction_translated": "\uc0ac\ub78c\ub4e4\uc774 \uc5ec\ub984\uc5d0\ud558\ub294 \uc778\uae30\uc788\ub294 \ud65c\ub3d9\uc758 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe the concept of \"bag of words\" in NLP.",
+        "instruction_translated": "NLP\uc5d0\uc11c \"\ub2e8\uc5b4\uc758 \uac00\ubc29\"\uc758 \uac1c\ub150\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a 12-point outline for the topic \"Effective Communication\".",
+        "instruction_translated": "\"\ud6a8\uacfc\uc801\uc778 \ucee4\ubba4\ub2c8\ucf00\uc774\uc158\"\uc8fc\uc81c\uc5d0 \ub300\ud55c 12 \uc810 \uac1c\uc694\ub97c \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "List the elements of a SWOT analysis and give a brief description of each one.",
+        "instruction_translated": "SWOT \ubd84\uc11d\uc758 \uc694\uc18c\ub97c \ub098\uc5f4\ud558\uace0 \uac01 \ubd84\uc11d\uc5d0 \ub300\ud55c \uac04\ub2e8\ud55c \uc124\uba85\uc744 \uc81c\uacf5\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a story involving a person who wants to travel around the world",
+        "instruction_translated": "\uc804 \uc138\uacc4 \uc5ec\ud589\uc744 \uc6d0\ud558\ub294 \uc0ac\ub78c\uacfc \uad00\ub828\ub41c \uc774\uc57c\uae30\ub97c \uc0dd\uc131",
+        "category": null
+    },
+    {
+        "instruction": "List the top ten highest peaks in the world.",
+        "instruction_translated": "\uc138\uacc4\uc5d0\uc11c \uac00\uc7a5 \ub192\uc740 10 \uac1c\uc758 \ucd5c\uace0 \ubd09\uc6b0\ub9ac\ub97c \ub098\uc5f4\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Give me a saying that expresses surprise.",
+        "instruction_translated": "\ub180\ub78c\uc744 \ud45c\ud604\ud558\ub294 \ub9d0\uc744\uc8fc\uc138\uc694.",
+        "category": null
+    },
+    {
+        "instruction": "Explain the concept of long division.",
+        "instruction_translated": "\uae34 \ubd84\uc5f4\uc758 \uac1c\ub150\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Write a paragraph that describes a time when you achieved a difficult goal.",
+        "instruction_translated": "\uc5b4\ub824\uc6b4 \ubaa9\ud45c\ub97c \ub2ec\uc131 \ud55c \uc2dc\uac04\uc744 \uc124\uba85\ud558\ub294 \ub2e8\ub77d\uc744 \uc791\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Generate a catchy slogan for an apparel company.",
+        "instruction_translated": "\uc758\ub958 \ud68c\uc0ac\ub97c\uc704\ud55c \ub208\ubd80\uc2e0 \uc2ac\ub85c\uac74\uc744 \uc0dd\uc131\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Analyze the poem \"Mending Wall\" by Robert Frost.",
+        "instruction_translated": "Robert Frost\uc758\uc2dc \"\uc218\uc120 \ubcbd\"\uc744 \ubd84\uc11d\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Tell a story that explains the concept of karma.",
+        "instruction_translated": "\uce74\ub974\ub9c8\uc758 \uac1c\ub150\uc744 \uc124\uba85\ud558\ub294 \uc774\uc57c\uae30\ub97c \ub4e4\ub824\uc8fc\uc2ed\uc2dc\uc624.",
+        "category": null
+    },
+    {
+        "instruction": "Describe a famous painting.",
+        "instruction_translated": "\uc720\uba85\ud55c \uadf8\ub9bc\uc744 \uc124\uba85\ud558\uc2ed\uc2dc\uc624.",
+        "category": null
+    }
+]
