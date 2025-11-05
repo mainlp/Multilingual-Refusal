@@ -16,16 +16,14 @@ You can find the dataset in the [`PolyRefuse/`](PolyRefuse) directory, which con
 ### Installation
 
 ```bash
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run setup script
-bash setup.sh
+source setup.sh
 ```
+Install the evaluation harness from source
+
+```bash
+cd lm-evaluation-harness
+pip install -e .
+``` 
 
 ### Requirements
 
