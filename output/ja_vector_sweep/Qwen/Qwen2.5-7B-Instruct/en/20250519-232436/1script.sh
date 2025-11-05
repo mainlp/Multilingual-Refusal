@@ -1,0 +1,1 @@
+TRANSFORMERS_CACHE=/mounts/Users/student/xinpeng/data/runs_models/huggingface BNB_CUDA_VERSION=122 python3 -m scripts.multi_test --config output/ja_vector_sweep/Qwen/Qwen2.5-7B-Instruct/en/20250519-232436/1/en.yaml 

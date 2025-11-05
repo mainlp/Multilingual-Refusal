@@ -27,8 +27,8 @@ Thumbs.db
 
 # Project specific
 .env
-output/
-runs/
+# output/
+# runs/
 figs/
 debug/
 *.log

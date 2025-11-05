@@ -1,0 +1,72 @@
+ablate_kl_threshold: 0.2
+ablation_coeff: 1.0
+addact_coeff: 1
+addact_coeff_sweep:
+- 0.2
+- 0.3
+- 0.4
+- 0.5
+- 0.6
+- 0.7
+- 0.8
+- 0.9
+- 1
+artifact_path: output/ja_vector_sweep/google/gemma-2-9b-it/th/20250519-232436/1
+baseline: false
+batch_size: 64
+ce_loss_batch_size: 2
+ce_loss_n_batches: 2048
+data_loader:
+  batch_size: 1
+  shuffle: false
+eval_harness:
+  batch_size: 2
+  limit: 1000
+  num_fewshot: 0
+  random_seed: 42
+  tasks:
+  - wikitext
+  - truthfulqa_gen
+  - arc_challenge
+eval_harness_mmlu:
+  batch_size: 2
+  limit: 100
+  num_fewshot: 5
+  random_seed: 42
+  tasks:
+  - mmlu
+filter: above
+filter_or: false
+filter_train: true
+filter_val: true
+harmtype_1: harmless
+harmtype_2: harmful
+jailbreak_eval_methodologies:
+- substring_matching
+- wildguard
+jailbreak_evaluation_datasets:
+- harmful
+- jailbreakbench
+kl_threshold: 0.1
+lang: th
+max_new_tokens: 512
+mode: harm_ablation
+model_alias: str
+model_path: google/gemma-2-9b-it
+n_test: 128
+n_train: 128
+n_val: 32
+ortho_lambda: 0.8
+over_refusal_evaluation_datasets:
+- or_bench_hard
+- xstest
+- oktest_100
+- xstest_safe
+random_seed: 1
+refusal_eval_methodologies:
+- substring_matching
+source_lang: ja
+start_layer: 0
+steer_kl_threshold: 2
+system: null
+top_n: 1

@@ -38,20 +38,32 @@ bash setup.sh
 
 ### Running Experiments
 
+#### Refusal Vector Ablation
+
 ```bash
-# Configure experiment settings in configs/cfg.yaml
-# Run the main pipeline
-python scripts/experiment.py --config configs/cfg.yaml
+# Configure your experiment settings in configs/cfg.yaml
+python -m pipeline.run_pipeline --config configs/cfg.yaml
+```
+#### for example, we run the experiment on Qwen2.5-7B-Instruct model in Japanese with the following settings:
+
+```bash
+python -m pipeline.run_pipeline --config runs/Qwen2.5-7B-Instruct/ja/ja.yaml
 ```
 
-### Dataset Loading
+#### Evaluating the model on multiple languages
 
-```python
-from dataset.load_dataset import load_multilingual_data
-
-# Load dataset for a specific language
-data = load_multilingual_data(language='en', split='test', dataset_type='harmful')
+```bash
+# For running multiple language evaluation configurations
+python -m scripts.multi_test --config configs/cfg.yaml
 ```
+
+#### for example, we evaluate the Qwen2.5-7B-Instruct model (ablated the refusal direction extracted in Japanese) in Korean language with the following settings:
+
+```bash
+python -m scripts.multi_test --config output/ja_vector_sweep/Qwen/Qwen2.5-7B-Instruct/ko/20250519-232436/1/ko.yaml 
+```
+
+
 
 ## Repository Structure
 
@@ -75,11 +87,13 @@ data = load_multilingual_data(language='en', split='test', dataset_type='harmful
 If you use this code or dataset, please cite our paper:
 
 ```bibtex
-@inproceedings{polyrefuse2025,
-  title={Refusal Direction is Universal Across Safety-Aligned Languages},
-  author={[Authors]},
-  booktitle={[Conference]},
-  year={2025}
+@inproceedings{
+wang2025refusal,
+title={Refusal Direction is Universal Across Safety-Aligned Languages},
+author={Xinpeng Wang and Mingyang Wang and Yihong Liu and Hinrich Schuetze and Barbara Plank},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=eWxKpdAdXH}
 }
 ```
 
